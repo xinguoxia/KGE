@@ -9,6 +9,8 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 **[2]** Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich. "**A Review of Relational Machine Learning for Knowledge Graphs**." **Proceedings of the IEEE 2016**. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7358050)
 
+**[3]** Quan Wang, Zhendong Mao, Bin Wang, Li Guo. "**Knowledge Graph Embedding: A Survey of Approaches and Applications**." **TKDE 2017**. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8047276)
+
 ### Journal
 
 #### 2016
