@@ -5,11 +5,11 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 ### Survey
 
-**[1]** Yoshua Bengio, Aaron C. Courville, Pascal Vincent. "**Representation Learning: A Review and New Perspectives**." **TPAMI 2013**. [[paper]](https://arxiv.org/pdf/1206.5538.pdf)
+**[1]** Yoshua Bengio, Aaron C. Courville, Pascal Vincent. "**Representation Learning: A Review and New Perspectives**". **TPAMI 2013**. [[paper]](https://arxiv.org/pdf/1206.5538.pdf)
 
-**[2]** Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich. "**A Review of Relational Machine Learning for Knowledge Graphs**." **Proceedings of the IEEE 2016**. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7358050)
+**[2]** Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich. "**A Review of Relational Machine Learning for Knowledge Graphs**". **Proceedings of the IEEE 2016**. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7358050)
 
-**[3]** Quan Wang, Zhendong Mao, Bin Wang, Li Guo. "**Knowledge Graph Embedding: A Survey of Approaches and Applications**." **TKDE 2017**. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8047276)
+**[3]** Quan Wang, Zhendong Mao, Bin Wang, Li Guo. "**Knowledge Graph Embedding: A Survey of Approaches and Applications**". **TKDE 2017**. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8047276)
 
 ### Journal
 
