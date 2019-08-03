@@ -43,3 +43,6 @@ Some papers on Knowledge Graph Embedding(KGE)
 **[3]** Niannian Guan, Dandan Song, Lejian Liao. "**Knowledge graph embedding with concepts**". **Knowledge-based Systems 2019**.
 
 **[4]** Huajing Liu, Luyi Bai, Xiangnan Ma, Wenting Yu, Changming Xu. "**ProjFE: Prediction of fuzzy entity and relation for knowledge graph completion**". **Applied Soft Computing 2019**.
+
+### Conference
+
