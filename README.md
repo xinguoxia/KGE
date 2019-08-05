@@ -181,6 +181,8 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 - Timothée Lacroix, Nicolas Usunier, Guillaume Obozinski. "**Canonical Tensor Decomposition for Knowledge Base Completion**". **ICML 2018**. [paper](http://proceedings.mlr.press/v80/lacroix18a/lacroix18a.pdf) [supp](http://proceedings.mlr.press/v80/lacroix18a/lacroix18a-supp.pdf) [code](https://github.com/facebookresearch/kbc)
 
+- **(MINERVA)** Rajarshi Das, Shehzaad Dhuliawala, Manzil Zaheer, Luke Vilnis, Ishan Durugkar, Akshay Krishnamurthy, Alex Smola, Andrew McCallum. "**Go for a Walk and Arrive at the Answer: Reasoning Over Paths in Knowledge Bases using Reinforcement Learning**". **ICLR 2018** [paper](https://openreview.net/pdf?id=Syg-YfWCW) [reviews](https://openreview.net/forum?id=Syg-YfWCW) [code](https://github.com/shehzaadzd/MINERVA)
+
 - Yanjie Wang, Rainer Gemulla, Hui Li. "**On Multi-Relational Link Prediction with Bilinear Models**". **AAAI 2018**. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16900/16722) [code](https://github.com/y-j-wang/b4l)
 
 - Hitoshi Manabe, Katsuhiko Hayashi, Masashi Shimbo. "**Data-Dependent Learning of Symmetric/Antisymmetric Relations for Knowledge Base Completion**". **AAAI 2018**. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16211/16597) [code](https://github.com/mana-ysh/symmetry-learning-kgc)
