@@ -1,4 +1,4 @@
-# KGEPapers
+# Knowledge Graph Embedding
 Some papers on Knowledge Graph Embedding(KGE)
 
 ## Papers
