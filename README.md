@@ -247,6 +247,10 @@ https://github.com/ZJULearning/TransAt)
 
 ### 2019
 
+- **(QuatE)** Shuai Zhangy, Yi Tay, Lina Yao, Qi Liu. "**Quaternion Knowledge Graph Embeddings**". **NeurIPS 2019**. [paper](https://arxiv.org/pdf/1904.10281.pdf) [code](https://github.com/cheungdaven/QuatE)
+
+- **(MuRP)** Ivana Balaževic, Carl Allen, Timothy Hospedales. "**Multi-relational Poincaré Graph Embeddings**". **NeurIPS 2019**. [paper](https://arxiv.org/pdf/1905.09791.pdf) [code](https://github.com/ibalazevic/multirelational-poincare)
+
 - **(RSN)** Lingbing Guo, Zequn Sun, Wei Hu. "**Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs**". **ICML 2019**. [paper](http://proceedings.mlr.press/v97/guo19c/guo19c.pdf) [supp](http://proceedings.mlr.press/v97/guo19c/guo19c-supp.pdf) [code](https://github.com/nju-websoft/RSN)
 
 - **(RotatE)** Zhiqing Sun, Zhi-Hong Deng, Jian-Yun Nie, Jian Tang. "**RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space**". **ICLR 2019**. [paper](https://openreview.net/pdf?id=HkgEQnRqYQ) [reviews](https://openreview.net/forum?id=HkgEQnRqYQ) [code](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)
