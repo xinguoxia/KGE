@@ -319,3 +319,22 @@ https://github.com/ZJULearning/TransAt)
 
 - **(GRank)** Takuma Ebisu, Ryutaro Ichise. "**Graph Pattern Entity Ranking Model for Knowledge Graph Completion**". **NAACL-HLT 2019**. [paper](https://www.aclweb.org/anthology/N19-1104)
 
+- Carl Allen, Ivana Balazevic, Timothy M. Hospedales. "**On Understanding Knowledge Graph Representation**". **arxiv 2019**. [paper](https://arxiv.org/pdf/1909.11611.pdf)
+
+- Chen Cai. "**Group Representation Theory for Knowledge Graph Embedding**". **arxiv 2019**. [paper](https://arxiv.org/pdf/1909.05100.pdf)
+
+- Takuma Ebisu1, Ryutaro Ichise. "**Combination of Unified Embedding Model and Observed Features for Knowledge Graph Completion**". **arxiv 2019**. [paper](https://arxiv.org/pdf/1909.03821.pdf)
+
+- **(TransW)** Lianbo Ma,Peng Sun, Zhiwei Lin, Hui Wang. ""**Composing Knowledge Graph Embeddings via Word Embeddings**". **arxiv 2019**. [paper](https://arxiv.org/pdf/1909.03794.pdf)
+
+- **(KG-BERT)** Liang Yao, Chengsheng Mao, Yuan Luo. "**KG-BERT: BERT for Knowledge Graph Completion**". **arxiv 2019**. [paper](https://arxiv.org/pdf/1909.03193.pdf)
+
+- Mojtaba Nayyeri, Chengjin Xu, Yadollah Yaghoobzadeh, Hamed Shariat Yazdi, Jens Lehmann. "**Toward Understanding The Effect Of Loss function On Then Performance Of Knowledge Graph Embedding**". **arxiv 2019**. [paper](https://arxiv.org/pdf/1909.00519.pdf)
+
+- **(LogicENN)** Mojtaba Nayyeri, Chengjin Xu, Jens Lehmann, Hamed Shariat Yazdi. "**LogicENN: A Neural Based Knowledge Graphs Embedding Model with Logical Rules**". **arxiv 2019**. [paper](https://arxiv.org/pdf/1908.07141.pdf)
+
+- **(HyperKG)** Prodromos Kolyvakis, Alexandros Kalousis, Dimitris Kiritsis. "**HyperKG: Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion**". **arxiv 2019**. [paper](https://arxiv.org/pdf/1908.04895.pdf)
+
+- **(R-MeN)** Dai Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung. "**Relational Memory-based Knowledge Graph Embedding**". **arxiv 2019**. [paper](https://arxiv.org/pdf/1907.06080.pdf)
+
+
