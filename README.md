@@ -337,6 +337,8 @@ https://github.com/ZJULearning/TransAt)
 
 - **(R-MeN)** Dai Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung. "**Relational Memory-based Knowledge Graph Embedding**". **arxiv 2019-07**. [paper](https://arxiv.org/pdf/1907.06080.pdf)
 
+- **(AutoKGE)** Yongqi Zhang, Quanming Yao, Wenyuan Dai, Lei Chen. "**AutoKGE: Searching Scoring Functions for Knowledge Graph Embedding**". **arxiv 2019-04**. [paper](https://arxiv.org/pdf/1904.11682.pdf)
+
 - **(GRank)** Takuma Ebisu, Ryutaro Ichise. "**Graph Pattern Entity Ranking Model for Knowledge Graph Completion**". **arxiv 2019-04**. [paper](https://arxiv.org/pdf/1904.02856.pdf)
 
 - **(QCE)** Yunpu Ma, Volker Tresp, Liming Zhao, Yuyi Wang. "**Variational Quantum Circuit Model for Knowledge Graphs Embedding**". **arxiv 2019-03**. [paper](https://arxiv.org/pdf/1903.00556.pdf)
