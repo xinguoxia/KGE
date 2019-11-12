@@ -337,11 +337,15 @@ https://github.com/ZJULearning/TransAt)
 
 - **(R-MeN)** Dai Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung. "**Relational Memory-based Knowledge Graph Embedding**". **arxiv 2019-07**. [paper](https://arxiv.org/pdf/1907.06080.pdf)
 
+- **(GRank)** Takuma Ebisu, Ryutaro Ichise. "**Graph Pattern Entity Ranking Model for Knowledge Graph Completion**". **arxiv 2019-04**. [paper](https://arxiv.org/pdf/1904.02856.pdf)
+
 - **(QCE)** Yunpu Ma, Volker Tresp, Liming Zhao, Yuyi Wang. "**Variational Quantum Circuit Model for Knowledge Graphs Embedding**". **arxiv 2019-03**. [paper](https://arxiv.org/pdf/1903.00556.pdf)
 
 - Pengwei Wang, Dejing Dou, Fangzhao Wu, Nisansa de Silva, Lianwen Jin. "**Logic Rules Powered Knowledge Graph Embedding**". **arxiv 2019-03**. [paper](https://arxiv.org/pdf/1903.03772.pdf)
 
 - **(DRE)** Cunxiang Wang, Yue Zhang, Feiliang Ren, Chenxu Zhao, Zhichao Lin, Tian Xie. "**Domain Representation for Knowledge Graph Embedding**". **arxiv 2019-03**. [paper](https://arxiv.org/pdf/1903.10716.pdf)
+
+- Hung Nghiep Tran, Atsuhiro Takasu. "**Analyzing Knowledge Graph Embedding Methods from a Multi-Embedding Interaction Perspective**". **arxiv 2019-03**. [paper](https://arxiv.org/pdf/1903.11406.pdf)
 
 - **(B-CP)** Koki Kishimoto, Katsuhiko Hayashi, Genki Akai, Masashi Shimbo, Kazunori Komatani. "**Binarized Knowledge Graph Embeddings**". **arxiv 2019-02**. [paper](https://arxiv.org/pdf/1902.02970.pdf)
 
