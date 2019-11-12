@@ -340,7 +340,7 @@ https://github.com/ZJULearning/TransAt)
 
 - **(R-MeN)** Dai Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung. "**Relational Memory-based Knowledge Graph Embedding**". **arxiv 2019-07**. [paper](https://arxiv.org/pdf/1907.06080.pdf)
 
--
+- Jinkui Yao, Lianghua Xu. "**Knowledge Graph Embedding Bi-Vector Models for Symmetric Relation**". **arxiv 2019-05**. [paper](https://arxiv.org/pdf/1905.09557.pdf)
 
 - **(TransESM)** Mojtaba Nayyeri, Sahar Vahdati, Jens Lehmann, Hamed Shariat Yazdi. "**Soft Marginal TransE for Scholarly Knowledge Graph Completion**". **arxiv 2019-04**. [paper](https://arxiv.org/pdf/1904.12211.pdf)
 
