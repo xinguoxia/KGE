@@ -337,4 +337,4 @@ https://github.com/ZJULearning/TransAt)
 
 - **(R-MeN)** Dai Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung. "**Relational Memory-based Knowledge Graph Embedding**". **arxiv 2019-07**. [paper](https://arxiv.org/pdf/1907.06080.pdf)
 
-
+- **(B-CP)** Koki Kishimoto, Katsuhiko Hayashi, Genki Akai, Masashi Shimbo, Kazunori Komatani. "**Binarized Knowledge Graph Embeddings**". **arxiv 2019-02**. [paper](https://arxiv.org/pdf/1902.02970.pdf)
