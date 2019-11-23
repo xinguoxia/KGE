@@ -324,8 +324,6 @@ https://github.com/ZJULearning/TransAt)
 
 - **(CoKE)** Quan Wang, Pingping Huang, Haifeng Wang, Songtai Dai, Wenbin Jiang, Jing Liu, Yajuan Lyu, Yong Zhu, Hua Wu. "**CoKE: Contextualized Knowledge Graph Embedding**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.02168.pdf)
 
-- **(InteractE)** Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Nilesh Agrawal, Partha Talukdar. "**InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.00219.pdf)
-
 - **(KANE)** Wenqiang Liu, Hongyun Cai, Xu Cheng, Sifa Xie, Yipeng Yu, Hanyu Zhang. "**Learning High-order Structural and Attribute information by Knowledge Graph Attention Networks for Enhancing Knowledge Graph Embedding**". **arxiv 2019-10**. [paper](https://arxiv.org/pdf/1910.03891.pdf)
 
 - Carl Allen, Ivana Balazevic, Timothy M. Hospedales. "**On Understanding Knowledge Graph Representation**". **arxiv 2019-09**. [paper](https://arxiv.org/pdf/1909.11611.pdf)
@@ -371,3 +369,7 @@ https://github.com/ZJULearning/TransAt)
 - **(B-CP)** Koki Kishimoto, Katsuhiko Hayashi, Genki Akai, Masashi Shimbo, Kazunori Komatani. "**Binarized Knowledge Graph Embeddings**". **arxiv 2019-02**. [paper](https://arxiv.org/pdf/1902.02970.pdf)
 
 - Ankur Padia, Konstantinos Kalpakis, Francis Ferraro, Tim Finin. "**Knowledge Graph Fact Prediction via Knowledge-Enriched Tensor Factorization**". **arxiv 2019-02**. [paper](https://arxiv.org/pdf/1902.03077.pdf)
+
+### 2020
+
+- **(InteractE)** Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Nilesh Agrawal, Partha Talukdar. "**InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions**". **AAAI 2020**. [paper](https://arxiv.org/pdf/1911.00219.pdf) [code](https://github.com/malllabiisc/InteractE) [supp](https://shikhar-vashishth.github.io/assets/pdf/interacte_supp.pdf)
