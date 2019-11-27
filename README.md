@@ -348,8 +348,6 @@ https://github.com/ZJULearning/TransAt)
 
 - Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **arxiv 2019-07**. [paper](https://arxiv.org/pdf/1907.03143.pdf)
 
-- Robert Bamler, Farnood Salehi, Stephan Mandt. "**Augmenting and Tuning Knowledge Graph Embeddings**". **arxiv 2019-07**. [paper](https://arxiv.org/pdf/1907.01068.pdf)
-
 - **(MDE)** Afshin Sadeghi, Damien Graux, Jens Lehmann. "**MDE: Multi Distance Embeddings for Link Prediction in Knowledge Graphs**"". **arxiv 2019-05**". [paper](https://arxiv.org/pdf/1905.10702.pdf)
 
 - Jinkui Yao, Lianghua Xu. "**Knowledge Graph Embedding Bi-Vector Models for Symmetric Relation**". **arxiv 2019-05**. [paper](https://arxiv.org/pdf/1905.09557.pdf)
