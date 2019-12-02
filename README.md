@@ -156,7 +156,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - **(puTransE)** Yi Tay, Luu Anh Tuan, Siu Cheung Hui. "**Non-Parametric Estimation of Multiple Embeddings for Link Prediction on Dynamic Knowledge Graphs**". **AAAI 2017**. [paper](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14524/13907)
 
-- **(Jointly)** Jiacheng Xu, Xipeng Qiu, Kan Chen, Xuanjing Huang. "**Knowledge Graph Representation with Jointly Structural and Textual Encoding**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/0183.pdf) [code](https://github.com/jiacheng-xu/Attn-KGE) **Structure** **Text** **LSTM**
+- **(Jointly)** Jiacheng Xu, Xipeng Qiu, Kan Chen, Xuanjing Huang. "**Knowledge Graph Representation with Jointly Structural and Textual Encoding**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/0183.pdf) [code](https://github.com/jiacheng-xu/Attn-KGE) (**Structure**,**Text**,**LSTM**)
 
 - **(IKRL)** Ruobing Xie, Zhiyuan Liu, Huanbo Luan, Maosong Sun. "**Image-embodied Knowledge Representation Learning**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/0438.pdf) [code](https://github.com/thunlp/IKRL)
 
