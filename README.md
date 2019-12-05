@@ -366,7 +366,7 @@ https://github.com/ZJULearning/TransAt)
 
 - **(B-CP)** Koki Kishimoto, Katsuhiko Hayashi, Genki Akai, Masashi Shimbo, Kazunori Komatani. "**Binarized Knowledge Graph Embeddings**". **arxiv 2019-02**. [paper](https://arxiv.org/pdf/1902.02970.pdf)
 
-- Ankur Padia, Konstantinos Kalpakis, Francis Ferraro, Tim Finin. "**Knowledge Graph Fact Prediction via Knowledge-Enriched Tensor Factorization**". **arxiv 2019-02**. [paper](https://arxiv.org/pdf/1902.03077.pdf)
+- Ankur Padia, Konstantinos Kalpakis, Francis Ferraro, Tim Finin. "**Knowledge Graph Fact Prediction via Knowledge-Enriched Tensor Factorization**". **arxiv 2019-02**. [paper](https://arxiv.org/pdf/1902.03077.pdf) [code](https://github.com/Ebiquity/KGFP)
 
 ### 2020
 
