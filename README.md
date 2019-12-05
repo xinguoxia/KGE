@@ -340,7 +340,7 @@ https://github.com/ZJULearning/TransAt)
 
 - **(LogicENN)** Mojtaba Nayyeri, Chengjin Xu, Jens Lehmann, Hamed Shariat Yazdi. "**LogicENN: A Neural Based Knowledge Graphs Embedding Model with Logical Rules**". **arxiv 2019-08**. [paper](https://arxiv.org/pdf/1908.07141.pdf)
 
-- **(HyperKG)** Prodromos Kolyvakis, Alexandros Kalousis, Dimitris Kiritsis. "**HyperKG: Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion**". **arxiv 2019-08**. [paper](https://arxiv.org/pdf/1908.04895.pdf)
+- **(HyperKG)** Prodromos Kolyvakis, Alexandros Kalousis, Dimitris Kiritsis. "**HyperKG: Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion**". **arxiv 2019-08**. [paper](https://arxiv.org/pdf/1908.04895.pdf) [code](https://github.com/prokolyvakis/hyperkg)
 
 - **(R-MeN)** Dai Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung. "**Relational Memory-based Knowledge Graph Embedding**". **arxiv 2019-07**. [paper](https://arxiv.org/pdf/1907.06080.pdf)
 
