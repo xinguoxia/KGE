@@ -346,7 +346,7 @@ https://github.com/ZJULearning/TransAt)
 
 -	**(TransEAML)** Mojtaba Nayyeri, Xiaotian Zhou, Sahar Vahdati, Hamed Shariat Yazdi, Jens Lehmann. "**Adaptive Margin Ranking Loss for Knowledge Graph Embeddings via a Correntropy Objective Function**". **arxiv 2019-07**. [paper](https://arxiv.org/pdf/1907.05336.pdf)
 
-- Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **arxiv 2019-07**. [paper](https://arxiv.org/pdf/1907.03143.pdf)
+- Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **arxiv 2019-07**. [paper](https://arxiv.org/pdf/1907.03143.pdf) [code](https://github.com/BorealisAI/DE-SimplE)
 
 - **(MDE)** Afshin Sadeghi, Damien Graux, Jens Lehmann. "**MDE: Multi Distance Embeddings for Link Prediction in Knowledge Graphs**"". **arxiv 2019-05**". [paper](https://arxiv.org/pdf/1905.10702.pdf)
 
