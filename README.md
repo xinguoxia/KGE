@@ -354,7 +354,7 @@ https://github.com/ZJULearning/TransAt)
 
 - **(TransESM)** Mojtaba Nayyeri, Sahar Vahdati, Jens Lehmann, Hamed Shariat Yazdi. "**Soft Marginal TransE for Scholarly Knowledge Graph Completion**". **arxiv 2019-04**. [paper](https://arxiv.org/pdf/1904.12211.pdf)
 
-- **(AutoKGE)** Yongqi Zhang, Quanming Yao, Wenyuan Dai, Lei Chen. "**AutoKGE: Searching Scoring Functions for Knowledge Graph Embedding**". **arxiv 2019-04**. [paper](https://arxiv.org/pdf/1904.11682.pdf)
+- **(AutoKGE)** Yongqi Zhang, Quanming Yao, Wenyuan Dai, Lei Chen. "**AutoKGE: Searching Scoring Functions for Knowledge Graph Embedding**". **arxiv 2019-04**. [paper](https://arxiv.org/pdf/1904.11682.pdf) [code](https://github.com/yzhangee/AutoSF)
 
 - **(QCE)** Yunpu Ma, Volker Tresp, Liming Zhao, Yuyi Wang. "**Variational Quantum Circuit Model for Knowledge Graphs Embedding**". **arxiv 2019-03**. [paper](https://arxiv.org/pdf/1903.00556.pdf)
 
