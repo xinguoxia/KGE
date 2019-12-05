@@ -360,7 +360,7 @@ https://github.com/ZJULearning/TransAt)
 
 - Pengwei Wang, Dejing Dou, Fangzhao Wu, Nisansa de Silva, Lianwen Jin. "**Logic Rules Powered Knowledge Graph Embedding**". **arxiv 2019-03**. [paper](https://arxiv.org/pdf/1903.03772.pdf)
 
-- **(DRE)** Cunxiang Wang, Yue Zhang, Feiliang Ren, Chenxu Zhao, Zhichao Lin, Tian Xie. "**Domain Representation for Knowledge Graph Embedding**". **arxiv 2019-03**. [paper](https://arxiv.org/pdf/1903.10716.pdf)
+- **(DRE)** Cunxiang Wang, Yue Zhang, Feiliang Ren, Chenxu Zhao, Zhichao Lin, Tian Xie. "**Domain Representation for Knowledge Graph Embedding**". **arxiv 2019-03**. [paper](https://arxiv.org/pdf/1903.10716.pdf) [code](https://github.com/wangcunxiang/Domain-Representation-for-Knowledge-Graph-Embedding)
 
 - Hung Nghiep Tran, Atsuhiro Takasu. "**Analyzing Knowledge Graph Embedding Methods from a Multi-Embedding Interaction Perspective**". **arxiv 2019-03**. [paper](https://arxiv.org/pdf/1903.11406.pdf)
 
