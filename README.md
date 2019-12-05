@@ -334,7 +334,7 @@ https://github.com/ZJULearning/TransAt)
 
 - **(TransW)** Lianbo Ma,Peng Sun, Zhiwei Lin, Hui Wang. ""**Composing Knowledge Graph Embeddings via Word Embeddings**". **arxiv 2019-09**. [paper](https://arxiv.org/pdf/1909.03794.pdf)
 
-- **(KG-BERT)** Liang Yao, Chengsheng Mao, Yuan Luo. "**KG-BERT: BERT for Knowledge Graph Completion**". **arxiv 2019-09**. [paper](https://arxiv.org/pdf/1909.03193.pdf)
+- **(KG-BERT)** Liang Yao, Chengsheng Mao, Yuan Luo. "**KG-BERT: BERT for Knowledge Graph Completion**". **arxiv 2019-09**. [paper](https://arxiv.org/pdf/1909.03193.pdf) [code](https://github.com/yao8839836/kg-bert)
 
 - Mojtaba Nayyeri, Chengjin Xu, Yadollah Yaghoobzadeh, Hamed Shariat Yazdi, Jens Lehmann. "**Toward Understanding The Effect Of Loss function On Then Performance Of Knowledge Graph Embedding**". **arxiv 2019-09**. [paper](https://arxiv.org/pdf/1909.00519.pdf)
 
