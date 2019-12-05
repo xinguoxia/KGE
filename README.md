@@ -322,7 +322,7 @@ https://github.com/ZJULearning/TransAt)
 
 - **(GRank)** Takuma Ebisu, Ryutaro Ichise. "**Graph Pattern Entity Ranking Model for Knowledge Graph Completion**". **NAACL-HLT 2019**. [paper](https://www.aclweb.org/anthology/N19-1104)
 
-- **(CoKE)** Quan Wang, Pingping Huang, Haifeng Wang, Songtai Dai, Wenbin Jiang, Jing Liu, Yajuan Lyu, Yong Zhu, Hua Wu. "**CoKE: Contextualized Knowledge Graph Embedding**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.02168.pdf)
+- **(CoKE)** Quan Wang, Pingping Huang, Haifeng Wang, Songtai Dai, Wenbin Jiang, Jing Liu, Yajuan Lyu, Yong Zhu, Hua Wu. "**CoKE: Contextualized Knowledge Graph Embedding**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.02168.pdf) [code](https://github.com/paddlepaddle/models/tree/develop/PaddleKG/CoKE)
 
 - **(KANE)** Wenqiang Liu, Hongyun Cai, Xu Cheng, Sifa Xie, Yipeng Yu, Hanyu Zhang. "**Learning High-order Structural and Attribute information by Knowledge Graph Attention Networks for Enhancing Knowledge Graph Embedding**". **arxiv 2019-10**. [paper](https://arxiv.org/pdf/1910.03891.pdf)
 
