@@ -324,9 +324,7 @@ https://github.com/ZJULearning/TransAt)
 
 - **FSRL** Chuxu Zhang, Huaxiu Yao, Chao Huang, Meng Jiang, Zhenhui Li, Nitesh V. Chawla. "**Few-Shot Knowledge Graph Completion**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.11298.pdf)
 
-- **(HAKE)** Zhanqiu Zhang, Jianyu Cai, Yongdong Zhang, Jie Wang. "**Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.09419.pdf) [code](https://github.com/MIRALab-USTC/KGE-HAKE)
-
-- **(RPJE)** Guanglin Niu, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li, Xiaowei Zhang. "**Rule-Guided Compositional Representation Learning on Knowledge Graphs**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.08935.pdf) CoRR abs/1911.08935 (2019)
+- **(RPJE)** Guanglin Niu, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li, Xiaowei Zhang. "**Rule-Guided Compositional Representation Learning on Knowledge Graphs**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.08935.pdf)
 
 - **(ATiSE)** Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Jens Lehmann, Hamed Shariat Yazdi. ""**Temporal Knowledge Graph Embedding Model based on Additive Time Series Decomposition**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.07893.pdf)
 
@@ -389,3 +387,5 @@ https://github.com/ZJULearning/TransAt)
 ### 2020
 
 - **(InteractE)** Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Nilesh Agrawal, Partha Talukdar. "**InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions**". **AAAI 2020**. [paper](https://arxiv.org/pdf/1911.00219.pdf) [code](https://github.com/malllabiisc/InteractE) [supp](https://shikhar-vashishth.github.io/assets/pdf/interacte_supp.pdf)
+
+- **(HAKE)** Zhanqiu Zhang, Jianyu Cai, Yongdong Zhang, Jie Wang. "**Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction**". **AAAI 2020**. [paper](https://arxiv.org/pdf/1911.09419.pdf) [code](https://github.com/MIRALab-USTC/KGE-HAKE)
