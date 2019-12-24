@@ -47,6 +47,8 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 - Qiannan Zhu, Xiaofei Zhou, Peng Zhang, Yong Shi. ""**A neural translating general hyperplane for knowledge graph embedding**". **Journal of Computational Science 2019**. [paper](https://pdf.sciencedirectassets.com/280179/1-s2.0-S1877750318X00076/1-s2.0-S1877750318310172/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEND%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIE8Bs4W9Av8YRkrtPVt1fRcq%2BkniusB5bo%2BFd%2Fx2E780AiBFk%2Br%2Fh6cio%2Fn6eNzT0cK%2F4MEDmHMfsSyQnox1tl3y0SrZAgjp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAIaDDA1OTAwMzU0Njg2NSIMPo8ESQP5eEg1BgqpKq0CPMWTkc5PbzTY9s8%2F52xt4WFt97Wy2CPC8QGuYd5dzpjY6I%2F%2FvEcV2wIJpBTgwbMZveyLrtQS5goJPMrqfNGJtUaGebE7z3IkWL9hcFL1mjQ94uxN5MxsrrFaxsag9k5nSZV1mL84vK4OlLNu0eP2s5Zutc%2FYPjIaO3RZEFOO9M%2ByWIaPxWP8VztPvgLi2%2BkSIbJWu4JYzyV%2FMV%2BXIDqZ01Zb4BZ6RxR9oiRfm%2FzNXEyJ%2FEE7UoWoec9GxFKB1ln%2BR3EAUi6Yumlr76WNkFXSbIb5TTvXXfNrvQnfpm8ewuuO6kSA17YWYpOYorAIcJK8yU8iD0in5uMDJ%2BulUFoYrspKnOfe3MG4fe%2F1a6bhYUSJgGaoLGPJQMM%2BW4ipHG0UshMPYGQdubzRNlZynzCHqqTuBTrQArliVJxy8xk1p9Wz0%2F35Axy%2Bxdv3etoB7SftCzV40Ep7N1wbWIvIRw%2F2dXtT623Sb5ZCvM0q%2FOcfp3%2Fc2DJCp2wQLti7x4eh4tX%2F9FyY8StAvzPAldJdYjOgF5pobLQzrkoMz17JuQJrIENDlmcxX9oFJiR80vCy4c26r5cEfwx32hUiMLS8vSmkCJModfQGMftJNjiOWnOJfqAYxg%2Fp3lw4EnpOOX3QR8JALCFpxp0mn3I6nMoCNy0zz3lpglP7khsRq9kCTv1c1rXWaqbUeOicajT9yVTNDAV7448FG5bUvUjENm9Lv0iLisUsyHObYpfN97TUDgKxsOYUkCTaKkb9y4wsopF%2BXkxdUdM79NlYh06ciD0E%2BBtFSjso%2BwBZAsulMj4OESZUaciQI1SXQQsk2A5PiybJRLwnlwYOaSfbVLIvhyEfXvCdjbS17uZurA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20191111T085748Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY22I3SHEP%2F20191111%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=40a25154ffabfb034024355187f2997a2bff8c0a77f8ec1ae7b72227a8381a2d&hash=1765ffe8a43460f6702e111f3f6a9de6d7690e7ab915203b40fce6e2261eda7b&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1877750318310172&tid=spdf-7f3bce7b-3adc-48e2-8173-f414b1004609&sid=4c3ece81235d70412028ed913b098a546eecgxrqa&type=client)
 
+- Ankur Padia, Konstantinos Kalpakis, Francis Ferraro, Tim Finin. "**Knowledge Graph Fact Prediction via Knowledge-Enriched Tensor Factorization**". **Journal of Web Semantics 2019**. [paper](https://arxiv.org/pdf/1902.03077.pdf) [code](https://github.com/Ebiquity/KGFP)
+
 - **(AWML)** Chenchen Guo, Chunhong Zhang, Xiao Han, Yang Ji. "**AWML: adaptive weighted margin learning for knowledge
 graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper](https://link.springer.com/content/pdf/10.1007%2Fs10844-018-0535-2.pdf)
 
@@ -363,8 +365,6 @@ https://github.com/ZJULearning/TransAt)
 - **(QCE)** Yunpu Ma, Volker Tresp, Liming Zhao, Yuyi Wang. "**Variational Quantum Circuit Model for Knowledge Graphs Embedding**". **arxiv 2019-03**. [paper](https://arxiv.org/pdf/1903.00556.pdf)
 
 - Pengwei Wang, Dejing Dou, Fangzhao Wu, Nisansa de Silva, Lianwen Jin. "**Logic Rules Powered Knowledge Graph Embedding**". **arxiv 2019-03**. [paper](https://arxiv.org/pdf/1903.03772.pdf)
-
-- Ankur Padia, Konstantinos Kalpakis, Francis Ferraro, Tim Finin. "**Knowledge Graph Fact Prediction via Knowledge-Enriched Tensor Factorization**". **arxiv 2019-02**. [paper](https://arxiv.org/pdf/1902.03077.pdf) [code](https://github.com/Ebiquity/KGFP)
 
 ### 2020
 
