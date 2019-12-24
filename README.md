@@ -384,8 +384,8 @@ https://github.com/ZJULearning/TransAt)
 
 - **(KANE)** Wenqiang Liu, Hongyun Cai, Xu Cheng, Sifa Xie, Yipeng Yu, Hanyu Zhang. "**Learning High-order Structural and Attribute information by Knowledge Graph Attention Networks for Enhancing Knowledge Graph Embedding**". **AAAI 2020**. [paper](https://arxiv.org/pdf/1910.03891.pdf)
 
-- Takuma Ebisu1, Ryutaro Ichise. "**Combination of Unified Embedding Model and Observed Features for Knowledge Graph Completion**". **arxiv 2019-09**. [paper](https://arxiv.org/pdf/1909.03821.pdf)
+- Takuma Ebisu1, Ryutaro Ichise. "**Combination of Unified Embedding Model and Observed Features for Knowledge Graph Completion**". **AAAI 2020**. [paper](https://arxiv.org/pdf/1909.03821.pdf)
 
-- **(TransW)** Lianbo Ma,Peng Sun, Zhiwei Lin, Hui Wang. ""**Composing Knowledge Graph Embeddings via Word Embeddings**". **arxiv 2019-09**. [paper](https://arxiv.org/pdf/1909.03794.pdf)
+- **(TransW)** Lianbo Ma,Peng Sun, Zhiwei Lin, Hui Wang. ""**Composing Knowledge Graph Embeddings via Word Embeddings**". **AAAI 2020**. [paper](https://arxiv.org/pdf/1909.03794.pdf)
 
-- **(KG-BERT)** Liang Yao, Chengsheng Mao, Yuan Luo. "**KG-BERT: BERT for Knowledge Graph Completion**". **arxiv 2019-09**. [paper](https://arxiv.org/pdf/1909.03193.pdf) [code](https://github.com/yao8839836/kg-bert)
+- **(KG-BERT)** Liang Yao, Chengsheng Mao, Yuan Luo. "**KG-BERT: BERT for Knowledge Graph Completion**". **AAAI 2020**. [paper](https://arxiv.org/pdf/1909.03193.pdf) [code](https://github.com/yao8839836/kg-bert)
