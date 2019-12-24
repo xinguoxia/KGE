@@ -336,8 +336,6 @@ https://github.com/ZJULearning/TransAt)
 
 - **(CoKE)** Quan Wang, Pingping Huang, Haifeng Wang, Songtai Dai, Wenbin Jiang, Jing Liu, Yajuan Lyu, Yong Zhu, Hua Wu. "**CoKE: Contextualized Knowledge Graph Embedding**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.02168.pdf) [code](https://github.com/paddlepaddle/models/tree/develop/PaddleKG/CoKE)
 
-- **(KANE)** Wenqiang Liu, Hongyun Cai, Xu Cheng, Sifa Xie, Yipeng Yu, Hanyu Zhang. "**Learning High-order Structural and Attribute information by Knowledge Graph Attention Networks for Enhancing Knowledge Graph Embedding**". **arxiv 2019-10**. [paper](https://arxiv.org/pdf/1910.03891.pdf)
-
 - Carl Allen, Ivana Balazevic, Timothy M. Hospedales. "**On Understanding Knowledge Graph Representation**". **arxiv 2019-09**. [paper](https://arxiv.org/pdf/1909.11611.pdf)
 
 - Chen Cai. "**Group Representation Theory for Knowledge Graph Embedding**". **arxiv 2019-09**. [paper](https://arxiv.org/pdf/1909.05100.pdf)
@@ -389,3 +387,5 @@ https://github.com/ZJULearning/TransAt)
 - **FSRL** Chuxu Zhang, Huaxiu Yao, Chao Huang, Meng Jiang, Zhenhui Li, Nitesh V. Chawla. "**Few-Shot Knowledge Graph Completion**". **AAAI 2020**. [paper](https://arxiv.org/pdf/1911.11298.pdf)
 
 - **(RPJE)** Guanglin Niu, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li, Xiaowei Zhang. "**Rule-Guided Compositional Representation Learning on Knowledge Graphs**". **AAAI 2020**. [paper](https://arxiv.org/pdf/1911.08935.pdf)
+
+- **(KANE)** Wenqiang Liu, Hongyun Cai, Xu Cheng, Sifa Xie, Yipeng Yu, Hanyu Zhang. "**Learning High-order Structural and Attribute information by Knowledge Graph Attention Networks for Enhancing Knowledge Graph Embedding**". **AAAI 2020**. [paper](https://arxiv.org/pdf/1910.03891.pdf)
