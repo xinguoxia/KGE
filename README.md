@@ -11,6 +11,8 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 - Quan Wang, Zhendong Mao, Bin Wang, Li Guo. "**Knowledge Graph Embedding: A Survey of Approaches and Applications**". **IEEE Transactions on Knowledge and Data Engineering 2017**. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8047276)
 
+- Xiaojun Chen, Shengbin Jia, Yang Xiang. "**A review: Knowledge reasoning over knowledge graph**". **Expert Systems with Applications 2020**
+
 ### Journal
 
 #### 2017
