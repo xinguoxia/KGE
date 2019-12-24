@@ -322,6 +322,24 @@ https://github.com/ZJULearning/TransAt)
 
 - **(GRank)** Takuma Ebisu, Ryutaro Ichise. "**Graph Pattern Entity Ranking Model for Knowledge Graph Completion**". **NAACL-HLT 2019**. [paper](https://www.aclweb.org/anthology/N19-1104)
 
+- **FSRL** Chuxu Zhang, Huaxiu Yao, Chao Huang, Meng Jiang, Zhenhui Li, Nitesh V. Chawla. "**Few-Shot Knowledge Graph Completion**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.11298.pdf)
+
+- **(HAKE)** Zhanqiu Zhang, Jianyu Cai, Yongdong Zhang, Jie Wang. "**Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.09419.pdf) [code](https://github.com/MIRALab-USTC/KGE-HAKE)
+
+- **(RPJE)** Guanglin Niu, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li, Xiaowei Zhang. "**Rule-Guided Compositional Representation Learning on Knowledge Graphs**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.08935.pdf) CoRR abs/1911.08935 (2019)
+
+- **(ATiSE)** Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Jens Lehmann, Hamed Shariat Yazdi. ""**Temporal Knowledge Graph Embedding Model based on Additive Time Series Decomposition**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.07893.pdf)
+
+- **(S2E)** Yongqi Zhang, Quanming Yao, Lei Chen. "**Neural Recurrent Structure Search for Knowledge Graph Embedding**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.07132.pdf)
+
+- **(CDC)** Bo Peng, Renqiang Min, Xia Ning. "**CNN-based Dual-Chain Models for Knowledge Graph Learning**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.06910.pdf)
+
+- **(GC-OTE)** Yun Tang, Jing Huang, Guangtao Wang, Xiaodong He, Bowen Zhou. "**Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.04910.pdf)
+
+- **(DeCom)** Xiang Kong, Xianyang Chen, Eduard H. Hovy. "**Decompressing Knowledge Graph Representations for Link Prediction**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.04053.pdf) [code](https://github.com/shawnkx/Decom)
+
+- Zhiqing Sun, Shikhar Vashishth, Soumya Sanyal, Partha P. Talukdar, Yiming Yang. "**A Re-evaluation of Knowledge Graph Completion Methods**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.03903.pdf) [code](https://github.com/svjan5/kgc-reevaluation)
+
 - **(CoKE)** Quan Wang, Pingping Huang, Haifeng Wang, Songtai Dai, Wenbin Jiang, Jing Liu, Yajuan Lyu, Yong Zhu, Hua Wu. "**CoKE: Contextualized Knowledge Graph Embedding**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.02168.pdf) [code](https://github.com/paddlepaddle/models/tree/develop/PaddleKG/CoKE)
 
 - **(KANE)** Wenqiang Liu, Hongyun Cai, Xu Cheng, Sifa Xie, Yipeng Yu, Hanyu Zhang. "**Learning High-order Structural and Attribute information by Knowledge Graph Attention Networks for Enhancing Knowledge Graph Embedding**". **arxiv 2019-10**. [paper](https://arxiv.org/pdf/1910.03891.pdf)
