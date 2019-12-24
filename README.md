@@ -322,10 +322,6 @@ https://github.com/ZJULearning/TransAt)
 
 - **(GRank)** Takuma Ebisu, Ryutaro Ichise. "**Graph Pattern Entity Ranking Model for Knowledge Graph Completion**". **NAACL-HLT 2019**. [paper](https://www.aclweb.org/anthology/N19-1104)
 
-- **FSRL** Chuxu Zhang, Huaxiu Yao, Chao Huang, Meng Jiang, Zhenhui Li, Nitesh V. Chawla. "**Few-Shot Knowledge Graph Completion**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.11298.pdf)
-
-- **(RPJE)** Guanglin Niu, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li, Xiaowei Zhang. "**Rule-Guided Compositional Representation Learning on Knowledge Graphs**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.08935.pdf)
-
 - **(ATiSE)** Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Jens Lehmann, Hamed Shariat Yazdi. ""**Temporal Knowledge Graph Embedding Model based on Additive Time Series Decomposition**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.07893.pdf)
 
 - **(S2E)** Yongqi Zhang, Quanming Yao, Lei Chen. "**Neural Recurrent Structure Search for Knowledge Graph Embedding**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.07132.pdf)
