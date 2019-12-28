@@ -444,6 +444,7 @@ https://github.com/ZJULearning/TransAt)
 | 2019 | EMNLP   | **TuckER**    |   -  | 47.0 | 44.3 |  48.2  |   52.6  |
 | 2020 | AAAI    | **ModE**      |   -  | 47.2 | 42.7 |  48.6  |   56.4  |
 | 2020 | AAAI    | **HAKE**      |   -  | 49.7 | 45.2 |  51.6  |   58.2  |
+| 2020 | AAAI    | **InteractE** | 5203 | 46.3 | 43.0 |  -     |   52.8  |
 
 #### FB15K
 
@@ -461,7 +462,6 @@ https://github.com/ZJULearning/TransAt)
 | 2019 | ACL     | **D4-Gumbel** |   -   | 72.8 | 64.8 |   78.2 |   86.4  |
 | 2019 | EMNLP   | **TuckER**    |   -   | 79.5 | 74.1 |   83.3 |   89.2  |
 
-
 #### FB15K-237
 
 | Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
@@ -478,3 +478,4 @@ https://github.com/ZJULearning/TransAt)
 | 2019 | EMNLP   | **TuckER**    |  -  | 35.8 | 26.6 |  39.4  |   54.4  |
 | 2020 | AAAI    | **ModE**      |  -  | 34.1 | 24.4 |  38.0  |   53.4  |
 | 2020 | AAAI    | **HAKE**      |  -  | 34.6 | 25.0 |  38.1  |   54.2  |
+| 2020 | AAAI    | **InteractE** | 172 | 35.4 | 26.3 |  -     |   53.5  |
