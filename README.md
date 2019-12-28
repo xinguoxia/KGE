@@ -4,6 +4,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 ## Contents
 
 * [Papers](#papers)
+* [Datasets](#datasets)
 * [Performance](#performance)
 
 ## Papers
@@ -392,6 +393,15 @@ https://github.com/ZJULearning/TransAt)
 - **(TransW)** Lianbo Ma,Peng Sun, Zhiwei Lin, Hui Wang. ""**Composing Knowledge Graph Embeddings via Word Embeddings**". **AAAI 2020**. [paper](https://arxiv.org/pdf/1909.03794.pdf)
 
 - **(KG-BERT)** Liang Yao, Chengsheng Mao, Yuan Luo. "**KG-BERT: BERT for Knowledge Graph Completion**". **AAAI 2020**. [paper](https://arxiv.org/pdf/1909.03193.pdf) [code](https://github.com/yao8839836/kg-bert)
+
+## Datasets
+
+| Dataset   | Entity | Relation |  Training |  Validation | Test   |
+|:---------:|:------:|:--------:|:---------:|:-----------:|:------:|
+| FB15K     | 14,951 | 1,345    |  483,142  | 50,000      | 59,071 |
+| WN18      | 40,943 | 18       |  141,442  | 5,000       | 5,000  |
+| FB15k-237 | 14,541 | 237      |  272,115  | 17,535      | 20,466 |
+| WN18RR    | 40,943 | 11       |  86,835   | 3,034       | 3,134  |
 
 ## Performance
 
