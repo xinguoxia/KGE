@@ -388,7 +388,7 @@ https://github.com/ZJULearning/TransAt)
 
 - **(KANE)** Wenqiang Liu, Hongyun Cai, Xu Cheng, Sifa Xie, Yipeng Yu, Hanyu Zhang. "**Learning High-order Structural and Attribute information by Knowledge Graph Attention Networks for Enhancing Knowledge Graph Embedding**". **AAAI 2020**. [paper](https://arxiv.org/abs/1910.03891)
 
-- Takuma Ebisu1, Ryutaro Ichise. "**Combination of Unified Embedding Model and Observed Features for Knowledge Graph Completion**". **AAAI 2020**. [paper](https://arxiv.org/pdf/1909.03821.pdf)
+- Takuma Ebisu, Ryutaro Ichise. "**Combination of Unified Embedding Model and Observed Features for Knowledge Graph Completion**". **AAAI 2020**. [paper](https://arxiv.org/abs/1910.03891)
 
 - **(TransW)** Lianbo Ma,Peng Sun, Zhiwei Lin, Hui Wang. ""**Composing Knowledge Graph Embeddings via Word Embeddings**". **AAAI 2020**. [paper](https://arxiv.org/pdf/1909.03794.pdf)
 
