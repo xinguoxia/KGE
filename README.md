@@ -390,7 +390,7 @@ https://github.com/ZJULearning/TransAt)
 
 - Takuma Ebisu, Ryutaro Ichise. "**Combination of Unified Embedding Model and Observed Features for Knowledge Graph Completion**". **AAAI 2020**. [paper](https://arxiv.org/abs/1909.03821)
 
-- **(TransW)** Lianbo Ma,Peng Sun, Zhiwei Lin, Hui Wang. ""**Composing Knowledge Graph Embeddings via Word Embeddings**". **AAAI 2020**. [paper](https://arxiv.org/pdf/1909.03794.pdf)
+- **(TransW)** Lianbo Ma,Peng Sun, Zhiwei Lin, Hui Wang. ""**Composing Knowledge Graph Embeddings via Word Embeddings**". **AAAI 2020**. [paper](https://arxiv.org/abs/1909.03794)
 
 - **(KG-BERT)** Liang Yao, Chengsheng Mao, Yuan Luo. "**KG-BERT: BERT for Knowledge Graph Completion**". **AAAI 2020**. [paper](https://arxiv.org/pdf/1909.03193.pdf) [code](https://github.com/yao8839836/kg-bert)
 
