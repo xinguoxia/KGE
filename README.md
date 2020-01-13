@@ -47,7 +47,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 - **(TKGE)** Binling Nie, Shouqian Sun. "**Knowledge graph embedding via reasoning over entities, relations, and text**". **Future Generation Computer Systems 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S0167739X17321593?via%3Dihub)
 
-- Chengchun Shi, Wenbin Lu, Rui Song. "**Determining the Number of Latent Factors in Statistical Multi-Relational Learning**". **Journal of Machine Learning Research 2019**. [paper](http://jmlr.org/papers/volume20/18-037/18-037.pdf)
+- Chengchun Shi, Wenbin Lu, Rui Song. "**Determining the Number of Latent Factors in Statistical Multi-Relational Learning**". **Journal of Machine Learning Research 2019**. [paper](http://jmlr.org/papers/v20/18-037.html)
 
 - **(KEC)** Niannian Guan, Dandan Song, Lejian Liao. "**Knowledge graph embedding with concepts**". **Knowledge-based Systems 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705118304945?via%3Dihub)
 
