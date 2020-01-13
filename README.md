@@ -118,7 +118,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 ### 2016
 
-- **(Gaifman)** Mathias Niepert. "**Discriminative Gaifman Models**". **NIPS 2016**. [paper](http://papers.nips.cc/paper/6098-discriminative-gaifman-models.pdf) [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips29/reviews/1689.html)
+- **(Gaifman)** Mathias Niepert. "**Discriminative Gaifman Models**". **NIPS 2016**. [paper](http://papers.nips.cc/paper/6098-discriminative-gaifman-models) [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips29/reviews/1689.html)
 
 - **(ComplEx)** Théo Trouillon, Johannes Welbl, Sebastian Riedel, Éric Gaussier, Guillaume Bouchard. "**Complex Embeddings for Simple Link Prediction**". **ICML 2016**. [paper](http://proceedings.mlr.press/v48/trouillon16.pdf) [supp](http://proceedings.mlr.press/v48/trouillon16-supp.pdf) [code](https://github.com/ttrouill/complex)
 
