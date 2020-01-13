@@ -386,7 +386,7 @@ https://github.com/ZJULearning/TransAt)
 
 - **(RPJE)** Guanglin Niu, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li, Xiaowei Zhang. "**Rule-Guided Compositional Representation Learning on Knowledge Graphs**". **AAAI 2020**. [paper](https://arxiv.org/abs/1911.08935)
 
-- **(KANE)** Wenqiang Liu, Hongyun Cai, Xu Cheng, Sifa Xie, Yipeng Yu, Hanyu Zhang. "**Learning High-order Structural and Attribute information by Knowledge Graph Attention Networks for Enhancing Knowledge Graph Embedding**". **AAAI 2020**. [paper](https://arxiv.org/pdf/1910.03891.pdf)
+- **(KANE)** Wenqiang Liu, Hongyun Cai, Xu Cheng, Sifa Xie, Yipeng Yu, Hanyu Zhang. "**Learning High-order Structural and Attribute information by Knowledge Graph Attention Networks for Enhancing Knowledge Graph Embedding**". **AAAI 2020**. [paper](https://arxiv.org/abs/1910.03891)
 
 - Takuma Ebisu1, Ryutaro Ichise. "**Combination of Unified Embedding Model and Observed Features for Knowledge Graph Completion**". **AAAI 2020**. [paper](https://arxiv.org/pdf/1909.03821.pdf)
 
