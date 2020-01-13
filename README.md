@@ -130,7 +130,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - **(DKRL)** Ruobing Xie, Zhiyuan Liu, Jia Jia, Huanbo Luan, Maosong Sun. "**Representation Learning of Knowledge Graphs with Entity Descriptions**". **AAAI 2016**. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12216/12004) [code](https://github.com/xrb92/DKRL)
 
-- **(ManifoldE)** Han Xiao, Minlie Huang, Xiaoyan Zhu. "**From One Point to a Manifold: Knowledge Graph Embedding for Precise Link Prediction**". **IJCAI 2016**. [paper](https://www.ijcai.org/Proceedings/16/Papers/190.pdf) [code](https://github.com/BookmanHan/Embedding)
+- **(ManifoldE)** Han Xiao, Minlie Huang, Xiaoyan Zhu. "**From One Point to a Manifold: Knowledge Graph Embedding for Precise Link Prediction**". **IJCAI 2016**. [paper](http://www.ijcai.org/Abstract/16/190) [code](https://github.com/BookmanHan/Embedding)
 
 - **(KR-EAR)** Yankai Lin, Zhiyuan Liu, Maosong Sun. "**Knowledge Representation Learning with Entities, Attributes and Relations**". **IJCAI 2016**. [paper](https://www.ijcai.org/Proceedings/16/Papers/407.pdf) [code](https://github.com/thunlp/KR-EAR)
 
