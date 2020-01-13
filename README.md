@@ -60,7 +60,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 - Ankur Padia, Konstantinos Kalpakis, Francis Ferraro, Tim Finin. "**Knowledge Graph Fact Prediction via Knowledge-Enriched Tensor Factorization**". **Journal of Web Semantics 2019**. [paper](https://arxiv.org/pdf/1902.03077.pdf) [code](https://github.com/Ebiquity/KGFP)
 
 - **(AWML)** Chenchen Guo, Chunhong Zhang, Xiao Han, Yang Ji. "**AWML: adaptive weighted margin learning for knowledge
-graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper](https://link.springer.com/content/pdf/10.1007%2Fs10844-018-0535-2.pdf)
+graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper](https://link.springer.com/article/10.1007%2Fs10844-018-0535-2)
 
 ### Conference
 
