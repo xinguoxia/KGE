@@ -25,7 +25,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 #### 2017
 
-- **(ComplEx)** Théo Trouillon, Christopher R. Dance, Éric Gaussier, Johannes Welbl, Sebastian Riedel, Guillaume Bouchard. "**Knowledge Graph Completion via Complex Tensor Factorization**". **Journal of Machine Learning Research 2017**. [paper](http://jmlr.org/papers/volume18/16-563/16-563.pdf) [code](https://github.com/ttrouill/complex)
+- **(ComplEx)** Théo Trouillon, Christopher R. Dance, Éric Gaussier, Johannes Welbl, Sebastian Riedel, Guillaume Bouchard. "**Knowledge Graph Completion via Complex Tensor Factorization**". **Journal of Machine Learning Research 2017**. [paper](http://jmlr.org/papers/v18/16-563.html) [code](https://github.com/ttrouill/complex)
 
 - **(LPMR)** Caiyan Dai, Ling Chen, Bin Li, Yun Li. "**Link prediction in multi-relational networks based on relational similarity**". **Information Sciences 2017**. [paper](https://www.sciencedirect.com/science/article/pii/S0020025517304139?via%3Dihub)
 
