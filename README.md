@@ -334,47 +334,43 @@ https://github.com/ZJULearning/TransAt)
 
 - **(GRank)** Takuma Ebisu, Ryutaro Ichise. "**Graph Pattern Entity Ranking Model for Knowledge Graph Completion**". **NAACL-HLT 2019**. [paper](https://www.aclweb.org/anthology/N19-1104/)
 
-- **(ATiSE)** Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Jens Lehmann, Hamed Shariat Yazdi. ""**Temporal Knowledge Graph Embedding Model based on Additive Time Series Decomposition**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.07893.pdf)
+- **(ATiSE)** Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Jens Lehmann, Hamed Shariat Yazdi. ""**Temporal Knowledge Graph Embedding Model based on Additive Time Series Decomposition**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.07893)
 
-- **(S2E)** Yongqi Zhang, Quanming Yao, Lei Chen. "**Neural Recurrent Structure Search for Knowledge Graph Embedding**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.07132.pdf)
+- **(S2E)** Yongqi Zhang, Quanming Yao, Lei Chen. "**Neural Recurrent Structure Search for Knowledge Graph Embedding**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.07132)
 
-- **(CDC)** Bo Peng, Renqiang Min, Xia Ning. "**CNN-based Dual-Chain Models for Knowledge Graph Learning**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.06910.pdf)
+- **(CDC)** Bo Peng, Renqiang Min, Xia Ning. "**CNN-based Dual-Chain Models for Knowledge Graph Learning**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.06910)
 
-- **(GC-OTE)** Yun Tang, Jing Huang, Guangtao Wang, Xiaodong He, Bowen Zhou. "**Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.04910.pdf)
+- **(GC-OTE)** Yun Tang, Jing Huang, Guangtao Wang, Xiaodong He, Bowen Zhou. "**Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.04910)
 
-- **(DeCom)** Xiang Kong, Xianyang Chen, Eduard H. Hovy. "**Decompressing Knowledge Graph Representations for Link Prediction**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.04053.pdf) [code](https://github.com/shawnkx/Decom)
+- **(DeCom)** Xiang Kong, Xianyang Chen, Eduard H. Hovy. "**Decompressing Knowledge Graph Representations for Link Prediction**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.04053) [code](https://github.com/shawnkx/Decom)
 
-- Zhiqing Sun, Shikhar Vashishth, Soumya Sanyal, Partha P. Talukdar, Yiming Yang. "**A Re-evaluation of Knowledge Graph Completion Methods**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.03903.pdf) [code](https://github.com/svjan5/kgc-reevaluation)
+- Zhiqing Sun, Shikhar Vashishth, Soumya Sanyal, Partha P. Talukdar, Yiming Yang. "**A Re-evaluation of Knowledge Graph Completion Methods**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.03903) [code](https://github.com/svjan5/kgc-reevaluation)
 
-- **(CoKE)** Quan Wang, Pingping Huang, Haifeng Wang, Songtai Dai, Wenbin Jiang, Jing Liu, Yajuan Lyu, Yong Zhu, Hua Wu. "**CoKE: Contextualized Knowledge Graph Embedding**". **arxiv 2019-11**. [paper](https://arxiv.org/pdf/1911.02168.pdf) [code](https://github.com/paddlepaddle/models/tree/develop/PaddleKG/CoKE)
+- **(CoKE)** Quan Wang, Pingping Huang, Haifeng Wang, Songtai Dai, Wenbin Jiang, Jing Liu, Yajuan Lyu, Yong Zhu, Hua Wu. "**CoKE: Contextualized Knowledge Graph Embedding**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.02168) [code](https://github.com/paddlepaddle/models/tree/develop/PaddleKG/CoKE)
 
-- Carl Allen, Ivana Balazevic, Timothy M. Hospedales. "**On Understanding Knowledge Graph Representation**". **arxiv 2019-09**. [paper](https://arxiv.org/pdf/1909.11611.pdf)
+- Carl Allen, Ivana Balazevic, Timothy M. Hospedales. "**On Understanding Knowledge Graph Representation**". **arxiv 2019-09**. [paper](https://arxiv.org/abs/1909.11611)
 
-- Chen Cai. "**Group Representation Theory for Knowledge Graph Embedding**". **arxiv 2019-09**. [paper](https://arxiv.org/pdf/1909.05100.pdf)
+- **(LogicENN)** Mojtaba Nayyeri, Chengjin Xu, Jens Lehmann, Hamed Shariat Yazdi. "**LogicENN: A Neural Based Knowledge Graphs Embedding Model with Logical Rules**". **arxiv 2019-08**. [paper](https://arxiv.org/abs/1908.07141)
 
-- Mojtaba Nayyeri, Chengjin Xu, Yadollah Yaghoobzadeh, Hamed Shariat Yazdi, Jens Lehmann. "**Toward Understanding The Effect Of Loss function On Then Performance Of Knowledge Graph Embedding**". **arxiv 2019-09**. [paper](https://arxiv.org/pdf/1909.00519.pdf)
+- **(HyperKG)** Prodromos Kolyvakis, Alexandros Kalousis, Dimitris Kiritsis. "**HyperKG: Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion**". **arxiv 2019-08**. [paper](https://arxiv.org/abs/1908.04895) [code](https://github.com/prokolyvakis/hyperkg)
 
-- **(LogicENN)** Mojtaba Nayyeri, Chengjin Xu, Jens Lehmann, Hamed Shariat Yazdi. "**LogicENN: A Neural Based Knowledge Graphs Embedding Model with Logical Rules**". **arxiv 2019-08**. [paper](https://arxiv.org/pdf/1908.07141.pdf)
+- **(R-MeN)** Dai Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung. "**Relational Memory-based Knowledge Graph Embedding**". **arxiv 2019-07**. [paper](https://arxiv.org/abs/1907.06080)
 
-- **(HyperKG)** Prodromos Kolyvakis, Alexandros Kalousis, Dimitris Kiritsis. "**HyperKG: Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion**". **arxiv 2019-08**. [paper](https://arxiv.org/pdf/1908.04895.pdf) [code](https://github.com/prokolyvakis/hyperkg)
+-	**(TransEAML)** Mojtaba Nayyeri, Xiaotian Zhou, Sahar Vahdati, Hamed Shariat Yazdi, Jens Lehmann. "**Adaptive Margin Ranking Loss for Knowledge Graph Embeddings via a Correntropy Objective Function**". **arxiv 2019-07**. [paper](https://arxiv.org/abs/1907.05336)
 
-- **(R-MeN)** Dai Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung. "**Relational Memory-based Knowledge Graph Embedding**". **arxiv 2019-07**. [paper](https://arxiv.org/pdf/1907.06080.pdf)
+- Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **arxiv 2019-07**. [paper](https://arxiv.org/abs/1907.03143) [code](https://github.com/BorealisAI/DE-SimplE)
 
--	**(TransEAML)** Mojtaba Nayyeri, Xiaotian Zhou, Sahar Vahdati, Hamed Shariat Yazdi, Jens Lehmann. "**Adaptive Margin Ranking Loss for Knowledge Graph Embeddings via a Correntropy Objective Function**". **arxiv 2019-07**. [paper](https://arxiv.org/pdf/1907.05336.pdf)
+- **(MDE)** Afshin Sadeghi, Damien Graux, Jens Lehmann. "**MDE: Multi Distance Embeddings for Link Prediction in Knowledge Graphs**"". **arxiv 2019-05**". [paper](https://arxiv.org/abs/1905.10702)
 
-- Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **arxiv 2019-07**. [paper](https://arxiv.org/pdf/1907.03143.pdf) [code](https://github.com/BorealisAI/DE-SimplE)
+- Jinkui Yao, Lianghua Xu. "**Knowledge Graph Embedding Bi-Vector Models for Symmetric Relation**". **arxiv 2019-05**. [paper](https://arxiv.org/abs/1905.09557)
 
-- **(MDE)** Afshin Sadeghi, Damien Graux, Jens Lehmann. "**MDE: Multi Distance Embeddings for Link Prediction in Knowledge Graphs**"". **arxiv 2019-05**". [paper](https://arxiv.org/pdf/1905.10702.pdf)
+- **(TransESM)** Mojtaba Nayyeri, Sahar Vahdati, Jens Lehmann, Hamed Shariat Yazdi. "**Soft Marginal TransE for Scholarly Knowledge Graph Completion**". **arxiv 2019-04**. [paper](https://arxiv.org/abs/1904.12211)
 
-- Jinkui Yao, Lianghua Xu. "**Knowledge Graph Embedding Bi-Vector Models for Symmetric Relation**". **arxiv 2019-05**. [paper](https://arxiv.org/pdf/1905.09557.pdf)
+- **(AutoKGE)** Yongqi Zhang, Quanming Yao, Wenyuan Dai, Lei Chen. "**AutoKGE: Searching Scoring Functions for Knowledge Graph Embedding**". **arxiv 2019-04**. [paper](https://arxiv.org/abs/1904.11682) [code](https://github.com/yzhangee/AutoSF)
 
-- **(TransESM)** Mojtaba Nayyeri, Sahar Vahdati, Jens Lehmann, Hamed Shariat Yazdi. "**Soft Marginal TransE for Scholarly Knowledge Graph Completion**". **arxiv 2019-04**. [paper](https://arxiv.org/pdf/1904.12211.pdf)
+- **(QCE)** Yunpu Ma, Volker Tresp, Liming Zhao, Yuyi Wang. "**Variational Quantum Circuit Model for Knowledge Graphs Embedding**". **arxiv 2019-03**. [paper](https://arxiv.org/abs/1903.00556)
 
-- **(AutoKGE)** Yongqi Zhang, Quanming Yao, Wenyuan Dai, Lei Chen. "**AutoKGE: Searching Scoring Functions for Knowledge Graph Embedding**". **arxiv 2019-04**. [paper](https://arxiv.org/pdf/1904.11682.pdf) [code](https://github.com/yzhangee/AutoSF)
-
-- **(QCE)** Yunpu Ma, Volker Tresp, Liming Zhao, Yuyi Wang. "**Variational Quantum Circuit Model for Knowledge Graphs Embedding**". **arxiv 2019-03**. [paper](https://arxiv.org/pdf/1903.00556.pdf)
-
-- Pengwei Wang, Dejing Dou, Fangzhao Wu, Nisansa de Silva, Lianwen Jin. "**Logic Rules Powered Knowledge Graph Embedding**". **arxiv 2019-03**. [paper](https://arxiv.org/pdf/1903.03772.pdf)
+- Pengwei Wang, Dejing Dou, Fangzhao Wu, Nisansa de Silva, Lianwen Jin. "**Logic Rules Powered Knowledge Graph Embedding**". **arxiv 2019-03**. [paper](https://arxiv.org/abs/1903.03772)
 
 ### 2020
 
