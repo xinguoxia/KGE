@@ -334,7 +334,7 @@ https://github.com/ZJULearning/TransAt)
 
 - **(GRank)** Takuma Ebisu, Ryutaro Ichise. "**Graph Pattern Entity Ranking Model for Knowledge Graph Completion**". **NAACL-HLT 2019**. [paper](https://www.aclweb.org/anthology/N19-1104/)
 
-- **(ATiSE)** Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Jens Lehmann, Hamed Shariat Yazdi. ""**Temporal Knowledge Graph Embedding Model based on Additive Time Series Decomposition**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.07893)
+- **(ATiSE)** Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Jens Lehmann, Hamed Shariat Yazdi. "**Temporal Knowledge Graph Embedding Model based on Additive Time Series Decomposition**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.07893)
 
 - **(S2E)** Yongqi Zhang, Quanming Yao, Lei Chen. "**Neural Recurrent Structure Search for Knowledge Graph Embedding**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.07132)
 
@@ -360,7 +360,7 @@ https://github.com/ZJULearning/TransAt)
 
 - Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **arxiv 2019-07**. [paper](https://arxiv.org/abs/1907.03143) [code](https://github.com/BorealisAI/DE-SimplE)
 
-- **(MDE)** Afshin Sadeghi, Damien Graux, Jens Lehmann. "**MDE: Multi Distance Embeddings for Link Prediction in Knowledge Graphs**"". **arxiv 2019-05**". [paper](https://arxiv.org/abs/1905.10702)
+- **(MDE)** Afshin Sadeghi, Damien Graux, Jens Lehmann. "**MDE: Multi Distance Embeddings for Link Prediction in Knowledge Graphs**"". **arxiv 2019-05**. [paper](https://arxiv.org/abs/1905.10702)
 
 - Jinkui Yao, Lianghua Xu. "**Knowledge Graph Embedding Bi-Vector Models for Symmetric Relation**". **arxiv 2019-05**. [paper](https://arxiv.org/abs/1905.09557)
 
