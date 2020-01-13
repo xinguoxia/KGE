@@ -265,7 +265,7 @@ https://github.com/ZJULearning/TransAt)
 
 ### 2019
 
-- **(QuatE)** Shuai Zhangy, Yi Tay, Lina Yao, Qi Liu. "**Quaternion Knowledge Graph Embeddings**". **NeurIPS 2019**. [paper](https://arxiv.org/pdf/1904.10281.pdf) [code](https://github.com/cheungdaven/QuatE)
+- **(QuatE)** Shuai Zhangy, Yi Tay, Lina Yao, Qi Liu. "**Quaternion Knowledge Graph Embeddings**". **NeurIPS 2019**. [paper](http://papers.nips.cc/paper/8541-quaternion-knowledge-graph-embeddings) [code](https://github.com/cheungdaven/QuatE) [supll](http://papers.nips.cc/paper/8541-quaternion-knowledge-graph-embeddings)
 
 - **(MuRP)** Ivana Balaževic, Carl Allen, Timothy Hospedales. "**Multi-relational Poincaré Graph Embeddings**". **NeurIPS 2019**. [paper](https://arxiv.org/pdf/1905.09791.pdf) [code](https://github.com/ibalazevic/multirelational-poincare)
 
