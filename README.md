@@ -347,6 +347,14 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - **(CoKE)** Quan Wang, Pingping Huang, Haifeng Wang, Songtai Dai, Wenbin Jiang, Jing Liu, Yajuan Lyu, Yong Zhu, Hua Wu. "**CoKE: Contextualized Knowledge Graph Embedding**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.02168) [code](https://github.com/paddlepaddle/models/tree/develop/PaddleKG/CoKE)
 
+- **(KANE)** Wenqiang Liu, Hongyun Cai, Xu Cheng, Sifa Xie, Yipeng Yu, Hanyu Zhang. "**Learning High-order Structural and Attribute information by Knowledge Graph Attention Networks for Enhancing Knowledge Graph Embedding**". **arxiv 2019-10**. [paper](https://arxiv.org/abs/1910.03891)
+
+- Takuma Ebisu, Ryutaro Ichise. "**Combination of Unified Embedding Model and Observed Features for Knowledge Graph Completion**". **arxiv 2019-09**. [paper](https://arxiv.org/abs/1909.03821)
+
+- **(TransW)** Lianbo Ma,Peng Sun, Zhiwei Lin, Hui Wang. ""**Composing Knowledge Graph Embeddings via Word Embeddings**". **aexiv 2019-09**. [paper](https://arxiv.org/abs/1909.03794)
+
+- **(KG-BERT)** Liang Yao, Chengsheng Mao, Yuan Luo. "**KG-BERT: BERT for Knowledge Graph Completion**". **arxiv 2019-09**. [paper](https://arxiv.org/abs/1909.03193) [code](https://github.com/yao8839836/kg-bert)
+
 - Carl Allen, Ivana Balazevic, Timothy M. Hospedales. "**On Understanding Knowledge Graph Representation**". **arxiv 2019-09**. [paper](https://arxiv.org/abs/1909.11611)
 
 - **(LogicENN)** Mojtaba Nayyeri, Chengjin Xu, Jens Lehmann, Hamed Shariat Yazdi. "**LogicENN: A Neural Based Knowledge Graphs Embedding Model with Logical Rules**". **arxiv 2019-08**. [paper](https://arxiv.org/abs/1908.07141)
@@ -380,14 +388,6 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 - **(FSRL)** Chuxu Zhang, Huaxiu Yao, Chao Huang, Meng Jiang, Zhenhui Li, Nitesh V. Chawla. "**Few-Shot Knowledge Graph Completion**". **AAAI 2020**. [paper](https://arxiv.org/abs/1911.11298)
 
 - **(RPJE)** Guanglin Niu, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li, Xiaowei Zhang. "**Rule-Guided Compositional Representation Learning on Knowledge Graphs**". **AAAI 2020**. [paper](https://arxiv.org/abs/1911.08935)
-
-- **(KANE)** Wenqiang Liu, Hongyun Cai, Xu Cheng, Sifa Xie, Yipeng Yu, Hanyu Zhang. "**Learning High-order Structural and Attribute information by Knowledge Graph Attention Networks for Enhancing Knowledge Graph Embedding**". **AAAI 2020**. [paper](https://arxiv.org/abs/1910.03891)
-
-- Takuma Ebisu, Ryutaro Ichise. "**Combination of Unified Embedding Model and Observed Features for Knowledge Graph Completion**". **AAAI 2020**. [paper](https://arxiv.org/abs/1909.03821)
-
-- **(TransW)** Lianbo Ma,Peng Sun, Zhiwei Lin, Hui Wang. ""**Composing Knowledge Graph Embeddings via Word Embeddings**". **AAAI 2020**. [paper](https://arxiv.org/abs/1909.03794)
-
-- **(KG-BERT)** Liang Yao, Chengsheng Mao, Yuan Luo. "**KG-BERT: BERT for Knowledge Graph Completion**". **AAAI 2020**. [paper](https://arxiv.org/abs/1909.03193) [code](https://github.com/yao8839836/kg-bert)
 
 ## Datasets
 
