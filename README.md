@@ -461,9 +461,9 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 | Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
 |:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2013 | NeurIPS | **TransE**    | 3384 | 22.6 |   -  |    -   |   50.1  |
-| 2015 | ICLR    | **DistMult**  | 5110 | 43.0 | 39.0 |  44.0  |   49.0  |
-| 2016 | ICML    | **ComplEx**   | 5261 | 44.0 | 41.0 |  46.0  |   51.0  |
+| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ConvKB](#ConvKB)</sup>**    | 3384 | 22.6 |   -  |    -   |   50.1  |
+| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ConvE](#ConvE)</sup>**  | 5110 | 43.0 | 39.0 |  44.0  |   49.0  |
+| 2016 | ICML    | **[ComplEx](#ComplEx)<sup>[ConvE](#ConvE)</sup>**   | 5261 | 44.0 | 41.0 |  46.0  |   51.0  |
 | 2018 | AAAI    | **ConvE**     | 4187 | 43.0 | 40.0 |  44.0  |   52.0  |
 | 2019 | ICLR    | **RotatE**    | 3277 | 47.0 | 42.2 |  48.8  |   56.5  |
 | 2019 | ICLR    | **a-RotatE**  | 3340 | 47.6 | 42.8 |  49.2  |   57.1  |
