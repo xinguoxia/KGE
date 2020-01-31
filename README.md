@@ -425,6 +425,8 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 | UMLS      | 135     | 46       |  5,216     | 652         | 661    |
 | YAGO3-10  | 123,182 | 37       |  1,079,040 | 5,000       | 5,000  |
 | NELL-995  | 75,492  | 200      |  123,370   | 15,000      | 15,838 |
+| NELL-995  | 75,492  | 200      |  149,678   | 543         | 3992   |
+| Kinship   | 104     | 25       |  8544      | 1068        | 1074   |
 
 ## Performance
 
