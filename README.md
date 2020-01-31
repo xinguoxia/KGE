@@ -445,10 +445,10 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 | Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
 |:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2013 | NeurIPS | **TransE**    |  -  | 49.5 | 11.3 |  88.8  |   94.3  |
-| 2015 | ICLR    | **DistMult**  | 655 | 79.7 |  -   |   -    |   94.6  |
-| 2016 | ICML    | **ComplEx**   |  -  | 94.1 | 93.6 |  94.5  |   94.7  |
-| 2018 | AAAI    | **ConvE**     | 374 | 94.3 | 93.5 |  94.6  |   95.6  |
+| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ComplEx](#ComplEx</sup>**     |  -  | 0.454 | 0.089 | 0.823  | 0.934 |
+| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ComplEx](#ComplEx</sup>** | 902 | 0.822 | 0.728 | 0.914  | 0.936 |
+| 2016 | ICML    | **[ComplEx](#ComplEx)**                                |  -  | 0.941 | 0.936 | 0.945  | 0.947 |
+| 2018 | AAAI    | **[ConvE](#ConvE)**                                    | 504 | 0.942 | 0.935 | 0.947  | 0.955 |
 | 2018 | ESWC    | **R-GCN+**    |  -  | 81.9 | 69.7 |  92.9  |   96.4  |
 | 2018 | NeurIPS | **SimplE**    |  -  | 94.2 | 93.9 |  94.4  |   94.7  |
 | 2019 | ICLR    | **RotatE**    | 194 | 94.7 | 93.8 |  95.3  |   96.1  |
@@ -461,10 +461,10 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 | Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
 |:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ConvKB](#ConvKB)</sup>**    | 3384 | 22.6 |   -  |    -   |   50.1  |
-| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ConvE](#ConvE)</sup>**  | 5110 | 43.0 | 39.0 |  44.0  |   49.0  |
-| 2016 | ICML    | **[ComplEx](#ComplEx)<sup>[ConvE](#ConvE)</sup>**   | 5261 | 44.0 | 41.0 |  46.0  |   51.0  |
-| 2018 | AAAI    | **ConvE**     | 4187 | 43.0 | 40.0 |  44.0  |   52.0  |
+| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ConvKB](#ConvKB)</sup>**    | 3384 | 0.226 |   -   |  -    | 0.501 |
+| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ConvE](#ConvE)</sup>**  | 5110 | 0.43  | 0.39  | 0.44  | 0.49  |
+| 2016 | ICML    | **[ComplEx](#ComplEx)<sup>[ConvE](#ConvE)</sup>**    | 5261 | 0.44  | 0.41  | 0.46  | 0.51  |
+| 2018 | AAAI    | **[ConvE](#ConvE)**                                  | 5277 | 0.46  | 0.39  | 0.43  | 0.48  |
 | 2019 | ICLR    | **RotatE**    | 3277 | 47.0 | 42.2 |  48.8  |   56.5  |
 | 2019 | ICLR    | **a-RotatE**  | 3340 | 47.6 | 42.8 |  49.2  |   57.1  |
 | 2019 | ACL     | **D4-STE**    |   -  | 48.0 | 45.2 |  49.1  |   53.6  |
@@ -478,10 +478,10 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 | Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
 |:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2013 | NeurIPS | **TransE**    |   -   | 46.3 | 29.7 |  57.8  |   74.9  |
-| 2015 | ICLR    | **DistMult**  |  42.2 | 79.8 |  -   |   -    |   89.3  |
-| 2016 | ICML    | **ComplEx**   |   -   | 69.2 | 59.9 |  75.9  |   84.0  |
-| 2018 | AAAI    | **ConvE**     |   51  | 65.7 | 55.8 |  72.3  |   83.1  |
+| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ComplEx](#ComplEx</sup>**      |  -  | 0.380 | 0.231 | 0.472 | 0.641 |
+| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ComplEx](#ComplEx</sup>**  |  97 | 0.654 | 0.546 | 0.733 | 0.824 |
+| 2016 | ICML    | **[ComplEx](#ComplEx)**                                 |  -  | 0.692 | 0.599 | 0.759 | 0.840 |
+| 2018 | AAAI    | **[ConvE](#ConvE)**                                     |  64 | 0.745 | 0.670 | 0.801 | 0.873 |
 | 2018 | ESWC    | **R-GCN+**    |   -   | 69.6 | 60.1 |  76.0  |   84.2  |
 | 2018 | NeurIPS | **SimplE**    |   -   | 72.7 | 66.0 |  77.3  |   83.8  |
 | 2019 | ICLR    | **RotatE**    |   32  | 69.9 | 58.5 |  78.8  |   87.2  |
@@ -494,11 +494,11 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 | Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
 |:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ConvKB](#ConvKB)</sup>**    | 357 | 29.4 |   -  |    -   |   46.5  |
-| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ConvE](#ConvE)</sup>**  | 254 | 24.1 | 15.5 |  26.3  |   41.9  |
-| 2016 | ICML    | **[ComplEx](#ComplEx)<sup>[ConvE](#ConvE)</sup>**   | 339 | 24.7 | 15.8 |  27.5  |   42.8  |
+| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ConvKB](#ConvKB)</sup>**    | 357 | 0.294 |   -   |    -  | 0.465 |
+| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ConvE](#ConvE)</sup>**  | 254 | 0.241 | 0.155 | 0.263 | 0.419 |
+| 2016 | ICML    | **[ComplEx](#ComplEx)<sup>[ConvE](#ConvE)</sup>**    | 339 | 0.247 | 0.158 | 0.275 | 0.428 |
 | 2018 | ESWC    | **R-GCN+**    |  -  | 24.9 | 15.1 |  26.4  |   41.7  |
-| 2018 | AAAI    | **[ConvE](#ConvE)**     | 246 | 31.6 | 23.9 |   35   |   49.1  |
+| 2018 | AAAI    | **[ConvE](#ConvE)**                                  | 246 | 0.316 | 0.239 | 0.350 | 0.491 |
 | 2019 | ICLR    | **RotatE**    | 185 | 29.7 | 20.5 |  32.8  |   48.0  |
 | 2019 | ICLR    | **a-RotatE**  | 177 | 33.8 | 24.1 |  37.5  |   53.3  |
 | 2019 | ACL     | **D4-STE**    |  -  | 32.0 | 23.0 |  35.3  |   50.2  |
