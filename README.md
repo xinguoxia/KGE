@@ -494,7 +494,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 | Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
 |:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2013 | NeurIPS | **TransE**    | 357 | 29.4 |   -  |    -   |   46.5  |
+| 2013 | NeurIPS | **TransE<sup>ConvKB</sup>**    | 357 | 29.4 |   -  |    -   |   46.5  |
 | 2015 | ICLR    | **DistMult**  | 254 | 24.1 | 15.5 |  26.3  |   41.9  |
 | 2016 | ICML    | **ComplEx**   | 339 | 24.7 | 15.8 |  27.5  |   42.8  |
 | 2018 | ESWC    | **R-GCN+**    |  -  | 24.9 | 15.1 |  26.4  |   41.7  |
