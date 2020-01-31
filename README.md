@@ -445,10 +445,10 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 | Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
 |:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ComplEx](#ComplEx</sup>**     |  -  | 0.454 | 0.089 | 0.823  | 0.934 |
-| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ComplEx](#ComplEx</sup>** | 902 | 0.822 | 0.728 | 0.914  | 0.936 |
-| 2016 | ICML    | **[ComplEx](#ComplEx)**                                |  -  | 0.941 | 0.936 | 0.945  | 0.947 |
-| 2018 | AAAI    | **[ConvE](#ConvE)**                                    | 504 | 0.942 | 0.935 | 0.947  | 0.955 |
+| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ComplEx](#ComplEx)</sup>**     |  -  | 0.454 | 0.089 | 0.823  | 0.934 |
+| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ComplEx](#ComplEx)</sup>** | 902 | 0.822 | 0.728 | 0.914  | 0.936 |
+| 2016 | ICML    | **[ComplEx](#ComplEx)**                                 |  -  | 0.941 | 0.936 | 0.945  | 0.947 |
+| 2018 | AAAI    | **[ConvE](#ConvE)**                                     | 504 | 0.942 | 0.935 | 0.947  | 0.955 |
 | 2018 | ESWC    | **R-GCN+**    |  -  | 81.9 | 69.7 |  92.9  |   96.4  |
 | 2018 | NeurIPS | **SimplE**    |  -  | 94.2 | 93.9 |  94.4  |   94.7  |
 | 2019 | ICLR    | **RotatE**    | 194 | 94.7 | 93.8 |  95.3  |   96.1  |
@@ -478,9 +478,9 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 | Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
 |:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ComplEx](#ComplEx</sup>**      |  -  | 0.380 | 0.231 | 0.472 | 0.641 |
-| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ComplEx](#ComplEx</sup>**  |  97 | 0.654 | 0.546 | 0.733 | 0.824 |
-| 2016 | ICML    | **[ComplEx](#ComplEx)**                                 |  -  | 0.692 | 0.599 | 0.759 | 0.840 |
+| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ComplEx](#ComplEx)</sup>**      |  -  | 0.380 | 0.231 | 0.472 | 0.641 |
+| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ComplEx](#ComplEx)</sup>**  |  97 | 0.654 | 0.546 | 0.733 | 0.824 |
+| 2016 | ICML    | **[ComplEx](#ComplEx)**                                  |  -  | 0.692 | 0.599 | 0.759 | 0.840 |
 | 2018 | AAAI    | **[ConvE](#ConvE)**                                     |  64 | 0.745 | 0.670 | 0.801 | 0.873 |
 | 2018 | ESWC    | **R-GCN+**    |   -   | 69.6 | 60.1 |  76.0  |   84.2  |
 | 2018 | NeurIPS | **SimplE**    |   -   | 72.7 | 66.0 |  77.3  |   83.8  |
