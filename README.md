@@ -258,7 +258,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - **(R-GCN)** Michael Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne van den Berg, Ivan Titov, Max Welling. "**Modeling Relational Data with Graph Convolutional Networks**". **ESWC 2018**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-93417-4_38) [code](https://github.com/tkipf/relational-gcn)
 
-- **(ConvKB)** Dai Quoc Nguyen, Tu Dinh Nguyen, Dat Quoc Nguyen, Dinh Phung. "**A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network**". **NAACL-HLT 2018**. [paper](https://www.aclweb.org/anthology/N18-2053/) [code](https://github.com/daiquocnguyen/ConvKB)
+- <a name="ConvKB"></a> **(ConvKB)** Dai Quoc Nguyen, Tu Dinh Nguyen, Dat Quoc Nguyen, Dinh Phung. "**A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network**". **NAACL-HLT 2018**. [paper](https://www.aclweb.org/anthology/N18-2053/) [code](https://github.com/daiquocnguyen/ConvKB)
 
 - **(KBGAN)** Liwei Cai, William Yang Wang. "**KBGAN: Adversarial Learning for Knowledge Graph Embeddings**". **NAACL-HLT 2018**. [paper](https://www.aclweb.org/anthology/N18-1133/) [code](https://github.com/cai-lw/KBGAN)
 
@@ -494,7 +494,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 | Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
 |:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2013 | NeurIPS | **TransE<sup>ConvKB</sup>**    | 357 | 29.4 |   -  |    -   |   46.5  |
+| 2013 | NeurIPS | **TransE<sup>[ConvKB](#ConvKB)</sup>**    | 357 | 29.4 |   -  |    -   |   46.5  |
 | 2015 | ICLR    | **DistMult**  | 254 | 24.1 | 15.5 |  26.3  |   41.9  |
 | 2016 | ICML    | **ComplEx**   | 339 | 24.7 | 15.8 |  27.5  |   42.8  |
 | 2018 | ESWC    | **R-GCN+**    |  -  | 24.9 | 15.1 |  26.4  |   41.7  |
