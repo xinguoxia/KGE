@@ -206,7 +206,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Hitoshi Manabe, Katsuhiko Hayashi, Masashi Shimbo. "**Data-Dependent Learning of Symmetric/Antisymmetric Relations for Knowledge Base Completion**". **AAAI 2018**. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16211) [code](https://github.com/mana-ysh/symmetry-learning-kgc)
 
-- **(ConvE)** Tim Dettmers, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel. "**Convolutional 2D Knowledge Graph Embeddings**". **AAAI 2018**. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17366) [code](https://github.com/TimDettmers/ConvE)
+- <a name="ConvE"></a> **(ConvE)** Tim Dettmers, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel. "**Convolutional 2D Knowledge Graph Embeddings**". **AAAI 2018**. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17366) [code](https://github.com/TimDettmers/ConvE)
 
 - **(TorusE)** Takuma Ebisu, Ryutaro Ichise. "**TorusE: Knowledge Graph Embedding on a Lie Group**". **AAAI 2018**. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16227) [code](https://github.com/TakumaE/TorusE)
 
@@ -495,10 +495,10 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 | Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
 |:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
 | 2013 | NeurIPS | **[TransE](#TransE)<sup>[ConvKB](#ConvKB)</sup>**    | 357 | 29.4 |   -  |    -   |   46.5  |
-| 2015 | ICLR    | **DistMult**  | 254 | 24.1 | 15.5 |  26.3  |   41.9  |
-| 2016 | ICML    | **ComplEx**   | 339 | 24.7 | 15.8 |  27.5  |   42.8  |
+| 2015 | ICLR    | **DistMult<sup>[ConvKB](#ConvKB)</sup>**  | 254 | 24.1 | 15.5 |  26.3  |   41.9  |
+| 2016 | ICML    | **ComplEx<sup>[ConvKB](#ConvKB)</sup>**   | 339 | 24.7 | 15.8 |  27.5  |   42.8  |
 | 2018 | ESWC    | **R-GCN+**    |  -  | 24.9 | 15.1 |  26.4  |   41.7  |
-| 2018 | AAAI    | **ConvE**     | 246 | 31.6 | 23.9 |   35   |   49.1  |
+| 2018 | AAAI    | **[ConvE](#ConvE)**     | 246 | 31.6 | 23.9 |   35   |   49.1  |
 | 2019 | ICLR    | **RotatE**    | 185 | 29.7 | 20.5 |  32.8  |   48.0  |
 | 2019 | ICLR    | **a-RotatE**  | 177 | 33.8 | 24.1 |  37.5  |   53.3  |
 | 2019 | ACL     | **D4-STE**    |  -  | 32.0 | 23.0 |  35.3  |   50.2  |
