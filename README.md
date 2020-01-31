@@ -526,7 +526,11 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 | Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
 |:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2013 | NeurIPS | **TransE**    | -    | 0.219  |  -    |   -    |  0.352 |
-| 2015 | EMNLP   | **PTransE**   | -    | 0.304  |  -    |   -    |  0.437 |
-| 2018 | AAAI    | **RUGE**      | -    | 0.318  |  -    |   -    |  0.433 |
-| 2020 | AAAI    | **RPJE**      | -    | 0.361  |  -    |   -    |  0.501 |
+| 2013 | NeurIPS | **TransE**    | -    | 0.219  |  -     |   -    |  0.352 |
+| 2015 | ICLR    | **DistMult**  | -    | -      |  0.610 |  -     |  0.795 |
+| 2015 | EMNLP   | **PTransE**   | -    | 0.304  |  -     |   -    |  0.437 |
+| 2016 | ICML    | **ComplEx**   | -    | -      |  0.612 |  -     |  0.827 |
+| 2018 | AAAI    | **ConvE**     | -    | -      |  0.672 |  -     |  0.864 |
+| 2018 | AAAI    | **RUGE**      | -    | 0.318  |  -     |   -    |  0.433 |
+| 2020 | AAAI    | **RPJE**      | -    | 0.361  |  -     |   -    |  0.501 |
+| 2020 | ICLR    | **ReifKB**    | -    | -      |  0.641 |   -    |  0.824 |
