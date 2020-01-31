@@ -78,7 +78,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - **(SLM/NTN)** Richard Socher, Danqi Chen, Christopher D. Manning, Andrew Y. Ng. "**Reasoning With Neural Tensor Networks for Knowledge Base Completion**". **NIPS 2013**. [paper](http://papers.nips.cc/paper/5028-reasoning-with-neural-tensor-networks-for-knowledge-base-completion) [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips26/reviews/504.html)
 
-- **(TransE)** Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran, Jason Weston, Oksana Yakhnenko. "**Translating Embeddings for Modeling Multi-relational Data**". **NIPS 2013**. [paper](http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data) [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips26/reviews/1282.html)
+- <a name="TransE"></a> **(TransE)** Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran, Jason Weston, Oksana Yakhnenko. "**Translating Embeddings for Modeling Multi-relational Data**". **NIPS 2013**. [paper](http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data) [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips26/reviews/1282.html)
 
 ### 2014
 
@@ -494,7 +494,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 | Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
 |:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2013 | NeurIPS | **TransE<sup>[ConvKB](#ConvKB)</sup>**    | 357 | 29.4 |   -  |    -   |   46.5  |
+| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ConvKB](#ConvKB)</sup>**    | 357 | 29.4 |   -  |    -   |   46.5  |
 | 2015 | ICLR    | **DistMult**  | 254 | 24.1 | 15.5 |  26.3  |   41.9  |
 | 2016 | ICML    | **ComplEx**   | 339 | 24.7 | 15.8 |  27.5  |   42.8  |
 | 2018 | ESWC    | **R-GCN+**    |  -  | 24.9 | 15.1 |  26.4  |   41.7  |
