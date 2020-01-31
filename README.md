@@ -413,11 +413,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 ## Datasets
 
-### Temporal
-
 ### Standard
-
-### Rule
 
 | Dataset   | Entity  | Relation |  Training  |  Validation | Test   |
 |:---------:|:-------:|:--------:|:----------:|:-----------:|:------:|
@@ -433,6 +429,13 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 | NELL-995  | 75,492  | 200      |  123,370   | 15,000      | 15,838 |
 | NELL-995  | 75,492  | 200      |  149,678   | 543         | 3992   |
 | Kinship   | 104     | 25       |  8544      | 1068        | 1074   |
+
+### Rule
+
+### Text
+
+### Temporal
+
 
 ## Performance
 
