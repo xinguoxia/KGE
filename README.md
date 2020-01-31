@@ -413,6 +413,12 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 ## Datasets
 
+### Temporal
+
+### Standard
+
+### Rule
+
 | Dataset   | Entity  | Relation |  Training  |  Validation | Test   |
 |:---------:|:-------:|:--------:|:----------:|:-----------:|:------:|
 | WN11      | 38,696  | 11       |  112,581   | 2,609       | 10,544 |
