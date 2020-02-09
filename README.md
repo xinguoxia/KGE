@@ -326,8 +326,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Zihao Wang, Kwunping Lai, Piji Li, Lidong Bing and Wai Lam. "**Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion**". **EMNLP 2019**. [paper](https://www.aclweb.org/anthology/D19-1024/)
 
-- **(TuckER)** Ivana Balazevic, Carl Allen, Timothy M. Hospedales. "**TuckER: Tensor Factorization for Knowledge Graph Completion**". 
-**EMNLP 2019**. [paper](https://www.aclweb.org/anthology/D19-1522/) [code](https://github.com/ibalazevic/TuckER)
+- <a name="TuckER"></a> **(TuckER)** Ivana Balazevic, Carl Allen, Timothy M. Hospedales. "**TuckER: Tensor Factorization for Knowledge Graph Completion**". **EMNLP 2019**. [paper](https://www.aclweb.org/anthology/D19-1522/) [code](https://github.com/ibalazevic/TuckER)
 
 - Esma Balkir, Masha Naslidnyk, Dave Palfrey and Arpit Mittal. "**Using Pairwise Occurrence Information to Improve Knowledge Graph Completion on Large-Scale Datasets**". **EMNLP 2019**. [paper](https://www.aclweb.org/anthology/D19-1368/)
 
@@ -447,16 +446,16 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 | Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
 |:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ComplEx](#ComplEx)</sup>**     |  -  | 0.454 | 0.089 | 0.823  | 0.934 |
-| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ComplEx](#ComplEx)</sup>** | 902 | 0.822 | 0.728 | 0.914  | 0.936 |
-| 2016 | ICML    | **[ComplEx](#ComplEx)**                                 |  -  | 0.941 | 0.936 | 0.945  | 0.947 |
-| 2018 | AAAI    | **[ConvE](#ConvE)**                                     | 504 | 0.942 | 0.935 | 0.947  | 0.955 |
+| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ComplEx](#ComplEx)</sup>**     |  -  | 0.454 | 0.089 | 0.823 | 0.934 |
+| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ComplEx](#ComplEx)</sup>** | 902 | 0.822 | 0.728 | 0.914 | 0.936 |
+| 2016 | ICML    | **[ComplEx](#ComplEx)**                                 |  -  | 0.941 | 0.936 | 0.945 | 0.947 |
+| 2018 | AAAI    | **[ConvE](#ConvE)**                                     | 504 | 0.942 | 0.935 | 0.947 | 0.955 |
 | 2018 | ESWC    | **R-GCN+**    |  -  | 81.9 | 69.7 |  92.9  |   96.4  |
 | 2018 | NeurIPS | **SimplE**    |  -  | 94.2 | 93.9 |  94.4  |   94.7  |
-| 2019 | ICLR    | **[RotatE](#RotatE)**                                   | 309 | 0.949 | 0.944 | 0.952  | 0.959 |
+| 2019 | ICLR    | **[RotatE](#RotatE)**                                   | 309 | 0.949 | 0.944 | 0.952 | 0.959 |
 | 2019 | ACL     | **D4-STE**    |  -  | 94.6 | 94.2 |  94.8  |   95.2  |
 | 2019 | ACL     | **D4-Gumbel** |  -  | 94.6 | 94.2 |  94.9  |   95.4  |
-| 2019 | EMNLP   | **TuckER**    |   - | 95.3 | 94.9 |  95.5  |   95.8  |
+| 2019 | EMNLP   | **[TuckER](#TuckER)**                                   |   - | 0.953 | 0.949 | 0.955 | 0.958 |
 
 #### WN18RR
 
@@ -469,8 +468,8 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 | 2019 | ICLR    | **[RotatE](#RotatE)**                                | 3340 | 0.476 | 0.428 | 0.492 | 0.571 |
 | 2019 | ACL     | **D4-STE**    |   -  | 48.0 | 45.2 |  49.1  |   53.6  |
 | 2019 | ACL     | **D4-Gumbel** |   -  | 48.6 | 44.2 |  50.5  |   55.7  |
-| 2019 | EMNLP   | **TuckER**    |   -  | 47.0 | 44.3 |  48.2  |   52.6  |
-| 2020 | AAAI    | **[HAKE](#HAKE)**      |   -  | 0.497 | 0.452 |  0.516  |  0.582  |
+| 2019 | EMNLP   | **[TuckER](#TuckER)**                                |   -  | 0.470 | 0.443 | 0.482 | 0.526 |
+| 2020 | AAAI    | **[HAKE](#HAKE)**                                    |   -  | 0.497 | 0.452 | 0.516 | 0.582 |
 | 2020 | AAAI    | **InteractE** | 5203 | 46.3 | 43.0 |  -     |   52.8  |
 
 #### FB15K
@@ -486,7 +485,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 | 2019 | ICLR    | **[RotatE](#RotatE)**                                    | 40 | 0.797 | 0.746 | 0.830 | 0.884 |
 | 2019 | ACL     | **D4-STE**    |   -   | 73.3 | 64.1 |   80.3 |   87.7  |
 | 2019 | ACL     | **D4-Gumbel** |   -   | 72.8 | 64.8 |   78.2 |   86.4  |
-| 2019 | EMNLP   | **TuckER**    |   -   | 79.5 | 74.1 |   83.3 |   89.2  |
+| 2019 | EMNLP   | **[TuckER](#TuckER)**                                    | -  | 0.795 | 0.741 | 0.833 | 0.892 |
 
 #### FB15K-237
 
@@ -500,8 +499,8 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 | 2019 | ICLR    | **[RotatE](#RotatE)**                                | 177 | 0.338 | 0.241 | 0.375 | 0.533 |
 | 2019 | ACL     | **D4-STE**    |  -  | 32.0 | 23.0 |  35.3  |   50.2  |
 | 2019 | ACL     | **D4-Gumbel** |  -  | 30.0 | 20.4 |  33.2  |   49.6  |
-| 2019 | EMNLP   | **TuckER**    |  -  | 35.8 | 26.6 |  39.4  |   54.4  |
-| 2020 | AAAI    | **[HAKE](#HAKE)**      |  -  | 0.346 | 0.250 |  0.381  |   0.542  |
+| 2019 | EMNLP   | **[TuckER](#TuckER)**                                |  -  | 0.358 | 0.266 | 0.394 | 0.544 |
+| 2020 | AAAI    | **[HAKE](#HAKE)**                                    |  -  | 0.346 | 0.250 | 0.381 | 0.542 |
 | 2020 | AAAI    | **InteractE** | 172 | 35.4 | 26.3 |  -     |   53.5  |
 
 #### YAGO3-10
