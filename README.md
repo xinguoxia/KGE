@@ -407,7 +407,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - **(InteractE)** Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Nilesh Agrawal, Partha Talukdar. "**InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions**". **AAAI 2020**. [paper](https://arxiv.org/abs/1911.00219) [code](https://github.com/malllabiisc/InteractE) [supp](https://shikhar-vashishth.github.io/assets/pdf/interacte_supp.pdf)
 
-- **(HAKE)** Zhanqiu Zhang, Jianyu Cai, Yongdong Zhang, Jie Wang. "**Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction**". **AAAI 2020**. [paper](https://arxiv.org/abs/1911.09419) [code](https://github.com/MIRALab-USTC/KGE-HAKE)
+- <a name="RotatE"></a> **(HAKE)** Zhanqiu Zhang, Jianyu Cai, Yongdong Zhang, Jie Wang. "**Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction**". **AAAI 2020**. [paper](https://arxiv.org/abs/1911.09419) [code](https://github.com/MIRALab-USTC/KGE-HAKE)
 
 - **(FSRL)** Chuxu Zhang, Huaxiu Yao, Chao Huang, Meng Jiang, Zhenhui Li, Nitesh V. Chawla. "**Few-Shot Knowledge Graph Completion**". **AAAI 2020**. [paper](https://arxiv.org/abs/1911.11298)
 
@@ -472,8 +472,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 | 2019 | ACL     | **D4-STE**    |   -  | 48.0 | 45.2 |  49.1  |   53.6  |
 | 2019 | ACL     | **D4-Gumbel** |   -  | 48.6 | 44.2 |  50.5  |   55.7  |
 | 2019 | EMNLP   | **TuckER**    |   -  | 47.0 | 44.3 |  48.2  |   52.6  |
-| 2020 | AAAI    | **ModE**      |   -  | 47.2 | 42.7 |  48.6  |   56.4  |
-| 2020 | AAAI    | **HAKE**      |   -  | 49.7 | 45.2 |  51.6  |   58.2  |
+| 2020 | AAAI    | **[HAKE](#HAKE)**      |   -  | 0.497 | 0.452 |  0.516  |  0.582  |
 | 2020 | AAAI    | **InteractE** | 5203 | 46.3 | 43.0 |  -     |   52.8  |
 
 #### FB15K
@@ -506,23 +505,21 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 | 2019 | ACL     | **D4-STE**    |  -  | 32.0 | 23.0 |  35.3  |   50.2  |
 | 2019 | ACL     | **D4-Gumbel** |  -  | 30.0 | 20.4 |  33.2  |   49.6  |
 | 2019 | EMNLP   | **TuckER**    |  -  | 35.8 | 26.6 |  39.4  |   54.4  |
-| 2020 | AAAI    | **ModE**      |  -  | 34.1 | 24.4 |  38.0  |   53.4  |
-| 2020 | AAAI    | **HAKE**      |  -  | 34.6 | 25.0 |  38.1  |   54.2  |
+| 2020 | AAAI    | **[HAKE](#HAKE)**      |  -  | 0.346 | 0.250 |  0.381  |   0.542  |
 | 2020 | AAAI    | **InteractE** | 172 | 35.4 | 26.3 |  -     |   53.5  |
 
 #### YAGO3-10
 
 | Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
 |:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2015 | ICLR    | **DistMult**   | 5926 | 0.34  |  0.24  |  0.38  |  0.54  |
-| 2016 | ICML    | **ComplEx**    | 6351 | 0.36  |  0.26  |  0.40  |  0.55  |
-| 2018 | AAAI    | **ConvE**      | 1671 | 0.44  |  0.35  |  0.49  |  0.62  |
+| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ConvE](#ConvE)</sup>**   | 5926 | 0.34  |  0.24  |  0.38  |  0.54  |
+| 2016 | ICML    | **[ComplEx](#ComplEx)<sup>[ConvE](#ConvE)</sup>**    | 6351 | 0.36  |  0.26  |  0.40  |  0.55  |
+| 2018 | AAAI    | **[ConvE](#ConvE)**      | 2792 | 0.52  |  0.45  |  0.56  |  0.66  |
 | 2018 | ACL     | **ComplEx-N3** | -    | 0.58  |  -     |  -     |  0.71  |
 | 2019 | ACL     | **D4-STE**    |   -   | 0.472 |  0.381 |  0.523 |  0.643 |
 | 2019 | ACL     | **D4-Gumbel** |   -   | 0.388 |  0.294 |  0.436 |  0.573 |
 | 2019 | ICLR    | **RotatE**     | 1767 | 0.495 |  0.402 |  0.550 |  0.670 |
-| 2020 | AAAI    | **ModE**       |  -   | 0.510 |  0.421 |  0.562 |  0.660 |
-| 2020 | AAAI    | **HAKE**       |  -   | 0.545 |  0.462 |  0.596 |  0.694 |
+| 2020 | AAAI    | **[HAKE](#HAKE)**       |  -   | 0.545 |  0.462 |  0.596 |  0.694 |
 | 2020 | AAAI    | **InteractE**  | 2375 | 0.541 |  0.462 |  -     |  0.687 |
 | 2020 | ICLR    | **DPMPN**      | -    | 0.553 |  0.484 |  0.595 |  0.679 |
 
