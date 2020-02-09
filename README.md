@@ -453,8 +453,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 | 2018 | AAAI    | **[ConvE](#ConvE)**                                     | 504 | 0.942 | 0.935 | 0.947  | 0.955 |
 | 2018 | ESWC    | **R-GCN+**    |  -  | 81.9 | 69.7 |  92.9  |   96.4  |
 | 2018 | NeurIPS | **SimplE**    |  -  | 94.2 | 93.9 |  94.4  |   94.7  |
-| 2019 | ICLR    | **RotatE**    | 194 | 94.7 | 93.8 |  95.3  |   96.1  |
-| 2019 | ICLR    | **a-RotatE**  | 309 | 94.9 | 94.4 |  95.2  |   95.9  |
+| 2019 | ICLR    | **[RotatE](#RotatE)**                                   | 309 | 0.949 | 0.944 | 0.952  | 0.959 |
 | 2019 | ACL     | **D4-STE**    |  -  | 94.6 | 94.2 |  94.8  |   95.2  |
 | 2019 | ACL     | **D4-Gumbel** |  -  | 94.6 | 94.2 |  94.9  |   95.4  |
 | 2019 | EMNLP   | **TuckER**    |   - | 95.3 | 94.9 |  95.5  |   95.8  |
@@ -467,8 +466,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 | 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ConvE](#ConvE)</sup>**  | 5110 | 0.43  | 0.39  | 0.44  | 0.49  |
 | 2016 | ICML    | **[ComplEx](#ComplEx)<sup>[ConvE](#ConvE)</sup>**    | 5261 | 0.44  | 0.41  | 0.46  | 0.51  |
 | 2018 | AAAI    | **[ConvE](#ConvE)**                                  | 5277 | 0.46  | 0.39  | 0.43  | 0.48  |
-| 2019 | ICLR    | **RotatE**    | 3277 | 47.0 | 42.2 |  48.8  |   56.5  |
-| 2019 | ICLR    | **a-RotatE**  | 3340 | 47.6 | 42.8 |  49.2  |   57.1  |
+| 2019 | ICLR    | **[RotatE](#RotatE)**                                | 3340 | 0.476 | 0.428 | 0.492 | 0.571 |
 | 2019 | ACL     | **D4-STE**    |   -  | 48.0 | 45.2 |  49.1  |   53.6  |
 | 2019 | ACL     | **D4-Gumbel** |   -  | 48.6 | 44.2 |  50.5  |   55.7  |
 | 2019 | EMNLP   | **TuckER**    |   -  | 47.0 | 44.3 |  48.2  |   52.6  |
@@ -479,14 +477,13 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 | Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
 |:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ComplEx](#ComplEx)</sup>**      |  -  | 0.380 | 0.231 | 0.472 | 0.641 |
-| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ComplEx](#ComplEx)</sup>**  |  97 | 0.654 | 0.546 | 0.733 | 0.824 |
-| 2016 | ICML    | **[ComplEx](#ComplEx)**                                  |  -  | 0.692 | 0.599 | 0.759 | 0.840 |
-| 2018 | AAAI    | **[ConvE](#ConvE)**                                     |  64 | 0.745 | 0.670 | 0.801 | 0.873 |
+| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ComplEx](#ComplEx)</sup>**      | -  | 0.380 | 0.231 | 0.472 | 0.641 |
+| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ComplEx](#ComplEx)</sup>**  | 97 | 0.654 | 0.546 | 0.733 | 0.824 |
+| 2016 | ICML    | **[ComplEx](#ComplEx)**                                  | -  | 0.692 | 0.599 | 0.759 | 0.840 |
+| 2018 | AAAI    | **[ConvE](#ConvE)**                                      | 64 | 0.745 | 0.670 | 0.801 | 0.873 |
 | 2018 | ESWC    | **R-GCN+**    |   -   | 69.6 | 60.1 |  76.0  |   84.2  |
 | 2018 | NeurIPS | **SimplE**    |   -   | 72.7 | 66.0 |  77.3  |   83.8  |
-| 2019 | ICLR    | **RotatE**    |   32  | 69.9 | 58.5 |  78.8  |   87.2  |
-| 2019 | ICLR    | **a-RotatE**  |   40  | 79.7 | 74.6 |  83.0  |   88.4  |
+| 2019 | ICLR    | **[RotatE](#RotatE)**                                    | 40 | 0.797 | 0.746 | 0.830 | 0.884 |
 | 2019 | ACL     | **D4-STE**    |   -   | 73.3 | 64.1 |   80.3 |   87.7  |
 | 2019 | ACL     | **D4-Gumbel** |   -   | 72.8 | 64.8 |   78.2 |   86.4  |
 | 2019 | EMNLP   | **TuckER**    |   -   | 79.5 | 74.1 |   83.3 |   89.2  |
@@ -500,8 +497,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 | 2016 | ICML    | **[ComplEx](#ComplEx)<sup>[ConvE](#ConvE)</sup>**    | 339 | 0.247 | 0.158 | 0.275 | 0.428 |
 | 2018 | ESWC    | **R-GCN+**    |  -  | 24.9 | 15.1 |  26.4  |   41.7  |
 | 2018 | AAAI    | **[ConvE](#ConvE)**                                  | 246 | 0.316 | 0.239 | 0.350 | 0.491 |
-| 2019 | ICLR    | **RotatE**    | 185 | 29.7 | 20.5 |  32.8  |   48.0  |
-| 2019 | ICLR    | **a-RotatE**  | 177 | 33.8 | 24.1 |  37.5  |   53.3  |
+| 2019 | ICLR    | **[RotatE](#RotatE)**                                | 177 | 0.338 | 0.241 | 0.375 | 0.533 |
 | 2019 | ACL     | **D4-STE**    |  -  | 32.0 | 23.0 |  35.3  |   50.2  |
 | 2019 | ACL     | **D4-Gumbel** |  -  | 30.0 | 20.4 |  33.2  |   49.6  |
 | 2019 | EMNLP   | **TuckER**    |  -  | 35.8 | 26.6 |  39.4  |   54.4  |
@@ -512,14 +508,14 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 | Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
 |:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ConvE](#ConvE)</sup>**   | 5926 | 0.34  |  0.24  |  0.38  |  0.54  |
-| 2016 | ICML    | **[ComplEx](#ComplEx)<sup>[ConvE](#ConvE)</sup>**    | 6351 | 0.36  |  0.26  |  0.40  |  0.55  |
-| 2018 | AAAI    | **[ConvE](#ConvE)**      | 2792 | 0.52  |  0.45  |  0.56  |  0.66  |
+| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ConvE](#ConvE)</sup>**   | 5926 | 0.34  | 0.24  | 0.38  | 0.54  |
+| 2016 | ICML    | **[ComplEx](#ComplEx)<sup>[ConvE](#ConvE)</sup>**     | 6351 | 0.36  | 0.26  | 0.40  | 0.55  |
+| 2018 | AAAI    | **[ConvE](#ConvE)**                                   | 2792 | 0.52  | 0.45  | 0.56  | 0.66  |
 | 2018 | ACL     | **ComplEx-N3** | -    | 0.58  |  -     |  -     |  0.71  |
 | 2019 | ACL     | **D4-STE**    |   -   | 0.472 |  0.381 |  0.523 |  0.643 |
 | 2019 | ACL     | **D4-Gumbel** |   -   | 0.388 |  0.294 |  0.436 |  0.573 |
-| 2019 | ICLR    | **RotatE**     | 1767 | 0.495 |  0.402 |  0.550 |  0.670 |
-| 2020 | AAAI    | **[HAKE](#HAKE)**       |  -   | 0.545 |  0.462 |  0.596 |  0.694 |
+| 2019 | ICLR    | **[RotatE](#RotatE)**                                 | 1767 | 0.495 | 0.402 | 0.550 | 0.670 |
+| 2020 | AAAI    | **[HAKE](#HAKE)**                                     |  -   | 0.545 | 0.462 | 0.596 | 0.694 |
 | 2020 | AAAI    | **InteractE**  | 2375 | 0.541 |  0.462 |  -     |  0.687 |
 | 2020 | ICLR    | **DPMPN**      | -    | 0.553 |  0.484 |  0.595 |  0.679 |
 
