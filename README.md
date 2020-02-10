@@ -372,8 +372,6 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 -	**(TransEAML)** Mojtaba Nayyeri, Xiaotian Zhou, Sahar Vahdati, Hamed Shariat Yazdi, Jens Lehmann. "**Adaptive Margin Ranking Loss for Knowledge Graph Embeddings via a Correntropy Objective Function**". **arxiv 2019-07**. [paper](https://arxiv.org/abs/1907.05336)
 
-- Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **arxiv 2019-07**. [paper](https://arxiv.org/abs/1907.03143) [code](https://github.com/BorealisAI/DE-SimplE)
-
 - **(MDE)** Afshin Sadeghi, Damien Graux, Jens Lehmann. "**MDE: Multi Distance Embeddings for Link Prediction in Knowledge Graphs**"". **arxiv 2019-05**. [paper](https://arxiv.org/abs/1905.10702)
 
 - Jinkui Yao, Lianghua Xu. "**Knowledge Graph Embedding Bi-Vector Models for Symmetric Relation**". **arxiv 2019-05**. [paper](https://arxiv.org/abs/1905.09557)
@@ -413,6 +411,23 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 - **(RPJE)** Guanglin Niu, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li, Xiaowei Zhang. "**Rule-Guided Compositional Representation Learning on Knowledge Graphs**". **AAAI 2020**. [paper](https://arxiv.org/abs/1911.08935)
 
 - **(R2D2)** Marcel Hildebrandt, Jorge Andres Quintero Serna, Yunpu Ma, Martin Ringsquandl, Mitchell Joblin, Volker Tresp. "**Reasoning on Knowledge Graphs with Debate Dynamics**". **AAAI 2020**. [paper](https://arxiv.org/abs/2001.00461)
+
+- **(Triple2Vec)** Valeria Fionda, Giuseppe Pirrò. "**Triple2Vec: Learning Triple Embeddings from Knowledge Graphs**". **AAAI 2020**.[paper](https://arxiv.org/abs/1905.11691)
+
+-	Feihu Che, Dawei Zhang, Jianhua Tao, Mingyue Niu, Bocheng Zhao. "**ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion**". **AAAI 2020**
+
+-	**(GNTPs)** Pasquale Minervini, Matko Bosnjak, Tim Rocktäschel, Sebastian Riedel, Edward Grefenstette. "**Differentiable Reasoning on Large Knowledge Bases and Natural Language**". **AAAI 2020**. [paper]( https://arxiv.org/abs/1912.10824)
+
+-	Zhao Zhang, Fuzhen Zhuang, Hengshu Zhu, Zhiping Shi, Hui Xiong, Qing He. "**Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion**". **AAAI 2020**
+
+-	Pengda Qin, Xin Wang, Wenhu Chen, Chunyun Zhang, Weiran Xu, William Yang Wang. "**Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs**". **AAAI 2020**. [paper]( https://arxiv.org/abs/2001.02332)
+
+- George Stoica, Otilia Stretcu, Anthony Platanios, Tom Mitchell, Barnabas Poczos. "**Contextual Parameter Generation for Knowledge Graph Link Prediction**". **AAAI 2020**
+
+- Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **arxiv 2019-07**. [paper](https://arxiv.org/abs/1907.03143) [code](https://github.com/BorealisAI/DE-SimplE)
+
+-	Chaitanya Malaviya, Chandra Bhagavatula, Antoine Bosselut, Yejin Choi. "**Commonsense Knowledge Base Completion with Structural and Semantic Context**". **AAAI 2020**
+
 
 ## Datasets
 
