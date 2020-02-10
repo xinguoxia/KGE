@@ -412,6 +412,8 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - **(RPJE)** Guanglin Niu, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li, Xiaowei Zhang. "**Rule-Guided Compositional Representation Learning on Knowledge Graphs**". **AAAI 2020**. [paper](https://arxiv.org/abs/1911.08935)
 
+- **(R2D2)** Marcel Hildebrandt, Jorge Andres Quintero Serna, Yunpu Ma, Martin Ringsquandl, Mitchell Joblin, Volker Tresp. "**Reasoning on Knowledge Graphs with Debate Dynamics**". **AAAI 2020**. [paper](https://arxiv.org/abs/2001.00461)
+
 ## Datasets
 
 ### Standard
