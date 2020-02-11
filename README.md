@@ -454,6 +454,12 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 ### Temporal
 
+| Dataset     | Entities | Relations | Time Steps | Time Span | Training | Validation | Test   |
+|:-----------:|:--------:|:---------:|:----------:|:---------:|:--------:|:----------:|:------:|
+| ICEWS14     | 6,869    | 230       | 365        | 2014      | 72,826   | 8,941      | 8,963  |
+| ICEWS05-15  | 10,094   | 251       | 4,017      | 2005-2015 | 368,962  | 46,275     | 46,092 |
+| YAGO11k     | 10,623   | 10        | 70         | -453-2844 | 16,408   | 2,050      | 2,051  |
+| Wikidata12k | 12,554   | 24        | 81         | 1709-2018 | 32,497   | 4,062      | 4,062  |
 
 ## Performance
 
