@@ -581,6 +581,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 | Year | Source | Methods    |  MR |  MRR  | Hits@1 | Hits@3 | Hits@10 |
 |:----:|:------:|:----------:|:---:|:-----:|:------:|:------:|:-------:|
-| 2020 | AAAI   | **[DE-SimplE](#DE-SimplE)<sup>[TNTComplEx](#TNTComplEx)</sup>**  | -   | 0.230 | 0.141  | 0.248  | 0.403   |
+| 2020 | EMNLP | **[TA-DistMult](#TA-DistMult)<sup>[DE-SinplE](#DE-SimplE)</sup>** | - | 0.206 | 0.124 | 0.219 | 0.365 |
+| 2020 | AAAI | **[DE-SimplE](#DE-SimplE)** | - | 0.230 | 0.141 | 0.248 | 0.403 |
 
 
