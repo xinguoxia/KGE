@@ -234,9 +234,9 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - **(MultiHopKG)** Xi Victoria Lin, Richard Socher, Caiming Xiong. "**Multi-Hop Knowledge Graph Reasoning with Reward Shaping**". **EMNLP 2018**. [paper](https://www.aclweb.org/anthology/D18-1362/) [code](https://github.com/salesforce/MultiHopKG)
 
-- Alberto Garcia-Duran, Sebastijan Dumančić, Mathias Niepert. "**Learning Sequence Encoders for Temporal Knowledge Graph Completion**". **EMNLP 2018**. [paper](https://www.aclweb.org/anthology/D18-1516/) [dataset](https://github.com/nle-ml/mmkb)
+- <a name="TA-DistMult"></a> Alberto Garcia-Duran, Sebastijan Dumančić, Mathias Niepert. "**Learning Sequence Encoders for Temporal Knowledge Graph Completion**". **EMNLP 2018**. [paper](https://www.aclweb.org/anthology/D18-1516/) [dataset](https://github.com/nle-ml/mmkb)
 
-- **(HyTE)** Shib Sankar Dasgupta, Swayambhu Nath Ray, Partha Talukdar. "**HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding**". **EMNLP 2018**. [paper](https://www.aclweb.org/anthology/D18-1225/) [code](https://github.com/malllabiisc/HyTE)
+- <a name="HyTE"></a> **(HyTE)** Shib Sankar Dasgupta, Swayambhu Nath Ray, Partha Talukdar. "**HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding**". **EMNLP 2018**. [paper](https://www.aclweb.org/anthology/D18-1225/) [code](https://github.com/malllabiisc/HyTE)
 
 - **(TransC)** Xin Lv, Lei Hou, Juanzi Li, Zhiyuan Liu. "**Differentiating Concepts and Instances for Knowledge Graph Embedding**". **EMNLP 2018**. [paper](https://www.aclweb.org/anthology/D18-1222/) [code](https://github.com/davidlvxin/TransC)
 
@@ -394,7 +394,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Pedro Tabacof, Luca Costabello. "**Probability Calibration for Knowledge Graph Embedding Models**". **ICLR 2020**. [paper](https://openreview.net/forum?id=S1g8K1BFwS) 
 
-- **(TComplEx)** Timothée Lacroix, Guillaume Obozinski, Nicolas Usunier. "**Tensor Decompositions for Temporal Knowledge Base Completion**". **ICLR 2020**. [paper](https://openreview.net/forum?id=rke2P1BFwS) 
+- <a name="TComplEx"></a> **(TComplEx)** Timothée Lacroix, Guillaume Obozinski, Nicolas Usunier. "**Tensor Decompositions for Temporal Knowledge Base Completion**". **ICLR 2020**. [paper](https://openreview.net/forum?id=rke2P1BFwS) 
 
 - **(Q2B)** Hongyu Ren, Weihua Hu, Jure Leskovec. "**Query2box: Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings**". **ICLR 2020**. [paper](https://openreview.net/forum?id=BJgr4kSFDS)  
 
@@ -424,7 +424,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - George Stoica, Otilia Stretcu, Anthony Platanios, Tom Mitchell, Barnabas Poczos. "**Contextual Parameter Generation for Knowledge Graph Link Prediction**". **AAAI 2020**
 
-- Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **AAAI 2020**. [paper](https://arxiv.org/abs/1907.03143) [code](https://github.com/BorealisAI/DE-SimplE)
+- <a name="DE-SimplE"></a> **(DE-SimplE)** Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **AAAI 2020**. [paper](https://arxiv.org/abs/1907.03143) [code](https://github.com/BorealisAI/DE-SimplE)
 
 -	Chaitanya Malaviya, Chandra Bhagavatula, Antoine Bosselut, Yejin Choi. "**Commonsense Knowledge Base Completion with Structural and Semantic Context**". **AAAI 2020**
 
@@ -554,3 +554,33 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 | 2018 | AAAI    | **RUGE**      | -    | 0.318  |  -     |   -    |  0.433 |
 | 2020 | AAAI    | **RPJE**      | -    | 0.361  |  -     |   -    |  0.501 |
 | 2020 | ICLR    | **ReifKB**    | -    | -      |  0.641 |   -    |  0.824 |
+
+#### ICEWS14
+
+| Year | Source | Methods     |  MR |  MRR  | Hits@1 | Hits@3 | Hits@10 |
+|:----:|:------:|:-----------:|:---:|:-----:|:------:|:------:|:-------:|
+| 2018 | EMNLP  | [TA-DistMult](TA-DistMult) | 276 | 0.477 | 0.363  | -      | 0.686   |
+| 2020 | AAAI   | [DE-SimplE](#DE-SimplE)   | -   | 0.526 | 0.418  | 0.592  | 0.725   |
+| 2020 | ICLR   | [TNTComplEx](#TNTComplEx)  | -   | 0.56  | 0.46   | 0.61   | 0.74    |
+
+#### ICEWS15-05
+
+| Year | Source | Methods    |  MR |  MR R | Hits@1 | Hits@3 | Hits@10 |
+|:----:|:------:|:----------:|:---:|:-----:|:------:|:------:|:-------:|
+| 2018 | EMNLP  | [TA-DistMult]( | 276 | 0.477 | 0.363  | -      | 0.686   |
+| 2020 | AAAI   | [DE-SimplE](#DE-SimplE)  | -   | 0.513 | 0.392  | 0.578  | 0.748   |
+| 2020 | ICLR   | [TNTComplEx](#TNTComplEx) | -   | 0.60  | 0.50   | 0.65   | 0.78    |
+
+#### YAGO15K
+
+| Year | Source | Methods    |  MR |  MRR | Hits@1 | Hits@3 | Hits@10 |
+|:----:|:------:|:----------:|:---:|:----:|:------:|:------:|:-------:|
+| 2020 | ICLR   | [TNTComplEx](#TNTComplEx) | -   | 0.35 | 0.28   | 0.35   | 0.52    |
+
+#### GDELT
+
+| Year | Source | Methods    |  MR |  MRR  | Hits@1 | Hits@3 | Hits@10 |
+|:----:|:------:|:----------:|:---:|:-----:|:------:|:------:|:-------:|
+| 2020 | AAAI   | [DE-SimplE](#DE-SimplE)<sup>[TNTComplEx](#TNTComplEx)</sup>**  | -   | 0.230 | 0.141  | 0.248  | 0.403   |
+
+
