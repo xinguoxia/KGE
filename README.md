@@ -559,28 +559,28 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 | Year | Source | Methods     |  MR |  MRR  | Hits@1 | Hits@3 | Hits@10 |
 |:----:|:------:|:-----------:|:---:|:-----:|:------:|:------:|:-------:|
-| 2018 | EMNLP  | [TA-DistMult](TA-DistMult) | 276 | 0.477 | 0.363  | -      | 0.686   |
-| 2020 | AAAI   | [DE-SimplE](#DE-SimplE)   | -   | 0.526 | 0.418  | 0.592  | 0.725   |
-| 2020 | ICLR   | [TNTComplEx](#TNTComplEx)  | -   | 0.56  | 0.46   | 0.61   | 0.74    |
+| 2018 | EMNLP  | **[TA-DistMult](TA-DistMult)** | 276 | 0.477 | 0.363  | -      | 0.686   |
+| 2020 | AAAI   | **[DE-SimplE](#DE-SimplE)**    | -   | 0.526 | 0.418  | 0.592  | 0.725   |
+| 2020 | ICLR   | **[TNTComplEx](#TNTComplEx)**  | -   | 0.56  | 0.46   | 0.61   | 0.74    |
 
 #### ICEWS15-05
 
 | Year | Source | Methods    |  MR |  MR R | Hits@1 | Hits@3 | Hits@10 |
 |:----:|:------:|:----------:|:---:|:-----:|:------:|:------:|:-------:|
-| 2018 | EMNLP  | [TA-DistMult]( | 276 | 0.477 | 0.363  | -      | 0.686   |
-| 2020 | AAAI   | [DE-SimplE](#DE-SimplE)  | -   | 0.513 | 0.392  | 0.578  | 0.748   |
-| 2020 | ICLR   | [TNTComplEx](#TNTComplEx) | -   | 0.60  | 0.50   | 0.65   | 0.78    |
+| 2018 | EMNLP  | **[TA-DistMult](**    | 276 | 0.477 | 0.363  | -      | 0.686   |
+| 2020 | AAAI   | **[DE-SimplE](#DE-SimplE)**   | -   | 0.513 | 0.392  | 0.578  | 0.748   |
+| 2020 | ICLR   | **[TNTComplEx](#TNTComplEx)** | -   | 0.60  | 0.50   | 0.65   | 0.78    |
 
 #### YAGO15K
 
 | Year | Source | Methods    |  MR |  MRR | Hits@1 | Hits@3 | Hits@10 |
 |:----:|:------:|:----------:|:---:|:----:|:------:|:------:|:-------:|
-| 2020 | ICLR   | [TNTComplEx](#TNTComplEx) | -   | 0.35 | 0.28   | 0.35   | 0.52    |
+| 2020 | ICLR   | **[TNTComplEx](#TNTComplEx)**  | -   | 0.35 | 0.28   | 0.35   | 0.52    |
 
 #### GDELT
 
 | Year | Source | Methods    |  MR |  MRR  | Hits@1 | Hits@3 | Hits@10 |
 |:----:|:------:|:----------:|:---:|:-----:|:------:|:------:|:-------:|
-| 2020 | AAAI   | [DE-SimplE](#DE-SimplE)<sup>[TNTComplEx](#TNTComplEx)</sup>**  | -   | 0.230 | 0.141  | 0.248  | 0.403   |
+| 2020 | AAAI   | **[DE-SimplE](#DE-SimplE)<sup>[TNTComplEx](#TNTComplEx)</sup>**  | -   | 0.230 | 0.141  | 0.248  | 0.403   |
 
 
