@@ -555,11 +555,20 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 | 2020 | AAAI    | **RPJE**      | -    | 0.361  |  -     |   -    |  0.501 |
 | 2020 | ICLR    | **ReifKB**    | -    | -      |  0.641 |   -    |  0.824 |
 
+#### GDELT
+
+| Year | Source | Methods    |  MR |  MRR  | Hits@1 | Hits@3 | Hits@10 |
+|:----:|:------:|:----------:|:---:|:-----:|:------:|:------:|:-------:|
+| 2018 | EMNLP | **[TA-DistMult](#TA-DistMult)<sup>[DE-SinplE](#DE-SimplE)</sup>** | - | 0.206 | 0.124 | 0.219 | 0.365 |
+| 2018 | EMNLP  | **[HyTE](#HyTE)<sup>[DE-SinplE](#DE-SimplE)</sup>** | - | 0.118 | 0.0 | 0.165 | 0.326 |
+| 2020 | AAAI | **[DE-SimplE](#DE-SimplE)** | - | 0.230 | 0.141 | 0.248 | 0.403 |
+
 #### ICEWS14
 
 | Year | Source | Methods     |  MR |  MRR  | Hits@1 | Hits@3 | Hits@10 |
 |:----:|:------:|:-----------:|:---:|:-----:|:------:|:------:|:-------:|
-| 2018 | EMNLP  | **[TA-DistMult](TA-DistMult)** | 276 | 0.477 | 0.363  | -      | 0.686   |
+| 2018 | EMNLP  | **[TA-DistMult](#TA-DistMult)** | 276 | 0.477 | 0.363  | -      | 0.686   |
+| 2018 | EMNLP  | **[HyTE](#HyTE)<sup>[DE-SinplE](#DE-SimplE)</sup>** | - | 0.297 | 0.108 | 0.416 | 0.655 |
 | 2020 | AAAI   | **[DE-SimplE](#DE-SimplE)**    | -   | 0.526 | 0.418  | 0.592  | 0.725   |
 | 2020 | ICLR   | **[TNTComplEx](#TNTComplEx)**  | -   | 0.56  | 0.46   | 0.61   | 0.74    |
 
@@ -567,7 +576,8 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 | Year | Source | Methods    |  MR |  MR R | Hits@1 | Hits@3 | Hits@10 |
 |:----:|:------:|:----------:|:---:|:-----:|:------:|:------:|:-------:|
-| 2018 | EMNLP  | **[TA-DistMult](**    | 276 | 0.477 | 0.363  | -      | 0.686   |
+| 2018 | EMNLP  | **[TA-DistMult](#TA-DistMult)** | 98 | 0.474 | 0.346  | - | 0.728 |
+| 2018 | EMNLP  | **[HyTE](#HyTE)<sup>[DE-SinplE](#DE-SimplE)</sup>** | - | 0.316 | 0.116 | 0.445 | 0.681 |
 | 2020 | AAAI   | **[DE-SimplE](#DE-SimplE)**   | -   | 0.513 | 0.392  | 0.578  | 0.748   |
 | 2020 | ICLR   | **[TNTComplEx](#TNTComplEx)** | -   | 0.60  | 0.50   | 0.65   | 0.78    |
 
@@ -575,13 +585,12 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 | Year | Source | Methods    |  MR |  MRR | Hits@1 | Hits@3 | Hits@10 |
 |:----:|:------:|:----------:|:---:|:----:|:------:|:------:|:-------:|
-| 2020 | ICLR   | **[TNTComplEx](#TNTComplEx)**  | -   | 0.35 | 0.28   | 0.35   | 0.52    |
+| 2018 | EMNLP  | **[TA-DistMult](TA-DistMult)** | 551 | 0.291 | 0.216 | -    | 0.476 |
+| 2020 | ICLR   | **[TNTComplEx](#TNTComplEx)**  | -   | 0.35  | 0.28  | 0.35 | 0.52  |
 
-#### GDELT
+#### WikiDATA
 
-| Year | Source | Methods    |  MR |  MRR  | Hits@1 | Hits@3 | Hits@10 |
-|:----:|:------:|:----------:|:---:|:-----:|:------:|:------:|:-------:|
-| 2020 | EMNLP | **[TA-DistMult](#TA-DistMult)<sup>[DE-SinplE](#DE-SimplE)</sup>** | - | 0.206 | 0.124 | 0.219 | 0.365 |
-| 2020 | AAAI | **[DE-SimplE](#DE-SimplE)** | - | 0.230 | 0.141 | 0.248 | 0.403 |
-
+| Year | Source | Methods     |  MR |  MRR  | Hits@1 | Hits@3 | Hits@10 |
+|:----:|:------:|:-----------:|:---:|:-----:|:------:|:------:|:-------:|
+| 2018 | EMNLP  | **[TA-DistMult](TA-DistMult)** | 198 | 0.700 | 0.652 | - | 0.785 |
 
