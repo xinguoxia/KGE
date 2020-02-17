@@ -345,9 +345,19 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Esma Balkir, Masha Naslidnyk, Dave Palfrey and Arpit Mittal. "**Using Pairwise Occurrence Information to Improve Knowledge Graph Completion on Large-Scale Datasets**". **EMNLP 2019**. [paper](https://www.aclweb.org/anthology/D19-1368/)
 
+- Xin Lv, Yuxian Gu, Xu Han, Lei Hou, Juanzi Li, Zhiyuan Liu. "**Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations**". **EMNLP 2019**. [paper](https://doi.org/10.18653/v1/D19-1334)
+
+- Cong Fu, Tong Chen, Meng Qu, Woojeong Jin, Xiang Ren. "**Collaborative Policy Learning for Open Knowledge Graph Reasoning**". **EMNLP 2019**. [paper](https://doi.org/10.18653/v1/D19-1269)
+
 - Robert Bamler, Farnood Salehi, Stephan Mandt. "**Augmenting and Tuning Knowledge Graph Embeddings**". **UAI 2019**. [paper](http://auai.org/uai2019/proceedings/papers/172.pdf) [code](https://github.com/mandt-lab/knowledge-graph-tuning)
 
 - **(CrossE)** Wen Zhang, Bibek Paudel, Wei Zhang, Abraham Bernstein, Huajun Chen. "**Interaction Embeddings for Prediction and Explanation in Knowledge Graphs**". **WSDM 2019**. [paper](https://dl.acm.org/doi/10.1145/3289600.3291014) [code](https://github.com/wencolani/CrossE)
+
+- Erik B. Myklebust, Ernesto Jiménez-Ruiz, Jiaoyan Chen, Raoul Wolf, Knut Erik Tollefsen. "**Knowledge Graph Embedding for Ecotoxicological Effect Prediction**". **ISWC 2019**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30796-7_30)
+
+- Simon Gottschalk, Elena Demidova. "**HapPenIng: Happen, Predict, Infer - Event Series Completion in a Knowledge Graph**". **ISWC 2019**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30793-6_12)
+
+- Ye Liu, Hui Li, Alberto García-Durán, Mathias Niepert, Daniel O?oro-Rubio, David S. Rosenblum. "**MMKG: Multi-modal Knowledge Graphs**". **ESWC 2019**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-21348-0_30)
 
 - **(CRIAGE)** Pouya Pezeshkpour, Yifan Tian, Sameer Singh. “**Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications**”. **NAACL-HLT 2019**. [paper](https://www.aclweb.org/anthology/N19-1337/) [code](https://github.com/pouyapez/criage)
 
@@ -355,7 +365,14 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - **(GRank)** Takuma Ebisu, Ryutaro Ichise. "**Graph Pattern Entity Ranking Model for Knowledge Graph Completion**". **NAACL-HLT 2019**. [paper](https://www.aclweb.org/anthology/N19-1104/)
 
+- Zihao Fu, Yankai Lin, Zhiyuan Liu, Wai Lam. "**Fact Discovery from Knowledge Base via Facet Decomposition**". 
+**NAACL-HLT 2019**. [paper](https://www.aclweb.org/anthology/N19-1297/)
+
 - **(ATiSE)** Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Jens Lehmann, Hamed Shariat Yazdi. "**Temporal Knowledge Graph Embedding Model based on Additive Time Series Decomposition**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.07893)
+
+- Ningyu Zhang, Shumin Deng, Zhanlin Sun, Jiaoyan Chen, Wei Zhang, Huajun Chen. "**Relation Adversarial Network for Low Resource Knowledge Graph Completion**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.03091)
+
+- Komal K. Teru, Etienne Denis, William L. Hamilton. "**Inductive Relation Prediction by Subgraph Reasoning**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.06962)
 
 - **(S2E)** Yongqi Zhang, Quanming Yao, Lei Chen. "**Neural Recurrent Structure Search for Knowledge Graph Embedding**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.07132)
 
@@ -371,7 +388,15 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - **(KANE)** Wenqiang Liu, Hongyun Cai, Xu Cheng, Sifa Xie, Yipeng Yu, Hanyu Zhang. "**Learning High-order Structural and Attribute information by Knowledge Graph Attention Networks for Enhancing Knowledge Graph Embedding**". **arxiv 2019-10**. [paper](https://arxiv.org/abs/1910.03891)
 
+- Tianxing Wu, Arijit Khan, Huan Gao, Cheng Li. "**Efficiently Embedding Dynamic Knowledge Graphs**". **arxiv 2019-10**. [paper](https://arxiv.org/abs/1910.06708)
+
+- Chaitanya Malaviya, Chandra Bhagavatula, Antoine Bosselut, Yejin Choi. "**Commonsense Knowledge Base Completion with Structural and Semantic Context**". **arxiv 2019-10**. [paper](https://arxiv.org/abs/1910.02915)
+
+- Gengchen Mai, Krzysztof Janowicz, Bo Yan, Rui Zhu, Ling Cai, Ni Lao. "**Contextual Graph Attention for Answering Logical Queries over Incomplete Knowledge Graphs**". **arxiv 2019-10**. [paper](https://arxiv.org/abs/1910.00084)
+
 - Takuma Ebisu, Ryutaro Ichise. "**Combination of Unified Embedding Model and Observed Features for Knowledge Graph Completion**". **arxiv 2019-09**. [paper](https://arxiv.org/abs/1909.03821)
+
+- Mojtaba Nayyeri, Chengjin Xu, Yadollah Yaghoobzadeh, Hamed Shariat Yazdi, Jens Lehmann. "**Toward Understanding The Effect Of Loss function On Then Performance Of Knowledge Graph Embedding**". **arxiv 2019-09**. [paper](https://arxiv.org/abs/1909.00519)
 
 - **(TransW)** Lianbo Ma,Peng Sun, Zhiwei Lin, Hui Wang. ""**Composing Knowledge Graph Embeddings via Word Embeddings**". **aexiv 2019-09**. [paper](https://arxiv.org/abs/1909.03794)
 
@@ -383,9 +408,16 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - **(HyperKG)** Prodromos Kolyvakis, Alexandros Kalousis, Dimitris Kiritsis. "**HyperKG: Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion**". **arxiv 2019-08**. [paper](https://arxiv.org/abs/1908.04895) [code](https://github.com/prokolyvakis/hyperkg)
 
+- Hong Wang, Wenhan Xiong, Mo Yu, Xiaoxiao Guo, Shiyu Chang, William Yang Wang. "**Meta Reasoning over Knowledge Graphs**". **arxiv 2019-08**. [paper](https://arxiv.org/abs/1908.04877)
+
 - **(R-MeN)** Dai Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung. "**Relational Memory-based Knowledge Graph Embedding**". **arxiv 2019-07**. [paper](https://arxiv.org/abs/1907.06080)
 
 -	**(TransEAML)** Mojtaba Nayyeri, Xiaotian Zhou, Sahar Vahdati, Hamed Shariat Yazdi, Jens Lehmann. "**Adaptive Margin Ranking Loss for Knowledge Graph Embeddings via a Correntropy Objective Function**". **arxiv 2019-07**. [paper](https://arxiv.org/abs/1907.05336)
+
+- Alexander Imani Cowen-Rivers, Pasquale Minervini, Tim Rockt?schel, Matko Bosnjak, Sebastian Riedel, Jun Wang. "**Neural Variational Inference For Estimating Uncertainty in Knowledge Graph Embeddings**". **arxiv 2019-06**. 
+[paper](https://arxiv.org/abs/1906.04985)
+
+- Zhengxiao Du, Chang Zhou, Ming Ding, Hongxia Yang, Jie Tang. "**Cognitive Knowledge Graph Reasoning for One-shot Relational Learning**". **arxiv 2019-06**. [paper](https://arxiv.org/abs/1906.05489)
 
 - **(MDE)** Afshin Sadeghi, Damien Graux, Jens Lehmann. "**MDE: Multi Distance Embeddings for Link Prediction in Knowledge Graphs**"". **arxiv 2019-05**. [paper](https://arxiv.org/abs/1905.10702)
 
@@ -394,6 +426,10 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 - **(TransESM)** Mojtaba Nayyeri, Sahar Vahdati, Jens Lehmann, Hamed Shariat Yazdi. "**Soft Marginal TransE for Scholarly Knowledge Graph Completion**". **arxiv 2019-04**. [paper](https://arxiv.org/abs/1904.12211)
 
 - **(AutoKGE)** Yongqi Zhang, Quanming Yao, Wenyuan Dai, Lei Chen. "**AutoKGE: Searching Scoring Functions for Knowledge Graph Embedding**". **arxiv 2019-04**. [paper](https://arxiv.org/abs/1904.11682) [code](https://github.com/yzhangee/AutoSF)
+
+- Woojeong Jin, Changlin Zhang, Pedro A. Szekely, Xiang Ren. "**Recurrent Event Network for Reasoning over Temporal Knowledge Graphs**". **arxiv 2019-04**. [paper](https://arxiv.org/abs/1904.05530)
+
+- Sara Morsy, George Karypis. "**Sparse Neural Attentive Knowledge-based Models for Grade Prediction**". **arxiv 2019-04**. [paper](https://arxiv.org/abs/1904.11858)
 
 - **(QCE)** Yunpu Ma, Volker Tresp, Liming Zhao, Yuyi Wang. "**Variational Quantum Circuit Model for Knowledge Graphs Embedding**". **arxiv 2019-03**. [paper](https://arxiv.org/abs/1903.00556)
 
@@ -408,6 +444,8 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 - Daniel Ruffinelli, Samuel Broscheit, Rainer Gemulla. "**You CAN Teach an Old Dog New Tricks! On Training Knowledge Graph Embeddings**". **ICLR 2020**. [paper](https://openreview.net/forum?id=BkxSmlBFvr) 
 
 - Pedro Tabacof, Luca Costabello. "**Probability Calibration for Knowledge Graph Embedding Models**". **ICLR 2020**. [paper](https://openreview.net/forum?id=S1g8K1BFwS) 
+
+- Bahare Fatemi, Perouz Taslakian, David Vazquez, David Poole. "**Knowledge Hypergraphs: Prediction Beyond Binary Relations**". **ICLR 2020**. [paper](https://openreview.net/forum?id=ryxIZR4tvS) 
 
 - <a name="TComplEx"></a> **(TComplEx)** Timothée Lacroix, Guillaume Obozinski, Nicolas Usunier. "**Tensor Decompositions for Temporal Knowledge Base Completion**". **ICLR 2020**. [paper](https://openreview.net/forum?id=rke2P1BFwS) 
 
@@ -442,6 +480,18 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 - <a name="DE-SimplE"></a> **(DE-SimplE)** Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **AAAI 2020**. [paper](https://arxiv.org/abs/1907.03143) [code](https://github.com/BorealisAI/DE-SimplE)
 
 -	Chaitanya Malaviya, Chandra Bhagavatula, Antoine Bosselut, Yejin Choi. "**Commonsense Knowledge Base Completion with Structural and Semantic Context**". **AAAI 2020**
+
+- Mehdi Ali, Hajira Jabeen, Charles Tapley Hoyt, Jens Lehmann. "**The KEEN Universe: An Ecosystem for Knowledge Graph 
+Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-01**. [paper](https://arxiv.org/abs/2001.10560)
+
+- Caglar Demir, Axel-Cyrille Ngonga Ngomo. "**A Physical Embedding Model for Knowledge Graphs**". **arxiv 2020-01**.
+[paper](https://arxiv.org/abs/2001.07418)
+
+- Jiaoyan Chen, Xi Chen, Ian Horrocks, Ernesto Jiménez-Ruiz, Erik B. Myklebust. "**Correcting Knowledge Base Assertions**". 
+**2020-01**. [paper](https://arxiv.org/abs/2001.06917)
+
+- Yunpu Ma, Yuyi Wang, Volker Tresp. "**Quantum Machine Learning Algorithm for Knowledge Graphs**". 
+**arxiv 2020-01**. [paper](https://arxiv.org/abs/2001.01077)
 
 
 ## Datasets
