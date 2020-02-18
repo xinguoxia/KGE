@@ -366,6 +366,8 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 - Zihao Fu, Yankai Lin, Zhiyuan Liu, Wai Lam. "**Fact Discovery from Knowledge Base via Facet Decomposition**". 
 **NAACL-HLT 2019**. [paper](https://www.aclweb.org/anthology/N19-1297/)
 
+- **(TransGCN)** Ling Cai, Bo Yan, Gengchen Mai, Krzysztof Janowicz, Rui Zhu. "**TransGCN: Coupling Transformation Assumptions with Graph Convolutional Networks for Link Prediction**". **K-CAP 2019**. [paper](https://dl.acm.org/doi/10.1145/3360901.3364441)
+
 - **(ATiSE)** Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Jens Lehmann, Hamed Shariat Yazdi. "**Temporal Knowledge Graph Embedding Model based on Additive Time Series Decomposition**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.07893)
 
 - Ningyu Zhang, Shumin Deng, Zhanlin Sun, Jiaoyan Chen, Wei Zhang, Huajun Chen. "**Relation Adversarial Network for Low Resource Knowledge Graph Completion**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.03091)
