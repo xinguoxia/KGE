@@ -433,6 +433,8 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Pengwei Wang, Dejing Dou, Fangzhao Wu, Nisansa de Silva, Lianwen Jin. "**Logic Rules Powered Knowledge Graph Embedding**". **arxiv 2019-03**. [paper](https://arxiv.org/abs/1903.03772)
 
+- Yanjie Wang, Samuel Broscheit, Rainer Gemulla. "**A Relational Tucker Decomposition for Multi-Relational Link Prediction**". **arxiv 2019-02**. [paper](https://arxiv.org/abs/1902.00898)
+
 ### 2020
 
 - **(CompGCN)** Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Partha Talukdar. "**Composition-based Multi-Relational Graph Convolutional Networks**". **ICLR 2020**. [paper](https://openreview.net/pdf?id=BylA_C4tPr) [code](https://github.com/malllabiisc/CompGCN)
