@@ -4,7 +4,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 ## Contents
 
 * [Papers](#papers)
-* [Methodology](#methodology)
+* [Methodologies](#methodologies)
 * [Datasets](#datasets)
 * [Performance](#performance)
 
@@ -186,7 +186,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - **(puTransE)** Yi Tay, Luu Anh Tuan, Siu Cheung Hui. "**Non-Parametric Estimation of Multiple Embeddings for Link Prediction on Dynamic Knowledge Graphs**". **AAAI 2017**. [paper](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14524)
 
-- **(MLNs)** Melisachew Wudage Chekol, Giuseppe Pirrò, Joerg Schoenfisch, Heiner Stuckenschmidt. "**Marrying Uncertainty 
+- <a name="MLNs"></a> **(MLNs)** Melisachew Wudage Chekol, Giuseppe Pirrò, Joerg Schoenfisch, Heiner Stuckenschmidt. "**Marrying Uncertainty 
 and Time in Knowledge Graphs**". **AAAI 2017**. [paper](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14730)
 
 - **(Jointly)** Jiacheng Xu, Xipeng Qiu, Kan Chen, Xuanjing Huang. "**Knowledge Graph Representation with Jointly Structural and Textual Encoding**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/183) [code](https://github.com/jiacheng-xu/Attn-KGE)
@@ -512,7 +512,7 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 - Yunpu Ma, Yuyi Wang, Volker Tresp. "**Quantum Machine Learning Algorithm for Knowledge Graphs**". 
 **arxiv 2020-01**. [paper](https://arxiv.org/abs/2001.01077)
 
-## Methodology
+## Methodologies
 
 ### Temporal
 
@@ -521,7 +521,7 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 | 2014 | EMNLP         | **[CTPs](#CTPs)**               |
 | 2016 | EMNLP         | **[t-TransE](#t-TransE)**       |
 | 2016 | COLING        | **[TransE-TAE](#TransE-TAE)**   |
-| 2017 | ICML          | **[Know-Evolve](#Know_Evolve)** |
+| 2017 | ICML          | **[Know-Evolve](#Know-Evolve)** |
 | 2017 | AAAI          | **[MLNs](#MLNs)**               |
 | 2018 | WWW           | **[TTransE](#TTransE)**         |
 | 2018 | EMNLP         | **[TA-DistMult](#TA-DistMult)** |
