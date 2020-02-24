@@ -4,6 +4,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 ## Contents
 
 * [Papers](#papers)
+* [Methodology](#methodology)
 * [Datasets](#datasets)
 * [Performance](#performance)
 
@@ -261,7 +262,7 @@ and Time in Knowledge Graphs**". **AAAI 2017**. [paper](https://aaai.org/ocs/ind
 
 - **(MultiHopKG)** Xi Victoria Lin, Richard Socher, Caiming Xiong. "**Multi-Hop Knowledge Graph Reasoning with Reward Shaping**". **EMNLP 2018**. [paper](https://www.aclweb.org/anthology/D18-1362/) [code](https://github.com/salesforce/MultiHopKG)
 
-- <a name="TA-DistMult"></a> Alberto Garcia-Duran, Sebastijan Dumančić, Mathias Niepert. "**Learning Sequence Encoders for Temporal Knowledge Graph Completion**". **EMNLP 2018**. [paper](https://www.aclweb.org/anthology/D18-1516/) [dataset](https://github.com/nle-ml/mmkb)
+- <a name="TA-DistMult"></a> **(TA-DistMult)** Alberto Garcia-Duran, Sebastijan Dumančić, Mathias Niepert. "**Learning Sequence Encoders for Temporal Knowledge Graph Completion**". **EMNLP 2018**. [paper](https://www.aclweb.org/anthology/D18-1516/) [dataset](https://github.com/nle-ml/mmkb)
 
 - <a name="HyTE"></a> **(HyTE)** Shib Sankar Dasgupta, Swayambhu Nath Ray, Partha Talukdar. "**HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding**". **EMNLP 2018**. [paper](https://www.aclweb.org/anthology/D18-1225/) [code](https://github.com/malllabiisc/HyTE)
 
@@ -443,7 +444,7 @@ and Time in Knowledge Graphs**". **AAAI 2017**. [paper](https://aaai.org/ocs/ind
 
 - **(AutoKGE)** Yongqi Zhang, Quanming Yao, Wenyuan Dai, Lei Chen. "**AutoKGE: Searching Scoring Functions for Knowledge Graph Embedding**". **arxiv 2019-04**. [paper](https://arxiv.org/abs/1904.11682) [code](https://github.com/yzhangee/AutoSF)
 
-- Woojeong Jin, Changlin Zhang, Pedro A. Szekely, Xiang Ren. "**Recurrent Event Network for Reasoning over Temporal Knowledge Graphs**". **arxiv 2019-04**. [paper](https://arxiv.org/abs/1904.05530)
+- **(RE-Net)** Woojeong Jin, Changlin Zhang, Pedro A. Szekely, Xiang Ren. "**Recurrent Event Network for Reasoning over Temporal Knowledge Graphs**". **arxiv 2019-04**. [paper](https://arxiv.org/abs/1904.05530)
 
 - Sara Morsy, George Karypis. "**Sparse Neural Attentive Knowledge-based Models for Grade Prediction**". **arxiv 2019-04**. [paper](https://arxiv.org/abs/1904.11858)
 
@@ -515,9 +516,21 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 
 ### Temporal
 
-| Year	     | Source |	Methods |
-|:-----------:|:--------:|:---------:|:----------:|:---------:|:--------:|:----------:|:------:|
-| ICEWS14     | 6,869    | 230       | 365        | 2014      | 72,826   | 8,941      | 8,963  |
+| Year | Source |	Methods     |
+|:----:|:------:|:-----------:|
+| 2014 | EMNLP  | CTPs        |
+| 2016 | EMNLP  | t-TransE    |
+| 2016 | COLING | TransE-TAE  |
+| 2017 | ICML   | Know-Evolve |
+| 2017 | AAAI   | MLNs        |
+| 2018 | WWW    | TTransE     |
+| 2018 | EMNLP  | TA-DistMult |
+| 2018 | EMNLP  | HyTE        |
+| 2019 | ICLR   | DyRep       |
+| 2020 | ICLR   | TComplEx    |
+| 2020 | AAAI   | DE-SimplE   |
+| 2019 | arxiv  | RE-Net      |
+| 2019 | arxiv  | AtiSE       |
 
 ## Datasets
 
