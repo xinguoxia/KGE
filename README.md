@@ -67,7 +67,7 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Ankur Padia, Konstantinos Kalpakis, Francis Ferraro, Tim Finin. "**Knowledge Graph Fact Prediction via Knowledge-Enriched Tensor Factorization**". **Journal of Web Semantics 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S1570826819300046?via%3Dihub) [code](https://github.com/Ebiquity/KGFP)
 
-- **(ConT)** Yunpu Ma, Volker Tresp, Erik A. Daxberger. "**Embedding models for episodic knowledge graphs**". **Journal of Web Semantics 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S1570826818300702?via%3Dihub)
+- <a name="ConT"></a> **(ConT)** Yunpu Ma, Volker Tresp, Erik A. Daxberger. "**Embedding models for episodic knowledge graphs**". **Journal of Web Semantics 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S1570826818300702?via%3Dihub)
 
 - **(AWML)** Chenchen Guo, Chunhong Zhang, Xiao Han, Yang Ji. "**AWML: adaptive weighted margin learning for knowledge
 graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper](https://link.springer.com/article/10.1007%2Fs10844-018-0535-2)
@@ -98,7 +98,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - **(pTransE)** Zhen Wang, Jianwen Zhang, Jianlin Feng, Zheng Chen. "**Knowledge Graph and Text Jointly Embedding**". **EMNLP 2014**. [paper](https://www.aclweb.org/anthology/D14-1167/)
 
-- **(CTPs)** Derry Tanti Wijaya, Ndapandula Nakashole, Tom M. Mitchell. "**CTPs: Contextual Temporal Profiles for Time Scoping Facts using State Change Detection**". **EMNLP 2014**. [paper](https://www.aclweb.org/anthology/D14-1207/)
+- <a name="CTPs"></a> **(CTPs)** Derry Tanti Wijaya, Ndapandula Nakashole, Tom M. Mitchell. "**CTPs: Contextual Temporal Profiles for Time Scoping Facts using State Change Detection**". **EMNLP 2014**. [paper](https://www.aclweb.org/anthology/D14-1207/)
 
 ### 2015
 
@@ -160,11 +160,11 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - **(KALE)** Shu Guo, Quan Wang, Lihong Wang, Bin Wang, Li Guo."**Jointly Embedding Knowledge Graphs and Logical Rules**". **EMNLP 2016**. [paper](https://www.aclweb.org/anthology/D16-1019/) [code](https://github.com/iieir-km/KALE)
 
-- **(t-TransE)** Tingsong Jiang, Tianyu Liu, Tao Ge, Lei Sha, Sujian Li, Baobao Chang, Zhifang Sui. "**Encoding Temporal Information for Time-Aware Link Prediction**". **EMNLP 2016**. [paper](https://www.aclweb.org/anthology/D16-1260/)
+- <a name="t-TransE"></a> **(t-TransE)** Tingsong Jiang, Tianyu Liu, Tao Ge, Lei Sha, Sujian Li, Baobao Chang, Zhifang Sui. "**Encoding Temporal Information for Time-Aware Link Prediction**". **EMNLP 2016**. [paper](https://www.aclweb.org/anthology/D16-1260/)
 
 - **(GAKE)** Jun Feng, Minlie Huang, Yang Yang, Xiaoyan Zhu. "**GAKE: Graph Aware Knowledge Embedding**".  **COLING 2016**. [paper](https://www.aclweb.org/anthology/C16-1062/) [code](https://github.com/JuneFeng/GAKE)
 
-- **(TransE-TAE)** Tingsong Jiang, Tianyu Liu, Tao Ge, Lei Sha, Baobao Chang, Sujian Li, Zhifang Sui. "**Towards Time-Aware Knowledge Graph Completion**". **COLING 2016**. [paper](https://www.aclweb.org/anthology/C16-1161/)
+- <a name="TransE-TAE"></a> **(TransE-TAE)** Tingsong Jiang, Tianyu Liu, Tao Ge, Lei Sha, Baobao Chang, Sujian Li, Zhifang Sui. "**Towards Time-Aware Knowledge Graph Completion**". **COLING 2016**. [paper](https://www.aclweb.org/anthology/C16-1161/)
 
 - **(FTransE)** Jun Feng, Minlie Huang, Mingdong Wang, Mantong Zhou, Yu Hao, Xiaoyan Zhu. "**Knowledge Graph Embedding by Flexible Translation**". **KR 2016**. [paper](https://www.aaai.org/ocs/index.php/KR/KR16/paper/view/12887) [code](http://ml.knu.ac.kr/lppKE)
 
@@ -178,7 +178,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - <a name="ANALOGY"></a> **(ANALOGY)** Hanxiao Liu, Yuexin Wu, Yiming Yang. "**Analogical Inference for Multi-relational Embeddings**". **ICML 2017**. [paper](http://proceedings.mlr.press/v70/liu17d.html) [code](https://github.com/quark0/ANALOGY)
 
-- **(Know-Evolve)** Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song. "**Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs**". **ICML 2017**. [paper](http://proceedings.mlr.press/v70/trivedi17a.html)
+- <a name="Know-Evolve"></a> **(Know-Evolve)** Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song. "**Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs**". **ICML 2017**. [paper](http://proceedings.mlr.press/v70/trivedi17a.html)
 
 - **(SSP)** Han Xiao, Minlie Huang, Lian Meng, Xiaoyan Zhu. "**SSP: Semantic Space Projection for Knowledge Graph Embedding with Text Descriptions**". **AAAI 2017**. [paper](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14306) [code](https://github.com/BookmanHan/Embedding)
 
@@ -255,7 +255,7 @@ and Time in Knowledge Graphs**". **AAAI 2017**. [paper](https://aaai.org/ocs/ind
 
 - **(Max-K Criterion)** Jiajie Mei, Richong Zhang, Yongyi Mao, Ting Deng. "**On Link Prediction in Knowledge Bases: Max-K Criterion and Prediction Protocols**". **SIGIR 2018**. [paper](https://dl.acm.org/doi/10.1145/3209978.3210029)
 
-- **(TTransE)** Julien Leblay, Melisachew Wudage Chekol. "**Deriving Validity Time in Knowledge Graph**". **WWW 2018**. 
+- <a name="TTransE"></a> **(TTransE)** Julien Leblay, Melisachew Wudage Chekol. "**Deriving Validity Time in Knowledge Graph**". **WWW 2018**. 
 [paper](https://dl.acm.org/doi/10.1145/3184558.3191639)
 
 - **(HRS)** Zhao Zhang, Fuzhen Zhuang, Meng Qu, Fen Lin, Qing He. "**Knowledge Graph Embedding with Hierarchical Relation Structure**". **EMNLP 2018**. [paper](https://www.aclweb.org/anthology/D18-1358/)
@@ -304,7 +304,7 @@ and Time in Knowledge Graphs**". **AAAI 2017**. [paper](https://aaai.org/ocs/ind
 
 - <a name="RotatE"></a> **(RotatE)** Zhiqing Sun, Zhi-Hong Deng, Jian-Yun Nie, Jian Tang. "**RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space**". **ICLR 2019**. [paper](https://openreview.net/forum?id=HkgEQnRqYQ) [code](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)
 
-- **(DyRep)** Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha. "**DyRep: Learning Representations over Dynamic Graphs**". **ICLR 2019**. [paper](https://openreview.net/forum?id=HyePrhR5KX)
+- <a name="DyRep"></a> **(DyRep)** Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha. "**DyRep: Learning Representations over Dynamic Graphs**". **ICLR 2019**. [paper](https://openreview.net/forum?id=HyePrhR5KX)
 
 - **(TransGate)** Jun Yuan, Neng Gao, Ji Xiang. "**TransGate: Knowledge Graph Embedding with Shared Gate Structure**". **AAAI 2019**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4169)
 
@@ -385,7 +385,7 @@ and Time in Knowledge Graphs**". **AAAI 2017**. [paper](https://aaai.org/ocs/ind
 
 - **(TransGCN)** Ling Cai, Bo Yan, Gengchen Mai, Krzysztof Janowicz, Rui Zhu. "**TransGCN: Coupling Transformation Assumptions with Graph Convolutional Networks for Link Prediction**". **K-CAP 2019**. [paper](https://dl.acm.org/doi/10.1145/3360901.3364441)
 
-- **(ATiSE)** Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Jens Lehmann, Hamed Shariat Yazdi. "**Temporal Knowledge Graph Embedding Model based on Additive Time Series Decomposition**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.07893)
+- <a name="ATiSE"></a> **(ATiSE)** Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Jens Lehmann, Hamed Shariat Yazdi. "**Temporal Knowledge Graph Embedding Model based on Additive Time Series Decomposition**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.07893)
 
 - Ningyu Zhang, Shumin Deng, Zhanlin Sun, Jiaoyan Chen, Wei Zhang, Huajun Chen. "**Relation Adversarial Network for Low Resource Knowledge Graph Completion**". **arxiv 2019-11**. [paper](https://arxiv.org/abs/1911.03091)
 
@@ -444,7 +444,7 @@ and Time in Knowledge Graphs**". **AAAI 2017**. [paper](https://aaai.org/ocs/ind
 
 - **(AutoKGE)** Yongqi Zhang, Quanming Yao, Wenyuan Dai, Lei Chen. "**AutoKGE: Searching Scoring Functions for Knowledge Graph Embedding**". **arxiv 2019-04**. [paper](https://arxiv.org/abs/1904.11682) [code](https://github.com/yzhangee/AutoSF)
 
-- **(RE-Net)** Woojeong Jin, Changlin Zhang, Pedro A. Szekely, Xiang Ren. "**Recurrent Event Network for Reasoning over Temporal Knowledge Graphs**". **arxiv 2019-04**. [paper](https://arxiv.org/abs/1904.05530)
+- <a name="RE-Net"></a> **(RE-Net)** Woojeong Jin, Changlin Zhang, Pedro A. Szekely, Xiang Ren. "**Recurrent Event Network for Reasoning over Temporal Knowledge Graphs**". **arxiv 2019-04**. [paper](https://arxiv.org/abs/1904.05530)
 
 - Sara Morsy, George Karypis. "**Sparse Neural Attentive Knowledge-based Models for Grade Prediction**". **arxiv 2019-04**. [paper](https://arxiv.org/abs/1904.11858)
 
@@ -516,21 +516,22 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 
 ### Temporal
 
-| Year | Source |	Methods     |
-|:----:|:------:|:-----------:|
-| 2014 | EMNLP  | CTPs        |
-| 2016 | EMNLP  | t-TransE    |
-| 2016 | COLING | TransE-TAE  |
-| 2017 | ICML   | Know-Evolve |
-| 2017 | AAAI   | MLNs        |
-| 2018 | WWW    | TTransE     |
-| 2018 | EMNLP  | TA-DistMult |
-| 2018 | EMNLP  | HyTE        |
-| 2019 | ICLR   | DyRep       |
-| 2020 | ICLR   | TComplEx    |
-| 2020 | AAAI   | DE-SimplE   |
-| 2019 | arxiv  | RE-Net      |
-| 2019 | arxiv  | AtiSE       |
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2014 | EMNLP         | **[CTPs](#CTPs)**               |
+| 2016 | EMNLP         | **[t-TransE](#t-TransE)**       |
+| 2016 | COLING        | **[TransE-TAE](#TransE-TAE)**   |
+| 2017 | ICML          | **[Know-Evolve](#Know_Evolve)** |
+| 2017 | AAAI          | **[MLNs](#MLNs)**               |
+| 2018 | WWW           | **[TTransE](#TTransE)**         |
+| 2018 | EMNLP         | **[TA-DistMult](#TA-DistMult)** |
+| 2018 | EMNLP         | **[HyTE](#HyTE)**               |
+| 2019 | ICLR          | **[DyRep](#DyRep)**             |
+| 2019 | J. Web Semant | **[ConT](#ConT)**               |
+| 2020 | ICLR          | **[TComplEx](#TComplEx)**       |
+| 2020 | AAAI          | **[DE-SimplE](#DE-SimplE)**     |
+| 2019 | arxiv         | **[RE-Net](#RE-Net)**           |
+| 2019 | arxiv         | **[ATiSE](#ATiSE)**             |
 
 ## Datasets
 
