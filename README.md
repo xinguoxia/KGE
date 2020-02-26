@@ -517,7 +517,20 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
-| 2014 | EMNLP         | **[CTPs](#CTPs)**               |
+| 2013 | NeurIPS       | **[NTN](#NTN)**                 |
+| 2017 | AAAI          | **[ProjE](#ProjE)**             |
+| 2018 | AAAI          | **[ConvE](#ConvE)**             |
+| 2018 | ESWC          | **[R-GCN](#R-GCN)**             |
+| 2018 | NAACL-HLT     | **[ConvKB](#ConvKB)**           |
+| 2018 | NAACL-HLT     | **[KBGAN](#KBGAN)**             |
+| 2019 | ICML          | **[RSN](#RSN)**                 |
+| 2019 | AAAI          | **[SACN](#SACN)**               |
+| 2019 | IJCAI         | **[M-GNN](#M-GNN)**             |
+| 2019 | IJCAI         | **[VR-GCN](#VR-GCN)**           |
+| 2019 | NAACL-HLT     | **[CapsE](#CapsE)**             |
+| 2019 | K-CAP         | **[TransGCN](#TransGCN)**       |
+| 2020 | ICLR          | **[CompGCN](#CompGCN)**         |
+| 2020 | AAAI          | **[InteractE](#InteractE)**     |
 
 ### Temporal Informations
 
