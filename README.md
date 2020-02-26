@@ -514,7 +514,13 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 
 ## Methodologies
 
-### Temporal
+### Neural Networks
+
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2014 | EMNLP         | **[CTPs](#CTPs)**               |
+
+### Temporal Informations
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
