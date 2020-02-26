@@ -377,6 +377,8 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - <a name="CapsE"></a> **(CapsE)** Dai Quoc Nguyen, Thanh Vu, Tu Dinh Nguyen, Dat Quoc Nguyen, Dinh Q. Phung. "**A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization**". **NAACL-HLT 2019**. [paper](https://www.aclweb.org/anthology/N19-1226/) [code](https://github.com/daiquocnguyen/CapsE)
 
+- <a name="ConvR"></a> **(ConvR)** Xiaotian Jiang, Quan Wang, Bin Wang. "**Adaptive Convolution for Multi-Relational Learning**". **NAACL-HLT 2019**. [paper](https://www.aclweb.org/anthology/N19-1103/)
+
 - **(GRank)** Takuma Ebisu, Ryutaro Ichise. "**Graph Pattern Entity Ranking Model for Knowledge Graph Completion**". **NAACL-HLT 2019**. [paper](https://www.aclweb.org/anthology/N19-1104/)
 
 - Zihao Fu, Yankai Lin, Zhiyuan Liu, Wai Lam. "**Fact Discovery from Knowledge Base via Facet Decomposition**". 
@@ -525,9 +527,9 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 | 2018 | NAACL-HLT     | **[KBGAN](#KBGAN)**             |
 | 2019 | ICML          | **[RSN](#RSN)**                 |
 | 2019 | AAAI          | **[SACN](#SACN)**               |
-| 2019 | IJCAI         | **[M-GNN](#M-GNN)**             |
 | 2019 | IJCAI         | **[VR-GCN](#VR-GCN)**           |
 | 2019 | NAACL-HLT     | **[CapsE](#CapsE)**             |
+| 2019 | NAACL-HLT     | **[ConvR](#ConvR)**             |
 | 2019 | K-CAP         | **[TransGCN](#TransGCN)**       |
 | 2020 | ICLR          | **[CompGCN](#CompGCN)**         |
 | 2020 | AAAI          | **[InteractE](#InteractE)**     |
