@@ -277,7 +277,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Farahnaz Akrami, Lingbing Guo, Wei Hu, Chengkai Li. "**Re-evaluating Embedding-Based Knowledge Graph Completion Methods**". **CIKM 2018**. [paper](https://dl.acm.org/doi/10.1145/3269206.3269266)
 
-- **(SENN)** Saiping Guan, Xiaolong Jin, Yuanzhuo Wang, Xueqi Cheng. "**Shared Embedding Based Neural Networks for Knowledge Graph Completion**". **CIKM 2018**. [paper](https://dl.acm.org/doi/10.1145/3269206.3271704)
+- <a name="SENN"></a> **(SENN)** Saiping Guan, Xiaolong Jin, Yuanzhuo Wang, Xueqi Cheng. "**Shared Embedding Based Neural Networks for Knowledge Graph Completion**". **CIKM 2018**. [paper](https://dl.acm.org/doi/10.1145/3269206.3271704)
 
 - **(MultiE)** Zhao Zhang, Fuzhen Zhuang, Zheng-Yu Niu, Deqing Wang, Qing He. "**MultiE: Multi-Task Embedding for Knowledge Base Completion**". **CIKM 2018**. [paper](https://dl.acm.org/doi/10.1145/3269206.3269295)
 
@@ -523,6 +523,7 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 | 2014 | KDD           | **[ER-MLP](#ER-MLP)**           |
 | 2017 | AAAI          | **[ProjE](#ProjE)**             |
 | 2018 | AAAI          | **[ConvE](#ConvE)**             |
+| 2018 | CIKM          | **[SENN](#SENN)**               |
 | 2018 | ESWC          | **[R-GCN](#R-GCN)**             |
 | 2018 | NAACL-HLT     | **[ConvKB](#ConvKB)**           |
 | 2018 | NAACL-HLT     | **[KBGAN](#KBGAN)**             |
