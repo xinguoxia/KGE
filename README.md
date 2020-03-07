@@ -331,7 +331,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - <a name="VR-GCN"></a> **(VR-GCN)** Rui Ye, Xin Li, Yujie Fang, Hongyu Zang, Mingzhong Wang. "**A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment**". **IJCAI 2019**. [paper](https://www.ijcai.org/Proceedings/2019/574)
 
-- Deepak Nathani, Jatin Chauhan, Charu Sharma, Manohar Kaul. "**Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs**". **ACL 2019**. [paper](https://www.aclweb.org/anthology/P19-1466/) [code](https://github.com/deepakn97/relationPrediction)
+- <a name="KBGAT"></a> **(KBGAT)** Deepak Nathani, Jatin Chauhan, Charu Sharma, Manohar Kaul. "**Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs**". **ACL 2019**. [paper](https://www.aclweb.org/anthology/P19-1466/) [code](https://github.com/deepakn97/relationPrediction)
 
 - **(DihEdral)** Canran Xu, Ruijiang Li. "**Relation Embedding with Dihedral Group in Knowledge Graph**". **ACL 2019**. [paper](https://www.aclweb.org/anthology/P19-1026/)
 
@@ -530,6 +530,7 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 | 2019 | ICML          | **[RSN](#RSN)**                 |
 | 2019 | AAAI          | **[SACN](#SACN)**               |
 | 2019 | IJCAI         | **[VR-GCN](#VR-GCN)**           |
+| 2019 | ACL           | **[KBGAT](#KBGAT)**             |
 | 2019 | NAACL-HLT     | **[CapsE](#CapsE)**             |
 | 2019 | NAACL-HLT     | **[ConvR](#ConvR)**             |
 | 2019 | K-CAP         | **[TransGCN](#TransGCN)**       |
@@ -719,4 +720,6 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 | Year | Source | Methods     |  MR |  MRR  | Hits@1 | Hits@3 | Hits@10 |
 |:----:|:------:|:-----------:|:---:|:-----:|:------:|:------:|:-------:|
 | 2018 | EMNLP  | **[TA-DistMult](TA-DistMult)** | 198 | 0.700 | 0.652 | - | 0.785 |
+
+
 
