@@ -547,8 +547,10 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
+| 2018 | ESWC          | **[R-GCN](#R-GCN)**             |
 | 2019 | AAAI          | **[LENA](#LENA)**               |
 | 2019 | AAAI          | **[LAN](#LAN)**                 |
+| 2019 | AAAI          | **[SACN](#SACN)**               |
 
 ### Temporal Informations
 
