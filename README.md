@@ -515,15 +515,17 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 
 ## Methodologies
 
-### Translation
+### Traditions
+
+#### Translation
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2019 | AAAI          | **[TransGate](#TransGate)**     |
 
-### Multiplication
+#### Multiplication
 
-### Neural Networks
+#### Neural Networks
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
@@ -545,22 +547,15 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 | 2020 | ICLR          | **[CompGCN](#CompGCN)**         |
 | 2020 | AAAI          | **[InteractE](#InteractE)**     |
 
-### Textual Informations
+### Informations
+
+#### Textual Informations
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2019 | AAAI          | **[OWE](#OWE)**                 |
 
-### Neighborhood Informations
-
-| Year | Source        |	Methods                        |
-|:----:|:-------------:|:-------------------------------:|
-| 2018 | ESWC          | **[R-GCN](#R-GCN)**             |
-| 2019 | AAAI          | **[LENA](#LENA)**               |
-| 2019 | AAAI          | **[LAN](#LAN)**                 |
-| 2019 | AAAI          | **[SACN](#SACN)**               |
-
-### Temporal Informations
+#### Temporal Informations
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
@@ -579,7 +574,22 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 | 2019 | arxiv         | **[RE-Net](#RE-Net)**           |
 | 2019 | arxiv         | **[ATiSE](#ATiSE)**             |
 
-### Model Augmentations
+#### Neighborhood Informations
+
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2018 | ESWC          | **[R-GCN](#R-GCN)**             |
+| 2019 | AAAI          | **[LENA](#LENA)**               |
+| 2019 | AAAI          | **[LAN](#LAN)**                 |
+| 2019 | AAAI          | **[SACN](#SACN)**               |
+
+### Augmentations
+
+#### Logic Rules
+
+#### Hyper Planes
+
+#### Tuning
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
