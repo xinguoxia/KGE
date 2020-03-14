@@ -549,13 +549,13 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 
 ### Informations
 
-#### Textual Informations
+#### Textual
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2019 | AAAI          | **[OWE](#OWE)**                 |
 
-#### Temporal Informations
+#### Temporal
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
@@ -574,7 +574,7 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 | 2019 | arxiv         | **[RE-Net](#RE-Net)**           |
 | 2019 | arxiv         | **[ATiSE](#ATiSE)**             |
 
-#### Neighborhood Informations
+#### Neighborhood
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
@@ -585,11 +585,17 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 
 ### Augmentations
 
-#### Logic Rules
+#### Regularizer
+
+#### Constraints
+
+#### Soft Rules
 
 #### Hyper Planes
 
-#### Tuning
+#### Negative Sampling
+
+
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
