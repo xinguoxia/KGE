@@ -309,7 +309,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - **(UKGE)** Xuelu Chen, Muhao Chen, Weijia Shi, Yizhou Sun, Carlo Zaniolo. "**Embedding Uncertain Knowledge Graphs**". **AAAI 2019**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4210) [code](https://github.com/stasl0217/UKGE)
 
-- **(SimplE+)** Bahare Fatemi, Siamak Ravanbakhsh, David Poole. "**Improved Knowledge Graph Embedding Using Background Taxonomic Information**". **AAAI 2019**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4231)
+- <a name="SimplE+"></a> **(SimplE+)** Bahare Fatemi, Siamak Ravanbakhsh, David Poole. "**Improved Knowledge Graph Embedding Using Background Taxonomic Information**". **AAAI 2019**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4231)
 
 - <a name="LENA"></a> **(LENA)** Fanshuang Kong, Richong Zhang, Yongyi Mao, Ting Deng. "**LENA: Locality-Expanded Neural Embedding for Knowledge Base Completion**". **AAAI 2019**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4144) [code](https://github.com/fskong/LENA)
 
@@ -537,7 +537,7 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 | 2020 | ICLR          | **[CompGCN](#CompGCN)**         |
 | 2020 | AAAI          | **[InteractE](#InteractE)**     |
 
-### Textual Description
+### Textual Informations
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
@@ -570,6 +570,12 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 | 2020 | AAAI          | **[DE-SimplE](#DE-SimplE)**     |
 | 2019 | arxiv         | **[RE-Net](#RE-Net)**           |
 | 2019 | arxiv         | **[ATiSE](#ATiSE)**             |
+
+### Model Augmentations
+
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2019 | AAAI          | **[SimplE+](#SimplE+)**         |
 
 ## Datasets
 
