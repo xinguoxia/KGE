@@ -19,6 +19,11 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2013 | NeurIPS       | **[TransE](#TransE)**           |
 | 2014 | AAAI          | **[TransH](#TransH)**           |
 | 2015 | AAAI          | **[TransR](#TransR)**           |
+| 2015 | ACL           | **[TransD](#TransD)**           |
+| 2015 | EMNLP         | **[PTransE](#PTransE)**         |
+| 2015 | EMNLP         | **[RTransE](#RTransE)**         |
+| 2015 | CIKM          | **[KG2E](#KG2E)**               |
+| 2016 | AAAI          | **[TranSparse](#TranSparse)**   |
 | 2016 | IJCAI         | **[ManifoldE](#ManifoldE)**     |
 | 2016 | ACL           | **[TransG](#TransG)**           |
 | 2016 | NAACL-HLT     | **[STransE](#STransE)**         |
@@ -35,6 +40,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2011 | ICML          | **[RESCAL](#RESCAL)**           |
 | 2015 | ICLR          | **[DistMult](#DistMult)**       |
 | 2016 | ICML          | **[ComplEx](#ComplEx)**         |
+| 2017 | ICML          | **[ANALOGY](#ANALOGY)**         |
 | 2016 | AAAI          | **[HolE](#HolE)**               |
 | 2019 | EMNLP         | **[TuckER](#TuckER)**           |
 
@@ -70,6 +76,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2015 | EMNLP         | **[PTransE](#PTransE)**         |
+| 2015 | EMNLP         | **[RTransE](#RTransE)**         |
 | 2018 | ICLR          | **[MINERVA](#MINERVA)**         |
 | 2019 | ICML          | **[RSN](#RSN)**                 |
 | 2019 | EMNLP         | **[OPTransE](#OPTransE)**       |
@@ -128,6 +135,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2019 | UAI           | **[EM](#EM)**                   |
+| 2020 | ICLR          | **[Teach](#Teach)**             |
 
 #### Soft Rules
 
