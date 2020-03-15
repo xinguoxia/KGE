@@ -113,6 +113,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
+| 2016 | IJCAI         | **[TKRL](#TKRL)**               |
 | 2020 | AAAI          | **[HAKE](#HAKE)**               |
 
 #### Taxonomic
