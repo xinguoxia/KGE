@@ -17,6 +17,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2019 | AAAI          | **[TransGate](#TransGate)**     |
+| 2019 | IJCAI         | **[TransMS](#TransMS)**         |
 | 2019 | WSDM          | **[CrossE](#CrossE)**           |
 
 #### Multiplication
@@ -36,6 +37,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2019 | ICML          | **[RSN](#RSN)**                 |
 | 2019 | AAAI          | **[SACN](#SACN)**               |
 | 2019 | IJCAI         | **[VR-GCN](#VR-GCN)**           |
+| 2019 | IJCAI         | **[M-GNN](#M-GNN)**             |
 | 2019 | ACL           | **[KBGAT](#KBGAT)**             |
 | 2019 | WWW           | **[ActiveLink](#ActiveLink)**   |
 | 2019 | NAACL-HLT     | **[CapsE](#CapsE)**             |
@@ -424,7 +426,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Hengtong Zhang, Tianhang Zheng, Jing Gao, Chenglin Miao, Lu Su, Yaliang Li, Kui Ren. "**Data Poisoning Attack against Knowledge Graph Embedding**". **IJCAI 2019**. [paper](https://www.ijcai.org/proceedings/2019/674)
 
-- **(TransMS)** Shihui Yang, Jidong Tian, Honglun Zhang, Junchi Yan, Hao He, Yaohui Jin. "**TransMS: Knowledge Graph Embedding for Complex Relations by Multidirectional Semantics**". **IJCAI 2019**. [paper](https://www.ijcai.org/proceedings/2019/268)
+-  <a name="TransMS"></a> **(TransMS)** Shihui Yang, Jidong Tian, Honglun Zhang, Junchi Yan, Hao He, Yaohui Jin. "**TransMS: Knowledge Graph Embedding for Complex Relations by Multidirectional Semantics**". **IJCAI 2019**. [paper](https://www.ijcai.org/proceedings/2019/268)
 
 -  <a name="WWV"></a> **(WWV)** Neil Veira, Brian Keng, Kanchana Padmanabhan, Andreas G. Veneris. "**Unsupervised Embedding Enhancements of Knowledge Graphs using Textual Associations**". **IJCAI 2019**. [paper](https://www.ijcai.org/proceedings/2019/725) [code](https://github.com/rubikloud/kg-text-embeddings)
 
