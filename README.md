@@ -51,6 +51,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2019 | AAAI          | **[OWE](#OWE)**                 |
+| 2019 | IJCAI         | **[WWV](#WWV)**                 |
 
 #### Temporal
 
@@ -425,7 +426,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - **(TransMS)** Shihui Yang, Jidong Tian, Honglun Zhang, Junchi Yan, Hao He, Yaohui Jin. "**TransMS: Knowledge Graph Embedding for Complex Relations by Multidirectional Semantics**". **IJCAI 2019**. [paper](https://www.ijcai.org/proceedings/2019/268)
 
-- Neil Veira, Brian Keng, Kanchana Padmanabhan, Andreas G. Veneris. "**Unsupervised Embedding Enhancements of Knowledge Graphs using Textual Associations**". **IJCAI 2019**. [paper](https://www.ijcai.org/proceedings/2019/725) [code](https://github.com/rubikloud/kg-text-embeddings)
+-  <a name="WWV"></a> **(WWV)** Neil Veira, Brian Keng, Kanchana Padmanabhan, Andreas G. Veneris. "**Unsupervised Embedding Enhancements of Knowledge Graphs using Textual Associations**". **IJCAI 2019**. [paper](https://www.ijcai.org/proceedings/2019/725) [code](https://github.com/rubikloud/kg-text-embeddings)
 
 - <a name="M-GNN"></a> **(M-GNN)** Zihan Wang, Zhaochun Ren, Chunyu He, Peng Zhang, Yue Hu. "**Robust Embedding with Multi-Level Structures for Link Prediction**". **IJCAI 2019**. [paper](https://www.ijcai.org/proceedings/2019/728)
 
