@@ -22,6 +22,10 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 #### Multiplication
 
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2019 | EMNLP         | **[TuckER](#TuckER)**           |
+
 #### Neural Networks
 
 | Year | Source        |	Methods                        |
@@ -53,6 +57,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2019 | ICML          | **[RSN](#RSN)**                 |
+| 2019 | EMNLP         | **[OPTransE](#OPTransE)**       |
 
 #### Textual
 
