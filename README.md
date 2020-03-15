@@ -17,8 +17,11 @@ Some papers on Knowledge Graph Embedding(KGE)
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2013 | NeurIPS       | **[TransE](#TransE)**           |
+| 2014 | AAAI          | **[TransH](#TransH)**           |
 | 2015 | AAAI          | **[TransR](#TransR)**           |
 | 2016 | IJCAI         | **[ManifoldE](#ManifoldE)**     |
+| 2016 | ACL           | **[TransG](#TransG)**           |
+| 2016 | NAACL-HLT     | **[STransE](#STransE)**         |
 | 2019 | ICLR          | **[RotatE](#RotatE)**           |
 | 2019 | AAAI          | **[TransGate](#TransGate)**     |
 | 2019 | IJCAI         | **[TransMS](#TransMS)**         |
@@ -74,6 +77,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
+| 2016 | IJCAI         | **[TEKE](#TEKE)**               |
 | 2019 | AAAI          | **[OWE](#OWE)**                 |
 | 2019 | IJCAI         | **[WWV](#WWV)**                 |
 
@@ -127,6 +131,8 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
+| 2016 | EMNLP         | **[KALE](#KALE)**               |
+| 2018 | AAAI          | **[RUGE](#RUGE)**               |
 | 2019 | IJCAI         | **[AnyBURL](#AnyBURL)**         |
 | 2019 | WWW           | **[IterE](#IterE)**             |
 | 2020 | AAAI          | **[RPJE](#RPJE)**               |
