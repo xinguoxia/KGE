@@ -16,14 +16,23 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
+| 2013 | NeurIPS       | **[TransE](#TransE)**           |
+| 2015 | AAAI          | **[TransR](#TransR)**           |
+| 2016 | IJCAI         | **[ManifoldE](#ManifoldE)**     |
+| 2019 | ICLR          | **[RotatE](#RotatE)**           |
 | 2019 | AAAI          | **[TransGate](#TransGate)**     |
 | 2019 | IJCAI         | **[TransMS](#TransMS)**         |
 | 2019 | WSDM          | **[CrossE](#CrossE)**           |
+| 2020 | AAAI          | **[HAKE](#HAKE)**               |
 
 #### Multiplication
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
+| 2011 | ICML          | **[RESCAL](#RESCAL)**           |
+| 2015 | ICLR          | **[DistMult](#DistMult)**       |
+| 2016 | ICML          | **[ComplEx](#ComplEx)**         |
+| 2016 | AAAI          | **[HolE](#HolE)**               |
 | 2019 | EMNLP         | **[TuckER](#TuckER)**           |
 
 #### Neural Networks
@@ -56,8 +65,10 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
+| 2015 | EMNLP         | **[PTransE](#PTransE)**         |
 | 2019 | ICML          | **[RSN](#RSN)**                 |
 | 2019 | EMNLP         | **[OPTransE](#OPTransE)**       |
+| 2020 | AAAI          | **[RPJE](#RPJE)**               |
 
 #### Textual
 
@@ -85,14 +96,22 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2019 | arxiv         | **[RE-Net](#RE-Net)**           |
 | 2019 | arxiv         | **[ATiSE](#ATiSE)**             |
 
+#### Hierarchy
+
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2020 | AAAI          | **[HAKE](#HAKE)**               |
+
 #### Neighborhood
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
+| 2018 | UAI           | **[KBLRN](#KBLRN)**             |
 | 2018 | ESWC          | **[R-GCN](#R-GCN)**             |
 | 2019 | AAAI          | **[LENA](#LENA)**               |
 | 2019 | AAAI          | **[LAN](#LAN)**                 |
 | 2019 | AAAI          | **[SACN](#SACN)**               |
+| 2020 | AAAI          | **[FSRL](#FSRL)**               |
 
 ### Augmentations
 
@@ -104,21 +123,13 @@ Some papers on Knowledge Graph Embedding(KGE)
 |:----:|:-------------:|:-------------------------------:|
 | 2019 | UAI           | **[EM](#EM)**                   |
 
-
 #### Soft Rules
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2019 | IJCAI         | **[AnyBURL](#AnyBURL)**         |
 | 2019 | WWW           | **[IterE](#IterE)**             |
-
-#### Hyper Planes
-
-| Year | Source        |	Methods                        |
-|:----:|:-------------:|:-------------------------------:|
-| 2019 | NeurIPS       | **[QuatE](#QuatE)**             |
-| 2019 | NeurIPS       | **[MuRP](#MuRP)**               |
-| 2019 | ICLR          | **[RotatE](#RotatE)**           |
+| 2020 | AAAI          | **[RPJE](#RPJE)**               |
 
 #### Negative Sampling
 
@@ -129,6 +140,24 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2018 | NAACL-HLT     | **[KBGAN](#KBGAN)**             |
 | 2019 | ICLR          | **[RotatE](#RotatE)**           |
 | 2019 | ICDE          | **[NSCaching](#NACaching)**     |
+
+### Emergents
+
+#### Few Shot
+
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2018 | EMNLP         | **[GMatching](#GMatching)**     |
+| 2020 | AAAI          | **[FSRL](#FSRL)**               |
+
+#### Hyper Planes
+
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2019 | NeurIPS       | **[QuatE](#QuatE)**             |
+| 2019 | NeurIPS       | **[MuRP](#MuRP)**               |
+| 2019 | ICLR          | **[RotatE](#RotatE)**           |
+| 2020 | AAAI          | **[HAKE](#HAKE)**               |
 
 ## Papers
 
@@ -394,7 +423,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Víctor Gutiérrez-Basulto, Steven Schockaert. "**From Knowledge Graph Embedding to Ontology Embedding? An Analysis of the Compatibility between Vector Space Representations and Rules**". **KR 2018**. [paper](https://aaai.org/ocs/index.php/KR/KR18/paper/view/18013)
 
-- **(KB<sub>LRN</sub>)** Alberto García-Durán, Mathias Niepert. "**KBlrn: End-to-End Learning of Knowledge Base Representations with Latent, Relational, and Numerical Features**". **UAI 2018**. [paper](http://auai.org/uai2018/proceedings/papers/149.pdf)
+- <a name="KBLRN"></a> **(KBLRN)** Alberto García-Durán, Mathias Niepert. "**KBlrn: End-to-End Learning of Knowledge Base Representations with Latent, Relational, and Numerical Features**". **UAI 2018**. [paper](http://auai.org/uai2018/proceedings/papers/149.pdf)
 
 - Farahnaz Akrami, Lingbing Guo, Wei Hu, Chengkai Li. "**Re-evaluating Embedding-Based Knowledge Graph Completion Methods**". **CIKM 2018**. [paper](https://dl.acm.org/doi/10.1145/3269206.3269266)
 
