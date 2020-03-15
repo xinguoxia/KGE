@@ -159,6 +159,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2017 | NeurIPS       | **[Neural-LP](#Neural-LP)**     |
 | 2018 | NeurIPS       | **[GQE](#GQE)**                 |
 | 2018 | AAAI          | **[RUGE](#RUGE)**               |
+| 2019 | AAAI          | **[UKGE](#UKGE)**               |
 | 2019 | IJCAI         | **[AnyBURL](#AnyBURL)**         |
 | 2019 | WWW           | **[IterE](#IterE)**             |
 | 2020 | ICLR          | **[Neural-LP-N](#Neural-LP-N)** |
