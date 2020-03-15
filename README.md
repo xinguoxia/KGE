@@ -3,10 +3,110 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 ## Contents
 
-* [Papers](#papers)
 * [Methodologies](#methodologies)
+* [Papers](#papers)
 * [Datasets](#datasets)
 * [Performance](#performance)
+
+## Methodologies
+
+### Traditions
+
+#### Translation
+
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2019 | AAAI          | **[TransGate](#TransGate)**     |
+| 2019 | WSDM          | **[CrossE](#CrossE)**           |
+
+#### Multiplication
+
+#### Neural Networks
+
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2013 | NeurIPS       | **[NTN](#NTN)**                 |
+| 2014 | KDD           | **[ER-MLP](#ER-MLP)**           |
+| 2017 | AAAI          | **[ProjE](#ProjE)**             |
+| 2018 | AAAI          | **[ConvE](#ConvE)**             |
+| 2018 | CIKM          | **[SENN](#SENN)**               |
+| 2018 | ESWC          | **[R-GCN](#R-GCN)**             |
+| 2018 | NAACL-HLT     | **[ConvKB](#ConvKB)**           |
+| 2018 | NAACL-HLT     | **[KBGAN](#KBGAN)**             |
+| 2019 | ICML          | **[RSN](#RSN)**                 |
+| 2019 | AAAI          | **[SACN](#SACN)**               |
+| 2019 | IJCAI         | **[VR-GCN](#VR-GCN)**           |
+| 2019 | ACL           | **[KBGAT](#KBGAT)**             |
+| 2019 | WWW           | **[ActiveLink](#ActiveLink)**   |
+| 2019 | NAACL-HLT     | **[CapsE](#CapsE)**             |
+| 2019 | NAACL-HLT     | **[ConvR](#ConvR)**             |
+| 2019 | K-CAP         | **[TransGCN](#TransGCN)**       |
+| 2020 | ICLR          | **[CompGCN](#CompGCN)**         |
+| 2020 | AAAI          | **[InteractE](#InteractE)**     |
+
+### Informations
+
+#### Textual
+
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2019 | AAAI          | **[OWE](#OWE)**                 |
+
+#### Temporal
+
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2014 | EMNLP         | **[CTPs](#CTPs)**               |
+| 2016 | EMNLP         | **[t-TransE](#t-TransE)**       |
+| 2016 | COLING        | **[TransE-TAE](#TransE-TAE)**   |
+| 2017 | ICML          | **[Know-Evolve](#Know-Evolve)** |
+| 2017 | AAAI          | **[MLNs](#MLNs)**               |
+| 2018 | WWW           | **[TTransE](#TTransE)**         |
+| 2018 | EMNLP         | **[TA-DistMult](#TA-DistMult)** |
+| 2018 | EMNLP         | **[HyTE](#HyTE)**               |
+| 2019 | ICLR          | **[DyRep](#DyRep)**             |
+| 2019 | J. Web Semant | **[ConT](#ConT)**               |
+| 2020 | ICLR          | **[TComplEx](#TComplEx)**       |
+| 2020 | AAAI          | **[DE-SimplE](#DE-SimplE)**     |
+| 2019 | arxiv         | **[RE-Net](#RE-Net)**           |
+| 2019 | arxiv         | **[ATiSE](#ATiSE)**             |
+
+#### Neighborhood
+
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2018 | ESWC          | **[R-GCN](#R-GCN)**             |
+| 2019 | AAAI          | **[LENA](#LENA)**               |
+| 2019 | AAAI          | **[LAN](#LAN)**                 |
+| 2019 | AAAI          | **[SACN](#SACN)**               |
+
+### Augmentations
+
+#### Constraints
+
+#### Regularizers
+
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2019 | UAI           | **[EM](#EM)**                   |
+
+
+#### Soft Rules
+
+
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2019 | WWW           | **[IterE](#IterE)**             |
+
+#### Hyper Planes
+
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2019 | NeurIPS       | **[QuatE](#QuatE)**             |
+| 2019 | NeurIPS       | **[MuRP](#MuRP)**               |
+
+#### Negative Sampling
+
 
 ## Papers
 
@@ -293,11 +393,11 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 ### 2019
 
-- **(QuatE)** Shuai Zhangy, Yi Tay, Lina Yao, Qi Liu. "**Quaternion Knowledge Graph Embeddings**". **NeurIPS 2019**. [paper](http://papers.nips.cc/paper/8541-quaternion-knowledge-graph-embeddings) [code](https://github.com/cheungdaven/QuatE) 
+- <a name="QuatE"></a> **(QuatE)** Shuai Zhangy, Yi Tay, Lina Yao, Qi Liu. "**Quaternion Knowledge Graph Embeddings**". **NeurIPS 2019**. [paper](http://papers.nips.cc/paper/8541-quaternion-knowledge-graph-embeddings) [code](https://github.com/cheungdaven/QuatE) 
 
 - **(DRUM)** 	Ali Sadeghian, Mohammadreza Armandpour, Patrick Ding, Daisy Zhe Wang. "**DRUM: End-To-End Differentiable Rule Mining On Knowledge Graphs**". **NeurIPS 2019**. [paper](http://papers.nips.cc/paper/9669-drum-end-to-end-differentiable-rule-mining-on-knowledge-graphs) [code](https://github.com/alisadeghian/DRUM)
 
-- **(MuRP)** Ivana Balaževic, Carl Allen, Timothy Hospedales. "**Multi-relational Poincaré Graph Embeddings**". **NeurIPS 2019**. [paper](http://papers.nips.cc/paper/8696-multi-relational-poincare-graph-embeddings) [code](https://github.com/ibalazevic/multirelational-poincare)
+- <a name="MuRP"></a> **(MuRP)** Ivana Balaževic, Carl Allen, Timothy Hospedales. "**Multi-relational Poincaré Graph Embeddings**". **NeurIPS 2019**. [paper](http://papers.nips.cc/paper/8696-multi-relational-poincare-graph-embeddings) [code](https://github.com/ibalazevic/multirelational-poincare)
 
 - <a name="RSN"></a> **(RSN)** Lingbing Guo, Zequn Sun, Wei Hu. "**Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs**". **ICML 2019**. [paper](http://proceedings.mlr.press/v97/guo19c.html) [code](https://github.com/nju-websoft/RSN)
 
@@ -343,9 +443,9 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - **(NaLP)** Saiping Guan, Xiaolong Jin, Yuanzhuo Wang, Xueqi Cheng. "**Link Prediction on N-ary Relational Data**". **WWW 2019**. [paper](https://dl.acm.org/doi/10.1145/3308558.3313414) [code](https://github.com/gsp2014/NaLP)
 
-- **(ActiveLink)** Natalia Ostapuk, Jie Yang, Philippe Cudré-Mauroux. "**ActiveLink: Deep Active Learning for Link Prediction in Knowledge Graphs**". **WWW 2019**. [paper](https://dl.acm.org/doi/10.1145/3308558.3313620) [code](https://github.com/eXascaleInfolab/ActiveLink)
+- <a name="ActiveLink"></a> **(ActiveLink)** Natalia Ostapuk, Jie Yang, Philippe Cudré-Mauroux. "**ActiveLink: Deep Active Learning for Link Prediction in Knowledge Graphs**". **WWW 2019**. [paper](https://dl.acm.org/doi/10.1145/3308558.3313620) [code](https://github.com/eXascaleInfolab/ActiveLink)
 
-- **(IterE)** Wen Zhang, Bibek Paudel, Liang Wang, Jiaoyan Chen, Hai Zhu, Wei Zhang, Abraham Bernstein, Huajun Chen. "**Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning**". **WWW 2019**. [paper](https://dl.acm.org/doi/10.1145/3308558.3313612) [code](https://github.com/wencolani/IterE)
+- <a name="IterE"></a> **(IterE)** Wen Zhang, Bibek Paudel, Liang Wang, Jiaoyan Chen, Hai Zhu, Wei Zhang, Abraham Bernstein, Huajun Chen. "**Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning**". **WWW 2019**. [paper](https://dl.acm.org/doi/10.1145/3308558.3313612) [code](https://github.com/wencolani/IterE)
 
 - **(CaRe)** Swapnil Gupta, Sreyash Kenkre, Partha Talukdar. "**CaRe: Open Knowledge Graph Embeddings**". **EMNLP 2019**. [paper](https://www.aclweb.org/anthology/D19-1036/) [code](https://github.com/malllabiisc/CaRE)
 
@@ -363,9 +463,9 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Cong Fu, Tong Chen, Meng Qu, Woojeong Jin, Xiang Ren. "**Collaborative Policy Learning for Open Knowledge Graph Reasoning**". **EMNLP 2019**. [paper](https://doi.org/10.18653/v1/D19-1269)
 
-- Robert Bamler, Farnood Salehi, Stephan Mandt. "**Augmenting and Tuning Knowledge Graph Embeddings**". **UAI 2019**. [paper](http://auai.org/uai2019/proceedings/papers/172.pdf) [code](https://github.com/mandt-lab/knowledge-graph-tuning)
+- <a name="EM"></a> **(EM)** Robert Bamler, Farnood Salehi, Stephan Mandt. "**Augmenting and Tuning Knowledge Graph Embeddings**". **UAI 2019**. [paper](http://auai.org/uai2019/proceedings/papers/172.pdf) [code](https://github.com/mandt-lab/knowledge-graph-tuning)
 
-- **(CrossE)** Wen Zhang, Bibek Paudel, Wei Zhang, Abraham Bernstein, Huajun Chen. "**Interaction Embeddings for Prediction and Explanation in Knowledge Graphs**". **WSDM 2019**. [paper](https://dl.acm.org/doi/10.1145/3289600.3291014) [code](https://github.com/wencolani/CrossE)
+- <a name="CrossE"></a> **(CrossE)** Wen Zhang, Bibek Paudel, Wei Zhang, Abraham Bernstein, Huajun Chen. "**Interaction Embeddings for Prediction and Explanation in Knowledge Graphs**". **WSDM 2019**. [paper](https://dl.acm.org/doi/10.1145/3289600.3291014) [code](https://github.com/wencolani/CrossE)
 
 - Erik B. Myklebust, Ernesto Jiménez-Ruiz, Jiaoyan Chen, Raoul Wolf, Knut Erik Tollefsen. "**Knowledge Graph Embedding for Ecotoxicological Effect Prediction**". **ISWC 2019**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30796-7_30)
 
@@ -513,87 +613,6 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 - Yunpu Ma, Yuyi Wang, Volker Tresp. "**Quantum Machine Learning Algorithm for Knowledge Graphs**". 
 **arxiv 2020-01**. [paper](https://arxiv.org/abs/2001.01077)
 
-## Methodologies
-
-### Traditions
-
-#### Translation
-
-| Year | Source        |	Methods                        |
-|:----:|:-------------:|:-------------------------------:|
-| 2019 | AAAI          | **[TransGate](#TransGate)**     |
-
-#### Multiplication
-
-#### Neural Networks
-
-| Year | Source        |	Methods                        |
-|:----:|:-------------:|:-------------------------------:|
-| 2013 | NeurIPS       | **[NTN](#NTN)**                 |
-| 2014 | KDD           | **[ER-MLP](#ER-MLP)**           |
-| 2017 | AAAI          | **[ProjE](#ProjE)**             |
-| 2018 | AAAI          | **[ConvE](#ConvE)**             |
-| 2018 | CIKM          | **[SENN](#SENN)**               |
-| 2018 | ESWC          | **[R-GCN](#R-GCN)**             |
-| 2018 | NAACL-HLT     | **[ConvKB](#ConvKB)**           |
-| 2018 | NAACL-HLT     | **[KBGAN](#KBGAN)**             |
-| 2019 | ICML          | **[RSN](#RSN)**                 |
-| 2019 | AAAI          | **[SACN](#SACN)**               |
-| 2019 | IJCAI         | **[VR-GCN](#VR-GCN)**           |
-| 2019 | ACL           | **[KBGAT](#KBGAT)**             |
-| 2019 | NAACL-HLT     | **[CapsE](#CapsE)**             |
-| 2019 | NAACL-HLT     | **[ConvR](#ConvR)**             |
-| 2019 | K-CAP         | **[TransGCN](#TransGCN)**       |
-| 2020 | ICLR          | **[CompGCN](#CompGCN)**         |
-| 2020 | AAAI          | **[InteractE](#InteractE)**     |
-
-### Informations
-
-#### Textual
-
-| Year | Source        |	Methods                        |
-|:----:|:-------------:|:-------------------------------:|
-| 2019 | AAAI          | **[OWE](#OWE)**                 |
-
-#### Temporal
-
-| Year | Source        |	Methods                        |
-|:----:|:-------------:|:-------------------------------:|
-| 2014 | EMNLP         | **[CTPs](#CTPs)**               |
-| 2016 | EMNLP         | **[t-TransE](#t-TransE)**       |
-| 2016 | COLING        | **[TransE-TAE](#TransE-TAE)**   |
-| 2017 | ICML          | **[Know-Evolve](#Know-Evolve)** |
-| 2017 | AAAI          | **[MLNs](#MLNs)**               |
-| 2018 | WWW           | **[TTransE](#TTransE)**         |
-| 2018 | EMNLP         | **[TA-DistMult](#TA-DistMult)** |
-| 2018 | EMNLP         | **[HyTE](#HyTE)**               |
-| 2019 | ICLR          | **[DyRep](#DyRep)**             |
-| 2019 | J. Web Semant | **[ConT](#ConT)**               |
-| 2020 | ICLR          | **[TComplEx](#TComplEx)**       |
-| 2020 | AAAI          | **[DE-SimplE](#DE-SimplE)**     |
-| 2019 | arxiv         | **[RE-Net](#RE-Net)**           |
-| 2019 | arxiv         | **[ATiSE](#ATiSE)**             |
-
-#### Neighborhood
-
-| Year | Source        |	Methods                        |
-|:----:|:-------------:|:-------------------------------:|
-| 2018 | ESWC          | **[R-GCN](#R-GCN)**             |
-| 2019 | AAAI          | **[LENA](#LENA)**               |
-| 2019 | AAAI          | **[LAN](#LAN)**                 |
-| 2019 | AAAI          | **[SACN](#SACN)**               |
-
-### Augmentations
-
-#### Regularizer
-
-#### Constraints
-
-#### Soft Rules
-
-#### Hyper Planes
-
-#### Negative Sampling
 
 
 
