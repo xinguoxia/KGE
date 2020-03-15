@@ -48,6 +48,12 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 ### Informations
 
+#### Path
+
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2019 | ICML          | **[RSN](#RSN)**                 |
+
 #### Textual
 
 | Year | Source        |	Methods                        |
@@ -107,6 +113,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 |:----:|:-------------:|:-------------------------------:|
 | 2019 | NeurIPS       | **[QuatE](#QuatE)**             |
 | 2019 | NeurIPS       | **[MuRP](#MuRP)**               |
+| 2019 | ICLR          | **[RotatE](#RotatE)**           |
 
 #### Negative Sampling
 
