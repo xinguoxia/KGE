@@ -117,6 +117,13 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 #### Negative Sampling
 
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2014 | AAAI          | **[TransH](#TransH)**           |
+| 2018 | AAAI          | **[IGAN](#IGAN)**               |
+| 2018 | NAACL-HLT     | **[KBGAN](#KBGAN)**             |
+| 2019 | ICLR          | **[RotatE](#RotatE)**           |
+| 2019 | ICDE          | **[NSCaching](#NACaching)**     |
 
 ## Papers
 
@@ -364,8 +371,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - **(Max-K Criterion)** Jiajie Mei, Richong Zhang, Yongyi Mao, Ting Deng. "**On Link Prediction in Knowledge Bases: Max-K Criterion and Prediction Protocols**". **SIGIR 2018**. [paper](https://dl.acm.org/doi/10.1145/3209978.3210029)
 
-- <a name="TTransE"></a> **(TTransE)** Julien Leblay, Melisachew Wudage Chekol. "**Deriving Validity Time in Knowledge Graph**". **WWW 2018**. 
-[paper](https://dl.acm.org/doi/10.1145/3184558.3191639)
+- <a name="TTransE"></a> **(TTransE)** Julien Leblay, Melisachew Wudage Chekol. "**Deriving Validity Time in Knowledge Graph**". **WWW 2018**. [paper](https://dl.acm.org/doi/10.1145/3184558.3191639)
 
 - **(HRS)** Zhao Zhang, Fuzhen Zhuang, Meng Qu, Fen Lin, Qing He. "**Knowledge Graph Embedding with Hierarchical Relation Structure**". **EMNLP 2018**. [paper](https://www.aclweb.org/anthology/D18-1358/)
 
