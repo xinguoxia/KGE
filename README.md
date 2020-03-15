@@ -60,6 +60,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2019 | NAACL-HLT     | **[ConvR](#ConvR)**             |
 | 2019 | K-CAP         | **[TransGCN](#TransGCN)**       |
 | 2020 | ICLR          | **[CompGCN](#CompGCN)**         |
+| 2020 | ICLR          | **[DPMPN](#DPMPN)**             |
 | 2020 | AAAI          | **[InteractE](#InteractE)**     |
 
 ### Informations
@@ -69,6 +70,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2015 | EMNLP         | **[PTransE](#PTransE)**         |
+| 2018 | ICLR          | **[MINERVA](#MINERVA)**         |
 | 2019 | ICML          | **[RSN](#RSN)**                 |
 | 2019 | EMNLP         | **[OPTransE](#OPTransE)**       |
 | 2020 | AAAI          | **[RPJE](#RPJE)**               |
@@ -132,9 +134,13 @@ Some papers on Knowledge Graph Embedding(KGE)
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2016 | EMNLP         | **[KALE](#KALE)**               |
+| 2017 | NeurIPS       | **[Neural-LP](#Neural-LP)**     |
+| 2018 | NeurIPS       | **[GQE](#GQE)**                 |
 | 2018 | AAAI          | **[RUGE](#RUGE)**               |
 | 2019 | IJCAI         | **[AnyBURL](#AnyBURL)**         |
 | 2019 | WWW           | **[IterE](#IterE)**             |
+| 2020 | ICLR          | **[Neural-LP-N](#Neural-LP-N)** |
+| 2020 | ICLR          | **[Q2B](#Q2B)**                 |
 | 2020 | AAAI          | **[RPJE](#RPJE)**               |
 
 #### Negative Sampling
@@ -331,7 +337,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 ### 2017
 
-- <a name="Neural LP"></a> **(Neural LP)** Fan Yang, Zhilin Yang, William W. Cohen. "**Differentiable Learning of Logical Rules for Knowledge Base Reasoning**". **NIPS 2017**. [paper](http://papers.nips.cc/paper/6826-differentiable-learning-of-logical-rules-for-knowledge-base-reasoning) [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips30/reviews/1347.html) [code](https://github.com/fanyangxyz/Neural-LP)
+- <a name="Neural-LP"></a> **(Neural-LP)** Fan Yang, Zhilin Yang, William W. Cohen. "**Differentiable Learning of Logical Rules for Knowledge Base Reasoning**". **NIPS 2017**. [paper](http://papers.nips.cc/paper/6826-differentiable-learning-of-logical-rules-for-knowledge-base-reasoning) [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips30/reviews/1347.html) [code](https://github.com/fanyangxyz/Neural-LP)
 
 - <a name="ANALOGY"></a> **(ANALOGY)** Hanxiao Liu, Yuexin Wu, Yiming Yang. "**Analogical Inference for Multi-relational Embeddings**". **ICML 2017**. [paper](http://proceedings.mlr.press/v70/liu17d.html) [code](https://github.com/quark0/ANALOGY)
 
