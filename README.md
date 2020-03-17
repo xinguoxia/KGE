@@ -11,7 +11,9 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 ## Libraries
 
-- scikit-kge [code](https://github.com/mnick/scikit-kge)
+- Scikit-kge [code](https://github.com/mnick/scikit-kge)
+- Pykg2vec [code](https://github.com/Sujit-O/pykg2vec)
+- LibKGE [code](https://github.com/uma-pi1/kge)
 
 ## Methodologies
 
