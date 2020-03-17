@@ -3,10 +3,15 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 ## Contents
 
+* [Libraries](#Libraries)
 * [Methodologies](#methodologies)
 * [Papers](#papers)
 * [Datasets](#datasets)
 * [Performance](#performance)
+
+## Libraries
+
+- Scikit-kge [code](https://github.com/mnick/scikit-kge)
 
 ## Methodologies
 
