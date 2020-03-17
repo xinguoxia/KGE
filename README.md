@@ -11,10 +11,11 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 ## Libraries
 
-- LibKGE [code](https://github.com/uma-pi1/kge)
-- BioKEEN [code](https://github.com/SmartDataAnalytics/BioKEEN)
-- Pykg2vec [code](https://github.com/Sujit-O/pykg2vec)
-- Scikit-kge [code](https://github.com/mnick/scikit-kge)
+- **OpenKE** [code](https://github.com/thunlp/OpenKE)
+- **LibKGE** [code](https://github.com/uma-pi1/kge)
+- **BioKEEN** [code](https://github.com/SmartDataAnalytics/BioKEEN)
+- **Pykg2vec** [code](https://github.com/Sujit-O/pykg2vec)
+- **Scikit-kge** [code](https://github.com/mnick/scikit-kge)
 
 ## Methodologies
 
