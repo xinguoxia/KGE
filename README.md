@@ -43,6 +43,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2017 | ACL           | **[ITransF](#ITransF)**         |
 | 2017 | CIKM          | **[TransE-RS](#TransE-RS)**     |
 | 2017 | CIKM          | **[CombinE](#CombinE)**         |
+| 2018 | AAAI          | **[TorusE](#TorusE)**           |
 | 2019 | ICLR          | **[RotatE](#RotatE)**           |
 | 2019 | AAAI          | **[TransGate](#TransGate)**     |
 | 2019 | IJCAI         | **[TransMS](#TransMS)**         |
@@ -231,6 +232,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2016 | ICML          | **[ComplEx](#ComplEx)**         |
+| 2018 | AAAI          | **[TorusE](#TorusE)**           |
 | 2019 | NeurIPS       | **[QuatE](#QuatE)**             |
 | 2019 | NeurIPS       | **[MuRP](#MuRP)**               |
 | 2019 | ICLR          | **[RotatE](#RotatE)**           |
