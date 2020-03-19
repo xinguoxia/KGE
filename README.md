@@ -125,7 +125,8 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2019 | AAAI          | **[OWE](#OWE)**                         |
 | 2019 | IJCAI         | **[WWV](#WWV)**                         |
 | 2019 | EMNLP         | **[CaRe](#CaRe)**                       |
-| 2019 | EMNLP         | **[TCVAE](#TCVAE)**             |
+| 2019 | EMNLP         | **[TCVAE](#TCVAE)**                     |
+| 2019 | EMNLP         | **[CPL](#CPL)**                         |
 
 #### Temporal
 
@@ -234,6 +235,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2018 | EMNLP         | **[GMatching](#GMatching)**     |
 | 2019 | EMNLP         | **[MetaR](#MetaR)**             |
 | 2019 | EMNLP         | **[TCVAE](#TCVAE)**             |
+| 2019 | EMNLP         | **[Meta-KGR](#Meta-KGR)**       |
 | 2020 | AAAI          | **[FSRL](#FSRL)**               |
 
 #### Hyper Planes
@@ -597,9 +599,9 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - <a name="JoBi ComplEx"></a> **(JoBi ComplEx)** Esma Balkir, Masha Naslidnyk, Dave Palfrey and Arpit Mittal. "**Using Pairwise Occurrence Information to Improve Knowledge Graph Completion on Large-Scale Datasets**". **EMNLP 2019**. [paper](https://www.aclweb.org/anthology/D19-1368/)
 
-- Xin Lv, Yuxian Gu, Xu Han, Lei Hou, Juanzi Li, Zhiyuan Liu. "**Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations**". **EMNLP 2019**. [paper](https://doi.org/10.18653/v1/D19-1334)
+- <a name="Meta-KGR"></a> **(Meta-KGR)** Xin Lv, Yuxian Gu, Xu Han, Lei Hou, Juanzi Li, Zhiyuan Liu. "**Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations**". **EMNLP 2019**. [paper](https://doi.org/10.18653/v1/D19-1334)
 
-- Cong Fu, Tong Chen, Meng Qu, Woojeong Jin, Xiang Ren. "**Collaborative Policy Learning for Open Knowledge Graph Reasoning**". **EMNLP 2019**. [paper](https://doi.org/10.18653/v1/D19-1269)
+- <a name="CPL"></a> **(CPL)** Cong Fu, Tong Chen, Meng Qu, Woojeong Jin, Xiang Ren. "**Collaborative Policy Learning for Open Knowledge Graph Reasoning**". **EMNLP 2019**. [paper](https://doi.org/10.18653/v1/D19-1269)
 
 - <a name="EM"></a> **(EM)** Robert Bamler, Farnood Salehi, Stephan Mandt. "**Augmenting and Tuning Knowledge Graph Embeddings**". **UAI 2019**. [paper](http://auai.org/uai2019/proceedings/papers/172.pdf) [code](https://github.com/mandt-lab/knowledge-graph-tuning)
 
