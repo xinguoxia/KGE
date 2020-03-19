@@ -149,6 +149,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
+| 2015 | ACL           | **[SSE](#SSE)**                 |
 | 2019 | ACL           | **[ComplEx-NNE](#ComplEx-NNE)** |
 | 2019 | AAAI          | **[SimplE+](#SimplE+)**         |
 
@@ -156,6 +157,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
+| 2015 | ACL           | **[SSE](#SSE)**                 |
 | 2018 | ICML          | **[ComplEx-N3](#ComplEx-N3)**   |
 | 2018 | AAAI          | **[ComplEx-L1](#ComplEx-L1)**   |
 | 2019 | UAI           | **[EM](#EM)**                   |
