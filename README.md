@@ -39,6 +39,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2016 | KR            | **[FTransE](#FTransE)**         |
 | 2016 | NAACL-HLT     | **[lppTransE](#lppTransE)**     |
 | 2016 | NAACL-HLT     | **[STransE](#STransE)**         |
+| 2017 | AAAI          | **[puTransE](#puTransE)**       |
 | 2019 | ICLR          | **[RotatE](#RotatE)**           |
 | 2019 | AAAI          | **[TransGate](#TransGate)**     |
 | 2019 | IJCAI         | **[TransMS](#TransMS)**         |
