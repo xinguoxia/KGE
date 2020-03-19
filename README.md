@@ -129,6 +129,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2016 | IJCAI         | **[TKRL](#TKRL)**               |
+| 2016 | SIGIR         | **[HiRi](#HiRi)**               |
 | 2020 | AAAI          | **[HAKE](#HAKE)**               |
 
 #### Taxonomic
@@ -370,7 +371,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - <a name="TransG"></a> **(TransG)** Han Xiao, Minlie Huang, Xiaoyan Zhu. "**TransG: A Generative Model for Knowledge Graph Embedding**". **ACL 2016**. [paper](https://www.aclweb.org/anthology/P16-1219/) [code](https://github.com/BookmanHan/Embedding)
 
-- <a name="HiRI"></a> **(HiRi)** Qiao Liu, Liuyi Jiang, Minghao Han, Yao Liu, Zhiguang Qin. "**Hierarchical Random Walk Inference in Knowledge Graphs**". **SIGIR 2016**. [paper](https://dl.acm.org/doi/10.1145/2911451.2911509)
+- <a name="HiRi"></a> **(HiRi)** Qiao Liu, Liuyi Jiang, Minghao Han, Yao Liu, Zhiguang Qin. "**Hierarchical Random Walk Inference in Knowledge Graphs**". **SIGIR 2016**. [paper](https://dl.acm.org/doi/10.1145/2911451.2911509)
 
 - <a name="KALE"></a> **(KALE)** Shu Guo, Quan Wang, Lihong Wang, Bin Wang, Li Guo."**Jointly Embedding Knowledge Graphs and Logical Rules**". **EMNLP 2016**. [paper](https://www.aclweb.org/anthology/D16-1019/) [code](https://github.com/iieir-km/KALE)
 
