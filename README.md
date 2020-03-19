@@ -93,7 +93,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2015 | EMNLP         | **[RTransE](#RTransE)**         |
 | 2015 | EMNLP         | **[TransE-COMP](#TransE-COMP)** |
 | 2016 | COLING        | **[GAKE](#GAKE)**               |
-| 2017 | EMNLP         | **[DeePath](#DeePath)**         |
+| 2017 | EMNLP         | **[DeepPath](#DeepPath)**       |
 | 2018 | ICLR          | **[MINERVA](#MINERVA)**         |
 | 2019 | ICML          | **[RSN](#RSN)**                 |
 | 2019 | EMNLP         | **[OPTransE](#OPTransE)**       |
@@ -422,7 +422,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Jay Pujara, Eriq Augustine, Lise Getoor. "**Sparsity and Noise:Where Knowledge Graph Embeddings Fall Short**". **EMNLP 2017**. [paper](https://www.aclweb.org/anthology/D17-1184/) [code](https://github.com/linqs/pujara-emnlp17)
 
-- <a name="DeepPath"></a> **(DeePath)** Wenhan Xiong, Thien Hoang, William Yang Wang. "**DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning**". **EMNLP 2017**. [paper](https://www.aclweb.org/anthology/D17-1060/)
+- <a name="DeepPath"></a> **(DeepPath)** Wenhan Xiong, Thien Hoang, William Yang Wang. "**DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning**". **EMNLP 2017**. [paper](https://www.aclweb.org/anthology/D17-1060/)
 
 - <a name="ETE"></a> **(ETE)** Changsung Moon, Paul Jones, Nagiza F. Samatova. "**Learning Entity Type Embeddings for Knowledge Graph Completion**". **CIKM 2017**. [paper](https://dl.acm.org/doi/10.1145/3132847.3133095)
 
