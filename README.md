@@ -32,6 +32,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2015 | EMNLP         | **[PTransE](#PTransE)**         |
 | 2015 | EMNLP         | **[RTransE](#RTransE)**         |
 | 2015 | CIKM          | **[KG2E](#KG2E)**               |
+| 2016 | AAAI          | **[TransA](#TransA)**           |
 | 2016 | AAAI          | **[TranSparse](#TranSparse)**   |
 | 2016 | IJCAI         | **[ManifoldE](#ManifoldE)**     |
 | 2016 | ACL           | **[TransG](#TransG)**           |
@@ -98,6 +99,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 |:----:|:-------------:|:---------------------------------------:|
 | 2014 | EMNLP         | **[pTransE](#pTransE)**                 |
 | 2015 | EMNLP         | **[Jointly(desp)](#Jointly(desp))**     |
+| 2016 | AAAI          | **[DKRL](#DKRL)**                       |
 | 2016 | IJCAI         | **[TEKE](#TEKE)**                       |
 | 2017 | IJCAI         | **[Jointly(A-LSTM)](#Jointly(A-LSTM))** |
 | 2019 | AAAI          | **[OWE](#OWE)**                         |
@@ -172,6 +174,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2015 | IJCAI         | **[r-TransE](#r-TransE)**       |
+| 2016 | IJCAI         | **[ProPPR](#ProPPR)**           |
 | 2016 | EMNLP         | **[KALE](#KALE)**               |
 | 2017 | NeurIPS       | **[Neural-LP](#Neural-LP)**     |
 | 2018 | NeurIPS       | **[GQE](#GQE)**                 |
