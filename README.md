@@ -145,6 +145,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2016 | IJCAI         | **[TKRL](#TKRL)**               |
 | 2016 | SIGIR         | **[HiRi](#HiRi)**               |
 | 2018 | AAAI          | **[TransE-T](#TransE-T)**       |
+| 2018 | EMNLP         | **[TransE-HRS](#TransE-HRS)**   |
 | 2020 | AAAI          | **[HAKE](#HAKE)**               |
 
 #### Taxonomic
@@ -490,7 +491,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - <a name="TTransE"></a> **(TTransE)** Julien Leblay, Melisachew Wudage Chekol. "**Deriving Validity Time in Knowledge Graph**". **WWW 2018**. [paper](https://dl.acm.org/doi/10.1145/3184558.3191639)
 
-- **(HRS)** Zhao Zhang, Fuzhen Zhuang, Meng Qu, Fen Lin, Qing He. "**Knowledge Graph Embedding with Hierarchical Relation Structure**". **EMNLP 2018**. [paper](https://www.aclweb.org/anthology/D18-1358/)
+- <a name="TransE-HRS"></a> **(TransE-HRS)** Zhao Zhang, Fuzhen Zhuang, Meng Qu, Fen Lin, Qing He. "**Knowledge Graph Embedding with Hierarchical Relation Structure**". **EMNLP 2018**. [paper](https://www.aclweb.org/anthology/D18-1358/)
 
 - **(MultiHopKG)** Xi Victoria Lin, Richard Socher, Caiming Xiong. "**Multi-Hop Knowledge Graph Reasoning with Reward Shaping**". **EMNLP 2018**. [paper](https://www.aclweb.org/anthology/D18-1362/) [code](https://github.com/salesforce/MultiHopKG)
 
