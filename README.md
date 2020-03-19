@@ -94,6 +94,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2015 | EMNLP         | **[TransE-COMP](#TransE-COMP)** |
 | 2016 | COLING        | **[GAKE](#GAKE)**               |
 | 2017 | EMNLP         | **[DeepPath](#DeepPath)**       |
+| 2017 | CIKM          | **[TCE](#TCE)**                 |
 | 2018 | ICLR          | **[MINERVA](#MINERVA)**         |
 | 2019 | ICML          | **[RSN](#RSN)**                 |
 | 2019 | EMNLP         | **[OPTransE](#OPTransE)**       |
@@ -152,6 +153,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 |:----:|:-------------:|:-------------------------------:|
 | 2016 | NeurIPS       | **[Gaifman](#Gaifman)**         |
 | 2016 | COLING        | **[GAKE](#GAKE)**               |
+| 2017 | CIKM          | **[TCE](#TCE)**                 |
 | 2018 | UAI           | **[KBLRN](#KBLRN)**             |
 | 2018 | ESWC          | **[R-GCN](#R-GCN)**             |
 | 2019 | AAAI          | **[LENA](#LENA)**               |
