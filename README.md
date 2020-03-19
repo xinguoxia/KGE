@@ -124,6 +124,8 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2018 | NAACL-HLT     | **[ATE](#ATE)**                         |
 | 2019 | AAAI          | **[OWE](#OWE)**                         |
 | 2019 | IJCAI         | **[WWV](#WWV)**                         |
+| 2019 | EMNLP         | **[CaRe](#CaRe)**                       |
+| 2019 | EMNLP         | **[TCVAE](#TCVAE)**             |
 
 #### Temporal
 
@@ -172,6 +174,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2019 | AAAI          | **[LAN](#LAN)**                 |
 | 2019 | AAAI          | **[SACN](#SACN)**               |
 | 2019 | WWW           | **[TransN](#TransN)**           |
+| 2019 | EMNLP         | **[CaRe](#CaRe)**               |
 | 2020 | AAAI          | **[FSRL](#FSRL)**               |
 
 ### Augmentations
@@ -229,6 +232,8 @@ Some papers on Knowledge Graph Embedding(KGE)
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2018 | EMNLP         | **[GMatching](#GMatching)**     |
+| 2019 | EMNLP         | **[MetaR](#MetaR)**             |
+| 2019 | EMNLP         | **[TCVAE](#TCVAE)**             |
 | 2020 | AAAI          | **[FSRL](#FSRL)**               |
 
 #### Hyper Planes
@@ -586,7 +591,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - <a name="OPTransE"></a> **(OPTransE)** Yao Zhu, Hongzhi Liu, Zhonghai Wu, Yang Song and Tao Zhang. "**Representation Learning with Ordered Relation Paths for Knowledge Graph Completion**". **EMNLP 2019**. [paper](https://www.aclweb.org/anthology/D19-1268/)
 
-- Zihao Wang, Kwunping Lai, Piji Li, Lidong Bing and Wai Lam. "**Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion**". **EMNLP 2019**. [paper](https://www.aclweb.org/anthology/D19-1024/)
+- <a name="TCVAE"></a> **(TCVAE)** Zihao Wang, Kwunping Lai, Piji Li, Lidong Bing and Wai Lam. "**Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion**". **EMNLP 2019**. [paper](https://www.aclweb.org/anthology/D19-1024/)
 
 - <a name="TuckER"></a> **(TuckER)** Ivana Balazevic, Carl Allen, Timothy M. Hospedales. "**TuckER: Tensor Factorization for Knowledge Graph Completion**". **EMNLP 2019**. [paper](https://www.aclweb.org/anthology/D19-1522/) [code](https://github.com/ibalazevic/TuckER)
 
