@@ -44,6 +44,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2017 | CIKM          | **[TransE-RS](#TransE-RS)**     |
 | 2017 | CIKM          | **[CombinE](#CombinE)**         |
 | 2018 | AAAI          | **[TorusE](#TorusE)**           |
+| 2018 | AAAI          | **[TransAt](#TransAt)**         |
 | 2019 | ICLR          | **[RotatE](#RotatE)**           |
 | 2019 | AAAI          | **[TransGate](#TransGate)**     |
 | 2019 | IJCAI         | **[TransMS](#TransMS)**         |
@@ -57,8 +58,9 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2011 | ICML          | **[RESCAL](#RESCAL)**           |
 | 2015 | ICLR          | **[DistMult](#DistMult)**       |
 | 2016 | ICML          | **[ComplEx](#ComplEx)**         |
-| 2017 | ICML          | **[ANALOGY](#ANALOGY)**         |
 | 2016 | AAAI          | **[HolE](#HolE)**               |
+| 2017 | ICML          | **[ANALOGY](#ANALOGY)**         |
+| 2018 | NeurIPS       | **[SimplE](#SimplE)**           |
 | 2019 | EMNLP         | **[TuckER](#TuckER)**           |
 
 #### Neural Networks
@@ -115,6 +117,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2017 | IJCAI         | **[Jointly(A-LSTM)](#Jointly(A-LSTM))** |
 | 2017 | ACL           | **[FRN](#FRN)**                         |
 | 2018 | AAAI          | **[ConMask](#ConMask)**                 |
+| 2018 | AAAI          | **[JointNRE](#JointNRE)**               |
 | 2019 | AAAI          | **[OWE](#OWE)**                         |
 | 2019 | IJCAI         | **[WWV](#WWV)**                         |
 
@@ -134,8 +137,6 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2019 | J. Web Semant | **[ConT](#ConT)**               |
 | 2020 | ICLR          | **[TComplEx](#TComplEx)**       |
 | 2020 | AAAI          | **[DE-SimplE](#DE-SimplE)**     |
-| 2019 | arxiv         | **[RE-Net](#RE-Net)**           |
-| 2019 | arxiv         | **[ATiSE](#ATiSE)**             |
 
 #### Hierarchy
 
@@ -164,6 +165,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2019 | AAAI          | **[LENA](#LENA)**               |
 | 2019 | AAAI          | **[LAN](#LAN)**                 |
 | 2019 | AAAI          | **[SACN](#SACN)**               |
+| 2019 | WWW           | **[TransN](#TransN)**           |
 | 2020 | AAAI          | **[FSRL](#FSRL)**               |
 
 ### Augmentations
@@ -173,7 +175,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2015 | ACL           | **[SSE](#SSE)**                 |
-| 2019 | ACL           | **[ComplEx-NNE](#ComplEx-NNE)** |
+| 2018 | ACL           | **[ComplEx-NNE](#ComplEx-NNE)** |
 | 2019 | AAAI          | **[SimplE+](#SimplE+)**         |
 
 #### Regularizers
