@@ -93,12 +93,14 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 #### Textual
 
-| Year | Source        |	Methods                        |
-|:----:|:-------------:|:-------------------------------:|
-| 2014 | EMNLP         | **[pTransE](#pTransE)**         |
-| 2016 | IJCAI         | **[TEKE](#TEKE)**               |
-| 2019 | AAAI          | **[OWE](#OWE)**                 |
-| 2019 | IJCAI         | **[WWV](#WWV)**                 |
+| Year | Source        |	Methods                                |
+|:----:|:-------------:|:---------------------------------------:|
+| 2014 | EMNLP         | **[pTransE](#pTransE)**                 |
+| 2015 | EMNLP         | **[Jointly(desp)](#Jointly(desp))**     |
+| 2016 | IJCAI         | **[TEKE](#TEKE)**                       |
+| 2017 | IJCAI         | **[Jointly(A-LSTM)](#Jointly(A-LSTM))** |
+| 2019 | AAAI          | **[OWE](#OWE)**                         |
+| 2019 | IJCAI         | **[WWV](#WWV)**                         |
 
 #### Temporal
 
