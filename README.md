@@ -36,6 +36,8 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2016 | AAAI          | **[TranSparse](#TranSparse)**   |
 | 2016 | IJCAI         | **[ManifoldE](#ManifoldE)**     |
 | 2016 | ACL           | **[TransG](#TransG)**           |
+| 2016 | KR            | **[FTransE](#FTransE)**         |
+| 2016 | NAACL-HLT     | **[lppTransE](#lppTransE)**     |
 | 2016 | NAACL-HLT     | **[STransE](#STransE)**         |
 | 2019 | ICLR          | **[RotatE](#RotatE)**           |
 | 2019 | AAAI          | **[TransGate](#TransGate)**     |
@@ -88,6 +90,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2015 | EMNLP         | **[PTransE](#PTransE)**         |
 | 2015 | EMNLP         | **[RTransE](#RTransE)**         |
 | 2015 | EMNLP         | **[TransE-COMP](#TransE-COMP)** |
+| 2016 | COLING        | **[GAKE](#GAKE)**               |
 | 2018 | ICLR          | **[MINERVA](#MINERVA)**         |
 | 2019 | ICML          | **[RSN](#RSN)**                 |
 | 2019 | EMNLP         | **[OPTransE](#OPTransE)**       |
@@ -143,6 +146,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2016 | NeurIPS       | **[Gaifman](#Gaifman)**         |
+| 2016 | COLING        | **[GAKE](#GAKE)**               |
 | 2018 | UAI           | **[KBLRN](#KBLRN)**             |
 | 2018 | ESWC          | **[R-GCN](#R-GCN)**             |
 | 2019 | AAAI          | **[LENA](#LENA)**               |
@@ -383,7 +387,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - <a name="FTransE"></a> **(FTransE)** Jun Feng, Minlie Huang, Mingdong Wang, Mantong Zhou, Yu Hao, Xiaoyan Zhu. "**Knowledge Graph Embedding by Flexible Translation**". **KR 2016**. [paper](https://www.aaai.org/ocs/index.php/KR/KR16/paper/view/12887) [code](http://ml.knu.ac.kr/lppKE)
 
-- Hee-Geun Yoon, Hyun-Je Song, Seong-Bae Park, Se-Young Park. "**A Translation-Based Knowledge Graph Embedding Preserving Logical Property of Relations**". **HLT-NAACL 2016**. [paper](https://www.aclweb.org/anthology/N16-1105)
+- <a name="lppTransE"></a> **(lppTransE)** Hee-Geun Yoon, Hyun-Je Song, Seong-Bae Park, Se-Young Park. "**A Translation-Based Knowledge Graph Embedding Preserving Logical Property of Relations**". **HLT-NAACL 2016**. [paper](https://www.aclweb.org/anthology/N16-1105)
 
 - <a name="STransE"></a> **(STransE)** Dat Quoc Nguyen, Kairit Sirts, Lizhen Qu, Mark Johnson. "**STransE: A Novel Embedding Model of Entities and Relationships in Knowledge Bases**". **NAACL-HLT 2016**. [paper](https://www.aclweb.org/anthology/N16-1054/) [code](https://github.com/datquocnguyen/STransE)
 
