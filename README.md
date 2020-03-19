@@ -191,6 +191,13 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 ### Emergents
 
+#### Active
+
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2015 | WWW           | **[AMDC](#AMDC)**               |
+| 2019 | WWW           | **[ActiveLink](#ActiveLink)**   |
+
 #### Few Shot
 
 | Year | Source        |	Methods                        |
