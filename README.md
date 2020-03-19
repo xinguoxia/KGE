@@ -114,6 +114,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2017 | AAAI          | **[SSP](#SSP)**                         |
 | 2017 | IJCAI         | **[Jointly(A-LSTM)](#Jointly(A-LSTM))** |
 | 2017 | ACL           | **[FRN](#FRN)**                         |
+| 2018 | AAAI          | **[ConMask](#ConMask)**                 |
 | 2019 | AAAI          | **[OWE](#OWE)**                         |
 | 2019 | IJCAI         | **[WWV](#WWV)**                         |
 
