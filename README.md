@@ -120,6 +120,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2017 | ACL           | **[FRN](#FRN)**                         |
 | 2018 | AAAI          | **[ConMask](#ConMask)**                 |
 | 2018 | AAAI          | **[JointNRE](#JointNRE)**               |
+| 2018 | NAACL-HLT     | **[ATE](#ATE)**                         |
 | 2019 | AAAI          | **[OWE](#OWE)**                         |
 | 2019 | IJCAI         | **[WWV](#WWV)**                         |
 
@@ -220,13 +221,6 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2019 | ICDE          | **[NSCaching](#NACaching)**     |
 
 ### Emergents
-
-#### Active
-
-| Year | Source        |	Methods                        |
-|:----:|:-------------:|:-------------------------------:|
-| 2015 | WWW           | **[AMDC](#AMDC)**               |
-| 2019 | WWW           | **[ActiveLink](#ActiveLink)**   |
 
 #### Few Shot
 
@@ -526,7 +520,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - <a name="KBGAN"></a> **(KBGAN)** Liwei Cai, William Yang Wang. "**KBGAN: Adversarial Learning for Knowledge Graph Embeddings**". **NAACL-HLT 2018**. [paper](https://www.aclweb.org/anthology/N18-1133/) [code](https://github.com/cai-lw/KBGAN)
 
-- Bo An, Bo Chen, Xianpei Han, Le Sun. "**Accurate Text-Enhanced Knowledge Graph Representation Learning**". **NAACL-HLT 2018**. [paper](https://www.aclweb.org/anthology/N18-1068/)
+- <a name="ATE"></a> **(ATE)** Bo An, Bo Chen, Xianpei Han, Le Sun. "**Accurate Text-Enhanced Knowledge Graph Representation Learning**". **NAACL-HLT 2018**. [paper](https://www.aclweb.org/anthology/N18-1068/)
 
 ### 2019
 
