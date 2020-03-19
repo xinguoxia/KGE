@@ -62,6 +62,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2016 | AAAI          | **[HolE](#HolE)**               |
 | 2017 | ICML          | **[ANALOGY](#ANALOGY)**         |
 | 2018 | NeurIPS       | **[SimplE](#SimplE)**           |
+| 2019 | ACL           | **[DihEdral](#DihEdral)**       |
 | 2019 | EMNLP         | **[TuckER](#TuckER)**           |
 
 #### Neural Networks
