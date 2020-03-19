@@ -165,7 +165,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
-| 2015 | IJCAI         | **[r-TransE](#rTransE)**        |
+| 2015 | IJCAI         | **[r-TransE](#r-TransE)**       |
 | 2016 | EMNLP         | **[KALE](#KALE)**               |
 | 2017 | NeurIPS       | **[Neural-LP](#Neural-LP)**     |
 | 2018 | NeurIPS       | **[GQE](#GQE)**                 |
