@@ -164,6 +164,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2016 | COLING        | **[GAKE](#GAKE)**               |
 | 2017 | CIKM          | **[TCE](#TCE)**                 |
 | 2018 | UAI           | **[KBLRN](#KBLRN)**             |
+| 2018 | CIKM          | **[SENN](#SENN)**               |
 | 2018 | ESWC          | **[R-GCN](#R-GCN)**             |
 | 2019 | AAAI          | **[LENA](#LENA)**               |
 | 2019 | AAAI          | **[LAN](#LAN)**                 |
