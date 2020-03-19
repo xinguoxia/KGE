@@ -86,6 +86,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 |:----:|:-------------:|:-------------------------------:|
 | 2015 | EMNLP         | **[PTransE](#PTransE)**         |
 | 2015 | EMNLP         | **[RTransE](#RTransE)**         |
+| 2015 | EMNLP         | **[TransE-COMP](#TransE-COMP)** |
 | 2018 | ICLR          | **[MINERVA](#MINERVA)**         |
 | 2019 | ICML          | **[RSN](#RSN)**                 |
 | 2019 | EMNLP         | **[OPTransE](#OPTransE)**       |
@@ -330,7 +331,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - <a name="Jointly(desp)"></a> **(Jointly(desp))** Huaping Zhong, Jianwen Zhang, Zhen Wang, Hai Wan, Zheng Chen. "**Aligning Knowledge and Text Embeddings by Entity Descriptions**". **EMNLP 2015**. [paper](https://www.aclweb.org/anthology/D15-1031/)
 
-- <a name="Transe-comp"></a> **(TransE-comp)** Kelvin Guu, John Miller, Percy Liang. "**Traversing Knowledge Graphs in Vector Space**". **EMNLP 2015**. [paper](https://www.aclweb.org/anthology/D15-1038/) [code](https://github.com/millerjohnp/traversing_knowledge_graphs)
+- <a name="TransE-COMP"></a> **(TransE-COMP)** Kelvin Guu, John Miller, Percy Liang. "**Traversing Knowledge Graphs in Vector Space**". **EMNLP 2015**. [paper](https://www.aclweb.org/anthology/D15-1038/) [code](https://github.com/millerjohnp/traversing_knowledge_graphs)
 
 - Zhuoyu Wei, Jun Zhao, Kang Liu, Zhenyu Qi, Zhengya Sun, Guanhua Tian. "**Large-scale Knowledge Base Completion: Inferring via Grounding Network Sampling over Selected Instances**". **CIKM 2015**. [paper](https://dl.acm.org/citation.cfm?doid=2806416.2806513)
 
