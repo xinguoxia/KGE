@@ -95,6 +95,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
+| 2014 | EMNLP         | **[pTransE](#pTransE)**         |
 | 2016 | IJCAI         | **[TEKE](#TEKE)**               |
 | 2019 | AAAI          | **[OWE](#OWE)**                 |
 | 2019 | IJCAI         | **[WWV](#WWV)**                 |
