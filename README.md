@@ -139,6 +139,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
+| 2016 | NeurIPS       | **[Gaifman](#Gaifman)**         |
 | 2018 | UAI           | **[KBLRN](#KBLRN)**             |
 | 2018 | ESWC          | **[R-GCN](#R-GCN)**             |
 | 2019 | AAAI          | **[LENA](#LENA)**               |
@@ -164,7 +165,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2018 | ICML          | **[ComplEx-N3](#ComplEx-N3)**   |
 | 2018 | AAAI          | **[ComplEx-L1](#ComplEx-L1)**   |
 | 2019 | UAI           | **[EM](#EM)**                   |
-| 2020 | ICLR          | **[Teach](#Teach)**             |
+| 2020 | ICLR          | **[Teach](#Teach)**             
 
 #### Soft Rules
 
@@ -339,7 +340,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 ### 2016
 
-- <a name="Gaifman"></a> **(Gaifman)** Mathias Niepert. "**Discriminative Gaifman Models**". **NIPS 2016**. [paper](http://papers.nips.cc/paper/6098-discriminative-gaifman-models) [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips29/reviews/1689.html)
+- <a name="Gaifman"></a> **(Gaifman)** Mathias Niepert. "**Discriminative Gaifman Models**". **NeurIPS 2016**. [paper](http://papers.nips.cc/paper/6098-discriminative-gaifman-models) [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips29/reviews/1689.html)
 
 - <a name="ComplEx"></a> **(ComplEx)** Théo Trouillon, Johannes Welbl, Sebastian Riedel, Éric Gaussier, Guillaume Bouchard. "**Complex Embeddings for Simple Link Prediction**". **ICML 2016**. [paper](http://proceedings.mlr.press/v48/trouillon16.html)  [code](https://github.com/ttrouill/complex)
 
