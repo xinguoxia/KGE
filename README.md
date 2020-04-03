@@ -15,7 +15,9 @@ Some papers on Knowledge Graph Embedding(KGE)
 - OpenKE [code](https://github.com/thunlp/OpenKE)
 - BioKEEN [code](https://github.com/SmartDataAnalytics/BioKEEN)
 - Pykg2vec [code](https://github.com/Sujit-O/pykg2vec)
+- GraphVite [code](https://github.com/DeepGraphLearning/graphvite)
 - Scikit-KGE [code](https://github.com/mnick/scikit-kge)
+- AmpliGraph [code](https://github.com/Accenture/AmpliGraph)
 
 ## Methodologies
 
