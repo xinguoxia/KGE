@@ -866,12 +866,12 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 | Year | Source | Methods | Acc(%) |
 |:----:|:------:|:-------:|:---:|
 | 2013 | NeurIPS | **[NTN](#NTN)** | 0.704 |
-| 2018 |        | TransE(unif/bern) | 75.9/75.9 |
-|      |        | TransH(unif/bern) | 77.7/78.8 |
-|      |        | TransR(unif/bern) | 85.5/85.9 |
-|      |        | TransD(unif/bern) | 85.6/86.4 |
-|      |        | TransSparse(unif/bern) | 86.8/86.8 |
-|      |        | TransAt(bern) | 88.2 |
+| 2013 | NeurIPS | **[TransE(unif/bern)](#TransE)** | 75.9/75.9 |
+| 2014 | AAAI | **[TransH(unif/bern)](#TransH)** | 77.7/78.8 |
+| 2015 | AAAI | **[TransR(unif/bern)](#TransR)** | 85.5/85.9 |
+| 2015 | ACL | **[TransD(unif/bern)](#TransD)** | 85.6/86.4 |
+| 2016 | AAAI | **[TranSparse(unif/bern)](#TranSparse)** | 86.8/86.8 |
+| 2018 | AAAI | **[TransAt(bern)](#TransAt)** | 88.2 |
 
 #### FB13
 
