@@ -859,5 +859,32 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 |:----:|:------:|:-----------:|:---:|:-----:|:------:|:------:|:-------:|
 | 2018 | EMNLP  | **[TA-DistMult](TA-DistMult)** | 198 | 0.700 | 0.652 | - | 0.785 |
 
+### Triplets Classifcation
 
+#### WN11
+
+| Year | Source | Methods | Acc |
+| 2018 | EMNLP  | **NTN** | 0.704 |
+| 2018 |        | TransE(unif/bern) | 75.9/75.9 |
+|      |        | TransH(unif/bern) | 77.7/78.8 |
+|      |        | TransR(unif/bern) | 85.5/85.9 |
+|      |        | TransD(unif/bern) | 85.6/86.4 |
+|      |        | TransSparse(unif/bern) | 86.8/86.8 |
+|      |        | TransAt(bern) | 88.2 |
+
+#### FB13
+
+| Year | Source | Methods | Acc |
+| 2018 | EMNLP  | **NTN** | 0.871 |
+|      |        | TransE(unif/bern) | 70.9/81.5 |
+|      |        | TransH(unif/bern) | 76.5/83.3 |
+|      |        | TransR(unif/bern) | 74.7/82.5 |
+|      |        | TransD(unif/bern) | 85.9/89.1 |
+|      |        | TransSparse(unif/bern) | 86.5/87.5 |
+|      |        | TransAt(bern) | 89.1 |
+
+#### FB15K
+
+| Year | Source | Methods | Acc |
+| 2018 | EMNLP  | **NTN** | 0.683 |
 
