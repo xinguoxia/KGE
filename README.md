@@ -865,7 +865,7 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 
 | Year | Source | Methods | Acc(%) |
 |:----:|:------:|:-------:|:---:|
-| 2013 | NeurIPS | **[NTN](#NTN)** | 0.704 |
+| 2013 | NeurIPS | **[NTN](#NTN)** | 70.4 |
 | 2013 | NeurIPS | **[TransE(unif/bern)](#TransE)** | 75.9/75.9 |
 | 2014 | AAAI | **[TransH(unif/bern)](#TransH)** | 77.7/78.8 |
 | 2015 | AAAI | **[TransR(unif/bern)](#TransR)** | 85.5/85.9 |
@@ -876,6 +876,7 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 #### FB13
 
 | Year | Source | Methods | Acc |
+|:----:|:------:|:-------:|:---:|
 | 2018 | EMNLP  | **NTN** | 0.871 |
 |      |        | TransE(unif/bern) | 70.9/81.5 |
 |      |        | TransH(unif/bern) | 76.5/83.3 |
@@ -887,5 +888,6 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 #### FB15K
 
 | Year | Source | Methods | Acc |
+|:----:|:------:|:-------:|:---:|
 | 2018 | EMNLP  | **NTN** | 0.683 |
 
