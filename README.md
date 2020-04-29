@@ -863,8 +863,9 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 
 #### WN11
 
-| Year | Source | Methods | Acc |
-| 2018 | EMNLP  | **NTN** | 0.704 |
+| Year | Source | Methods | Acc(%) |
+|:----:|:------:|:-------:|:---:|
+| 2013 | NeurIPS | **[NTN](#NTN)** | 0.704 |
 | 2018 |        | TransE(unif/bern) | 75.9/75.9 |
 |      |        | TransH(unif/bern) | 77.7/78.8 |
 |      |        | TransR(unif/bern) | 85.5/85.9 |
