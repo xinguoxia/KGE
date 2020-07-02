@@ -23,6 +23,8 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 ### Traditions
 
+
+
 #### Translation
 
 | Year | Source        |	Methods                        |
