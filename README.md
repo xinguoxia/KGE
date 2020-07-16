@@ -335,6 +335,16 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Rui Wang , Bicheng Li , Shengwei Hu , Wenqian Du , Min Zhang. "**Knowledge Graph Embedding via Graph Attenuated Attention Networks**". **IEEE Access 8 2020**. **Cite 2**. [paper](https://doi.org/10.1109/ACCESS.2019.2963367)
 
+- Yashen Wang , Huanhuan Zhang, Ge Shi , Zhirun Liu, Qiang Zhou. "**A Model of Text-Enhanced Knowledge Graph Representation Learning With Mutual Attention**. **IEEE Access 2020**. **Cite 1**. [paper](https://doi.org/10.1109/ACCESS.2020.2981212)
+
+- Zhongwei Zhang, Lei Cao, Xiliang Chen, Wei Tang, Zhixiong Xu, Yangyang Meng. "**Representation Learning of Knowledge Graphs With Entity Attributes**". **IEEE Access 2020**. **Cite 0**. [paper](https://doi.org/10.1109/ACCESS.2020.2963990)
+
+- Ruobing Xie, Stefan Heinrich, Zhiyuan Liu, Cornelius Weber, Yuan Yao, Stefan Wermter, Maosong Sun. "**Integrating Image-Based and Knowledge-Based Representation Learning**". **IEEE Trans. Cogn. Dev. Syst 2020**. **Cite 0**. [paper](https://doi.org/10.1109/TCDS.2019.2906685)
+
+- Yongming Han, GuoFei Chen, Zhongkun Li, Zhiqiang Geng, Fang Li, Bo Ma. "**An asymmetric knowledge representation learning in manifold space**". **Inf. Sci 2020**. **Cite 0**. [paper](https://doi.org/10.1016/j.ins.2020.04.036)
+
+- Seungmin Seo, Byungkook Oh, Kyong-Ho Lee. "**Reliable Knowledge Graph Path Representation Learning**". **IEEE Access 2020**. **Cite 0**. [paper](https://doi.org/10.1109/ACCESS.2020.2973923)
+
 
 
 ### Conference
