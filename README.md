@@ -646,7 +646,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - <a name="Neural-LP-N"></a> **(Neural-LP-N)** Po-Wei Wang, Daria Stepanova, Csaba Domokos, J. Zico Kolter. "**Differentiable learning of numerical rules in knowledge graphs**". **ICLR 2020**. [paper](https://openreview.net/forum?id=rJleKgrKwS)
 
-- <a name="Teach"></a> **(Teach)** Daniel Ruffinelli, Samuel Broscheit, Rainer Gemulla. "**You CAN Teach an Old Dog New Tricks! On Training Knowledge Graph Embeddings**". **ICLR 2020**. **Cite 7 **. [paper](https://openreview.net/forum?id=BkxSmlBFvr) 
+- <a name="Teach"></a> **(Teach)** Daniel Ruffinelli, Samuel Broscheit, Rainer Gemulla. "**You CAN Teach an Old Dog New Tricks! On Training Knowledge Graph Embeddings**". **ICLR 2020**. **Cite 7**. [paper](https://openreview.net/forum?id=BkxSmlBFvr) 
 
 - Pedro Tabacof, Luca Costabello. "**Probability Calibration for Knowledge Graph Embedding Models**". **ICLR 2020**. **Cite 3**. [paper](https://openreview.net/forum?id=S1g8K1BFwS) 
 
