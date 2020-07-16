@@ -706,7 +706,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Yun Tang, Jing Huang, Guangtao Wang, Xiaodong He, Bowen Zhou. "**Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding**". **ACL 2020**. **Cite 0**. [paper](https://www.aclweb.org/anthology/2020.acl-main.241/)
 
-- Zhiwen Xie, Guangyou Zhou, Jin Liu, Jimmy Xiangji Huang. "**ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding*". **ACL 2020**. **Cite 0**. [paper](https://www.aclweb.org/anthology/2020.acl-main.526/)
+- Zhiwen Xie, Guangyou Zhou, Jin Liu, Jimmy Xiangji Huang. "**ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding*". **ACL 2020**. **Cite 0**. [paper](https://www.aclweb.org/anthology/2020.acl-main.526/)1
 
 - Paolo Rosso, Dingqi Yang, Philippe Cudré-Mauroux. "**Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction**". **WWW 2020**. **Cite 1**. [paper](https://doi.org/10.1145/3366423.3380257)
 
