@@ -708,6 +708,16 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Zhiwen Xie, Guangyou Zhou, Jin Liu, Jimmy Xiangji Huang. "**ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding*". **ACL 2020**. **Cite 0**. [paper](https://www.aclweb.org/anthology/2020.acl-main.526/)
 
+- Paolo Rosso, Dingqi Yang, Philippe Cudré-Mauroux. "**Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction**". **WWW 2020**. **Cite 1**. [paper](https://doi.org/10.1145/3366423.3380257)
+
+- Unmesh Joshi, Jacopo Urbani. "**Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning**". **WWW 2020**. **Cite 0**. [paper](https://doi.org/10.1145/3366423.3380043)
+
+- Zeyuan Cui, Shijun Liu, Li Pan, Qiang He. "**Translating Embedding with Local Connection for Knowledge Graph Completion**". **AAMAS 2020**. **Cite 0**. [paper](https://dl.acm.org/doi/abs/10.5555/3398761.3398995)
+
+- Prodromos Kolyvakis, Alexandros Kalousis, Dimitris Kiritsis. "**Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion**". **ESWC 2020**. **Cite 0**. [paper](https://doi.org/10.1007/978-3-030-49461-2_12)
+
+-	Ningning Jia, Xiang Cheng, Sen Su. "**Improving Knowledge Graph Embedding Using Locally and Globally Attentive Relation Paths**". **ECIR 2020**. **Cite 0**. [paper](https://doi.org/10.1007/978-3-030-45439-5_2)
+
 - Yongqi Zhang, Quanming Yao, Wenyuan Dai, Lei Chen. "**AutoSF: Searching Scoring Functions for Knowledge Graph Embedding**". **ICDE 2020**. **Cite 5**. [paper](https://doi.org/10.1109/ICDE48307.2020.00044)
 
 - Mehdi Ali, Hajira Jabeen, Charles Tapley Hoyt, Jens Lehmann. "**The KEEN Universe: An Ecosystem for Knowledge Graph 
