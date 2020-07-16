@@ -738,6 +738,10 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 - Yunpu Ma, Yuyi Wang, Volker Tresp. "**Quantum Machine Learning Algorithm for Knowledge Graphs**". 
 **arxiv 2020-01**. [paper](https://arxiv.org/abs/2001.01077)
 
+- Bishal Santra, Prakhar Sharma, Sumegh Roychowdhury, Pawan Goyal. "**Exploring Effects of Random Walk Based Minibatch Selection Policy on Knowledge Graph Completion**". **CoRR 2020**. **Cite 0**. [paper](https://arxiv.org/abs/2004.05553)
+
+- Prachi Jain, Sushant Rathi, Mausam, Soumen Chakrabarti. "**Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols**". **CoRR 2020**. **Cite 0**. [paper](https://arxiv.org/abs/2005.05035)
+
 ## Datasets
 
 ### Standard
