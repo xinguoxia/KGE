@@ -753,8 +753,7 @@ Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-
 
 - Prachi Jain, Sushant Rathi, Mausam, Soumen Chakrabarti. "**Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols**". **CoRR 2020**. **Cite 0**. [paper](https://arxiv.org/abs/2005.05035)
 
-- Rajarshi Das, Ameya Godbole, Shehzaad Dhuliawala, Manzil Zaheer, Andrew McCallum. "**A Simple Approach to Case-Based Reasoning in Knowledge Bases**". **CoRR 2020**. **Cite 0**. [paper](Rajarshi Das, Ameya Godbole, Shehzaad Dhuliawala, Manzil Zaheer, Andrew McCallum:
-A Simple Approach to Case-Based Reasoning in Knowledge Bases. CoRR abs/2006.14198 (2020)
+- Rajarshi Das, Ameya Godbole, Shehzaad Dhuliawala, Manzil Zaheer, Andrew McCallum. "**A Simple Approach to Case-Based Reasoning in Knowledge Bases**". **CoRR 2020**. **Cite 0**. [paper](https://arxiv.org/abs/2006.14198)
 
 ## Datasets
 
