@@ -664,47 +664,46 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 ### 2020
 
+- <a name="Teach"></a> **(Teach)** Daniel Ruffinelli, Samuel Broscheit, Rainer Gemulla. "**You CAN Teach an Old Dog New Tricks! On Training Knowledge Graph Embeddings**". **ICLR 2020**. **Cite 7**. [paper](https://openreview.net/forum?id=BkxSmlBFvr) 
+
 - Bhuwan Dhingra, Manzil Zaheer, Vidhisha Balachandran, Graham Neubig, Ruslan Salakhutdinov, William W. Cohen. "**Differentiable Reasoning over a Virtual Knowledge Base**". **ICLR 2020**. **Cite 6**. [paper](https://openreview.net/forum?id=SJxstlHFPH)
 
 - <a name="CompGCN"></a> **(CompGCN)** Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Partha Talukdar. "**Composition-based Multi-Relational Graph Convolutional Networks**". **Cite 5**. **ICLR 2020**. [paper](https://openreview.net/pdf?id=BylA_C4tPr) [code](https://github.com/malllabiisc/CompGCN)
 
-- <a name="Neural-LP-N"></a> **(Neural-LP-N)** Po-Wei Wang, Daria Stepanova, Csaba Domokos, J. Zico Kolter. "**Differentiable learning of numerical rules in knowledge graphs**". **ICLR 2020**. **Cite 0**. [paper](https://openreview.net/forum?id=rJleKgrKwS)
-
-- <a name="Teach"></a> **(Teach)** Daniel Ruffinelli, Samuel Broscheit, Rainer Gemulla. "**You CAN Teach an Old Dog New Tricks! On Training Knowledge Graph Embeddings**". **ICLR 2020**. **Cite 7**. [paper](https://openreview.net/forum?id=BkxSmlBFvr) 
-
 - Pedro Tabacof, Luca Costabello. "**Probability Calibration for Knowledge Graph Embedding Models**". **ICLR 2020**. **Cite 3**. [paper](https://openreview.net/forum?id=S1g8K1BFwS) 
+
+- <a name="Q2B"></a> **(Q2B)** Hongyu Ren, Weihua Hu, Jure Leskovec. "**Query2box: Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings**". **ICLR 2020**. **Cite 3**. [paper](https://openreview.net/forum?id=BJgr4kSFDS)  
+
+
+- <a name="ReifKB"></a> **(ReifKB)**  William W. Cohen, Haitian Sun, R. Alex Hofer, Matthew Siegler. "**Scalable Neural Methods for Reasoning With a Symbolic Knowledge Base**". **ICLR 2020**. **Cite 1**. [paper](https://openreview.net/forum?id=BJlguT4YPr)  
+
+- <a name="Neural-LP-N"></a> **(Neural-LP-N)** Po-Wei Wang, Daria Stepanova, Csaba Domokos, J. Zico Kolter. "**Differentiable learning of numerical rules in knowledge graphs**". **ICLR 2020**. **Cite 0**. [paper](https://openreview.net/forum?id=rJleKgrKwS)
 
 - Bahare Fatemi, Perouz Taslakian, David Vazquez, David Poole. "**Knowledge Hypergraphs: Prediction Beyond Binary Relations**". **ICLR 2020**. **Cite 1**. [paper](https://openreview.net/forum?id=ryxIZR4tvS) 
 
 - <a name="TComplEx"></a> **(TComplEx)** Timothée Lacroix, Guillaume Obozinski, Nicolas Usunier. "**Tensor Decompositions for Temporal Knowledge Base Completion**". **ICLR 2020**. **Cite 0**. [paper](https://openreview.net/forum?id=rke2P1BFwS) 
 
-- <a name="Q2B"></a> **(Q2B)** Hongyu Ren, Weihua Hu, Jure Leskovec. "**Query2box: Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings**". **ICLR 2020**. **Cite 3**. [paper](https://openreview.net/forum?id=BJgr4kSFDS)  
-
-- <a name="ReifKB"></a> **(ReifKB)**  William W. Cohen, Haitian Sun, R. Alex Hofer, Matthew Siegler. "**Scalable Neural Methods for Reasoning With a Symbolic Knowledge Base**". **ICLR 2020**. **Cite 1**. [paper](https://openreview.net/forum?id=BJlguT4YPr)  
-
 - <a name="DPMPN"></a> **(DPMPN)** Xiaoran Xu, Wei Feng, Yunsheng Jiang, Xiaohui Xie, Zhiqing Sun, Zhi-Hong Deng. "**Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning**". **ICLR 2020**. **Cite 0**. [paper](https://openreview.net/forum?id=rkeuAhVKvB)
 
+-	**(GNTPs)** Pasquale Minervini, Matko Bosnjak, Tim Rocktäschel, Sebastian Riedel, Edward Grefenstette. "**Differentiable Reasoning on Large Knowledge Bases and Natural Language**". **AAAI 2020**. **Cite 9**. [paper]( https://arxiv.org/abs/1912.10824)
+
 - <a name="InteractE"></a> **(InteractE)** Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Nilesh Agrawal, Partha Talukdar. "**InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions**". **AAAI 2020**. **Cite 7**. [paper](https://arxiv.org/abs/1911.00219) [code](https://github.com/malllabiisc/InteractE) [supp](https://shikhar-vashishth.github.io/assets/pdf/interacte_supp.pdf)
+
+- <a name="DE-SimplE"></a> **(DE-SimplE)** Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **AAAI 2020**. **Cite 7**. [paper](https://arxiv.org/abs/1907.03143) [code](https://github.com/BorealisAI/DE-SimplE)
 
 - <a name="HAKE"></a> **(HAKE)** Zhanqiu Zhang, Jianyu Cai, Yongdong Zhang, Jie Wang. "**Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction**". **AAAI 2020**. **Cite 4**. [paper](https://arxiv.org/abs/1911.09419) [code](https://github.com/MIRALab-USTC/KGE-HAKE)
 
 - <a name="FSRL"></a> **(FSRL)** Chuxu Zhang, Huaxiu Yao, Chao Huang, Meng Jiang, Zhenhui Li, Nitesh V. Chawla. "**Few-Shot Knowledge Graph Completion**". **AAAI 2020**. **Cite 4**. [paper](https://arxiv.org/abs/1911.11298)
 
+-	Pengda Qin, Xin Wang, Wenhu Chen, Chunyun Zhang, Weiran Xu, William Yang Wang. "**Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs**". **AAAI 2020**. **Cite 3**. [paper]( https://arxiv.org/abs/2001.02332)
+
 - <a name="RPJE"></a> **(RPJE)** Guanglin Niu, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li, Xiaowei Zhang. "**Rule-Guided Compositional Representation Learning on Knowledge Graphs**". **AAAI 2020**. **Cite 2**. [paper](https://arxiv.org/abs/1911.08935)
 
 - **(R2D2)** Marcel Hildebrandt, Jorge Andres Quintero Serna, Yunpu Ma, Martin Ringsquandl, Mitchell Joblin, Volker Tresp. "**Reasoning on Knowledge Graphs with Debate Dynamics**". **AAAI 2020**. **Cite 2**. [paper](https://arxiv.org/abs/2001.00461)
 
--	Feihu Che, Dawei Zhang, Jianhua Tao, Mingyue Niu, Bocheng Zhao. "**ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion**". **AAAI 2020**
-
--	**(GNTPs)** Pasquale Minervini, Matko Bosnjak, Tim Rocktäschel, Sebastian Riedel, Edward Grefenstette. "**Differentiable Reasoning on Large Knowledge Bases and Natural Language**". **AAAI 2020**. **Cite 9**. [paper]( https://arxiv.org/abs/1912.10824)
-
 -	Zhao Zhang, Fuzhen Zhuang, Hengshu Zhu, Zhiping Shi, Hui Xiong, Qing He. "**Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion**". **AAAI 2020**. **Cite 0**. 
 
--	Pengda Qin, Xin Wang, Wenhu Chen, Chunyun Zhang, Weiran Xu, William Yang Wang. "**Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs**". **AAAI 2020**. **Cite 3**. [paper]( https://arxiv.org/abs/2001.02332)
-
 - George Stoica, Otilia Stretcu, Anthony Platanios, Tom Mitchell, Barnabas Poczos. "**Contextual Parameter Generation for Knowledge Graph Link Prediction**". **AAAI 2020**. **Cite 0**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5693)
-
-- <a name="DE-SimplE"></a> **(DE-SimplE)** Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **AAAI 2020**. **Cite 7**. [paper](https://arxiv.org/abs/1907.03143) [code](https://github.com/BorealisAI/DE-SimplE)
 
 -	Chaitanya Malaviya, Chandra Bhagavatula, Antoine Bosselut, Yejin Choi. "**Commonsense Knowledge Base Completion with Structural and Semantic Context**". **AAAI 2020**. **Cite 1**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5684)
 
