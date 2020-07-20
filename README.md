@@ -337,6 +337,8 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Yashen Wang , Huanhuan Zhang, Ge Shi , Zhirun Liu, Qiang Zhou. "**A Model of Text-Enhanced Knowledge Graph Representation Learning With Mutual Attention**. **IEEE Access 2020**. **Cite 1**. [paper](https://doi.org/10.1109/ACCESS.2020.2981212)
 
+- Xiaoli Tang, Rui Yuan, Qianyu Li, Tengyun Wang, Haizhi Yang, Yundong Cai, Hengjie Song. "**Timespan-Aware Dynamic Knowledge Graph Embedding by Incorporating Temporal Evolution**". **IEEE Access 2020**. **Cite 0**. [paper](https://ieeexplore.ieee.org/document/8950081)
+
 - Zhongwei Zhang, Lei Cao, Xiliang Chen, Wei Tang, Zhixiong Xu, Yangyang Meng. "**Representation Learning of Knowledge Graphs With Entity Attributes**". **IEEE Access 2020**. **Cite 0**. [paper](https://doi.org/10.1109/ACCESS.2020.2963990)
 
 - Ruobing Xie, Stefan Heinrich, Zhiyuan Liu, Cornelius Weber, Yuan Yao, Stefan Wermter, Maosong Sun. "**Integrating Image-Based and Knowledge-Based Representation Learning**". **IEEE Trans. Cogn. Dev. Syst 2020**. **Cite 0**. [paper](https://doi.org/10.1109/TCDS.2019.2906685)
