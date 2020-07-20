@@ -347,7 +347,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Seungmin Seo, Byungkook Oh, Kyong-Ho Lee. "**Reliable Knowledge Graph Path Representation Learning**". **IEEE Access 2020**. **Cite 0**. [paper](https://doi.org/10.1109/ACCESS.2020.2973923)
 
-
+- Feng Zhao, Haoran Sun, Langjunqing Jin, Hai Jin. "**Structure-augmented knowledge graph embedding for sparse data with rule learning**". **Comput. Commun. 2020**. **Cite 1**. [paper](https://doi.org/10.1016/j.comcom.2020.05.017)
 
 ### Conference
 
