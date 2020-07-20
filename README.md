@@ -319,7 +319,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 #### 2020
 
-- Yuanfei Dai, Shiping Wang, Xing Chen, Chaoyang Xu, Wenzhong Guo. "**Generative adversarial networks based on Wasserstein distance for knowledge graph embeddings**". **Knowledge Based Systems 2020**. **Cite 2**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705119305143?via%3Dihub)
+- Yuanfei Dai, Shiping Wang, Xing Chen, Chaoyang Xu, Wenzhong Guo. "**Generative adversarial networks based on Wasserstein distance for knowledge graph embeddings**". **Knowledge Based Systems 2020**. **Cite 2**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705119305143?via%3Dihub) :fire:
 
 - Chen Li, Xutan Peng, Shanghang Zhang, Hao Peng, Philip S. Yu, Min He, Linfeng Du, Lihong Wang. "**Modeling relation paths for knowledge base completion via joint adversarial training"**. **Knowl. Based Syst 2020**. **Cite 0**. [paper](https://doi.org/10.1016/j.knosys.2020.105865)
 
@@ -331,9 +331,9 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Jia Zhu, Zetao Zheng, Min Yang, Gabriel Pui Cheong Fung, Yong Tang. "**A semi-supervised model for knowledge graph embedding**". **Data Mining and Knowledge Discovery 2020**. **Cite 0**. [paper](https://link.springer.com/article/10.1007%2Fs10618-019-00653-z)
 
-- Takuma Ebisu , Ryutaro Ichise. "**Generalized Translation-Based Embedding of Knowledge Graph**". **IEEE Trans. Knowl. Data Eng 2020**. **Cite 5**. [paper](https://doi.org/10.1109/TKDE.2019.2893920)
+- Takuma Ebisu , Ryutaro Ichise. "**Generalized Translation-Based Embedding of Knowledge Graph**". **IEEE Trans. Knowl. Data Eng 2020**. **Cite 5**. [paper](https://doi.org/10.1109/TKDE.2019.2893920) :fire:
 
-- Rui Wang , Bicheng Li , Shengwei Hu , Wenqian Du , Min Zhang. "**Knowledge Graph Embedding via Graph Attenuated Attention Networks**". **IEEE Access 2020**. **Cite 2**. [paper](https://doi.org/10.1109/ACCESS.2019.2963367)
+- Rui Wang , Bicheng Li , Shengwei Hu , Wenqian Du , Min Zhang. "**Knowledge Graph Embedding via Graph Attenuated Attention Networks**". **IEEE Access 2020**. **Cite 2**. [paper](https://doi.org/10.1109/ACCESS.2019.2963367) :fire:
 
 - Yashen Wang , Huanhuan Zhang, Ge Shi , Zhirun Liu, Qiang Zhou. "**A Model of Text-Enhanced Knowledge Graph Representation Learning With Mutual Attention**. **IEEE Access 2020**. **Cite 1**. [paper](https://doi.org/10.1109/ACCESS.2020.2981212)
 
@@ -666,15 +666,15 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 ### 2020
 
-- <a name="Teach"></a> **(Teach)** Daniel Ruffinelli, Samuel Broscheit, Rainer Gemulla. "**You CAN Teach an Old Dog New Tricks! On Training Knowledge Graph Embeddings**". **ICLR 2020**. **Cite 7**. [paper](https://openreview.net/forum?id=BkxSmlBFvr) 
+- <a name="Teach"></a> **(Teach)** Daniel Ruffinelli, Samuel Broscheit, Rainer Gemulla. "**You CAN Teach an Old Dog New Tricks! On Training Knowledge Graph Embeddings**". **ICLR 2020**. **Cite 7**. [paper](https://openreview.net/forum?id=BkxSmlBFvr) :fire:
 
 - Bhuwan Dhingra, Manzil Zaheer, Vidhisha Balachandran, Graham Neubig, Ruslan Salakhutdinov, William W. Cohen. "**Differentiable Reasoning over a Virtual Knowledge Base**". **ICLR 2020**. **Cite 6**. [paper](https://openreview.net/forum?id=SJxstlHFPH)
 
 - <a name="CompGCN"></a> **(CompGCN)** Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Partha Talukdar. "**Composition-based Multi-Relational Graph Convolutional Networks**". **Cite 5**. **ICLR 2020**. [paper](https://openreview.net/pdf?id=BylA_C4tPr) [code](https://github.com/malllabiisc/CompGCN)
 
-- Pedro Tabacof, Luca Costabello. "**Probability Calibration for Knowledge Graph Embedding Models**". **ICLR 2020**. **Cite 3**. [paper](https://openreview.net/forum?id=S1g8K1BFwS) 
+- Pedro Tabacof, Luca Costabello. "**Probability Calibration for Knowledge Graph Embedding Models**". **ICLR 2020**. **Cite 3**. [paper](https://openreview.net/forum?id=S1g8K1BFwS) :fire:
 
-- <a name="Q2B"></a> **(Q2B)** Hongyu Ren, Weihua Hu, Jure Leskovec. "**Query2box: Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings**". **ICLR 2020**. **Cite 3**. [paper](https://openreview.net/forum?id=BJgr4kSFDS)  
+- <a name="Q2B"></a> **(Q2B)** Hongyu Ren, Weihua Hu, Jure Leskovec. "**Query2box: Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings**". **ICLR 2020**. **Cite 3**. [paper](https://openreview.net/forum?id=BJgr4kSFDS) :fire:
 
 
 - <a name="ReifKB"></a> **(ReifKB)**  William W. Cohen, Haitian Sun, R. Alex Hofer, Matthew Siegler. "**Scalable Neural Methods for Reasoning With a Symbolic Knowledge Base**". **ICLR 2020**. **Cite 1**. [paper](https://openreview.net/forum?id=BJlguT4YPr)  
@@ -691,9 +691,9 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - <a name="InteractE"></a> **(InteractE)** Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Nilesh Agrawal, Partha Talukdar. "**InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions**". **AAAI 2020**. **Cite 7**. [paper](https://arxiv.org/abs/1911.00219) [code](https://github.com/malllabiisc/InteractE) [supp](https://shikhar-vashishth.github.io/assets/pdf/interacte_supp.pdf)
 
-- <a name="DE-SimplE"></a> **(DE-SimplE)** Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **AAAI 2020**. **Cite 7**. [paper](https://arxiv.org/abs/1907.03143) [code](https://github.com/BorealisAI/DE-SimplE)
+- <a name="DE-SimplE"></a> **(DE-SimplE)** Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **AAAI 2020**. **Cite 7**. [paper](https://arxiv.org/abs/1907.03143) [code](https://github.com/BorealisAI/DE-SimplE) :fire:
 
-- <a name="HAKE"></a> **(HAKE)** Zhanqiu Zhang, Jianyu Cai, Yongdong Zhang, Jie Wang. "**Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction**". **AAAI 2020**. **Cite 4**. [paper](https://arxiv.org/abs/1911.09419) [code](https://github.com/MIRALab-USTC/KGE-HAKE)
+- <a name="HAKE"></a> **(HAKE)** Zhanqiu Zhang, Jianyu Cai, Yongdong Zhang, Jie Wang. "**Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction**". **AAAI 2020**. **Cite 4**. [paper](https://arxiv.org/abs/1911.09419) [code](https://github.com/MIRALab-USTC/KGE-HAKE) :fire:
 
 - <a name="FSRL"></a> **(FSRL)** Chuxu Zhang, Huaxiu Yao, Chao Huang, Meng Jiang, Zhenhui Li, Nitesh V. Chawla. "**Few-Shot Knowledge Graph Completion**". **AAAI 2020**. **Cite 4**. [paper](https://arxiv.org/abs/1911.11298)
 
