@@ -774,6 +774,8 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Vassilis N. Ioannidis, Antonio G. Marques, Georgios B. Giannakis. "**Tensor Graph Convolutional Networks for Multi-relational and Robust Learning**". CoRR abs/2003.07729 (2020). [paper](https://arxiv.org/abs/2003.07729)
 
+- Jianyu Liu, Hegler Tissot. "**Clustering as an Evaluation Protocol for Knowledge Embedding Representation of Categorised Multi-relational Data in the Clinical Domain**". CoRR abs/2002.09473 (2020). [paper](https://arxiv.org/abs/2002.09473)
+
 ## Datasets
 
 ### Standard
