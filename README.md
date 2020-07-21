@@ -772,6 +772,8 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Marjan Albooyeh, Rishab Goel, Seyed Mehran Kazemi. "**Out-of-Sample Representation Learning for Multi-Relational Graphs**". **CoRR **. [paper](https://arxiv.org/abs/2004.13230)
 
+- Vassilis N. Ioannidis, Antonio G. Marques, Georgios B. Giannakis. "**Tensor Graph Convolutional Networks for Multi-relational and Robust Learning**". CoRR abs/2003.07729 (2020). [paper](https://arxiv.org/abs/2003.07729)
+
 ## Datasets
 
 ### Standard
