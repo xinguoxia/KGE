@@ -770,6 +770,8 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Rajarshi Bhowmik, Gerard de Melo. "**A Joint Framework for Inductive Representation Learning and Explainable Reasoning in Knowledge Graphs**". **CoRR 2020**. **Cite 0**. [paper](https://arxiv.org/abs/2005.00637)
 
+- Marjan Albooyeh, Rishab Goel, Seyed Mehran Kazemi. "**Out-of-Sample Representation Learning for Multi-Relational Graphs**". **CoRR **. [paper](https://arxiv.org/abs/2004.13230)
+
 ## Datasets
 
 ### Standard
