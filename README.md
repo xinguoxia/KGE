@@ -715,6 +715,8 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Fuxiang Zhang, Xin Wang, Zhao Li, Jianxin Li. "**TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure**". **IJCAI 2020**. **Cite 0**. [paper](https://doi.org/10.24963/ijcai.2020/413)
 
+- Sankalp Garg, Navodita Sharma, Woojeong Jin, Xiang Ren. "**Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution**". **IJCAI 2020**. [paper](https://www.ijcai.org/Proceedings/2020/386)
+
 -	Da Xu, Chuanwei Ruan, Jason Cho, Evren Körpeoglu, Sushant Kumar, Kannan Achan. "**Knowledge-aware Complementary Product Representation Learning**". **WSDM 2020**. **Cite 0**. [paper](https://doi.org/10.1145/3336191.3371854)
 
 - Samuel Broscheit, Kiril Gashteovski, Yanjie Wang and Rainer Gemulla. "**Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction**". **ACL 2020**. **Cite 0**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5665)
