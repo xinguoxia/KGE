@@ -317,38 +317,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 - **(AWML)** Chenchen Guo, Chunhong Zhang, Xiao Han, Yang Ji. "**AWML: adaptive weighted margin learning for knowledge
 graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper](https://link.springer.com/article/10.1007%2Fs10844-018-0535-2)
 
-#### 2020
-
-- Yuanfei Dai, Shiping Wang, Xing Chen, Chaoyang Xu, Wenzhong Guo. "**Generative adversarial networks based on Wasserstein distance for knowledge graph embeddings**". **Knowledge Based Systems 2020**. **Cite 2**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705119305143?via%3Dihub) :fire:
-
-- Chen Li, Xutan Peng, Shanghang Zhang, Hao Peng, Philip S. Yu, Min He, Linfeng Du, Lihong Wang. "**Modeling relation paths for knowledge base completion via joint adversarial training"**. **Knowl. Based Syst 2020**. **Cite 0**. [paper](https://doi.org/10.1016/j.knosys.2020.105865)
-
-- Qi Wang, Yongsheng Hao, Jie Cao. "**ADRL: An attention-based deep reinforcement learning framework for knowledge graph reasoning**". **Knowl. Based Syst 2020**. **Cite 0**. [paper](https://doi.org/10.1016/j.knosys.2020.105910)
-
-- Batselem Jagvaral, Wan-Kon Lee, Jae-Seung Roh, Min-Sung Kim, Young-Tack Park. "**Path-based reasoning approach for knowledge graph completion using CNN-BiLSTM with attention mechanism**". **Expert Systems with Applications 2020**. **Cite 1**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417419306785?via%3Dihub)
-
-- Qi Wang , Yongsheng Hao. "**ALSTM: An attention-based long short-term memory framework for knowledge base reasoning**". **Neurocomputing 2020**. **Cite 0**. [paper](https://doi.org/10.1016/j.neucom.2020.02.065)
-
-- Jia Zhu, Zetao Zheng, Min Yang, Gabriel Pui Cheong Fung, Yong Tang. "**A semi-supervised model for knowledge graph embedding**". **Data Mining and Knowledge Discovery 2020**. **Cite 0**. [paper](https://link.springer.com/article/10.1007%2Fs10618-019-00653-z)
-
-- Takuma Ebisu , Ryutaro Ichise. "**Generalized Translation-Based Embedding of Knowledge Graph**". **IEEE Trans. Knowl. Data Eng 2020**. **Cite 5**. [paper](https://doi.org/10.1109/TKDE.2019.2893920) :fire:
-
-- Rui Wang , Bicheng Li , Shengwei Hu , Wenqian Du , Min Zhang. "**Knowledge Graph Embedding via Graph Attenuated Attention Networks**". **IEEE Access 2020**. **Cite 2**. [paper](https://doi.org/10.1109/ACCESS.2019.2963367) :fire:
-
-- Yashen Wang , Huanhuan Zhang, Ge Shi , Zhirun Liu, Qiang Zhou. "**A Model of Text-Enhanced Knowledge Graph Representation Learning With Mutual Attention**. **IEEE Access 2020**. **Cite 1**. [paper](https://doi.org/10.1109/ACCESS.2020.2981212)
-
-- Xiaoli Tang, Rui Yuan, Qianyu Li, Tengyun Wang, Haizhi Yang, Yundong Cai, Hengjie Song. "**Timespan-Aware Dynamic Knowledge Graph Embedding by Incorporating Temporal Evolution**". **IEEE Access 2020**. **Cite 0**. [paper](https://ieeexplore.ieee.org/document/8950081)
-
-- Zhongwei Zhang, Lei Cao, Xiliang Chen, Wei Tang, Zhixiong Xu, Yangyang Meng. "**Representation Learning of Knowledge Graphs With Entity Attributes**". **IEEE Access 2020**. **Cite 0**. [paper](https://doi.org/10.1109/ACCESS.2020.2963990)
-
-- Ruobing Xie, Stefan Heinrich, Zhiyuan Liu, Cornelius Weber, Yuan Yao, Stefan Wermter, Maosong Sun. "**Integrating Image-Based and Knowledge-Based Representation Learning**". **IEEE Trans. Cogn. Dev. Syst 2020**. **Cite 0**. [paper](https://doi.org/10.1109/TCDS.2019.2906685)
-
-- Yongming Han, GuoFei Chen, Zhongkun Li, Zhiqiang Geng, Fang Li, Bo Ma. "**An asymmetric knowledge representation learning in manifold space**". **Inf. Sci 2020**. **Cite 0**. [paper](https://doi.org/10.1016/j.ins.2020.04.036)
-
-- Seungmin Seo, Byungkook Oh, Kyong-Ho Lee. "**Reliable Knowledge Graph Path Representation Learning**". **IEEE Access 2020**. **Cite 0**. [paper](https://doi.org/10.1109/ACCESS.2020.2973923)
-
-- Feng Zhao, Haoran Sun, Langjunqing Jin, Hai Jin. "**Structure-augmented knowledge graph embedding for sparse data with rule learning**". **Comput. Commun. 2020**. **Cite 1**. [paper](https://doi.org/10.1016/j.comcom.2020.05.017)
-
 ### Conference
 
 ### 2011
@@ -665,6 +633,40 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 - Gengchen Mai, Krzysztof Janowicz, Bo Yan, Rui Zhu, Ling Cai, Ni Lao. "**Contextual Graph Attention for Answering Logical Queries over Incomplete Knowledge Graphs**". **K-CAP 2019**. [paper](https://dl.acm.org/doi/10.1145/3360901.3364432)
 
 ### 2020
+
+#### Journal
+
+- Yuanfei Dai, Shiping Wang, Xing Chen, Chaoyang Xu, Wenzhong Guo. "**Generative adversarial networks based on Wasserstein distance for knowledge graph embeddings**". **Knowledge Based Systems 2020**. **Cite 2**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705119305143?via%3Dihub) :fire:
+
+- Chen Li, Xutan Peng, Shanghang Zhang, Hao Peng, Philip S. Yu, Min He, Linfeng Du, Lihong Wang. "**Modeling relation paths for knowledge base completion via joint adversarial training"**. **Knowl. Based Syst 2020**. **Cite 0**. [paper](https://doi.org/10.1016/j.knosys.2020.105865)
+
+- Qi Wang, Yongsheng Hao, Jie Cao. "**ADRL: An attention-based deep reinforcement learning framework for knowledge graph reasoning**". **Knowl. Based Syst 2020**. **Cite 0**. [paper](https://doi.org/10.1016/j.knosys.2020.105910)
+
+- Batselem Jagvaral, Wan-Kon Lee, Jae-Seung Roh, Min-Sung Kim, Young-Tack Park. "**Path-based reasoning approach for knowledge graph completion using CNN-BiLSTM with attention mechanism**". **Expert Systems with Applications 2020**. **Cite 1**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417419306785?via%3Dihub)
+
+- Qi Wang , Yongsheng Hao. "**ALSTM: An attention-based long short-term memory framework for knowledge base reasoning**". **Neurocomputing 2020**. **Cite 0**. [paper](https://doi.org/10.1016/j.neucom.2020.02.065)
+
+- Jia Zhu, Zetao Zheng, Min Yang, Gabriel Pui Cheong Fung, Yong Tang. "**A semi-supervised model for knowledge graph embedding**". **Data Mining and Knowledge Discovery 2020**. **Cite 0**. [paper](https://link.springer.com/article/10.1007%2Fs10618-019-00653-z)
+
+- Takuma Ebisu , Ryutaro Ichise. "**Generalized Translation-Based Embedding of Knowledge Graph**". **IEEE Trans. Knowl. Data Eng 2020**. **Cite 5**. [paper](https://doi.org/10.1109/TKDE.2019.2893920) :fire:
+
+- Rui Wang , Bicheng Li , Shengwei Hu , Wenqian Du , Min Zhang. "**Knowledge Graph Embedding via Graph Attenuated Attention Networks**". **IEEE Access 2020**. **Cite 2**. [paper](https://doi.org/10.1109/ACCESS.2019.2963367) :fire:
+
+- Yashen Wang , Huanhuan Zhang, Ge Shi , Zhirun Liu, Qiang Zhou. "**A Model of Text-Enhanced Knowledge Graph Representation Learning With Mutual Attention**. **IEEE Access 2020**. **Cite 1**. [paper](https://doi.org/10.1109/ACCESS.2020.2981212)
+
+- Xiaoli Tang, Rui Yuan, Qianyu Li, Tengyun Wang, Haizhi Yang, Yundong Cai, Hengjie Song. "**Timespan-Aware Dynamic Knowledge Graph Embedding by Incorporating Temporal Evolution**". **IEEE Access 2020**. **Cite 0**. [paper](https://ieeexplore.ieee.org/document/8950081)
+
+- Zhongwei Zhang, Lei Cao, Xiliang Chen, Wei Tang, Zhixiong Xu, Yangyang Meng. "**Representation Learning of Knowledge Graphs With Entity Attributes**". **IEEE Access 2020**. **Cite 0**. [paper](https://doi.org/10.1109/ACCESS.2020.2963990)
+
+- Ruobing Xie, Stefan Heinrich, Zhiyuan Liu, Cornelius Weber, Yuan Yao, Stefan Wermter, Maosong Sun. "**Integrating Image-Based and Knowledge-Based Representation Learning**". **IEEE Trans. Cogn. Dev. Syst 2020**. **Cite 0**. [paper](https://doi.org/10.1109/TCDS.2019.2906685)
+
+- Yongming Han, GuoFei Chen, Zhongkun Li, Zhiqiang Geng, Fang Li, Bo Ma. "**An asymmetric knowledge representation learning in manifold space**". **Inf. Sci 2020**. **Cite 0**. [paper](https://doi.org/10.1016/j.ins.2020.04.036)
+
+- Seungmin Seo, Byungkook Oh, Kyong-Ho Lee. "**Reliable Knowledge Graph Path Representation Learning**". **IEEE Access 2020**. **Cite 0**. [paper](https://doi.org/10.1109/ACCESS.2020.2973923)
+
+- Feng Zhao, Haoran Sun, Langjunqing Jin, Hai Jin. "**Structure-augmented knowledge graph embedding for sparse data with rule learning**". **Comput. Commun. 2020**. **Cite 1**. [paper](https://doi.org/10.1016/j.comcom.2020.05.017)
+
+#### Conference
 
 - <a name="Teach"></a> **(Teach)** Daniel Ruffinelli, Samuel Broscheit, Rainer Gemulla. "**You CAN Teach an Old Dog New Tricks! On Training Knowledge Graph Embeddings**". **ICLR 2020**. **Cite 7**. [paper](https://openreview.net/forum?id=BkxSmlBFvr) :fire:
 
