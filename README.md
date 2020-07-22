@@ -670,7 +670,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - <a name="Teach"></a> **(Teach)** Daniel Ruffinelli, Samuel Broscheit, Rainer Gemulla. "**You CAN Teach an Old Dog New Tricks! On Training Knowledge Graph Embeddings**". **ICLR 2020**. Cite 8. [paper](https://openreview.net/forum?id=BkxSmlBFvr) :fire:
 
-- <a name="CompGCN"></a> **(CompGCN)** Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Partha Talukdar. "**Composition-based Multi-Relational Graph Convolutional Networks**". Cite 6. **ICLR 2020**. [paper](https://openreview.net/forum?id=BylA_C4tPr) [code](https://github.com/malllabiisc/CompGCN)
+- <a name="CompGCN"></a> **(CompGCN)** Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Partha Talukdar. "**Composition-based Multi-Relational Graph Convolutional Networks**". **ICLR 2020**. Cite 6. [paper](https://openreview.net/forum?id=BylA_C4tPr) [code](https://github.com/malllabiisc/CompGCN)
 
 - Bhuwan Dhingra, Manzil Zaheer, Vidhisha Balachandran, Graham Neubig, Ruslan Salakhutdinov, William W. Cohen. "**Differentiable Reasoning over a Virtual Knowledge Base**". **ICLR 2020**. Cite 6. [paper](https://openreview.net/forum?id=SJxstlHFPH)
 
@@ -688,33 +688,31 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - <a name="Neural-LP-N"></a> **(Neural-LP-N)** Po-Wei Wang, Daria Stepanova, Csaba Domokos, J. Zico Kolter. "**Differentiable learning of numerical rules in knowledge graphs**". **ICLR 2020**. Cite 0. [paper](https://openreview.net/forum?id=rJleKgrKwS)
 
-- **(GNTPs)** Pasquale Minervini, Matko Bosnjak, Tim Rocktäschel, Sebastian Riedel, Edward Grefenstette. "**Differentiable Reasoning on Large Knowledge Bases and Natural Language**". **AAAI 2020**. **Cite 9**. [paper]( https://arxiv.org/abs/1912.10824)
+- **(GNTPs)** Pasquale Minervini, Matko Bosnjak, Tim Rocktäschel, Sebastian Riedel, Edward Grefenstette. "**Differentiable Reasoning on Large Knowledge Bases and Natural Language**". **AAAI 2020**. Cite 11. [paper]( https://arxiv.org/abs/1912.10824)
 
-- <a name="InteractE"></a> **(InteractE)** Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Nilesh Agrawal, Partha Talukdar. "**InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions**". **AAAI 2020**. **Cite 7**. [paper](https://arxiv.org/abs/1911.00219) [code](https://github.com/malllabiisc/InteractE) [supp](https://shikhar-vashishth.github.io/assets/pdf/interacte_supp.pdf)
+- <a name="DE-SimplE"></a> **(DE-SimplE)** Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **AAAI 2020**. Cite 7. [paper](https://arxiv.org/abs/1907.03143) [code](https://github.com/BorealisAI/DE-SimplE) :fire:
 
-- <a name="DE-SimplE"></a> **(DE-SimplE)** Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **AAAI 2020**. **Cite 7**. [paper](https://arxiv.org/abs/1907.03143) [code](https://github.com/BorealisAI/DE-SimplE) :fire:
+- <a name="InteractE"></a> **(InteractE)** Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Nilesh Agrawal, Partha Talukdar. "**InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions**". **AAAI 2020**. Cite 7. [paper](https://arxiv.org/abs/1911.00219) [code](https://github.com/malllabiisc/InteractE) [supp](https://shikhar-vashishth.github.io/assets/pdf/interacte_supp.pdf)
 
-- <a name="HAKE"></a> **(HAKE)** Zhanqiu Zhang, Jianyu Cai, Yongdong Zhang, Jie Wang. "**Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction**". **AAAI 2020**. **Cite 7**. [paper](https://arxiv.org/abs/1911.09419) [code](https://github.com/MIRALab-USTC/KGE-HAKE) :fire:
+- <a name="FSRL"></a> **(FSRL)** Chuxu Zhang, Huaxiu Yao, Chao Huang, Meng Jiang, Zhenhui Li, Nitesh V. Chawla. "**Few-Shot Knowledge Graph Completion**". **AAAI 2020**. Cite 4. [paper](https://arxiv.org/abs/1911.11298)
 
-- <a name="FSRL"></a> **(FSRL)** Chuxu Zhang, Huaxiu Yao, Chao Huang, Meng Jiang, Zhenhui Li, Nitesh V. Chawla. "**Few-Shot Knowledge Graph Completion**". **AAAI 2020**. **Cite 4**. [paper](https://arxiv.org/abs/1911.11298)
+- <a name="HAKE"></a> **(HAKE)** Zhanqiu Zhang, Jianyu Cai, Yongdong Zhang, Jie Wang. "**Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction**". **AAAI 2020**. Cite 4. [paper](https://arxiv.org/abs/1911.09419) [code](https://github.com/MIRALab-USTC/KGE-HAKE) :fire:
 
--	Pengda Qin, Xin Wang, Wenhu Chen, Chunyun Zhang, Weiran Xu, William Yang Wang. "**Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs**". **AAAI 2020**. **Cite 3**. [paper]( https://arxiv.org/abs/2001.02332)
+- Pengda Qin, Xin Wang, Wenhu Chen, Chunyun Zhang, Weiran Xu, William Yang Wang. "**Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs**". **AAAI 2020**. Cite 4. [paper]( https://arxiv.org/abs/2001.02332)
 
-- <a name="RPJE"></a> **(RPJE)** Guanglin Niu, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li, Xiaowei Zhang. "**Rule-Guided Compositional Representation Learning on Knowledge Graphs**". **AAAI 2020**. **Cite 2**. [paper](https://arxiv.org/abs/1911.08935)
+- <a name="RPJE"></a> **(RPJE)** Guanglin Niu, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li, Xiaowei Zhang. "**Rule-Guided Compositional Representation Learning on Knowledge Graphs**". **AAAI 2020**. Cite 2. [paper](https://arxiv.org/abs/1911.08935)
 
-- George Stoica, Otilia Stretcu, Emmanouil Antonios Platanios, Tom M. Mitchell, Barnabás Póczos. "**Contextual Parameter Generation for Knowledge Graph Link Prediction**". **AAAI 2020**. [paper]()
+- **(R2D2)** Marcel Hildebrandt, Jorge Andres Quintero Serna, Yunpu Ma, Martin Ringsquandl, Mitchell Joblin, Volker Tresp. "**Reasoning on Knowledge Graphs with Debate Dynamics**". **AAAI 2020**. Cite 2. [paper](https://arxiv.org/abs/2001.00461)
 
-- **(R2D2)** Marcel Hildebrandt, Jorge Andres Quintero Serna, Yunpu Ma, Martin Ringsquandl, Mitchell Joblin, Volker Tresp. "**Reasoning on Knowledge Graphs with Debate Dynamics**". **AAAI 2020**. **Cite 2**. [paper](https://arxiv.org/abs/2001.00461)
+- Zhao Zhang, Fuzhen Zhuang, Hengshu Zhu, Zhiping Shi, Hui Xiong, Qing He. "**Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion**". **AAAI 2020**. Cite 0. 
 
--	Zhao Zhang, Fuzhen Zhuang, Hengshu Zhu, Zhiping Shi, Hui Xiong, Qing He. "**Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion**". **AAAI 2020**. **Cite 0**. 
+- George Stoica, Otilia Stretcu, Anthony Platanios, Tom Mitchell, Barnabas Poczos. "**Contextual Parameter Generation for Knowledge Graph Link Prediction**". **AAAI 2020**. Cite 0. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5693)
 
-- George Stoica, Otilia Stretcu, Anthony Platanios, Tom Mitchell, Barnabas Poczos. "**Contextual Parameter Generation for Knowledge Graph Link Prediction**". **AAAI 2020**. **Cite 0**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5693)
+- Chaitanya Malaviya, Chandra Bhagavatula, Antoine Bosselut, Yejin Choi. "**Commonsense Knowledge Base Completion with Structural and Semantic Context**". **AAAI 2020**. Cite 1. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5684)
 
--	Chaitanya Malaviya, Chandra Bhagavatula, Antoine Bosselut, Yejin Choi. "**Commonsense Knowledge Base Completion with Structural and Semantic Context**". **AAAI 2020**. **Cite 1**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5684)
+- Peru Bhardwaj. "**Towards Adversarially Robust Knowledge Graph Embeddings**. **AAAI 2020**. Cite 0. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/7128)
 
-- Peru Bhardwaj. "**Towards Adversarially Robust Knowledge Graph Embeddings**. **AAAI 2020**. **Cite 0**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/7128)
-
-- Feihu Che, Dawei Zhang, Jianhua Tao, Mingyue Niu, Bocheng Zhao. "**ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion**". **AAAI 2020**. **Cite 0**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5665)
+- Feihu Che, Dawei Zhang, Jianhua Tao, Mingyue Niu, Bocheng Zhao. "**ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion**". **AAAI 2020**. Cite 0. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5665)
 
 - Fuxiang Zhang, Xin Wang, Zhao Li, Jianxin Li. "**TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure**". **IJCAI 2020**. **Cite 0**. [paper](https://doi.org/10.24963/ijcai.2020/413)
 
