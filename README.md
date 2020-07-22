@@ -734,6 +734,8 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Zhiwen Xie, Guangyou Zhou, Jin Liu and Jimmy Xiangji Huang. "**ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding**". **ACL 2020**. Cite 0. [paper](https://www.aclweb.org/anthology/2020.acl-main.526/)
 
+- Farahnaz Akrami, Mohammed Samiul Saeef, Qingheng Zhang, Wei Hu, Chengkai Li. "**Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study**". **SIGMOD 2020**. Cite 2. [paper](https://dl.acm.org/doi/10.1145/3318464.3380599)
+
 - Da Xu, Chuanwei Ruan, Jason Cho, Evren Körpeoglu, Sushant Kumar, Kannan Achan. "**Knowledge-aware Complementary Product Representation Learning**". **WSDM 2020**. **Cite 0**. [paper](https://doi.org/10.1145/3336191.3371854)
 
 - Paolo Rosso, Dingqi Yang, Philippe Cudré-Mauroux. "**Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction**". **WWW 2020**. **Cite 1**. [paper](https://doi.org/10.1145/3366423.3380257)
