@@ -670,13 +670,13 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - <a name="Teach"></a> **(Teach)** Daniel Ruffinelli, Samuel Broscheit, Rainer Gemulla. "**You CAN Teach an Old Dog New Tricks! On Training Knowledge Graph Embeddings**". **ICLR 2020**. Cite 8. [paper](https://openreview.net/forum?id=BkxSmlBFvr) :fire:
 
-- Bhuwan Dhingra, Manzil Zaheer, Vidhisha Balachandran, Graham Neubig, Ruslan Salakhutdinov, William W. Cohen. "**Differentiable Reasoning over a Virtual Knowledge Base**". **ICLR 2020**. Cite 6. [paper](https://openreview.net/forum?id=SJxstlHFPH)
-
 - <a name="CompGCN"></a> **(CompGCN)** Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Partha Talukdar. "**Composition-based Multi-Relational Graph Convolutional Networks**". Cite 6. **ICLR 2020**. [paper](https://openreview.net/forum?id=BylA_C4tPr) [code](https://github.com/malllabiisc/CompGCN)
+
+- Bhuwan Dhingra, Manzil Zaheer, Vidhisha Balachandran, Graham Neubig, Ruslan Salakhutdinov, William W. Cohen. "**Differentiable Reasoning over a Virtual Knowledge Base**". **ICLR 2020**. Cite 6. [paper](https://openreview.net/forum?id=SJxstlHFPH)
 
 - <a name="Q2B"></a> **(Q2B)** Hongyu Ren, Weihua Hu, Jure Leskovec. "**Query2box: Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings**". **ICLR 2020**. Cite 5. [paper](https://openreview.net/forum?id=BJgr4kSFDS) :fire:
 
-- Pedro Tabacof, Luca Costabello. "**Probability Calibration for Knowledge Graph Embedding Models**". **ICLR 2020**. Cite 3. [paper](https://openreview.net/forum?id=S1g8K1BFwS) :fire:
+- Pedro Tabacof, Luca Costabello. "**Probability Calibration for Knowledge Graph Embedding Models**". **ICLR 2020**. Cite 3. [paper](https://openreview.net/forum?id=S1g8K1BFwS)
 
 - Bahare Fatemi, Perouz Taslakian, David Vazquez, David Poole. "**Knowledge Hypergraphs: Prediction Beyond Binary Relations**". **ICLR 2020**. Cite 1. [paper](https://openreview.net/forum?id=ryxIZR4tvS) 
 
