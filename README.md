@@ -704,15 +704,15 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - **(R2D2)** Marcel Hildebrandt, Jorge Andres Quintero Serna, Yunpu Ma, Martin Ringsquandl, Mitchell Joblin, Volker Tresp. "**Reasoning on Knowledge Graphs with Debate Dynamics**". **AAAI 2020**. Cite 2. [paper](https://arxiv.org/abs/2001.00461)
 
-- Zhao Zhang, Fuzhen Zhuang, Hengshu Zhu, Zhiping Shi, Hui Xiong, Qing He. "**Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion**". **AAAI 2020**. Cite 0. 
-
-- George Stoica, Otilia Stretcu, Anthony Platanios, Tom Mitchell, Barnabas Poczos. "**Contextual Parameter Generation for Knowledge Graph Link Prediction**". **AAAI 2020**. Cite 0. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5693)
-
 - Chaitanya Malaviya, Chandra Bhagavatula, Antoine Bosselut, Yejin Choi. "**Commonsense Knowledge Base Completion with Structural and Semantic Context**". **AAAI 2020**. Cite 1. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5684)
 
 - Peru Bhardwaj. "**Towards Adversarially Robust Knowledge Graph Embeddings**. **AAAI 2020**. Cite 0. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/7128)
 
+- George Stoica, Otilia Stretcu, Anthony Platanios, Tom Mitchell, Barnabas Poczos. "**Contextual Parameter Generation for Knowledge Graph Link Prediction**". **AAAI 2020**. Cite 0. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5693)
+
 - Feihu Che, Dawei Zhang, Jianhua Tao, Mingyue Niu, Bocheng Zhao. "**ParamE: Regarding Neural Network Parameters as Relation Embeddings for Knowledge Graph Completion**". **AAAI 2020**. Cite 0. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5665)
+
+- Zhao Zhang, Fuzhen Zhuang, Hengshu Zhu, Zhiping Shi, Hui Xiong, Qing He. "**Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion**". **AAAI 2020**. Cite 0. 
 
 - Fuxiang Zhang, Xin Wang, Zhao Li, Jianxin Li. "**TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure**". **IJCAI 2020**. **Cite 0**. [paper](https://doi.org/10.24963/ijcai.2020/413)
 
