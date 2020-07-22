@@ -720,25 +720,23 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Da Xu, Chuanwei Ruan, Jason Cho, Evren Körpeoglu, Sushant Kumar, Kannan Achan. "**Knowledge-aware Complementary Product Representation Learning**". **WSDM 2020**. **Cite 0**. [paper](https://doi.org/10.1145/3336191.3371854)
 
-- Samuel Broscheit, Kiril Gashteovski, Yanjie Wang and Rainer Gemulla. "**Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction**". **ACL 2020**. **Cite 0**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5665)
+- Samuel Broscheit, Kiril Gashteovski, Yanjie Wang and Rainer Gemulla. "**Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction**". **ACL 2020**. Cite 0. [paper](https://www.aclweb.org/anthology/2020.acl-main.209/)
 
-- Yu Zhao, anxiang zhang, Ruobing Xie, Kang Liu and Xiaojie WANG. "**Connecting Embeddings for Knowledge Graph Entity Typing**". **ACL 2020**. **Cite 0**. [paper](https://www.aclweb.org/anthology/2020.acl-main.572/)
+- Yu Zhao, anxiang zhang, Ruobing Xie, Kang Liu and Xiaojie WANG. "**Connecting Embeddings for Knowledge Graph Entity Typing**". **ACL 2020**. Cite 0. [paper](https://www.aclweb.org/anthology/2020.acl-main.572/)
 
-- Mrinmaya Sachan. "**Knowledge Graph Embedding Compression**". **ACL 2020**. **Cite 0**. [paper](https://www.aclweb.org/anthology/2020.acl-main.238/)
+- Mrinmaya Sachan. "**Knowledge Graph Embedding Compression**". **ACL 2020**. Cite 0. [paper](https://www.aclweb.org/anthology/2020.acl-main.238/)
 
-- Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi and Christopher Ré. "**Low-Dimensional Hyperbolic Knowledge Graph Embeddings**". **ACL 2020**. **Cite 0**. [paper](https://www.aclweb.org/anthology/2020.acl-main.617/)
+- Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi and Christopher Ré. "**Low-Dimensional Hyperbolic Knowledge Graph Embeddings**". **ACL 2020**. Cite 0. [paper](https://www.aclweb.org/anthology/2020.acl-main.617/)
 
-- Yun Tang, Jing Huang, Guangtao Wang, Xiaodong He and Bowen Zhou. "**Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding**". **ACL 2020**. **Cite 0**. [paper](https://arxiv.org/abs/1911.04910)
+- Zhiwen Xie, Guangyou Zhou, Jin Liu and Jimmy Xiangji Huang. "**ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding**". **ACL 2020**. Cite 0. [paper](https://www.aclweb.org/anthology/2020.acl-main.526/)
 
-- Zhiwen Xie, Guangyou Zhou, Jin Liu and Jimmy Xiangji Huang. "**ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding**". **ACL 2020**. **Cite 0**. [paper](https://www.aclweb.org/anthology/2020.acl-main.526/)
+- Wentao Xu, Shun Zheng, Liang He, Bin Shao, Jian Yin and Tie-Yan Liu. "**SEEK: Segmented Embedding of Knowledge Graphs**". **ACL 2020**. Cite 0. [paper](https://www.aclweb.org/anthology/2020.acl-main.358/)
 
-- Wentao Xu, Shun Zheng, Liang He, Bin Shao, Jian Yin and Tie-Yan Liu. "**SEEK: Segmented Embedding of Knowledge Graphs**". **ACL 2020**. **Cite 0**. [paper](https://www.aclweb.org/anthology/2020.acl-main.358/)
+- Zhiqing Sun, Shikhar Vashishth, Soumya Sanyal, Partha Talukdar and Yiming Yang. "**A Re-evaluation of Knowledge Graph Completion Methods**". **ACL 2020**. Cite 8. [paper](https://www.aclweb.org/anthology/2020.acl-main.489/)
 
-- Zhiqing Sun, Shikhar Vashishth, Soumya Sanyal, Partha Talukdar and Yiming Yang. "**A Re-evaluation of Knowledge Graph Completion Methods**". **ACL 2020**. **Cite 0**. [paper](https://arxiv.org/abs/1911.03903)
+- Yun Tang, Jing Huang, Guangtao Wang, Xiaodong He, Bowen Zhou. "**Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding**". **ACL 2020**. Cite 0. [paper](https://www.aclweb.org/anthology/2020.acl-main.241/)
 
-- Yun Tang, Jing Huang, Guangtao Wang, Xiaodong He, Bowen Zhou. "**Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding**". **ACL 2020**. **Cite 0**. [paper](https://www.aclweb.org/anthology/2020.acl-main.241/)
-
-- Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla. "**Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction**". **ACL 2020**. [paper]()
+- Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla. "**Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction**". **ACL 2020**. Cite 0. [paper](https://www.aclweb.org/anthology/2020.acl-main.209/)
 
 - Paolo Rosso, Dingqi Yang, Philippe Cudré-Mauroux. "**Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction**". **WWW 2020**. **Cite 1**. [paper](https://doi.org/10.1145/3366423.3380257)
 
