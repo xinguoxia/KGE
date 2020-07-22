@@ -703,6 +703,8 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - <a name="RPJE"></a> **(RPJE)** Guanglin Niu, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li, Xiaowei Zhang. "**Rule-Guided Compositional Representation Learning on Knowledge Graphs**". **AAAI 2020**. **Cite 2**. [paper](https://arxiv.org/abs/1911.08935)
 
+- George Stoica, Otilia Stretcu, Emmanouil Antonios Platanios, Tom M. Mitchell, Barnabás Póczos. "**Contextual Parameter Generation for Knowledge Graph Link Prediction**". **AAAI 2020**. [paper]()
+
 - **(R2D2)** Marcel Hildebrandt, Jorge Andres Quintero Serna, Yunpu Ma, Martin Ringsquandl, Mitchell Joblin, Volker Tresp. "**Reasoning on Knowledge Graphs with Debate Dynamics**". **AAAI 2020**. **Cite 2**. [paper](https://arxiv.org/abs/2001.00461)
 
 -	Zhao Zhang, Fuzhen Zhuang, Hengshu Zhu, Zhiping Shi, Hui Xiong, Qing He. "**Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion**". **AAAI 2020**. **Cite 0**. 
@@ -738,6 +740,8 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 - Zhiqing Sun, Shikhar Vashishth, Soumya Sanyal, Partha Talukdar and Yiming Yang. "**A Re-evaluation of Knowledge Graph Completion Methods**". **ACL 2020**. **Cite 0**. [paper](https://arxiv.org/abs/1911.03903)
 
 - Yun Tang, Jing Huang, Guangtao Wang, Xiaodong He, Bowen Zhou. "**Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding**". **ACL 2020**. **Cite 0**. [paper](https://www.aclweb.org/anthology/2020.acl-main.241/)
+
+- Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla. "**Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction**". **ACL 2020**. [paper]()
 
 - Paolo Rosso, Dingqi Yang, Philippe Cudré-Mauroux. "**Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction**". **WWW 2020**. **Cite 1**. [paper](https://doi.org/10.1145/3366423.3380257)
 
@@ -777,6 +781,15 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 - Vassilis N. Ioannidis, Antonio G. Marques, Georgios B. Giannakis. "**Tensor Graph Convolutional Networks for Multi-relational and Robust Learning**". CoRR abs/2003.07729 (2020). [paper](https://arxiv.org/abs/2003.07729)
 
 - Jianyu Liu, Hegler Tissot. "**Clustering as an Evaluation Protocol for Knowledge Embedding Representation of Categorised Multi-relational Data in the Clinical Domain**". CoRR abs/2002.09473 (2020). [paper](https://arxiv.org/abs/2002.09473)
+
+- Andrea Rossi, Donatella Firmani, Antonio Matinata, Paolo Merialdo, Denilson Barbosa. "**Knowledge Graph Embedding for Link Prediction: A Comparative Analysis**". CoRR abs/2002.00819 (2020)
+
+- Yanhui Peng, Jing Zhang. "**Knowledge Graph Embedding with Linear Representation for Link Prediction**". CoRR abs/2004.10037 (2020)
+
+- Asan Agibetov, Matthias Samwald. "**Benchmarking neural embeddings for link prediction in knowledge graphs under semantic and structural changes**". CoRR abs/2005.07654 (2020)
+		
+- Jinheon Baek, Dong Bok Lee, Sung Ju Hwang. "**Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction**". CoRR abs/2006.06648 (2020)
+
 
 ## Datasets
 
