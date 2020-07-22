@@ -632,6 +632,9 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Gengchen Mai, Krzysztof Janowicz, Bo Yan, Rui Zhu, Ling Cai, Ni Lao. "**Contextual Graph Attention for Answering Logical Queries over Incomplete Knowledge Graphs**". **K-CAP 2019**. [paper](https://dl.acm.org/doi/10.1145/3360901.3364432)
 
+- Mehdi Ali, Hajira Jabeen, Charles Tapley Hoyt, Jens Lehmann:
+The KEEN Universe - An Ecosystem for Knowledge Graph Embeddings with a Focus on Reproducibility and Transferability. ISWC (2) 2019: 3-18
+
 ### 2020
 
 #### Journal
@@ -740,6 +743,8 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Paolo Rosso, Dingqi Yang, Philippe Cudré-Mauroux. "**Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction**". **WWW 2020**. Cite 1. [paper](https://doi.org/10.1145/3366423.3380257)
 
+- Jiaoyan Chen, Xi Chen, Ian Horrocks, Ernesto Jiménez-Ruiz, Erik B. Myklebust. "**Correcting Knowledge Base Assertions**". **WWW 2020**. Cite 0. [paper](https://dl.acm.org/doi/10.1145/3366423.3380226)
+
 - Unmesh Joshi, Jacopo Urbani. "**Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning**". **WWW 2020**. Cite 0. [paper](https://doi.org/10.1145/3366423.3380043)
 
 - Zeyuan Cui, Shijun Liu, Li Pan, Qiang He. "**Translating Embedding with Local Connection for Knowledge Graph Completion**". **AAMAS 2020**. Cite 0. [paper](https://dl.acm.org/doi/abs/10.5555/3398761.3398995)
@@ -756,37 +761,30 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 #### Arxiv
 
-- Mehdi Ali, Hajira Jabeen, Charles Tapley Hoyt, Jens Lehmann. "**The KEEN Universe: An Ecosystem for Knowledge Graph Embeddings with a Focus on Reproducibility and Transferability**". **arxiv 2020-01**. [paper](https://arxiv.org/abs/2001.10560)
+- Yunpu Ma, Yuyi Wang, Volker Tresp. "**Quantum Machine Learning Algorithm for Knowledge Graphs**". **CoRR 2020-01**. Cite 0. [paper](https://arxiv.org/abs/2001.01077)
 
-- Caglar Demir, Axel-Cyrille Ngonga Ngomo. "**A Physical Embedding Model for Knowledge Graphs**". **arxiv 2020-01**. **Cite 0**. [paper](https://arxiv.org/abs/2001.07418)
+- Andrea Rossi, Donatella Firmani, Antonio Matinata, Paolo Merialdo, Denilson Barbosa. "**Knowledge Graph Embedding for Link Prediction: A Comparative Analysis**". **CoRR 2020-02**. Cite 4. [paper](https://arxiv.org/abs/2002.00819)
 
-- Jiaoyan Chen, Xi Chen, Ian Horrocks, Ernesto Jiménez-Ruiz, Erik B. Myklebust. "**Correcting Knowledge Base Assertions**". **Cite 0**. **2020-01**. [paper](https://arxiv.org/abs/2001.06917)
+- Jianyu Liu, Hegler Tissot. "**Clustering as an Evaluation Protocol for Knowledge Embedding Representation of Categorised Multi-relational Data in the Clinical Domain**". **CoRR 2020-02**. Cite 0. [paper](https://arxiv.org/abs/2002.09473)
 
-- Yunpu Ma, Yuyi Wang, Volker Tresp. "**Quantum Machine Learning Algorithm for Knowledge Graphs**". **arxiv 2020-01**. **Cite 0**. [paper](https://arxiv.org/abs/2001.01077)
+- Vassilis N. Ioannidis, Antonio G. Marques, Georgios B. Giannakis. "**Tensor Graph Convolutional Networks for Multi-relational and Robust Learning**". **CoRR 2020-03**. Cite 0. [paper](https://arxiv.org/abs/2003.07729)
 
-- Bishal Santra, Prakhar Sharma, Sumegh Roychowdhury, Pawan Goyal. "**Exploring Effects of Random Walk Based Minibatch Selection Policy on Knowledge Graph Completion**". **CoRR 2020**. **Cite 0**. [paper](https://arxiv.org/abs/2004.05553)
+- Marjan Albooyeh, Rishab Goel, Seyed Mehran Kazemi. "**Out-of-Sample Representation Learning for Multi-Relational Graphs**". **CoRR 2020-04**. Cite 1. [paper](https://arxiv.org/abs/2004.13230)
 
-- Prachi Jain, Sushant Rathi, Mausam, Soumen Chakrabarti. "**Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols**". **CoRR 2020**. **Cite 0**. [paper](https://arxiv.org/abs/2005.05035)
+- Yanhui Peng, Jing Zhang. "**Knowledge Graph Embedding with Linear Representation for Link Prediction**". **CoRR 2020-04**. Cite 0. [paper](https://arxiv.org/abs/2004.10037)
 
-- Rajarshi Das, Ameya Godbole, Shehzaad Dhuliawala, Manzil Zaheer, Andrew McCallum. "**A Simple Approach to Case-Based Reasoning in Knowledge Bases**". **CoRR 2020**. **Cite 0**. [paper](https://arxiv.org/abs/2006.14198)
+- Bishal Santra, Prakhar Sharma, Sumegh Roychowdhury, Pawan Goyal. "**Exploring Effects of Random Walk Based Minibatch Selection Policy on Knowledge Graph Completion**". **CoRR 2020-04**. Cite 0. [paper](https://arxiv.org/abs/2004.05553)
 
-- Rajarshi Bhowmik, Gerard de Melo. "**A Joint Framework for Inductive Representation Learning and Explainable Reasoning in Knowledge Graphs**". **CoRR 2020**. **Cite 0**. [paper](https://arxiv.org/abs/2005.00637)
+- Rajarshi Bhowmik, Gerard de Melo. "**A Joint Framework for Inductive Representation Learning and Explainable Reasoning in Knowledge Graphs**". **CoRR 2020-05**. Cite 0. [paper](https://arxiv.org/abs/2005.00637)
 
-- Marjan Albooyeh, Rishab Goel, Seyed Mehran Kazemi. "**Out-of-Sample Representation Learning for Multi-Relational Graphs**". **CoRR **. [paper](https://arxiv.org/abs/2004.13230)
+- Prachi Jain, Sushant Rathi, Mausam, Soumen Chakrabarti. "**Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols**". **CoRR 2020-05**. Cite 0. [paper](https://arxiv.org/abs/2005.05035)
 
-- Vassilis N. Ioannidis, Antonio G. Marques, Georgios B. Giannakis. "**Tensor Graph Convolutional Networks for Multi-relational and Robust Learning**". CoRR abs/2003.07729 (2020). [paper](https://arxiv.org/abs/2003.07729)
+- Asan Agibetov, Matthias Samwald. "**Benchmarking neural embeddings for link prediction in knowledge graphs under semantic and structural changes**". **CoRR 2020-05**. Cite 0. [paper](https://arxiv.org/abs/2005.07654)
 
-- Jianyu Liu, Hegler Tissot. "**Clustering as an Evaluation Protocol for Knowledge Embedding Representation of Categorised Multi-relational Data in the Clinical Domain**". CoRR abs/2002.09473 (2020). [paper](https://arxiv.org/abs/2002.09473)
+- Jinheon Baek, Dong Bok Lee, Sung Ju Hwang. "**Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction**". **CoRR 2020-06**. Ciye 0. [paper](https://arxiv.org/abs/2006.06648)
 
-- Andrea Rossi, Donatella Firmani, Antonio Matinata, Paolo Merialdo, Denilson Barbosa. "**Knowledge Graph Embedding for Link Prediction: A Comparative Analysis**". CoRR abs/2002.00819 (2020)
-
-- Yanhui Peng, Jing Zhang. "**Knowledge Graph Embedding with Linear Representation for Link Prediction**". CoRR abs/2004.10037 (2020)
-
-- Asan Agibetov, Matthias Samwald. "**Benchmarking neural embeddings for link prediction in knowledge graphs under semantic and structural changes**". CoRR abs/2005.07654 (2020)
+- Rajarshi Das, Ameya Godbole, Shehzaad Dhuliawala, Manzil Zaheer, Andrew McCallum. "**A Simple Approach to Case-Based Reasoning in Knowledge Bases**". **CoRR 2020-06**. Cite 0. [paper](https://arxiv.org/abs/2006.14198)
 		
-- Jinheon Baek, Dong Bok Lee, Sung Ju Hwang. "**Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction**". CoRR abs/2006.06648 (2020)
-
-
 ## Datasets
 
 ### Standard
