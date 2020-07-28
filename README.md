@@ -533,6 +533,18 @@ Embedding Learning with Triple Trustiness on Noisy Knowledge Graph. Entropy 21(1
 
 - **(ProjFE)** Huajing Liu, Luyi Bai, Xiangnan Ma, Wenting Yu, Changming Xu. "**ProjFE: Prediction of fuzzy entity and relation for knowledge graph completion**". **Applied Soft Computing 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S1568494619302959?via%3Dihub)
 
+- Xing Tang, Ling Chen, Jun Cui, Baogang Wei:
+Knowledge representation learning with entity descriptions, hierarchical types, and textual relations. Inf. Process. Manag. 56(3): 809-822 (2019)
+
+- 	Ming He, Xiangkun Du, Bo Wang:
+Representation Learning of Knowledge Graphs via Fine-Grained Relation Description Combinations. IEEE Access 7: 26466-26473 (2019)
+
+- Xiaojun Kang, Hong Yao, Qingtao Li, Xinchuan Li, Chao Liu, Lijun Dong:
+TDN: An Integrated Representation Learning Model of Knowledge Graphs. IEEE Access 7: 55199-55205 (2019)
+		
+- Jingpei Lei, Dantong Ouyang, Ying Liu:
+Adversarial Knowledge Representation Learning Without External Model. IEEE Access 7: 3512-3524 (2019)
+
 - **(RPE)** Xixun Lin, Yanchun Liang, Fausto Giunchiglia, Xiaoyue Feng, Renchu Guan. "**Relation path embedding in knowledge graphs**". **Neural Computing and Applications 2019**. [paper](https://link.springer.com/article/10.1007%2Fs00521-018-3384-6)
 
 - Qiannan Zhu, Xiaofei Zhou, Peng Zhang, Yong Shi. "**A neural translating general hyperplane for knowledge graph embedding**". **Journal of Computational Science 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S1877750318310172?via%3Dihub)
@@ -591,6 +603,18 @@ Markov Logic Networks for Knowledge Base Completion: A Theoretical Analysis Unde
 
 - <a name="M-GNN"></a> **(M-GNN)** Zihan Wang, Zhaochun Ren, Chunyu He, Peng Zhang, Yue Hu. "**Robust Embedding with Multi-Level Structures for Link Prediction**". **IJCAI 2019**. [paper](https://www.ijcai.org/proceedings/2019/728)
 
+- 	Sébastien Ferré:
+Link Prediction in Knowledge Graphs with Concepts of Nearest Neighbours. ESWC 2019: 84-100
+
+- 	Heng Wang, Shuangyin Li, Rong Pan, Mingzhi Mao:
+Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning. EMNLP/IJCNLP (1) 2019: 2623-2631
+
+- 	Changjian Wang, Minghui Yan, Chuanrun Yi, Ying Sha:
+Capturing Semantic and Syntactic Information for Link Prediction in Knowledge Graphs. ISWC (1) 2019: 664-679
+
+- Kairong Hu, Hai Liu, Tianyong Hao:
+A Knowledge Selective Adversarial Network for Link Prediction in Knowledge Graph. NLPCC (1) 2019: 171-183
+
 - <a name="VR-GCN"></a> **(VR-GCN)** Rui Ye, Xin Li, Yujie Fang, Hongyu Zang, Mingzhong Wang. "**A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment**". **IJCAI 2019**. [paper](https://www.ijcai.org/Proceedings/2019/574)
 
 - <a name="KBGAT"></a> **(KBGAT)** Deepak Nathani, Jatin Chauhan, Charu Sharma, Manohar Kaul. "**Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs**". **ACL 2019**. [paper](https://www.aclweb.org/anthology/P19-1466/) [code](https://github.com/deepakn97/relationPrediction)
@@ -617,11 +641,18 @@ Revisiting Text and Knowledge Graph Joint Embeddings: The Amount of Shared Infor
 - Koki Kishimoto, Katsuhiko Hayashi, Genki Akai, Masashi Shimbo, Kazunori Komatani:
 Binarized Knowledge Graph Embeddings. ECIR (1) 2019: 181-196. CCF C.
 
+- 	Yashen Wang, Huanhuan Zhang, Haiyong Xie:
+A Model of Text-Enhanced Knowledge Graph Representation Learning with Collaborative Attention. ACML 2019: 220-235
+
 - Udit Gupta, Sathish Vadhiyar:
 Fast and Accurate Learning of Knowledge Graph Embeddings at Scale. HiPC 2019: 173-182
 
 - Yongqi Zhang, Quanming Yao, Yingxia Shao, Lei Chen:
 NSCaching: Simple and Efficient Negative Sampling for Knowledge Graph Embedding. ICDE 2019: 614-625
+
+- Zikang Wang, Linjing Li, Qiudan Li, Daniel Zeng:
+Multimodal Data Enhanced Representation Learning for Knowledge Graphs. IJCNN 2019: 1-8
+
 
 - Minjie Ding, Weiqin Tong, Xuehai Ding, Xiaoli Zhi, Xiao Wang, Guoqing Zhang:
 Knowledge Graph Embedding by Bias Vectors. ICTAI 2019. CCF C.
@@ -630,6 +661,12 @@ Knowledge Graph Embedding by Bias Vectors. ICTAI 2019. CCF C.
 
 - Zhihuan Yan, Rong Peng, Yaqian Wang, Weidong Li:
 Enhance knowledge graph embedding via fake triples. IJCNN 2019: 1-7. CCF C.
+
+- Chunfeng Liu, Yan Zhang, Mei Yu, Xuewei Li, Mankun Zhao, Tianyi Xu, Jian Yu, Ruiguo Yu:
+Text-Enhanced Knowledge Representation Learning Based on Gated Convolutional Networks. ICTAI 2019: 308-315
+
+- Chunfeng Liu, Yan Zhang, Mei Yu, Ruiguo Yu, Xuewei Li, Mankun Zhao, Tianyi Xu, Hongwei Liu, Jian Yu:
+Text-Augmented Knowledge Representation Learning Based on Convolutional Network. ICONIP (1) 2019: 187-198
 
 - Cunxiang Wang, Feiliang Ren, Zhichao Lin, Chenxu Zhao, Tian Xie, Yue Zhang:
 Domain Representation for Knowledge Graph Embedding. NLPCC (1) 2019: 197-210
