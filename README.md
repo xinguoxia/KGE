@@ -623,15 +623,17 @@ A convolutional neural network-based model for knowledge base completion and its
 
 - <a name="Meta-KGR"></a> **(Meta-KGR)** Xin Lv, Yuxian Gu, Xu Han, Lei Hou, Juanzi Li, Zhiyuan Liu. "**Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations**". **EMNLP/IJCNLP 2019**. CCF B. Cite 5.  [paper](https://doi.org/10.18653/v1/D19-1334)
 
-- Heng Wang, Shuangyin Li, Rong Pan, Mingzhi Mao. "**Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning**". **EMNLP/IJCNLP 2019**. CCF B. Cite 0. [paper](https://www.aclweb.org/anthology/D19-1264/) 
-
 - <a name="CaRe"></a> **(CaRe)** Swapnil Gupta, Sreyash Kenkre, Partha Talukdar. "**CaRe: Open Knowledge Graph Embeddings**". **EMNLP/IJCNLP 2019**. CCF B. Cite 1. [paper](https://www.aclweb.org/anthology/D19-1036/) [code](https://github.com/malllabiisc/CaRE)
 
 - <a name="JoBi ComplEx"></a> **(JoBi ComplEx)** Esma Balkir, Masha Naslidnyk, Dave Palfrey and Arpit Mittal. "**Using Pairwise Occurrence Information to Improve Knowledge Graph Completion on Large-Scale Datasets**". **EMNLP/IJCNLP 2019**. CCF B. Cite 1. [paper](https://www.aclweb.org/anthology/D19-1368/)
 
+- Heng Wang, Shuangyin Li, Rong Pan, Mingzhi Mao. "**Incorporating Graph Attention Mechanism into Knowledge Graph Reasoning Based on Deep Reinforcement Learning**". **EMNLP/IJCNLP 2019**. CCF B. Cite 0. [paper](https://www.aclweb.org/anthology/D19-1264/) 
+
 - <a name="TCVAE"></a> **(TCVAE)** Zihao Wang, Kwunping Lai, Piji Li, Lidong Bing and Wai Lam. "**Tackling Long-Tailed Relations and Uncommon Entities in Knowledge Graph Completion**". **EMNLP/IJCNLP 2019**. CCF B. Cite 0.  [paper](https://www.aclweb.org/anthology/D19-1024/)
 
 - <a name="OPTransE"></a> **(OPTransE)** Yao Zhu, Hongzhi Liu, Zhonghai Wu, Yang Song and Tao Zhang. "**Representation Learning with Ordered Relation Paths for Knowledge Graph Completion**". **EMNLP/IJCNLP 2019**. CCF B. Cite 0. [paper](https://www.aclweb.org/anthology/D19-1268/)
+
+
 
 
 
