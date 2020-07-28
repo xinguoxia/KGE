@@ -600,6 +600,38 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - <a name="IterE"></a> **(IterE)** Wen Zhang, Bibek Paudel, Liang Wang, Jiaoyan Chen, Hai Zhu, Wei Zhang, Abraham Bernstein, Huajun Chen. "**Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning**". **WWW 2019**. [paper](https://dl.acm.org/doi/10.1145/3308558.3313612) [code](https://github.com/wencolani/IterE)
 
+- Nasheen Nur, Noseong Park, Kookjin Lee, Hyunjoong Kang, Soonhyeon Kwon:
+Two Problems in Knowledge Graph Embedding: Non-Exclusive Relation Categories and Zero Gradients. BigData 2019: 1181-1186. CCF C.
+- Paolo Rosso, Dingqi Yang, Philippe Cudré-Mauroux:
+Revisiting Text and Knowledge Graph Joint Embeddings: The Amount of Shared Information Matters! BigData 2019: 2465-2473. CCF C.
+
+- Koki Kishimoto, Katsuhiko Hayashi, Genki Akai, Masashi Shimbo, Kazunori Komatani:
+Binarized Knowledge Graph Embeddings. ECIR (1) 2019: 181-196. CCF C.
+
+- Udit Gupta, Sathish Vadhiyar:
+Fast and Accurate Learning of Knowledge Graph Embeddings at Scale. HiPC 2019: 173-182
+
+- Yongqi Zhang, Quanming Yao, Yingxia Shao, Lei Chen:
+NSCaching: Simple and Efficient Negative Sampling for Knowledge Graph Embedding. ICDE 2019: 614-625
+
+- Minjie Ding, Weiqin Tong, Xuehai Ding, Xiaoli Zhi, Xiao Wang, Guoqing Zhang:
+Knowledge Graph Embedding by Bias Vectors. ICTAI 2019. CCF C.
+		Zhihao Wang, Xin Li:
+- Hybrid-TE: Hybrid Translation-Based Temporal Knowledge Graph Embedding. ICTAI 2019. CCF C.
+
+- Zhihuan Yan, Rong Peng, Yaqian Wang, Weidong Li:
+Enhance knowledge graph embedding via fake triples. IJCNN 2019: 1-7. CCF C.
+
+- Cunxiang Wang, Feiliang Ren, Zhichao Lin, Chenxu Zhao, Tian Xie, Yue Zhang:
+Domain Representation for Knowledge Graph Embedding. NLPCC (1) 2019: 197-210
+
+- Jun Yuan, Neng Gao, Ji Xiang, Chenyang Tu, Jingquan Ge:
+Knowledge Graph Embedding with Order Information of Triplets. PAKDD (3) 2019: 476-488
+
+
+- Shoukang Han, Xiaobo Guo, Lei Wang, Zeyi Liu, Nan Mu:
+Adaptive-Skip-TransE Model: Breaking Relation Ambiguities for Knowledge Graph Embedding. KSEM (1) 2019: 549-560. CCF C.
+
 - <a name="CaRe"></a> **(CaRe)** Swapnil Gupta, Sreyash Kenkre, Partha Talukdar. "**CaRe: Open Knowledge Graph Embeddings**". **EMNLP 2019**. [paper](https://www.aclweb.org/anthology/D19-1036/) [code](https://github.com/malllabiisc/CaRE)
 
 - <a name="MetaR"></a> **(MetaR)** Mingyang Chen, Wen Zhang, Wei Zhang, Qiang Chen and Huajun Chen. "**Meta Relational Learning for Few-Shot Link Prediction in Knowledge Graphs**". **EMNLP 2019**. [paper](https://www.aclweb.org/anthology/D19-1431/) [code](https://github.com/AnselCmy/MetaR)
@@ -622,9 +654,30 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 
 - Erik B. Myklebust, Ernesto Jiménez-Ruiz, Jiaoyan Chen, Raoul Wolf, Knut Erik Tollefsen. "**Knowledge Graph Embedding for Ecotoxicological Effect Prediction**". **ISWC 2019**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30796-7_30)
 
+- Agustinus Kristiadi, Mohammad Asif Khan, Denis Lukovnikov, Jens Lehmann, Asja Fischer:
+Incorporating Literals into Knowledge Graph Embeddings. ISWC (1) 2019: 347-363
+
+- Erik B. Myklebust, Ernesto Jiménez-Ruiz, Jiaoyan Chen, Raoul Wolf, Knut Erik Tollefsen:
+Knowledge Graph Embedding for Ecotoxicological Effect Prediction. ISWC (2) 2019: 490-506
+
+- Zequn Sun, JiaCheng Huang, Wei Hu, Muhao Chen, Lingbing Guo, Yuzhong Qu:
+TransEdge: Translating Relation-Contextualized Embeddings for Knowledge Graphs. ISWC (1) 2019: 612-629
+
+- Yu Liu, Wen Hua, Kexuan Xin, Xiaofang Zhou:
+Context-Aware Temporal Knowledge Graph Embedding. WISE 2019: 583-598
+
+- Ji Zhang, Leonard Tan, Xiaohui Tao, Dianwei Wang, Josh Jia-Ching Ying, Xin Wang:
+Learning Relational Fractals for Deep Knowledge Graph Embedding in Online Social Networks. WISE 2019: 660-674
+
 - Simon Gottschalk, Elena Demidova. "**HapPenIng: Happen, Predict, Infer - Event Series Completion in a Knowledge Graph**". **ISWC 2019**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30793-6_12)
 
 - Ye Liu, Hui Li, Alberto García-Durán, Mathias Niepert, Daniel O?oro-Rubio, David S. Rosenblum. "**MMKG: Multi-modal Knowledge Graphs**". **ESWC 2019**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-21348-0_30)
+
+- Dingcheng Li, Siamak Zamani, Jingyuan Zhang, Ping Li:
+Integration of Knowledge Graph Embedding Into Topic Modeling with Hierarchical Dirichlet Process. NAACL-HLT (1) 2019: 940-950
+
+- Mehdi Ali, Hajira Jabeen, Charles Tapley Hoyt, Jens Lehmann:
+The KEEN Universe - An Ecosystem for Knowledge Graph Embeddings with a Focus on Reproducibility and Transferability. ISWC (2) 2019: 3-18
 
 - <a name="CRIAGE"></a> **(CRIAGE)** Pouya Pezeshkpour, Yifan Tian, Sameer Singh. “**Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications**”. **NAACL-HLT 2019**. [paper](https://www.aclweb.org/anthology/N19-1337/) [code](https://github.com/pouyapez/criage)
 
