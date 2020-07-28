@@ -516,6 +516,15 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 #### Journal
 
+- Weidong Li, Xinyu Zhang, Yaqian Wang, Zhihuan Yan, Rong Peng:
+Graph2Seq: Fusion Embedding Learning for Knowledge Graph Completion. IEEE Access 7: 157960-157971 (2019)
+
+- Wen'an Zhou, Shirui Wang, Chao Jiang:
+Knowledge Graph Embedding With Interactive Guidance From Entity Descriptions. IEEE Access 7: 156686-156693 (2019)
+
+- Yu Zhao, Huali Feng, Patrick Gallinari:
+Embedding Learning with Triple Trustiness on Noisy Knowledge Graph. Entropy 21(11): 1083 (2019)
+
 - **(TKGE)** Binling Nie, Shouqian Sun. "**Knowledge graph embedding via reasoning over entities, relations, and text**". **Future Generation Computer Systems 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S0167739X17321593?via%3Dihub)
 
 - Chengchun Shi, Wenbin Lu, Rui Song. "**Determining the Number of Latent Factors in Statistical Multi-Relational Learning**". **Journal of Machine Learning Research 2019**. [paper](http://jmlr.org/papers/v20/18-037.html)
