@@ -628,6 +628,17 @@ Domain Representation for Knowledge Graph Embedding. NLPCC (1) 2019: 197-210
 - Jun Yuan, Neng Gao, Ji Xiang, Chenyang Tu, Jingquan Ge:
 Knowledge Graph Embedding with Order Information of Triplets. PAKDD (3) 2019: 476-488
 
+- Vassilis N. Ioannidis, Antonio G. Marques, Georgios B. Giannakis:
+A Recurrent Graph Neural Network for Multi-relational Data. ICASSP 2019: 8157-8161
+
+- Xiaotian Jiang, Quan Wang, Bin Wang:
+Adaptive Convolution for Multi-Relational Learning. NAACL-HLT (1) 2019: 978-987
+
+- Binling Nie, Shouqian Sun, Dian Yu:
+An End-to-End Structure Aware Graph Convolutional Network for Modeling Multi-relational Data. PRICAI (2) 2019: 296-308
+
+- Vassilis N. Ioannidis, Antonio G. Marques, Georgios B. Giannakis:
+A Recurrent Graph Neural Network for Multi-relational Data. ICASSP 2019: 8157-8161
 
 - Shoukang Han, Xiaobo Guo, Lei Wang, Zeyi Liu, Nan Mu:
 Adaptive-Skip-TransE Model: Breaking Relation Ambiguities for Knowledge Graph Embedding. KSEM (1) 2019: 549-560. CCF C.
