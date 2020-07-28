@@ -23,8 +23,6 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 ### Traditions
 
-
-
 #### Translation
 
 | Year | Source        |	Methods                        |
@@ -296,27 +294,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Lirong He, Bin Liu, Guangxi Li, Yongpan Sheng, Yafang Wang, Zenglin Xu. "**Knowledge Base Completion by Variational Bayesian Neural Tensor Decomposition**". **Cognitive Computation 2018**. [paper](https://link.springer.com/article/10.1007%2Fs12559-018-9565-x)
 
-#### 2019
-
-- **(TKGE)** Binling Nie, Shouqian Sun. "**Knowledge graph embedding via reasoning over entities, relations, and text**". **Future Generation Computer Systems 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S0167739X17321593?via%3Dihub)
-
-- Chengchun Shi, Wenbin Lu, Rui Song. "**Determining the Number of Latent Factors in Statistical Multi-Relational Learning**". **Journal of Machine Learning Research 2019**. [paper](http://jmlr.org/papers/v20/18-037.html)
-
-- **(KEC)** Niannian Guan, Dandan Song, Lejian Liao. "**Knowledge graph embedding with concepts**". **Knowledge-based Systems 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705118304945?via%3Dihub)
-
-- **(ProjFE)** Huajing Liu, Luyi Bai, Xiangnan Ma, Wenting Yu, Changming Xu. "**ProjFE: Prediction of fuzzy entity and relation for knowledge graph completion**". **Applied Soft Computing 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S1568494619302959?via%3Dihub)
-
-- **(RPE)** Xixun Lin, Yanchun Liang, Fausto Giunchiglia, Xiaoyue Feng, Renchu Guan. "**Relation path embedding in knowledge graphs**". **Neural Computing and Applications 2019**. [paper](https://link.springer.com/article/10.1007%2Fs00521-018-3384-6)
-
-- Qiannan Zhu, Xiaofei Zhou, Peng Zhang, Yong Shi. "**A neural translating general hyperplane for knowledge graph embedding**". **Journal of Computational Science 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S1877750318310172?via%3Dihub)
-
-- Ankur Padia, Konstantinos Kalpakis, Francis Ferraro, Tim Finin. "**Knowledge Graph Fact Prediction via Knowledge-Enriched Tensor Factorization**". **Journal of Web Semantics 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S1570826819300046?via%3Dihub) [code](https://github.com/Ebiquity/KGFP)
-
-- <a name="ConT"></a> **(ConT)** Yunpu Ma, Volker Tresp, Erik A. Daxberger. "**Embedding models for episodic knowledge graphs**". **Journal of Web Semantics 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S1570826818300702?via%3Dihub)
-
-- **(AWML)** Chenchen Guo, Chunhong Zhang, Xiao Han, Yang Ji. "**AWML: adaptive weighted margin learning for knowledge
-graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper](https://link.springer.com/article/10.1007%2Fs10844-018-0535-2)
-
 ### Conference
 
 ### 2011
@@ -536,6 +513,29 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 - <a name="ATE"></a> **(ATE)** Bo An, Bo Chen, Xianpei Han, Le Sun. "**Accurate Text-Enhanced Knowledge Graph Representation Learning**". **NAACL-HLT 2018**. [paper](https://www.aclweb.org/anthology/N18-1068/)
 
 ### 2019
+
+#### Journal
+
+- **(TKGE)** Binling Nie, Shouqian Sun. "**Knowledge graph embedding via reasoning over entities, relations, and text**". **Future Generation Computer Systems 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S0167739X17321593?via%3Dihub)
+
+- Chengchun Shi, Wenbin Lu, Rui Song. "**Determining the Number of Latent Factors in Statistical Multi-Relational Learning**". **Journal of Machine Learning Research 2019**. [paper](http://jmlr.org/papers/v20/18-037.html)
+
+- **(KEC)** Niannian Guan, Dandan Song, Lejian Liao. "**Knowledge graph embedding with concepts**". **Knowledge-based Systems 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705118304945?via%3Dihub)
+
+- **(ProjFE)** Huajing Liu, Luyi Bai, Xiangnan Ma, Wenting Yu, Changming Xu. "**ProjFE: Prediction of fuzzy entity and relation for knowledge graph completion**". **Applied Soft Computing 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S1568494619302959?via%3Dihub)
+
+- **(RPE)** Xixun Lin, Yanchun Liang, Fausto Giunchiglia, Xiaoyue Feng, Renchu Guan. "**Relation path embedding in knowledge graphs**". **Neural Computing and Applications 2019**. [paper](https://link.springer.com/article/10.1007%2Fs00521-018-3384-6)
+
+- Qiannan Zhu, Xiaofei Zhou, Peng Zhang, Yong Shi. "**A neural translating general hyperplane for knowledge graph embedding**". **Journal of Computational Science 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S1877750318310172?via%3Dihub)
+
+- Ankur Padia, Konstantinos Kalpakis, Francis Ferraro, Tim Finin. "**Knowledge Graph Fact Prediction via Knowledge-Enriched Tensor Factorization**". **Journal of Web Semantics 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S1570826819300046?via%3Dihub) [code](https://github.com/Ebiquity/KGFP)
+
+- <a name="ConT"></a> **(ConT)** Yunpu Ma, Volker Tresp, Erik A. Daxberger. "**Embedding models for episodic knowledge graphs**". **Journal of Web Semantics 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S1570826818300702?via%3Dihub)
+
+- **(AWML)** Chenchen Guo, Chunhong Zhang, Xiao Han, Yang Ji. "**AWML: adaptive weighted margin learning for knowledge
+graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper](https://link.springer.com/article/10.1007%2Fs10844-018-0535-2)
+
+#### Conference
 
 - <a name="QuatE"></a> **(QuatE)** Shuai Zhangy, Yi Tay, Lina Yao, Qi Liu. "**Quaternion Knowledge Graph Embeddings**". **NeurIPS 2019**. [paper](http://papers.nips.cc/paper/8541-quaternion-knowledge-graph-embeddings) [code](https://github.com/cheungdaven/QuatE) 
 
