@@ -544,6 +544,9 @@ Embedding Learning with Triple Trustiness on Noisy Knowledge Graph. Entropy 21(1
 - **(AWML)** Chenchen Guo, Chunhong Zhang, Xiao Han, Yang Ji. "**AWML: adaptive weighted margin learning for knowledge
 graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper](https://link.springer.com/article/10.1007%2Fs10844-018-0535-2)
 
+- Dai Quoc Nguyen, Dat Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung:
+A convolutional neural network-based model for knowledge base completion and its application to search personalization. Semantic Web 10(5): 947-960 (2019)
+
 #### Conference
 
 - <a name="QuatE"></a> **(QuatE)** Shuai Zhangy, Yi Tay, Lina Yao, Qi Liu. "**Quaternion Knowledge Graph Embeddings**". **NeurIPS 2019**. [paper](http://papers.nips.cc/paper/8541-quaternion-knowledge-graph-embeddings) [code](https://github.com/cheungdaven/QuatE) 
@@ -573,6 +576,12 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper]
 - <a name="OWE"></a> **(OWE)** Haseeb Shah, Johannes Villmow, Adrian Ulges, Ulrich Schwanecke, Faisal Shafait. "**An Open-World Extension to Knowledge Graph Completion Models**". **AAAI 2019**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4162) [code](https://github.com/haseebs/OWE)
 
 - <a name="AnyBURL"></a> **(AnyBURL)** Christian Meilicke, Melisachew Wudage Chekol, Daniel Ruffinelli, Heiner Stuckenschmidt. "**Anytime Bottom-Up Rule Learning for Knowledge Graph Completion**". **IJCAI 2019**. [paper](https://www.ijcai.org/proceedings/2019/435) [code](http://web.informatik.uni-mannheim.de/AnyBURL/)
+
+- 	Zhichun Wang, Yong Huang:
+Knowledge Base Completion by Inference from Both Relational and Literal Facts. PAKDD (3) 2019: 501-513
+
+- Ondrej Kuzelka, Jesse Davis:
+Markov Logic Networks for Knowledge Base Completion: A Theoretical Analysis Under the MCAR Assumption. UAI 2019: 427
 
 - Hengtong Zhang, Tianhang Zheng, Jing Gao, Chenglin Miao, Lu Su, Yaliang Li, Kui Ren. "**Data Poisoning Attack against Knowledge Graph Embedding**". **IJCAI 2019**. [paper](https://www.ijcai.org/proceedings/2019/674)
 
