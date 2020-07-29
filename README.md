@@ -637,11 +637,7 @@ A convolutional neural network-based model for knowledge base completion and its
 
 - <a name="EM"></a> **(EM)** Robert Bamler, Farnood Salehi, Stephan Mandt. "**Augmenting and Tuning Knowledge Graph Embeddings**". **UAI 2019**. CCF B. Cite 1. [paper](http://auai.org/uai2019/proceedings/papers/172.pdf) [code](https://github.com/mandt-lab/knowledge-graph-tuning)
 
-- Changjian Wang, Minghui Yan, Chuanrun Yi, Ying Sha. "**Capturing Semantic and Syntactic Information for Link Prediction in Knowledge Graphs**". **ISWC 2019**. CCF B. Cite 0. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30793-6_38)
-
-- Erik B. Myklebust, Ernesto Jiménez-Ruiz, Jiaoyan Chen, Raoul Wolf, Knut Erik Tollefsen. "**Knowledge Graph Embedding for Ecotoxicological Effect Prediction**". **ISWC 2019**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30796-7_30)
-
-- Simon Gottschalk, Elena Demidova. "**HapPenIng: Happen, Predict, Infer - Event Series Completion in a Knowledge Graph**". **ISWC 2019**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30793-6_12)
+- Erik B. Myklebust, Ernesto Jiménez-Ruiz, Jiaoyan Chen, Raoul Wolf, Knut Erik Tollefsen. "**Knowledge Graph Embedding for Ecotoxicological Effect Prediction**". **ISWC 2019**. CCF B. Cite 24. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30796-7_30)
 
 - Agustinus Kristiadi, Mohammad Asif Khan, Denis Lukovnikov, Jens Lehmann, Asja Fischer. "**Incorporating Literals into Knowledge Graph Embeddings**. **ISWC 2019**. CCF B. Cite 16. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30793-6_20)
 
@@ -649,26 +645,30 @@ A convolutional neural network-based model for knowledge base completion and its
 
 - Mehdi Ali, Hajira Jabeen, Charles Tapley Hoyt, Jens Lehmann. "**The KEEN Universe - An Ecosystem for Knowledge Graph Embeddings with a Focus on Reproducibility and Transferability**". **ISWC 2019**. CCF B. Cite 3. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30796-7_1)
 
+- Simon Gottschalk, Elena Demidova. "**HapPenIng: Happen, Predict, Infer - Event Series Completion in a Knowledge Graph**". **ISWC 2019**. CCF B. Cite 0. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30793-6_12)
+
+- Changjian Wang, Minghui Yan, Chuanrun Yi, Ying Sha. "**Capturing Semantic and Syntactic Information for Link Prediction in Knowledge Graphs**". **ISWC 2019**. CCF B. Cite 0. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30793-6_38)
+
 - Vassilis N. Ioannidis, Antonio G. Marques, Georgios B. Giannakis. "**A Recurrent Graph Neural Network for Multi-relational Data**". **ICASSP 2019**. CCF B. Cite 10. [paper](https://ieeexplore.ieee.org/document/8682836)
+
+- <a name="CapsE"></a> **(CapsE)** Dai Quoc Nguyen, Thanh Vu, Tu Dinh Nguyen, Dat Quoc Nguyen, Dinh Q. Phung. "**A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization**". **NAACL-HLT 2019**. CCF C. Cite 23. [paper](https://www.aclweb.org/anthology/N19-1226/) [code](https://github.com/daiquocnguyen/CapsE)
 
 - Xiaotian Jiang, Quan Wang, Bin Wang. "**Adaptive Convolution for Multi-Relational Learning**". **NAACL-HLT 2019**. CCF C. Cite 8. [paper](https://www.aclweb.org/anthology/N19-1103/)
 
+- <a name="ConvR"></a> **(ConvR)** Xiaotian Jiang, Quan Wang, Bin Wang. "**Adaptive Convolution for Multi-Relational Learning**". **NAACL-HLT 2019**. CCF C. Cite 8. [paper](https://www.aclweb.org/anthology/N19-1103/)
+
+- <a name="GRank"></a> **(GRank)** Takuma Ebisu, Ryutaro Ichise. "**Graph Pattern Entity Ranking Model for Knowledge Graph Completion**". **NAACL-HLT 2019**. CCF C. Cite 6. [paper](https://www.aclweb.org/anthology/N19-1104/)
+
+- <a name="CRIAGE"></a> **(CRIAGE)** Pouya Pezeshkpour, Yifan Tian, Sameer Singh. “**Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications**”. **NAACL-HLT 2019**. CCF C. Cite 5. [paper](https://www.aclweb.org/anthology/N19-1337/) [code](https://github.com/pouyapez/criage)
+
 - Dingcheng Li, Siamak Zamani, Jingyuan Zhang, Ping Li. "**Integration of Knowledge Graph Embedding Into Topic Modeling with Hierarchical Dirichlet Process**". **NAACL-HLT 2019**. CCF C. Cite 3. [paper](https://www.aclweb.org/anthology/N19-1099/)
 
-- <a name="CRIAGE"></a> **(CRIAGE)** Pouya Pezeshkpour, Yifan Tian, Sameer Singh. “**Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications**”. **NAACL-HLT 2019**. [paper](https://www.aclweb.org/anthology/N19-1337/) [code](https://github.com/pouyapez/criage)
-
-- <a name="CapsE"></a> **(CapsE)** Dai Quoc Nguyen, Thanh Vu, Tu Dinh Nguyen, Dat Quoc Nguyen, Dinh Q. Phung. "**A Capsule Network-based Embedding Model for Knowledge Graph Completion and Search Personalization**". **NAACL-HLT 2019**. [paper](https://www.aclweb.org/anthology/N19-1226/) [code](https://github.com/daiquocnguyen/CapsE)
-
-- <a name="ConvR"></a> **(ConvR)** Xiaotian Jiang, Quan Wang, Bin Wang. "**Adaptive Convolution for Multi-Relational Learning**". **NAACL-HLT 2019**. [paper](https://www.aclweb.org/anthology/N19-1103/)
-
-- <a name="GRank"></a> **(GRank)** Takuma Ebisu, Ryutaro Ichise. "**Graph Pattern Entity Ranking Model for Knowledge Graph Completion**". **NAACL-HLT 2019**. [paper](https://www.aclweb.org/anthology/N19-1104/)
-
 - **(FFD)** Zihao Fu, Yankai Lin, Zhiyuan Liu, Wai Lam. "**Fact Discovery from Knowledge Base via Facet Decomposition**". 
-**NAACL-HLT 2019**. [paper](https://www.aclweb.org/anthology/N19-1297/)
+**NAACL-HLT 2019**. CCF C. Cite 0. [paper](https://www.aclweb.org/anthology/N19-1297/)
+
+- Ye Liu, Hui Li, Alberto García-Durán, Mathias Niepert, Daniel O?oro-Rubio, David S. Rosenblum. "**MMKG: Multi-modal Knowledge Graphs**". **ESWC 2019**. CCF C. Cite 8. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-21348-0_30)
 
 - Sébastien Ferré. "**Link Prediction in Knowledge Graphs with Concepts of Nearest Neighbours**". **ESWC 2019**. CCF C. Cite 2. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-21348-0_6)
-
-- Ye Liu, Hui Li, Alberto García-Durán, Mathias Niepert, Daniel O?oro-Rubio, David S. Rosenblum. "**MMKG: Multi-modal Knowledge Graphs**". **ESWC 2019**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-21348-0_30)
 
 - Koki Kishimoto, Katsuhiko Hayashi, Genki Akai, Masashi Shimbo, Kazunori Komatani. "**Binarized Knowledge Graph Embeddings**". **ECIR 2019**. CCF C. Cite 4. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-15712-8_12)
 
@@ -676,9 +676,9 @@ A convolutional neural network-based model for knowledge base completion and its
 
 - Zhihuan Yan, Rong Peng, Yaqian Wang, Weidong Li. "**Enhance knowledge graph embedding via fake triples**". **IJCNN 2019**. CCF C. Cite 0. [paper](https://ieeexplore.ieee.org/document/8852374)
 
-- Minjie Ding, Weiqin Tong, Xuehai Ding, Xiaoli Zhi, Xiao Wang, Guoqing Zhang. "**Knowledge Graph Embedding by Bias Vectors**". **ICTAI 2019**. CCF C. Cite 0. [paper](https://ieeexplore.ieee.org/document/8995354)
-
 - Zhihao Wang, Xin Li. "**Hybrid-TE: Hybrid Translation-Based Temporal Knowledge Graph Embedding**". **ICTAI 2019**. CCF C. Cite 0. [paper](https://ieeexplore.ieee.org/document/8995306)
+
+- Minjie Ding, Weiqin Tong, Xuehai Ding, Xiaoli Zhi, Xiao Wang, Guoqing Zhang. "**Knowledge Graph Embedding by Bias Vectors**". **ICTAI 2019**. CCF C. Cite 0. [paper](https://ieeexplore.ieee.org/document/8995354)
 
 - Chunfeng Liu, Yan Zhang, Mei Yu, Xuewei Li, Mankun Zhao, Tianyi Xu, Jian Yu, Ruiguo Yu. "**Text-Enhanced Knowledge Representation Learning Based on Gated Convolutional Networks**". **ICTAI 2019**. CCF C. Cite 0. [paper](https://ieeexplore.ieee.org/document/8995179)
 
@@ -702,15 +702,15 @@ A convolutional neural network-based model for knowledge base completion and its
 
 - Cunxiang Wang, Feiliang Ren, Zhichao Lin, Chenxu Zhao, Tian Xie, Yue Zhang. "**Domain Representation for Knowledge Graph Embedding**". **NLPCC 2019**. CCF C. Cite 1. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-32233-5_16)
 
-- Nasheen Nur, Noseong Park, Kookjin Lee, Hyunjoong Kang, Soonhyeon Kwon. "**Two Problems in Knowledge Graph Embedding: Non-Exclusive Relation Categories and Zero Gradients**". **BigData 2019**. CCF C. Cite 0. [paper](https://ieeexplore.ieee.org/document/9005966)
-
 - Paolo Rosso, Dingqi Yang, Philippe Cudré-Mauroux. "**Revisiting Text and Knowledge Graph Joint Embeddings: The Amount of Shared Information Matters!**".  **BigData 2019**. CCF C. Cite 1. [paper](https://ieeexplore.ieee.org/document/9005462)
+
+- Nasheen Nur, Noseong Park, Kookjin Lee, Hyunjoong Kang, Soonhyeon Kwon. "**Two Problems in Knowledge Graph Embedding: Non-Exclusive Relation Categories and Zero Gradients**". **BigData 2019**. CCF C. Cite 0. [paper](https://ieeexplore.ieee.org/document/9005966)
 
 - Yashen Wang, Huanhuan Zhang, Haiyong Xie. "**A Model of Text-Enhanced Knowledge Graph Representation Learning with Collaborative Attention**". **ACML 2019**. CCF C. Cite 1. [paper](http://proceedings.mlr.press/v101/wang19d.html)
 
-- <a name="TransGCN"></a> **(TransGCN)** Ling Cai, Bo Yan, Gengchen Mai, Krzysztof Janowicz, Rui Zhu. "**TransGCN: Coupling Transformation Assumptions with Graph Convolutional Networks for Link Prediction**". **K-CAP 2019**. [paper](https://dl.acm.org/doi/10.1145/3360901.3364441)
+- <a name="TransGCN"></a> **(TransGCN)** Ling Cai, Bo Yan, Gengchen Mai, Krzysztof Janowicz, Rui Zhu. "**TransGCN: Coupling Transformation Assumptions with Graph Convolutional Networks for Link Prediction**". **K-CAP 2019**. Cite 1. [paper](https://dl.acm.org/doi/10.1145/3360901.3364441)
 
-- Gengchen Mai, Krzysztof Janowicz, Bo Yan, Rui Zhu, Ling Cai, Ni Lao. "**Contextual Graph Attention for Answering Logical Queries over Incomplete Knowledge Graphs**". **K-CAP 2019**. [paper](https://dl.acm.org/doi/10.1145/3360901.3364432)
+- Gengchen Mai, Krzysztof Janowicz, Bo Yan, Rui Zhu, Ling Cai, Ni Lao. "**Contextual Graph Attention for Answering Logical Queries over Incomplete Knowledge Graphs**". **K-CAP 2019**. Cite 4. [paper](https://dl.acm.org/doi/10.1145/3360901.3364432)
 
 ### 2020
 
