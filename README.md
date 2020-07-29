@@ -633,31 +633,15 @@ A convolutional neural network-based model for knowledge base completion and its
 
 - <a name="OPTransE"></a> **(OPTransE)** Yao Zhu, Hongzhi Liu, Zhonghai Wu, Yang Song and Tao Zhang. "**Representation Learning with Ordered Relation Paths for Knowledge Graph Completion**". **EMNLP/IJCNLP 2019**. CCF B. Cite 0. [paper](https://www.aclweb.org/anthology/D19-1268/)
 
+- Ondrej Kuzelka, Jesse Davis. "**Markov Logic Networks for Knowledge Base Completion: A Theoretical Analysis Under the MCAR Assumption**". **UAI 2019**. CCF B. Cite . [paper]()
+
+- Zhichun Wang, Yong Huang. "**Knowledge Base Completion by Inference from Both Relational and Literal Facts**". **PAKDD  2019**. CCF C. Cite . [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-16142-2_39
+
+- Jun Yuan, Neng Gao, Ji Xiang, Chenyang Tu, Jingquan Ge. "**Knowledge Graph Embedding with Order Information of Triplets**". **PAKDD 2019**. CCF C. Cite . [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-16142-2_37)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-- 	Zhichun Wang, Yong Huang:
-Knowledge Base Completion by Inference from Both Relational and Literal Facts. PAKDD (3) 2019: 501-513
-
-- Ondrej Kuzelka, Jesse Davis:
-Markov Logic Networks for Knowledge Base Completion: A Theoretical Analysis Under the MCAR Assumption. UAI 2019: 427
-
-
-
-- 	Sébastien Ferré:
-Link Prediction in Knowledge Graphs with Concepts of Nearest Neighbours. ESWC 2019: 84-100
+- Sébastien Ferré. "**Link Prediction in Knowledge Graphs with Concepts of Nearest Neighbours**". **ESWC 2019**. CCF C. Cite . [paper]()
 
 
 
@@ -712,8 +696,7 @@ Text-Augmented Knowledge Representation Learning Based on Convolutional Network.
 - Cunxiang Wang, Feiliang Ren, Zhichao Lin, Chenxu Zhao, Tian Xie, Yue Zhang:
 Domain Representation for Knowledge Graph Embedding. NLPCC (1) 2019: 197-210
 
-- Jun Yuan, Neng Gao, Ji Xiang, Chenyang Tu, Jingquan Ge:
-Knowledge Graph Embedding with Order Information of Triplets. PAKDD (3) 2019: 476-488
+
 
 - Vassilis N. Ioannidis, Antonio G. Marques, Georgios B. Giannakis:
 A Recurrent Graph Neural Network for Multi-relational Data. ICASSP 2019: 8157-8161
