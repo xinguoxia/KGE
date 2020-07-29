@@ -633,70 +633,49 @@ A convolutional neural network-based model for knowledge base completion and its
 
 - <a name="OPTransE"></a> **(OPTransE)** Yao Zhu, Hongzhi Liu, Zhonghai Wu, Yang Song and Tao Zhang. "**Representation Learning with Ordered Relation Paths for Knowledge Graph Completion**". **EMNLP/IJCNLP 2019**. CCF B. Cite 0. [paper](https://www.aclweb.org/anthology/D19-1268/)
 
-- Ondrej Kuzelka, Jesse Davis. "**Markov Logic Networks for Knowledge Base Completion: A Theoretical Analysis Under the MCAR Assumption**". **UAI 2019**. CCF B. Cite . [paper](http://auai.org/uai2019/proceedings/papers/427.pdf)
+- Ondrej Kuzelka, Jesse Davis. "**Markov Logic Networks for Knowledge Base Completion: A Theoretical Analysis Under the MCAR Assumption**". **UAI 2019**. CCF B. Cite 4. [paper](http://auai.org/uai2019/proceedings/papers/427.pdf)
 
-- Changjian Wang, Minghui Yan, Chuanrun Yi, Ying Sha. "**Capturing Semantic and Syntactic Information for Link Prediction in Knowledge Graphs**". **ISWC  2019**. CCF B. Cite . [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30793-6_38)
+- Changjian Wang, Minghui Yan, Chuanrun Yi, Ying Sha. "**Capturing Semantic and Syntactic Information for Link Prediction in Knowledge Graphs**". **ISWC  2019**. CCF B. Cite 0. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30793-6_38)
 
-- Sébastien Ferré. "**Link Prediction in Knowledge Graphs with Concepts of Nearest Neighbours**". **ESWC 2019**. CCF C. Cite . [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-21348-0_6)
+- Vassilis N. Ioannidis, Antonio G. Marques, Georgios B. Giannakis. "**A Recurrent Graph Neural Network for Multi-relational Data**". **ICASSP 2019**. CCF B. Cite 10. [paper](https://ieeexplore.ieee.org/document/8682836)
 
-- Zhichun Wang, Yong Huang. "**Knowledge Base Completion by Inference from Both Relational and Literal Facts**". **PAKDD  2019**. CCF C. Cite . [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-16142-2_39)
+- Sébastien Ferré. "**Link Prediction in Knowledge Graphs with Concepts of Nearest Neighbours**". **ESWC 2019**. CCF C. Cite 2. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-21348-0_6)
 
-- Jun Yuan, Neng Gao, Ji Xiang, Chenyang Tu, Jingquan Ge. "**Knowledge Graph Embedding with Order Information of Triplets**". **PAKDD 2019**. CCF C. Cite . [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-16142-2_37)
+- Koki Kishimoto, Katsuhiko Hayashi, Genki Akai, Masashi Shimbo, Kazunori Komatani. "**Binarized Knowledge Graph Embeddings**". **ECIR 2019**. CCF C. Cite 4. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-15712-8_12)
 
-- Kairong Hu, Hai Liu, Tianyong Hao. "**A Knowledge Selective Adversarial Network for Link Prediction in Knowledge Graph**". **NLPCC 2019**. CCF C. Cite . [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-32233-5_14)
+- Zikang Wang, Linjing Li, Qiudan Li, Daniel Zeng. "**Multimodal Data Enhanced Representation Learning for Knowledge Graphs**". **IJCNN 2019**. CCF C. Cite 1. [paper](https://ieeexplore.ieee.org/document/8852079)
 
+- Zhihuan Yan, Rong Peng, Yaqian Wang, Weidong Li. "**Enhance knowledge graph embedding via fake triples**". IJCNN 2019. CCF C. Cite 0. [paper](https://ieeexplore.ieee.org/document/8852374)
 
+- Minjie Ding, Weiqin Tong, Xuehai Ding, Xiaoli Zhi, Xiao Wang, Guoqing Zhang. "**Knowledge Graph Embedding by Bias Vectors**". **ICTAI 2019**. CCF C. Cite 0. [paper](https://ieeexplore.ieee.org/document/8995354)
 
+- Zhihao Wang, Xin Li. "**Hybrid-TE: Hybrid Translation-Based Temporal Knowledge Graph Embedding**". **ICTAI 2019**. CCF C. Cite 0. [paper](https://ieeexplore.ieee.org/document/8995306)
 
+- Chunfeng Liu, Yan Zhang, Mei Yu, Xuewei Li, Mankun Zhao, Tianyi Xu, Jian Yu, Ruiguo Yu. "**Text-Enhanced Knowledge Representation Learning Based on Gated Convolutional Networks**". **ICTAI 2019**. CCF C. Cite 0. [paper](https://ieeexplore.ieee.org/document/8995179)
 
+- Udit Gupta, Sathish Vadhiyar. "**Fast and Accurate Learning of Knowledge Graph Embeddings at Scale**". **HiPC 2019**. CCF B. Cite 0. [paper](https://ieeexplore.ieee.org/document/8990403)
 
+- Zhichun Wang, Yong Huang. "**Knowledge Base Completion by Inference from Both Relational and Literal Facts**". **PAKDD  2019**. CCF C. Cite 0. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-16142-2_39)
 
+- Jun Yuan, Neng Gao, Ji Xiang, Chenyang Tu, Jingquan Ge. "**Knowledge Graph Embedding with Order Information of Triplets**". **PAKDD 2019**. CCF C. Cite 0. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-16142-2_37)
 
+- Kairong Hu, Hai Liu, Tianyong Hao. "**A Knowledge Selective Adversarial Network for Link Prediction in Knowledge Graph**". **NLPCC 2019**. CCF C. Cite 1. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-32233-5_14)
 
+- Cunxiang Wang, Feiliang Ren, Zhichao Lin, Chenxu Zhao, Tian Xie, Yue Zhang. "**Domain Representation for Knowledge Graph Embedding**". **NLPCC 2019**. CCF C. Cite 1. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-32233-5_16)
 
+- Nasheen Nur, Noseong Park, Kookjin Lee, Hyunjoong Kang, Soonhyeon Kwon. "**Two Problems in Knowledge Graph Embedding: Non-Exclusive Relation Categories and Zero Gradients**". **BigData 2019**. CCF C. Cite 0. [paper](https://ieeexplore.ieee.org/document/9005966)
 
-- Nasheen Nur, Noseong Park, Kookjin Lee, Hyunjoong Kang, Soonhyeon Kwon:
-Two Problems in Knowledge Graph Embedding: Non-Exclusive Relation Categories and Zero Gradients. BigData 2019: 1181-1186. CCF C.
-- Paolo Rosso, Dingqi Yang, Philippe Cudré-Mauroux:
-Revisiting Text and Knowledge Graph Joint Embeddings: The Amount of Shared Information Matters! BigData 2019: 2465-2473. CCF C.
+- Paolo Rosso, Dingqi Yang, Philippe Cudré-Mauroux. "**Revisiting Text and Knowledge Graph Joint Embeddings: The Amount of Shared Information Matters!**".  **BigData 2019**. CCF C. Cite 1. [paper](https://ieeexplore.ieee.org/document/9005462)
 
-- Koki Kishimoto, Katsuhiko Hayashi, Genki Akai, Masashi Shimbo, Kazunori Komatani:
-Binarized Knowledge Graph Embeddings. ECIR (1) 2019: 181-196. CCF C.
-
-- 	Yashen Wang, Huanhuan Zhang, Haiyong Xie:
-A Model of Text-Enhanced Knowledge Graph Representation Learning with Collaborative Attention. ACML 2019: 220-235
-
-- Udit Gupta, Sathish Vadhiyar:
-Fast and Accurate Learning of Knowledge Graph Embeddings at Scale. HiPC 2019: 173-182
-
-- Zikang Wang, Linjing Li, Qiudan Li, Daniel Zeng:
-Multimodal Data Enhanced Representation Learning for Knowledge Graphs. IJCNN 2019: 1-8
-
-
-- Minjie Ding, Weiqin Tong, Xuehai Ding, Xiaoli Zhi, Xiao Wang, Guoqing Zhang:
-Knowledge Graph Embedding by Bias Vectors. ICTAI 2019. CCF C.
-		Zhihao Wang, Xin Li:
-- Hybrid-TE: Hybrid Translation-Based Temporal Knowledge Graph Embedding. ICTAI 2019. CCF C.
-
-- Zhihuan Yan, Rong Peng, Yaqian Wang, Weidong Li:
-Enhance knowledge graph embedding via fake triples. IJCNN 2019: 1-7. CCF C.
-
-- Chunfeng Liu, Yan Zhang, Mei Yu, Xuewei Li, Mankun Zhao, Tianyi Xu, Jian Yu, Ruiguo Yu:
-Text-Enhanced Knowledge Representation Learning Based on Gated Convolutional Networks. ICTAI 2019: 308-315
-
-- Chunfeng Liu, Yan Zhang, Mei Yu, Ruiguo Yu, Xuewei Li, Mankun Zhao, Tianyi Xu, Hongwei Liu, Jian Yu:
-Text-Augmented Knowledge Representation Learning Based on Convolutional Network. ICONIP (1) 2019: 187-198
-
-- Cunxiang Wang, Feiliang Ren, Zhichao Lin, Chenxu Zhao, Tian Xie, Yue Zhang:
-Domain Representation for Knowledge Graph Embedding. NLPCC (1) 2019: 197-210
+- Yashen Wang, Huanhuan Zhang, Haiyong Xie. "**A Model of Text-Enhanced Knowledge Graph Representation Learning with Collaborative Attention**". **ACML 2019**. CCF C. Cite 1. [paper](http://proceedings.mlr.press/v101/wang19d.html)
 
 
 
-- Vassilis N. Ioannidis, Antonio G. Marques, Georgios B. Giannakis:
-A Recurrent Graph Neural Network for Multi-relational Data. ICASSP 2019: 8157-8161
 
-- Xiaotian Jiang, Quan Wang, Bin Wang:
-Adaptive Convolution for Multi-Relational Learning. NAACL-HLT (1) 2019: 978-987
+
+
+
+- Xiaotian Jiang, Quan Wang, Bin Wang. "**Adaptive Convolution for Multi-Relational Learning**". **NAACL-HLT 2019**. CCF C. Cite . [paper]()
 
 - Binling Nie, Shouqian Sun, Dian Yu:
 An End-to-End Structure Aware Graph Convolutional Network for Modeling Multi-relational Data. PRICAI (2) 2019: 296-308
