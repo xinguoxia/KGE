@@ -516,48 +516,42 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 #### Journal
 
-- Weidong Li, Xinyu Zhang, Yaqian Wang, Zhihuan Yan, Rong Peng:
-Graph2Seq: Fusion Embedding Learning for Knowledge Graph Completion. IEEE Access 7: 157960-157971 (2019)
+- **(TKGE)** Binling Nie, Shouqian Sun. "**Knowledge graph embedding via reasoning over entities, relations, and text**". **Future Generation Computer Systems 2019**. **Sci 1**. **Impact 6.125**. Cite 7. [paper](https://www.sciencedirect.com/science/article/pii/S0167739X17321593?via%3Dihub) :fire:
 
-- Wen'an Zhou, Shirui Wang, Chao Jiang:
-Knowledge Graph Embedding With Interactive Guidance From Entity Descriptions. IEEE Access 7: 156686-156693 (2019)
+- **(KEC)** Niannian Guan, Dandan Song, Lejian Liao. "**Knowledge graph embedding with concepts**". **Knowledge-based Systems 2019**. **Sci 2**. **Impact 5.921**. Cite 18. [paper](https://www.sciencedirect.com/science/article/pii/S0950705118304945?via%3Dihub) :fire:
 
-- Yu Zhao, Huali Feng, Patrick Gallinari:
-Embedding Learning with Triple Trustiness on Noisy Knowledge Graph. Entropy 21(11): 1083 (2019)
+- **(ProjFE)** Huajing Liu, Luyi Bai, Xiangnan Ma, Wenting Yu, Changming Xu. "**ProjFE: Prediction of fuzzy entity and relation for knowledge graph completion**". **Applied Soft Computing 2019**. **Sci 2**. **Impact 5.472**. Cite 3. [paper](https://www.sciencedirect.com/science/article/pii/S1568494619302959?via%3Dihub)
 
-- **(TKGE)** Binling Nie, Shouqian Sun. "**Knowledge graph embedding via reasoning over entities, relations, and text**". **Future Generation Computer Systems 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S0167739X17321593?via%3Dihub)
+- Xing Tang, Ling Chen, Jun Cui, Baogang Wei. "**Knowledge representation learning with entity descriptions, hierarchical types, and textual relations**". **Information Processing and Management 2019**. **Sci 2**. **Impact 4.787**. Cite 8. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457318303698?via%3Dihub) :fire:
 
-- Chengchun Shi, Wenbin Lu, Rui Song. "**Determining the Number of Latent Factors in Statistical Multi-Relational Learning**". **Journal of Machine Learning Research 2019**. [paper](http://jmlr.org/papers/v20/18-037.html)
+- **(RPE)** Xixun Lin, Yanchun Liang, Fausto Giunchiglia, Xiaoyue Feng, Renchu Guan. "**Relation path embedding in knowledge graphs**". **Neural Computing and Applications 2019**. **Sci 2**. **Impact 4.774**. Cite 8. [paper](https://link.springer.com/article/10.1007%2Fs00521-018-3384-6) :fire:
 
-- **(KEC)** Niannian Guan, Dandan Song, Lejian Liao. "**Knowledge graph embedding with concepts**". **Knowledge-based Systems 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705118304945?via%3Dihub)
+- Ming He, Xiangkun Du, Bo Wang. "**Representation Learning of Knowledge Graphs via Fine-Grained Relation Description Combinations**". **IEEE Access 2019**. **Sci 2**. **Impact 3.745**. Cite 3. [paper](https://ieeexplore.ieee.org/document/8653283)
 
-- **(ProjFE)** Huajing Liu, Luyi Bai, Xiangnan Ma, Wenting Yu, Changming Xu. "**ProjFE: Prediction of fuzzy entity and relation for knowledge graph completion**". **Applied Soft Computing 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S1568494619302959?via%3Dihub)
+- Jingpei Lei, Dantong Ouyang, Ying Liu. "**Adversarial Knowledge Representation Learning Without External Model**". **IEEE Access 2019**. **Sci 2**. **Impact 3.745**. Cite 1. [paper](https://ieeexplore.ieee.org/document/8599182)
 
-- Xing Tang, Ling Chen, Jun Cui, Baogang Wei:
-Knowledge representation learning with entity descriptions, hierarchical types, and textual relations. Inf. Process. Manag. 56(3): 809-822 (2019)
+- Wen'an Zhou, Shirui Wang, Chao Jiang. "**Knowledge Graph Embedding With Interactive Guidance From Entity Descriptions**". **IEEE Access 2019**. **Sci 2**. **Impact 3.745**. Cite 1. [paper](https://ieeexplore.ieee.org/document/8886597)
 
-- 	Ming He, Xiangkun Du, Bo Wang:
-Representation Learning of Knowledge Graphs via Fine-Grained Relation Description Combinations. IEEE Access 7: 26466-26473 (2019)
+- Weidong Li, Xinyu Zhang, Yaqian Wang, Zhihuan Yan, Rong Peng. "**Graph2Seq: Fusion Embedding Learning for Knowledge Graph Completion**". **IEEE Access 2019**. **Sci 2**. **Impact 3.745**. Cite 1. [paper](https://ieeexplore.ieee.org/document/8886405)
 
-- Xiaojun Kang, Hong Yao, Qingtao Li, Xinchuan Li, Chao Liu, Lijun Dong:
-TDN: An Integrated Representation Learning Model of Knowledge Graphs. IEEE Access 7: 55199-55205 (2019)
-		
-- Jingpei Lei, Dantong Ouyang, Ying Liu:
-Adversarial Knowledge Representation Learning Without External Model. IEEE Access 7: 3512-3524 (2019)
+- Xiaojun Kang, Hong Yao, Qingtao Li, Xinchuan Li, Chao Liu, Lijun Dong. "**TDN: An Integrated Representation Learning Model of Knowledge Graphs**". **IEEE Access 2019**. **Sci 2**. **Impact 3.745**. Cite 0. [paper](https://ieeexplore.ieee.org/document/8698233)
 
-- **(RPE)** Xixun Lin, Yanchun Liang, Fausto Giunchiglia, Xiaoyue Feng, Renchu Guan. "**Relation path embedding in knowledge graphs**". **Neural Computing and Applications 2019**. [paper](https://link.springer.com/article/10.1007%2Fs00521-018-3384-6)
+- Chengchun Shi, Wenbin Lu, Rui Song. "**Determining the Number of Latent Factors in Statistical Multi-Relational Learning**". **Journal of Machine Learning Research 2019**. **Sci 2**. **Impact 3.484**. Cite 2. [paper](http://jmlr.org/papers/v20/18-037.html)
 
-- Qiannan Zhu, Xiaofei Zhou, Peng Zhang, Yong Shi. "**A neural translating general hyperplane for knowledge graph embedding**". **Journal of Computational Science 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S1877750318310172?via%3Dihub)
+- **(ConvKB)** Dai Quoc Nguyen, Dat Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung. "**A convolutional neural network-based model for knowledge base completion and its application to search personalization**". **Semantic Web 2019**. **Sci 3**. **Impact 3.182**. Cite 4. [paper](https://content.iospress.com/articles/semantic-web/sw318)
 
-- Ankur Padia, Konstantinos Kalpakis, Francis Ferraro, Tim Finin. "**Knowledge Graph Fact Prediction via Knowledge-Enriched Tensor Factorization**". **Journal of Web Semantics 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S1570826819300046?via%3Dihub) [code](https://github.com/Ebiquity/KGFP)
+- Qiannan Zhu, Xiaofei Zhou, Peng Zhang, Yong Shi. "**A neural translating general hyperplane for knowledge graph embedding**". **Journal of Computational Science 2019**. **Sci 3**. **Impact 2.644**. Cite 5. [paper](https://www.sciencedirect.com/science/article/pii/S1877750318310172?via%3Dihub)
 
-- <a name="ConT"></a> **(ConT)** Yunpu Ma, Volker Tresp, Erik A. Daxberger. "**Embedding models for episodic knowledge graphs**". **Journal of Web Semantics 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S1570826818300702?via%3Dihub)
+- Yu Zhao, Huali Feng, Patrick Gallinari. "**Embedding Learning with Triple Trustiness on Noisy Knowledge Graph**". **Entropy 2019**.  **Sci 3**. **Impact 2.494**. Cite 1. [paper](https://www.mdpi.com/1099-4300/21/11/1083)
+
+- <a name="ConT"></a> **(ConT)** Yunpu Ma, Volker Tresp, Erik A. Daxberger. "**Embedding models for episodic knowledge graphs**". **Journal of Web Semantics 2019**. **Sci 4**. **Impact 2.238**. Cite 10. [paper](https://www.sciencedirect.com/science/article/pii/S1570826818300702?via%3Dihub) :fire:
+
+- Ankur Padia, Konstantinos Kalpakis, Francis Ferraro, Tim Finin. "**Knowledge Graph Fact Prediction via Knowledge-Enriched Tensor Factorization**". **Journal of Web Semantics 2019**. **Sci 4**. **Impact 2.238**. Cite 5. [paper](https://www.sciencedirect.com/science/article/pii/S1570826819300046?via%3Dihub) [code](https://github.com/Ebiquity/KGFP)
 
 - **(AWML)** Chenchen Guo, Chunhong Zhang, Xiao Han, Yang Ji. "**AWML: adaptive weighted margin learning for knowledge
-graph embedding**". **Journal of Intelligent Information Systems 2019**. [paper](https://link.springer.com/article/10.1007%2Fs10844-018-0535-2)
+graph embedding**". **Journal of Intelligent Information Systems 2019**. **Sci 4**. **Impact 1.813**. Cite 0. [paper](https://link.springer.com/article/10.1007%2Fs10844-018-0535-2)
 
-- Dai Quoc Nguyen, Dat Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung:
-A convolutional neural network-based model for knowledge base completion and its application to search personalization. Semantic Web 10(5): 947-960 (2019)
+
 
 #### Conference
 
