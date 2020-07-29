@@ -633,23 +633,17 @@ A convolutional neural network-based model for knowledge base completion and its
 
 - <a name="OPTransE"></a> **(OPTransE)** Yao Zhu, Hongzhi Liu, Zhonghai Wu, Yang Song and Tao Zhang. "**Representation Learning with Ordered Relation Paths for Knowledge Graph Completion**". **EMNLP/IJCNLP 2019**. CCF B. Cite 0. [paper](https://www.aclweb.org/anthology/D19-1268/)
 
-- Ondrej Kuzelka, Jesse Davis. "**Markov Logic Networks for Knowledge Base Completion: A Theoretical Analysis Under the MCAR Assumption**". **UAI 2019**. CCF B. Cite . [paper]()
+- Ondrej Kuzelka, Jesse Davis. "**Markov Logic Networks for Knowledge Base Completion: A Theoretical Analysis Under the MCAR Assumption**". **UAI 2019**. CCF B. Cite . [paper](http://auai.org/uai2019/proceedings/papers/427.pdf)
 
-- Zhichun Wang, Yong Huang. "**Knowledge Base Completion by Inference from Both Relational and Literal Facts**". **PAKDD  2019**. CCF C. Cite . [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-16142-2_39
+- Changjian Wang, Minghui Yan, Chuanrun Yi, Ying Sha. "**Capturing Semantic and Syntactic Information for Link Prediction in Knowledge Graphs**". **ISWC  2019**. CCF B. Cite . [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30793-6_38)
+
+- Sébastien Ferré. "**Link Prediction in Knowledge Graphs with Concepts of Nearest Neighbours**". **ESWC 2019**. CCF C. Cite . [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-21348-0_6)
+
+- Zhichun Wang, Yong Huang. "**Knowledge Base Completion by Inference from Both Relational and Literal Facts**". **PAKDD  2019**. CCF C. Cite . [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-16142-2_39)
 
 - Jun Yuan, Neng Gao, Ji Xiang, Chenyang Tu, Jingquan Ge. "**Knowledge Graph Embedding with Order Information of Triplets**". **PAKDD 2019**. CCF C. Cite . [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-16142-2_37)
 
-
-
-- Sébastien Ferré. "**Link Prediction in Knowledge Graphs with Concepts of Nearest Neighbours**". **ESWC 2019**. CCF C. Cite . [paper]()
-
-
-
-- 	Changjian Wang, Minghui Yan, Chuanrun Yi, Ying Sha:
-Capturing Semantic and Syntactic Information for Link Prediction in Knowledge Graphs. ISWC (1) 2019: 664-679
-
-- Kairong Hu, Hai Liu, Tianyong Hao:
-A Knowledge Selective Adversarial Network for Link Prediction in Knowledge Graph. NLPCC (1) 2019: 171-183
+- Kairong Hu, Hai Liu, Tianyong Hao. "**A Knowledge Selective Adversarial Network for Link Prediction in Knowledge Graph**". **NLPCC 2019**. CCF C. Cite . [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-32233-5_14)
 
 
 
