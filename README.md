@@ -830,6 +830,9 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. **Sci 4
 
 - Ningning Jia, Xiang Cheng, Sen Su. "**Improving Knowledge Graph Embedding Using Locally and Globally Attentive Relation Paths**". **ECIR 2020**. Cite 0. [paper](https://doi.org/10.1007/978-3-030-45439-5_2)
 
+- Varun Ranganathan, Siddharth Suresh, Yash Mathur, Natarajan Subramanyam, Denilson Barbosa:
+GrCluster: a score function to model hierarchy in knowledge graph embeddings. SAC 2020: 964-971
+
 #### Arxiv
 
 - Yunpu Ma, Yuyi Wang, Volker Tresp. "**Quantum Machine Learning Algorithm for Knowledge Graphs**". **CoRR 2020-01**. Cite 0. [paper](https://arxiv.org/abs/2001.01077)
