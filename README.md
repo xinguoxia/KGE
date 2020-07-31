@@ -132,23 +132,23 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 #### Temporal
 
-| Year | Source           |	Methods                        |
-|:----:|:-------------------:|:-------------------------------:|
-| 2014 | EMNLP         | **[CTPs](#CTPs)**               |
-| 2016 | EMNLP         | **[t-TransE](#t-TransE)**       |
-| 2016 | COLING        | **[TransE-TAE](#TransE-TAE)**   |
-| 2017 | ICML          | **[Know-Evolve](#Know-Evolve)** |
-| 2017 | AAAI          | **[MLNs](#MLNs)**               |
-| 2018 | WWW           | **[TTransE](#TTransE)**         |
-| 2018 | EMNLP         | **[TA-DistMult](#TA-DistMult)** |
-| 2018 | EMNLP         | **[HyTE](#HyTE)**               |
+| Year | Source                   |	Methods                     |
+|:----:|:------------------------:|:-------------------------------:|
+| 2014 | EMNLP                    | **[CTPs](#CTPs)**               |
+| 2016 | EMNLP                    | **[t-TransE](#t-TransE)**       |
+| 2016 | COLING                   | **[TransE-TAE](#TransE-TAE)**   |
+| 2017 | ICML                     | **[Know-Evolve](#Know-Evolve)** |
+| 2017 | AAAI                     | **[MLNs](#MLNs)**               |
+| 2018 | WWW                      | **[TTransE](#TTransE)**         |
+| 2018 | EMNLP                    | **[TA-DistMult](#TA-DistMult)** |
+| 2018 | EMNLP                    | **[HyTE](#HyTE)**               |
 | 2019 | Journal of Web Semantics | **[ConT](#ConT)**               |
-| 2019 | ICLR          | **[DyRep](#DyRep)**             |
-| 2019 | ICTAI         | **[Hybrid-TE](#Hybrid-TE)**     |
-| 2019 | WISE          | **[CAKE](#CAKE)**               |
-| 2020 | IEEE Access   | **[TDG2E](#TDG2E)
-| 2020 | ICLR          | **[TComplEx](#TComplEx)**       |
-| 2020 | AAAI          | **[DE-SimplE](#DE-SimplE)**     |
+| 2019 | ICLR                     | **[DyRep](#DyRep)**             |
+| 2019 | ICTAI                    | **[Hybrid-TE](#Hybrid-TE)**     |
+| 2019 | WISE                     | **[CAKE](#CAKE)**               |
+| 2020 | IEEE Access              | **[TDG2E](#TDG2E)
+| 2020 | ICLR                     | **[TComplEx](#TComplEx)**       |
+| 2020 | AAAI                     | **[DE-SimplE](#DE-SimplE)**     |
 
 #### Hierarchy
 
@@ -792,7 +792,7 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Zhao Zhang, Fuzhen Zhuang, Hengshu Zhu, Zhiping Shi, Hui Xiong, Qing He. "**Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion**". **AAAI 2020**. CCF A. Cite 0. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/6508)
 
-- Sankalp Garg, Navodita Sharma, Woojeong Jin, Xiang Ren. "**Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution**". **IJCAI 2020**. CCF A. Cite 0. [paper](https://www.ijcai.org/Proceedings/2020/386)
+- <a name="DArtNet"></a> **(DArtNet)**  Sankalp Garg, Navodita Sharma, Woojeong Jin, Xiang Ren. "**Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution**". **IJCAI 2020**. CCF A. Cite 0. [paper](https://www.ijcai.org/Proceedings/2020/386)
 
 - Fuxiang Zhang, Xin Wang, Zhao Li, Jianxin Li. "**TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure**". **IJCAI 2020**. CCF A. Cite 0. [paper](https://doi.org/10.24963/ijcai.2020/413)
 
@@ -854,7 +854,7 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Rajarshi Bhowmik, Gerard de Melo. "**A Joint Framework for Inductive Representation Learning and Explainable Reasoning in Knowledge Graphs**". **CoRR 2020-05**. Cite 0. [paper](https://arxiv.org/abs/2005.00637)
 
-- Prachi Jain, Sushant Rathi, Mausam, Soumen Chakrabarti. "**Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols**". **CoRR 2020-05**. Cite 0. [paper](https://arxiv.org/abs/2005.05035)
+- <a name="TIMEPLEX"></a> **(TIMEPLEX)** Prachi Jain, Sushant Rathi, Mausam, Soumen Chakrabarti. "**Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols**". **CoRR 2020-05**. Cite 0. [paper](https://arxiv.org/abs/2005.05035)
 
 - Asan Agibetov, Matthias Samwald. "**Benchmarking neural embeddings for link prediction in knowledge graphs under semantic and structural changes**". **CoRR 2020-05**. Cite 0. [paper](https://arxiv.org/abs/2005.07654)
 
