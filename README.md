@@ -145,11 +145,13 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2019 | Journal of Web Semantics | **[ConT](#ConT)**               |
 | 2019 | ICLR                     | **[DyRep](#DyRep)**             |
 | 2019 | ICTAI                    | **[Hybrid-TE](#Hybrid-TE)**     |
-| 2019 | WISE                     | **[CAKE](#CAKE)**               |
-| 2020 | IEEE Access              | **[TDG2E](#TDG2E)
+| 2019 | WISE                     | **[CATE](#CATE)**               |
+| 2020 | IEEE Access              | **[TDG2E](#TDG2E)**             |
 | 2020 | ICLR                     | **[TComplEx](#TComplEx)**       |
 | 2020 | AAAI                     | **[DE-SimplE](#DE-SimplE)**     |
-
+| 2020 | IJCAI                    | **[DArtNet](#DArtNet)**         |
+| 2020 | CoRR                     | **[TIMEPLEX](#TIMEPLEX)**       |
+ 
 #### Hierarchy
 
 | Year | Source        |	Methods                        |
