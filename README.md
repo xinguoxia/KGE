@@ -132,8 +132,8 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 #### Temporal
 
-| Year | Source        |	Methods                        |
-|:----:|:-------------:|:-------------------------------:|
+| Year | Source           |	Methods                        |
+|:----:|:-------------------:|:-------------------------------:|
 | 2014 | EMNLP         | **[CTPs](#CTPs)**               |
 | 2016 | EMNLP         | **[t-TransE](#t-TransE)**       |
 | 2016 | COLING        | **[TransE-TAE](#TransE-TAE)**   |
@@ -142,9 +142,11 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2018 | WWW           | **[TTransE](#TTransE)**         |
 | 2018 | EMNLP         | **[TA-DistMult](#TA-DistMult)** |
 | 2018 | EMNLP         | **[HyTE](#HyTE)**               |
-| 2019 | J. Web Semant | **[ConT](#ConT)**               |
+| 2019 | Journal of Web Semantics | **[ConT](#ConT)**               |
 | 2019 | ICLR          | **[DyRep](#DyRep)**             |
 | 2019 | ICTAI         | **[Hybrid-TE](#Hybrid-TE)**     |
+| 2019 | WISE          | **[CAKE](#CAKE)**               |
+| 2020 | IEEE Access   | **[TDG2E](#TDG2E)
 | 2020 | ICLR          | **[TComplEx](#TComplEx)**       |
 | 2020 | AAAI          | **[DE-SimplE](#DE-SimplE)**     |
 
@@ -549,10 +551,7 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Ankur Padia, Konstantinos Kalpakis, Francis Ferraro, Tim Finin. "**Knowledge Graph Fact Prediction via Knowledge-Enriched Tensor Factorization**". **Journal of Web Semantics 2019**. **Sci 4**. **Impact 2.238**. Cite 5. [paper](https://www.sciencedirect.com/science/article/pii/S1570826819300046?via%3Dihub) [code](https://github.com/Ebiquity/KGFP)
 
-- **(AWML)** Chenchen Guo, Chunhong Zhang, Xiao Han, Yang Ji. "**AWML: adaptive weighted margin learning for knowledge
-graph embedding**". **Journal of Intelligent Information Systems 2019**. **Sci 4**. **Impact 1.813**. Cite 0. [paper](https://link.springer.com/article/10.1007%2Fs10844-018-0535-2)
-
-
+- **(AWML)** Chenchen Guo, Chunhong Zhang, Xiao Han, Yang Ji. "**AWML: adaptive weighted margin learning for knowledge graph embedding**". **Journal of Intelligent Information Systems 2019**. **Sci 4**. **Impact 1.813**. Cite 0. [paper](https://link.springer.com/article/10.1007%2Fs10844-018-0535-2)
 
 #### Conference
 
@@ -679,7 +678,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. **Sci 4
 
 - <a name="CrossE"></a> **(CrossE)** Wen Zhang, Bibek Paudel, Wei Zhang, Abraham Bernstein, Huajun Chen. "**Interaction Embeddings for Prediction and Explanation in Knowledge Graphs**". **WSDM 2019**. CCF C. Cite 27. [paper](https://dl.acm.org/doi/10.1145/3289600.3291014) [code](https://github.com/wencolani/CrossE) :fire:
 
-- Yu Liu, Wen Hua, Kexuan Xin, Xiaofang Zhou. "**Context-Aware Temporal Knowledge Graph Embedding**. **WISE 2019**. CCF C. Cite 2. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-34223-4_37)
+- <a name="CATE"></a> **(CATE)** Yu Liu, Wen Hua, Kexuan Xin, Xiaofang Zhou. "**Context-Aware Temporal Knowledge Graph Embedding**. **WISE 2019**. CCF C. Cite 2. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-34223-4_37)
 
 - Ji Zhang, Leonard Tan, Xiaohui Tao, Dianwei Wang, Josh Jia-Ching Ying, Xin Wang. "**Learning Relational Fractals for Deep Knowledge Graph Embedding in Online Social Networks**". **WISE 2019**. CCF C. Cite 0. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-34223-4_42)
 
@@ -727,7 +726,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. **Sci 4
  
 - Yashen Wang , Huanhuan Zhang, Ge Shi , Zhirun Liu, Qiang Zhou. "**A Model of Text-Enhanced Knowledge Graph Representation Learning With Mutual Attention**. **IEEE Access 2020**. **Sci 2**. **Impact 3.745**. Cite 1. [paper](https://doi.org/10.1109/ACCESS.2020.2981212)
 
-- Xiaoli Tang, Rui Yuan, Qianyu Li, Tengyun Wang, Haizhi Yang, Yundong Cai, Hengjie Song. "**Timespan-Aware Dynamic Knowledge Graph Embedding by Incorporating Temporal Evolution**". **IEEE Access 2020**. **Sci 2**. **Impact 3.745**.  Cite 0. [paper](https://ieeexplore.ieee.org/document/8950081)
+- <a name="TDG2E"></a> **(TDG2E)** Xiaoli Tang, Rui Yuan, Qianyu Li, Tengyun Wang, Haizhi Yang, Yundong Cai, Hengjie Song. "**Timespan-Aware Dynamic Knowledge Graph Embedding by Incorporating Temporal Evolution**". **IEEE Access 2020**. **Sci 2**. **Impact 3.745**.  Cite 0. [paper](https://ieeexplore.ieee.org/document/8950081)
 
 - Seungmin Seo, Byungkook Oh, Kyong-Ho Lee. "**Reliable Knowledge Graph Path Representation Learning**". **IEEE Access 2020**. **Sci 2**. **Impact 3.745**. **Cite 0**. [paper](https://doi.org/10.1109/ACCESS.2020.2973923)
 
