@@ -142,8 +142,9 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2018 | WWW           | **[TTransE](#TTransE)**         |
 | 2018 | EMNLP         | **[TA-DistMult](#TA-DistMult)** |
 | 2018 | EMNLP         | **[HyTE](#HyTE)**               |
-| 2019 | ICLR          | **[DyRep](#DyRep)**             |
 | 2019 | J. Web Semant | **[ConT](#ConT)**               |
+| 2019 | ICLR          | **[DyRep](#DyRep)**             |
+| 2019 | ICTAI         | **[Hybrid-TE](#Hybrid-TE)**     |
 | 2020 | ICLR          | **[TComplEx](#TComplEx)**       |
 | 2020 | AAAI          | **[DE-SimplE](#DE-SimplE)**     |
 
@@ -670,7 +671,7 @@ graph embedding**". **Journal of Intelligent Information Systems 2019**. **Sci 4
 
 - Zhihuan Yan, Rong Peng, Yaqian Wang, Weidong Li. "**Enhance knowledge graph embedding via fake triples**". **IJCNN 2019**. CCF C. Cite 0. [paper](https://ieeexplore.ieee.org/document/8852374)
 
-- Zhihao Wang, Xin Li. "**Hybrid-TE: Hybrid Translation-Based Temporal Knowledge Graph Embedding**". **ICTAI 2019**. CCF C. Cite 0. [paper](https://ieeexplore.ieee.org/document/8995306)
+- <a name="Hybrid-TE"></a> **(Hybrid-TE)** Zhihao Wang, Xin Li. "**Hybrid-TE: Hybrid Translation-Based Temporal Knowledge Graph Embedding**". **ICTAI 2019**. CCF C. Cite 0. [paper](https://ieeexplore.ieee.org/document/8995306)
 
 - Minjie Ding, Weiqin Tong, Xuehai Ding, Xiaoli Zhi, Xiao Wang, Guoqing Zhang. "**Knowledge Graph Embedding by Bias Vectors**". **ICTAI 2019**. CCF C. Cite 0. [paper](https://ieeexplore.ieee.org/document/8995354)
 
