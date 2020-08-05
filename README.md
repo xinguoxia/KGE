@@ -1,5 +1,5 @@
 # KGE
-Some papers on Knowledge Graph Embedding(KGE), Knowledge Representation Learning(KRL), Knowledge Base Completion(KBC), Knowledge Base Base(KBS), Link Prediction(LP).
+Some papers on Knowledge Graph Embedding(KGE)
 
 ## Contents
 
