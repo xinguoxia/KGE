@@ -997,6 +997,8 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 |:----:|:------:|:----------:|:---:|:-----:|:------:|:------:|:-------:|
 | 2018 | EMNLP | **[TA-DistMult](#TA-DistMult)<sup>[DE-SinplE](#DE-SimplE)</sup>** | - | 0.206 | 0.124 | 0.219 | 0.365 |
 | 2018 | EMNLP  | **[HyTE](#HyTE)<sup>[DE-SinplE](#DE-SimplE)</sup>** | - | 0.118 | 0.0 | 0.165 | 0.326 |
+| 2020 | AAAI | **[DE-TransE](#DE-SimplE)** | - | 0.126 | 0.0 | 0.181 | 0.350 |
+| 2020 | AAAI | **[DE-DistMult](#DE-SimplE)** | - | 0.213 | 0.130 | 0.228 | 0.376 |
 | 2020 | AAAI | **[DE-SimplE](#DE-SimplE)** | - | 0.230 | 0.141 | 0.248 | 0.403 |
 
 #### ICEWS14
