@@ -1005,7 +1005,9 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 |:----:|:------:|:-----------:|:---:|:-----:|:------:|:------:|:-------:|
 | 2018 | EMNLP  | **[TA-DistMult](#TA-DistMult)** | 276 | 0.477 | 0.363  | -      | 0.686   |
 | 2018 | EMNLP  | **[HyTE](#HyTE)<sup>[DE-SinplE](#DE-SimplE)</sup>** | - | 0.297 | 0.108 | 0.416 | 0.655 |
-| 2020 | AAAI   | **[DE-SimplE](#DE-SimplE)**    | -   | 0.526 | 0.418  | 0.592  | 0.725   |
+| 2020 | AAAI   | **[DE-TransE](#DE-SimplE)** | - | 0.326 | 0.124 | 0.467 | 0.686 |
+| 2020 | AAAI   | **[DE-DistMult](#DE-SimplE)** | - | 0.501 | 0.392 | 0.569 | 0.708 |
+| 2020 | AAAI   | **[DE-SimplE](#DE-SimplE)** | - | 0.526 | 0.418 | 0.592 | 0.725 |
 | 2020 | ICLR   | **[TNTComplEx](#TNTComplEx)**  | -   | 0.56  | 0.46   | 0.61   | 0.74    |
 
 #### ICEWS15-05
@@ -1014,7 +1016,9 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 |:----:|:------:|:----------:|:---:|:-----:|:------:|:------:|:-------:|
 | 2018 | EMNLP  | **[TA-DistMult](#TA-DistMult)** | 98 | 0.474 | 0.346  | - | 0.728 |
 | 2018 | EMNLP  | **[HyTE](#HyTE)<sup>[DE-SinplE](#DE-SimplE)</sup>** | - | 0.316 | 0.116 | 0.445 | 0.681 |
-| 2020 | AAAI   | **[DE-SimplE](#DE-SimplE)**   | -   | 0.513 | 0.392  | 0.578  | 0.748   |
+| 2020 | AAAI   | **[DE-TransE](#DE-SimplE)** | - | 0.314 | 0.108 | 0.453 | 0.685 |
+| 2020 | AAAI   | **[DE-DistMult](#DE-SimplE)** | - | 0.484 | 0.366 | 0.546 | 0.718 |
+| 2020 | AAAI   | **[DE-SimplE](#DE-SimplE)** | - | 0.513 | 0.392 | 0.578 | 0.748 |
 | 2020 | ICLR   | **[TNTComplEx](#TNTComplEx)** | -   | 0.60  | 0.50   | 0.65   | 0.78    |
 
 #### YAGO15K
