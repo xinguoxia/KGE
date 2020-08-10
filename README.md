@@ -256,6 +256,22 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2019 | ICLR          | **[RotatE](#RotatE)**           |
 | 2020 | AAAI          | **[HAKE](#HAKE)**               |
 
+#### Graph Networks
+
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2018 | ESWC | **[R-GCN](#R-GCN)** |
+| 2019 | AAAI | **[SACN](#SACN)** |
+| 2019 | IJCAI | **[VR-GCN](#VR-GCN)** |
+| 2019 | ICASSP | **[GRNN](#GRNN)** |
+| 2019 | PRICAI | **[SAGCN](#SAGCN)** |
+| 2019 | K-CAP | **[TransGCN](#TransGCN)** |
+| 2019 | IEEE Access | **[GAATs](#GAATs)** |
+| 2020 | ICLR | **[CompGCN](#SAGCN)** |
+| 2020 | ICLR | **[DPMPN](#DPMPN)** |
+| 2020 | AAAI | **[RGHAT](#RGHAT)** |
+| 2020 | CoRR | **[TGCN](#TGCN)** |
+
 ## Papers
 
 ### Survey
