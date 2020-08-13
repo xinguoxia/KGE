@@ -810,7 +810,7 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Zhao Zhang, Fuzhen Zhuang, Hengshu Zhu, Zhiping Shi, Hui Xiong, Qing He. "**Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion**". **AAAI 2020**. CCF A. Cite 0. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/6508)
 
-- <a name="DArtNet"></a> **(DArtNet)**  Sankalp Garg, Navodita Sharma, Woojeong Jin, Xiang Ren. "**Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution**". **IJCAI 2020**. CCF A. Cite 0. [paper](https://www.ijcai.org/Proceedings/2020/386)
+- <a name="DArtNet"></a> **(DArtNet)**  Sankalp Garg, Navodita Sharma, Woojeong Jin, Xiang Ren. "**Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution**". **IJCAI 2020**. CCF A. Cite 0. [paper](https://www.ijcai.org/Proceedings/2020/386) [code](https://github.com/INK-USC/DArtNet)
 
 - Fuxiang Zhang, Xin Wang, Zhao Li, Jianxin Li. "**TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure**". **IJCAI 2020**. CCF A. Cite 0. [paper](https://doi.org/10.24963/ijcai.2020/413)
 
