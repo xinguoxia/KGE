@@ -244,7 +244,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2019 | ICASSP | **[GRNN](#GRNN)** |
 | 2019 | PRICAI | **[SAGCN](#SAGCN)** |
 | 2019 | K-CAP | **[TransGCN](#TransGCN)** |
-| 2019 | IEEE Access | **[GAATs](#GAATs)** |
+| 2020 | IEEE Access | **[GAATs](#GAATs)** |
 | 2020 | ICLR | **[CompGCN](#SAGCN)** |
 | 2020 | ICLR | **[DPMPN](#DPMPN)** |
 | 2020 | AAAI | **[RGHAT](#RGHAT)** |
