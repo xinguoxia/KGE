@@ -774,7 +774,7 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Pedro Tabacof, Luca Costabello. "**Probability Calibration for Knowledge Graph Embedding Models**". **ICLR 2020**. Cite 3. [paper](https://openreview.net/forum?id=S1g8K1BFwS)
 
-- Bahare Fatemi, Perouz Taslakian, David Vazquez, David Poole. "**Knowledge Hypergraphs: Prediction Beyond Binary Relations**". **ICLR 2020**. Cite 1. [paper](https://openreview.net/forum?id=ryxIZR4tvS) 
+- **(HypE)** Bahare Fatemi, Perouz Taslakian, David Vazquez, David Poole. "**Knowledge Hypergraphs: Prediction Beyond Binary Relations**". **ICLR 2020**. Cite 1. [paper](https://openreview.net/forum?id=ryxIZR4tvS) 
 
 - <a name="ReifKB"></a> **(ReifKB)**  William W. Cohen, Haitian Sun, R. Alex Hofer, Matthew Siegler. "**Scalable Neural Methods for Reasoning With a Symbolic Knowledge Base**". **ICLR 2020**. Cite 1. [paper](https://openreview.net/forum?id=BJlguT4YPr)  
 
