@@ -870,7 +870,9 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Giorgos Stoilos , Damir Juric, Szymon Wartak, Claudia Schulz , Mohammad Khodadadi. "**Hybrid Reasoning Over Large Knowledge Bases Using On-The-Fly Knowledge Extraction**". **ESWC 2020**. CCF C. Cite 0.[paper](https://doi.org/10.1007/978-3-030-49461-2_5)
 
-- Ningning Jia, Xiang Cheng, Sen Su. "**Improving Knowledge Graph Embedding Using Locally and Globally Attentive Relation Paths**". **ECIR 2020**. CCF C.  Cite 0. [paper](https://doi.org/10.1007/978-3-030-45439-5_2)
+- Ningning Jia, Xiang Cheng, Sen Su. "**Improving Knowledge Graph Embedding Using Locally and Globally Attentive Relation Paths**". **ECIR 2020**. CCF C. Cite 0. [paper](https://doi.org/10.1007/978-3-030-45439-5_2)
+
+- Chunyang Tan, Kaijia Yang, Xinyu Dai, Shujian Huang, Jiajun Chen. "**MSGE: A Multi-step Gated Model for Knowledge Graph Completion**". **PAKDD 2020**. CCF C. Cite . [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-47426-3_33)
 
 - Varun Ranganathan, Siddharth Suresh, Yash Mathur, Natarajan Subramanyam, Denilson Barbosa. "**GrCluster: a score function to model hierarchy in knowledge graph embeddings**". **SAC 2020**. CCF C. Cite 0. [paper](https://dl.acm.org/doi/10.1145/3341105.3373978)
 
