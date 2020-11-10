@@ -728,31 +728,31 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 #### Journal
 
-- Yongming Han, GuoFei Chen, Zhongkun Li, Zhiqiang Geng, Fang Li, Bo Ma. "**An asymmetric knowledge representation learning in manifold space**". **Information Sciences 2020**. **Sci 1**. **Impact 5.910**. Cite 0. [paper](https://doi.org/10.1016/j.ins.2020.04.036)
+- Yongming Han, GuoFei Chen, Zhongkun Li, Zhiqiang Geng, Fang Li, Bo Ma. "**An asymmetric knowledge representation learning in manifold space**". **Information Sciences 2020**. **Sci 1**. **Impact 5.910**. Cite 1. [paper](https://doi.org/10.1016/j.ins.2020.04.036)
 
-- Yuanfei Dai, Shiping Wang, Xing Chen, Chaoyang Xu, Wenzhong Guo. "**Generative adversarial networks based on Wasserstein distance for knowledge graph embeddings**". **Knowledge Based Systems 2020**. **Sci 2**. **Impact 5.921**. Cite 2. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705119305143?via%3Dihub)
+- Yuanfei Dai, Shiping Wang, Xing Chen, Chaoyang Xu, Wenzhong Guo. "**Generative adversarial networks based on Wasserstein distance for knowledge graph embeddings**". **Knowledge Based Systems 2020**. **Sci 2**. **Impact 5.921**. Cite 3. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705119305143?via%3Dihub)
 
 - Chen Li, Xutan Peng, Shanghang Zhang, Hao Peng, Philip S. Yu, Min He, Linfeng Du, Lihong Wang. "**Modeling relation paths for knowledge base completion via joint adversarial training"**. **Knowledge Based Systems 2020**. **Sci 2**. **Impact 5.921**. Cite 0. [paper](https://doi.org/10.1016/j.knosys.2020.105865)
 
-- Qi Wang, Yongsheng Hao, Jie Cao. "**ADRL: An attention-based deep reinforcement learning framework for knowledge graph reasoning**". **Knowledge Based Systems 2020**. **Sci 2**. **Impact 5.921**. Cite 0. [paper](https://doi.org/10.1016/j.knosys.2020.105910)
+- Qi Wang, Yongsheng Hao, Jie Cao. "**ADRL: An attention-based deep reinforcement learning framework for knowledge graph reasoning**". **Knowledge Based Systems 2020**. **Sci 2**. **Impact 5.921**. Cite 1. [paper](https://doi.org/10.1016/j.knosys.2020.105910)
 
-- Batselem Jagvaral, Wan-Kon Lee, Jae-Seung Roh, Min-Sung Kim, Young-Tack Park. "**Path-based reasoning approach for knowledge graph completion using CNN-BiLSTM with attention mechanism**". **Expert Systems with Applications 2020**. **Sci 2**. **Impact 5.452**. Cite 1. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417419306785?via%3Dihub)
+- Batselem Jagvaral, Wan-Kon Lee, Jae-Seung Roh, Min-Sung Kim, Young-Tack Park. "**Path-based reasoning approach for knowledge graph completion using CNN-BiLSTM with attention mechanism**". **Expert Systems with Applications 2020**. **Sci 2**. **Impact 5.452**. Cite 3. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417419306785?via%3Dihub)
 
-- Kai Lei, Jin Zhang, Yuexiang Xie, Desi Wen, Daoyuan Chen, Min Yang, Ying Shen. "**Path-based reasoning with constrained type attention for knowledge graph completion**". **Neural Computing and Applications 2020**. **Sci 2**. **Impact 4.774**. Cite 2. [paper](https://link.springer.com/article/10.1007%2Fs00521-019-04181-1)
+- Kai Lei, Jin Zhang, Yuexiang Xie, Desi Wen, Daoyuan Chen, Min Yang, Ying Shen. "**Path-based reasoning with constrained type attention for knowledge graph completion**". **Neural Computing and Applications 2020**. **Sci 2**. **Impact 4.774**. Cite 4. [paper](https://link.springer.com/article/10.1007%2Fs00521-019-04181-1)
 
-- Rui Wang , Bicheng Li , Shengwei Hu , Wenqian Du , Min Zhang. "**Knowledge Graph Embedding via Graph Attenuated Attention Networks**". **IEEE Access 2020**. **Sci 2**. **Impact 3.745**. Cite 2. [paper](https://doi.org/10.1109/ACCESS.2019.2963367)
+- Rui Wang , Bicheng Li , Shengwei Hu , Wenqian Du , Min Zhang. "**Knowledge Graph Embedding via Graph Attenuated Attention Networks**". **IEEE Access 2020**. **Sci 2**. **Impact 3.745**. Cite 6. [paper](https://doi.org/10.1109/ACCESS.2019.2963367)
  
-- Yashen Wang , Huanhuan Zhang, Ge Shi , Zhirun Liu, Qiang Zhou. "**A Model of Text-Enhanced Knowledge Graph Representation Learning With Mutual Attention**. **IEEE Access 2020**. **Sci 2**. **Impact 3.745**. Cite 1. [paper](https://doi.org/10.1109/ACCESS.2020.2981212)
+- Yashen Wang , Huanhuan Zhang, Ge Shi , Zhirun Liu, Qiang Zhou. "**A Model of Text-Enhanced Knowledge Graph Representation Learning With Mutual Attention**". **IEEE Access 2020**. **Sci 2**. **Impact 3.745**. Cite 1. [paper](https://doi.org/10.1109/ACCESS.2020.2981212)
 
-- <a name="TDG2E"></a> **(TDG2E)** Xiaoli Tang, Rui Yuan, Qianyu Li, Tengyun Wang, Haizhi Yang, Yundong Cai, Hengjie Song. "**Timespan-Aware Dynamic Knowledge Graph Embedding by Incorporating Temporal Evolution**". **IEEE Access 2020**. **Sci 2**. **Impact 3.745**.  Cite 0. [paper](https://ieeexplore.ieee.org/document/8950081)
+- <a name="TDG2E"></a> **(TDG2E)** Xiaoli Tang, Rui Yuan, Qianyu Li, Tengyun Wang, Haizhi Yang, Yundong Cai, Hengjie Song. "**Timespan-Aware Dynamic Knowledge Graph Embedding by Incorporating Temporal Evolution**". **IEEE Access 2020**. **Sci 2**. **Impact 3.745**. Cite 1. [paper](https://ieeexplore.ieee.org/document/8950081)
 
 - Seungmin Seo, Byungkook Oh, Kyong-Ho Lee. "**Reliable Knowledge Graph Path Representation Learning**". **IEEE Access 2020**. **Sci 2**. **Impact 3.745**. **Cite 0**. [paper](https://doi.org/10.1109/ACCESS.2020.2973923)
 
-- Zhongwei Zhang, Lei Cao, Xiliang Chen, Wei Tang, Zhixiong Xu, Yangyang Meng. "**Representation Learning of Knowledge Graphs With Entity Attributes**". **IEEE Access 2020**. **Sci 2**. **Impact 3.745**. Cite 0. [paper](https://doi.org/10.1109/ACCESS.2020.2963990)
+- Zhongwei Zhang, Lei Cao, Xiliang Chen, Wei Tang, Zhixiong Xu, Yangyang Meng. "**Representation Learning of Knowledge Graphs With Entity Attributes**". **IEEE Access 2020**. **Sci 2**. **Impact 3.745**. Cite 3. [paper](https://doi.org/10.1109/ACCESS.2020.2963990)
 
 - Takuma Ebisu , Ryutaro Ichise. "**Generalized Translation-Based Embedding of Knowledge Graph**". **IEEE Transactions on Knowledge and Data Engineering 2020**. **Sci 3**. **Impact 4.935**. Cite 5. [paper](https://doi.org/10.1109/TKDE.2019.2893920) :fire:
 
-- Qi Wang , Yongsheng Hao. "**ALSTM: An attention-based long short-term memory framework for knowledge base reasoning**". **Neurocomputing 2020**. **Sci 3**. **Impact 4.438**. Cite 0. [paper](https://doi.org/10.1016/j.neucom.2020.02.065)
+- Qi Wang , Yongsheng Hao. "**ALSTM: An attention-based long short-term memory framework for knowledge base reasoning**". **Neurocomputing 2020**. **Sci 3**. **Impact 4.438**. Cite 3. [paper](https://doi.org/10.1016/j.neucom.2020.02.065)
 
 - Feng Zhao, Haoran Sun, Langjunqing Jin, Hai Jin. "**Structure-augmented knowledge graph embedding for sparse data with rule learning**". **Computer Communications 2020**. **Sci 3**. **Impact 2.816**. Cite 1. [paper](https://doi.org/10.1016/j.comcom.2020.05.017)
 
