@@ -840,6 +840,8 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Unmesh Joshi, Jacopo Urbani. "**Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning**". **WWW 2020**. CCF A. Cite 0. [paper](https://doi.org/10.1145/3366423.3380043)
 
+- Aisha Mohamed, Shameem Puthiya Parambath, Zoi Kaoudi, Ashraf Aboulnaga. "**Popularity Agnostic Evaluation of Knowledge Graph Embeddings**". **UAI 2020**. CCF B. Cite . [paper](http://www.auai.org/uai2020/proceedings/440_main_paper.pdf)
+
 - Iti Bansal, Sudhanshu Tiwari, Carlos R. Rivero. "**The Impact of Negative Triple Generation Strategies and Anomalies on Knowledge Graph Completion**". **CIKM 2020**. CCF B. Cite . [paper](https://dl.acm.org/doi/10.1145/3340531.3412023)
 
 - Chang Gao, Chengjie Sun, Lili Shan, Lei Lin, Mingjiang Wang. "**Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Knowledge Graph Embedding**". **CIKM 2020**. CCF B. Cite . [paper](https://dl.acm.org/doi/10.1145/3340531.3411889)
