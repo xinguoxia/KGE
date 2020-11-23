@@ -222,6 +222,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 | 2019 | EMNLP         | **[TCVAE](#TCVAE)**             |
 | 2019 | EMNLP         | **[Meta-KGR](#Meta-KGR)**       |
 | 2020 | AAAI          | **[FSRL](#FSRL)**               |
+| 2020 | NeurIPS       | **[GEN](#GEN)**               |
 
 #### Hyper Planes
 
@@ -876,6 +877,8 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Varun Ranganathan, Siddharth Suresh, Yash Mathur, Natarajan Subramanyam, Denilson Barbosa. "**GrCluster: a score function to model hierarchy in knowledge graph embeddings**". **SAC 2020**. CCF C. Cite 0. [paper](https://dl.acm.org/doi/10.1145/3341105.3373978)
 
+- <a name="GEN"></a> **(GEN)** Jinheon Baek, Dong Bok Lee, Sung Ju Hwang. "**Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction**". **NeurIPS 2020**. Cite 1. [paper](https://papers.nips.cc/paper/2020/file/0663a4ddceacb40b095eda264a85f15c-Paper.pdf)
+
 #### Arxiv
 
 - Yunpu Ma, Yuyi Wang, Volker Tresp. "**Quantum Machine Learning Algorithm for Knowledge Graphs**". **CoRR 2020-01**. Cite 0. [paper](https://arxiv.org/abs/2001.01077)
@@ -897,8 +900,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 - <a name="TIMEPLEX"></a> **(TIMEPLEX)** Prachi Jain, Sushant Rathi, Mausam, Soumen Chakrabarti. "**Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols**". **CoRR 2020-05**. Cite 0. [paper](https://arxiv.org/abs/2005.05035)
 
 - Asan Agibetov, Matthias Samwald. "**Benchmarking neural embeddings for link prediction in knowledge graphs under semantic and structural changes**". **CoRR 2020-05**. Cite 0. [paper](https://arxiv.org/abs/2005.07654)
-
-- Jinheon Baek, Dong Bok Lee, Sung Ju Hwang. "**Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction**". **CoRR 2020-06**. Ciye 0. [paper](https://arxiv.org/abs/2006.06648)
 
 - Rajarshi Das, Ameya Godbole, Shehzaad Dhuliawala, Manzil Zaheer, Andrew McCallum. "**A Simple Approach to Case-Based Reasoning in Knowledge Bases**". **CoRR 2020-06**. Cite 0. [paper](https://arxiv.org/abs/2006.14198)
 		
