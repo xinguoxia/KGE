@@ -491,28 +491,23 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 #### Journal
 
-- Huan Gao, Jun Shi, Guilin Qi, Meng Wang. "**Triple Context-Based Knowledge Graph Embedding**". **IEEE Access 2018**. **Sci 2**. **Impact 3.745**. Cite . [paper](https://ieeexplore.ieee.org/document/8490812/)
+- **(PaSKoGE)** Yantao Jia, Yuanzhuo Wang, Xiaolong Jin, Xueqi Cheng. "**Path-specific knowledge graph embedding**". **Knowledge-based Systems 2018**. **Sci 2**. **Impact 5.921**. Cite 10. [paper](https://www.sciencedirect.com/science/article/pii/S0950705118301448?via%3Dihub)
 
-- Xiao Han, Chunhong Zhang, Tingting Sun, Yang Ji, Zheng Hu. "**A Triple-Branch Neural Network for Knowledge Graph Embedding**". **IEEE Access 2018**. **Sci 2**. **Impact 3.745**. Cite . [paper](https://ieeexplore.ieee.org/document/8552355)
+- Lirong He, Bin Liu, Guangxi Li, Yongpan Sheng, Yafang Wang, Zenglin Xu. "**Knowledge Base Completion by Variational Bayesian Neural Tensor Decomposition**". **Cognitive Computation 2018**. **Sci 2**. **Impact 4.287**. Cite 16. [paper](https://link.springer.com/article/10.1007%2Fs12559-018-9565-x)
 
-- Hyun-Je Song, Seong-Bae Park. "**Enriching Translation-Based Knowledge Graph Embeddings Through Continual Learning**". **IEEE Access 2018**. **Sci 2**. **Impact 3.745**. Cite . [paper](https://ieeexplore.ieee.org/document/8486959)
+- Zhen Tan, Xiang Zhao, Yang Fang, Weidong Xiao. "**GTrans: Generic Knowledge Graph Embedding via Multi-State Entities and Dynamic Relation Spaces**". **IEEE Access 2018**. **Sci 2**. **Impact 3.745**. Cite 12. [paper](https://ieeexplore.ieee.org/document/8269287)
 
-- Zhen Tan, Xiang Zhao, Yang Fang, Weidong Xiao. "**GTrans: Generic Knowledge Graph Embedding via Multi-State Entities and Dynamic Relation Spaces**". **IEEE Access 2018**. **Sci 2**. **Impact 3.745**. Cite . [paper](https://ieeexplore.ieee.org/document/8269287)
+- Huan Gao, Jun Shi, Guilin Qi, Meng Wang. "**Triple Context-Based Knowledge Graph Embedding**". **IEEE Access 2018**. **Sci 2**. **Impact 3.745**. Cite 8. [paper](https://ieeexplore.ieee.org/document/8490812/)
 
-- Jizhao Zhu, Yantao Jia, Jun Xu, Jianzhong Qiao, Xueqi Cheng. "**Modeling the Correlations of Relations for Knowledge Graph Embedding**. **Journal of Computer Science and Technology 2018**. **Sci 3**. **Impact 1.506**. Cite . [paper](https://link.springer.com/article/10.1007/s11390-018-1821-8)
+- Hyun-Je Song, Seong-Bae Park. "**Enriching Translation-Based Knowledge Graph Embeddings Through Continual Learning**". **IEEE Access 2018**. **Sci 2**. **Impact 3.745**. Cite 2. [paper](https://ieeexplore.ieee.org/document/8486959)
 
-- Zhen Tan, Xiang Zhao, Yang Fang, Bin Ge, Weidong Xiao:
-Knowledge Graph Representation via Similarity-Based Embedding. Sci. Program. 2018: 6325635:1-6325635:12 (2018)
+- Xiao Han, Chunhong Zhang, Tingting Sun, Yang Ji, Zheng Hu. "**A Triple-Branch Neural Network for Knowledge Graph Embedding**". **IEEE Access 2018**. **Sci 2**. **Impact 3.745**. Cite 1. [paper](https://ieeexplore.ieee.org/document/8552355)
 
-- **(PaSKoGE)** Yantao Jia, Yuanzhuo Wang, Xiaolong Jin, Xueqi Cheng. "**Path-specific knowledge graph embedding**". **Knowledge-based Systems 2018**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705118301448?via%3Dihub)
+- Jizhao Zhu, Yantao Jia, Jun Xu, Jianzhong Qiao, Xueqi Cheng. "**Modeling the Correlations of Relations for Knowledge Graph Embedding**. **Journal of Computer Science and Technology 2018**. **Sci 3**. **Impact 1.506**. Cite 8. [paper](https://link.springer.com/article/10.1007/s11390-018-1821-8)
 
-- Lirong He, Bin Liu, Guangxi Li, Yongpan Sheng, Yafang Wang, Zenglin Xu. "**Knowledge Base Completion by Variational Bayesian Neural Tensor Decomposition**". **Cognitive Computation 2018**. [paper](https://link.springer.com/article/10.1007%2Fs12559-018-9565-x)
+- Yantao Jia, Yuanzhuo Wang, Xiaolong Jin, Hailun Lin, Xueqi Cheng. "**Knowledge Graph Embedding: A Locally and Temporally Adaptive Translation-Based Approach**". **ACM Transactions on the Web 2018**. **Sci 4**. **Impact 1.157**. Cite 10. [paper](https://dl.acm.org/doi/10.1145/3132733)
 
-- Yantao Jia, Yuanzhuo Wang, Xiaolong Jin, Hailun Lin, Xueqi Cheng:
-Knowledge Graph Embedding: A Locally and Temporally Adaptive Translation-Based Approach. ACM Trans. Web 12(2): 8:1-8:33 (2018)
-
-
-
+#### Conference
 
 - <a name="SimplE"></a> **(SimplE)** Seyed Mehran Kazemi, David Poole. "**SimplE Embedding for Link Prediction in Knowledge Graphs**". **NeurIPS 2018**. [paper](http://papers.nips.cc/paper/7682-simple-embedding-for-link-prediction-in-knowledge-graphs) [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips31/reviews/2093.html) [code](https://github.com/Mehran-k/SimplE)
 
