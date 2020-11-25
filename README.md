@@ -539,6 +539,10 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - <a name="TransAt"></a> **(TransAt)** Wei Qian, Cong Fu, Yu Zhu, Deng Cai, Xiaofei He. "**Translating Embeddings for Knowledge Graph Completion with Relation Attention Mechanism**". **IJCAI 2018**. [paper](https://www.ijcai.org/proceedings/2018/596) [code](https://github.com/ZJULearning/TransAt)
 
+- 	Luke Vilnis, Xiang Li, Shikhar Murty, Andrew McCallum:
+Probabilistic Embedding of Knowledge Graphs with Box Lattice Measures. ACL (1) 2018: 263-272
+
+
 - Ryo Takahashi, Ran Tian, Kentaro Inui. "**Interpretable and Compositional Relation Learning by Joint Training with an Autoencoder**". **ACL 2018**. [paper](https://www.aclweb.org/anthology/P18-1200/) [code](https://github.com/tianran/glimvec)
 
 - **(KG-Geometry)** Chandrahas, Aditya Sharma, Partha Talukdar. "**Towards Understanding the Geometry of Knowledge Graph Embeddings**". **ACL 2018**. [paper](https://www.aclweb.org/anthology/P18-1012/) [code](https://github.com/malllabiisc/kg-geometry)
@@ -578,6 +582,37 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 - <a name="CACL"></a> **(CACL)** Byungkook Oh, Seungmin Seo, Kyong-Ho. "**Knowledge Graph Completion by Context-Aware Convolutional Learning with Multi-Hop Neighborhoods**". **CIKM 2018**. [paper](https://dl.acm.org/doi/10.1145/3269206.3271769)
 
 - <a name="R-GCN"></a> **(R-GCN)** Michael Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne van den Berg, Ivan Titov, Max Welling. "**Modeling Relational Data with Graph Convolutional Networks**". **ESWC 2018**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-93417-4_38) [code](https://github.com/tkipf/relational-gcn)
+
+- Zichao Huang, Bo Li, Jian Yin:
+Knowledge Graph Embedding by Learning to Connect Entity with Relation. APWeb/WAIM (1) 2018: 400-414
+
+- Benjamin J. Lengerich, Andrew L. Maas, Christopher Potts:
+Retrofitting Distributional Embeddings to Knowledge Graphs with Functional Relations. COLING 2018: 2423-2436
+
+- 	Maoyuan Zhang, Qi Wang, Wukui Xu, Wei Li, Shuyuan Sun:
+Discriminative Path-Based Knowledge Graph Embedding for Precise Link Prediction. ECIR 2018: 276-288
+
+- 	Shengyue Luo, Wei Fang:
+Potential Probability of Negative Triples in Knowledge Graph Embedding. ICONIP (3) 2018: 48-58
+		
+- Md. Mostafizur Rahman, Atsuhiro Takasu:
+Knowledge Graph Embedding via Entities' Type Mapping Matrix. ICONIP (3) 2018: 114-125
+
+- Kien Do, Truyen Tran, Svetha Venkatesh:
+Knowledge Graph Embedding with Multiple Relation Projections. ICPR 2018: 332-337
+		Zhiqiang Geng, Zhongkun Li, Yongming Han:
+A Novel Asymmetric Embedding Model for Knowledge Graph Completion. ICPR 2018: 290-295
+
+- Kemas Wiharja, Jeff Z. Pan, Martin J. Kollingbaum, Yu Deng:
+More Is Better: Sequential Combinations of Knowledge Graph Embedding Approaches. JIST 2018: 19-35
+		Liang Zhang, Jun Shi, Guilin Qi, Weizhuo Li:
+Incorporating Text into the Triple Context for Knowledge Graph Embedding. JIST 2018: 68-76
+
+	Wen Zhang, Juan Li, Huajun Chen:
+ProjR: Embedding Structure Diversity for Knowledge Graph Completion. NLPCC (1) 2018: 145-157
+		Mengya Wang, Erhu Rong, Hankui Zhuo, Huiling Zhu:
+Embedding Knowledge Graphs Based on Transitivity and Asymmetry of Rules. PAKDD (2) 2018: 141-153
+
 
 - <a name="ConvKB"></a> **(ConvKB)** Dai Quoc Nguyen, Tu Dinh Nguyen, Dat Quoc Nguyen, Dinh Phung. "**A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network**". **NAACL-HLT 2018**. [paper](https://www.aclweb.org/anthology/N18-2053/) [code](https://github.com/daiquocnguyen/ConvKB)
 
