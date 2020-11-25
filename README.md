@@ -613,6 +613,19 @@ ProjR: Embedding Structure Diversity for Knowledge Graph Completion. NLPCC (1) 2
 		Mengya Wang, Erhu Rong, Hankui Zhuo, Huiling Zhu:
 Embedding Knowledge Graphs Based on Transitivity and Asymmetry of Rules. PAKDD (2) 2018: 141-153
 
+Itsumi Saito, Kyosuke Nishida, Hisako Asano, Junji Tomita:
+Commonsense Knowledge Base Completion and Generation. CoNLL 2018: 141-150
+		Pouya Pezeshkpour, Liyan Chen, Sameer Singh:
+Embedding Multimodal Relational Data for Knowledge Base Completion. EMNLP 2018: 3208-3218
+
+Sameh K. Mohamed, Vít Novácek, Pierre-Yves Vandenbussche:
+Knowledge base completion using distinct subgraph paths. SAC 2018: 1992-1999
+
+	Alisher Tortay, Jeehang Lee, Chang Hwa Lee, Sang Wan Lee:
+Automated Knowledge Base Completion Using Collaborative Filtering and Deep Reinforcement Learning. SMC 2018: 3069-3074
+		Kaja Zupanc, Jesse Davis:
+Estimating Rule Quality for Knowledge Base Completion with the Relationship between Coverage Assumption. WWW 2018: 1073-1081
+
 
 - <a name="ConvKB"></a> **(ConvKB)** Dai Quoc Nguyen, Tu Dinh Nguyen, Dat Quoc Nguyen, Dinh Phung. "**A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network**". **NAACL-HLT 2018**. [paper](https://www.aclweb.org/anthology/N18-2053/) [code](https://github.com/daiquocnguyen/ConvKB)
 
