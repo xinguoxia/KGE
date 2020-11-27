@@ -537,8 +537,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - <a name="TransE-T"></a> **(TransE-T)** Richong Zhang, Fanshuang Kong, Chenyue Wang, Yongyi Mao. "**Embedding of Hierarchically Typed Knowledge Bases**". **AAAI 2018**. CCF A. Cite 2. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16539) [code](https://github.com/fskong/Embedding_of_Hierarchically_Typed_KB)
 
-
-
 - <a name="TransAt"></a> **(TransAt)** Wei Qian, Cong Fu, Yu Zhu, Deng Cai, Xiaofei He. "**Translating Embeddings for Knowledge Graph Completion with Relation Attention Mechanism**". **IJCAI 2018**. CCF A. Cite 19. [paper](https://www.ijcai.org/proceedings/2018/596) [code](https://github.com/ZJULearning/TransAt)
 
 - <a name="ComplEx-NNE"></a> **(ComplEx-NNE)** Boyang Ding, Quan Wang, Bin Wang, Li Guo. "**Improving Knowledge Graph Embedding Using Simple Constraints**". **ACL 2018**. CCF A. Cite 48. [paper](https://www.aclweb.org/anthology/P18-1011/) [code](https://github.com/iieir-km/ComplEx-NNE_AER) :fire:
@@ -605,7 +603,7 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Wen Zhang, Juan Li, Huajun Chen. "**ProjR: Embedding Structure Diversity for Knowledge Graph Completion**". **NLPCC 2018**. CCF C. Cite 1. [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-99495-6_13) 
 
-= Mengya Wang, Erhu Rong, Hankui Zhuo, Huiling Zhu. "**Embedding Knowledge Graphs Based on Transitivity and Asymmetry of Rules**". **PAKDD 2018**. CCF C. Cite 5. [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-93037-4_12)
+- Mengya Wang, Erhu Rong, Hankui Zhuo, Huiling Zhu. "**Embedding Knowledge Graphs Based on Transitivity and Asymmetry of Rules**". **PAKDD 2018**. CCF C. Cite 5. [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-93037-4_12)
 
 - Sameh K. Mohamed, Vít Novácek, Pierre-Yves Vandenbussche. "**Knowledge base completion using distinct subgraph paths**". **SAC 2018**. CCF C. Cite 11. [paper](https://dl.acm.org/doi/10.1145/3167132.3167346)
 
