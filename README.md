@@ -872,7 +872,9 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - <a name="Neural-LP-N"></a> **(Neural-LP-N)** Po-Wei Wang, Daria Stepanova, Csaba Domokos, J. Zico Kolter. "**Differentiable learning of numerical rules in knowledge graphs**". **ICLR 2020**. Cite 1. [paper](https://openreview.net/forum?id=rJleKgrKwS)
 
-- <a name="LowFER"></a> **(LowFER)** Saadullah Amin, Stalin Varanasi, Katherine Ann Dunfield, Günter Neumann. "**LowFER: Low-rank Bilinear Pooling for Link Prediction**". **ICML 2020**. Cite 0. [paper](http://proceedings.mlr.press/v119/amin20a)
+- Jinheon Baek, Dong Bok Lee, Sung Ju Hwang. "**Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction**". **NeurIPS 2020**. CCF A. Cite 1. [paper](https://neurips.cc/virtual/2020/public/poster_0663a4ddceacb40b095eda264a85f15c.html)
+
+- <a name="LowFER"></a> **(LowFER)** Saadullah Amin, Stalin Varanasi, Katherine Ann Dunfield, Günter Neumann. "**LowFER: Low-rank Bilinear Pooling for Link Prediction**". **ICML 2020**. CCF A. Cite 0. [paper](http://proceedings.mlr.press/v119/amin20a)
 
 - <a name="DE-SimplE"></a> **(DE-SimplE)** Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **AAAI 2020**. CCF A. Cite 19. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5815) [code](https://github.com/BorealisAI/DE-SimplE) :fire:
 
@@ -987,8 +989,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 - <a name="TIMEPLEX"></a> **(TIMEPLEX)** Prachi Jain, Sushant Rathi, Mausam, Soumen Chakrabarti. "**Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols**". **CoRR 2020-05**. Cite 0. [paper](https://arxiv.org/abs/2005.05035)
 
 - Asan Agibetov, Matthias Samwald. "**Benchmarking neural embeddings for link prediction in knowledge graphs under semantic and structural changes**". **CoRR 2020-05**. Cite 0. [paper](https://arxiv.org/abs/2005.07654)
-
-- Jinheon Baek, Dong Bok Lee, Sung Ju Hwang. "**Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction**". **CoRR 2020-06**. Ciye 0. [paper](https://arxiv.org/abs/2006.06648)
 
 - Rajarshi Das, Ameya Godbole, Shehzaad Dhuliawala, Manzil Zaheer, Andrew McCallum. "**A Simple Approach to Case-Based Reasoning in Knowledge Bases**". **CoRR 2020-06**. Cite 0. [paper](https://arxiv.org/abs/2006.14198)
 		
