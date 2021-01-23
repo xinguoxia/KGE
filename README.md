@@ -1006,6 +1006,78 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Translating Embedding with Local Connection for Knowledge Graph Completion
 
+- RatE: Relation-Adaptive Translating Embedding for Knowledge Graph Completion
+
+- AprilE: Attention with Pseudo Residual Connection for Knowledge Graph Embedding
+
+- Knowledge Graph Embedding with Atrous Convolution and Residual Learning
+
+- TeRo: A Time-aware Knowledge Graph Embedding via Temporal Rotation
+
+- Knowledge Graph Embeddings in Geometric Algebras
+
+- PDKE: An Efficient Distributed Embedding Framework for Large Knowledge Graphs
+
+- CTransE: An Effective Information Credibility Evaluation Method Based on Classified Translating Embedding in Knowledge Graphs
+
+- A Knowledge Graph Embedding Method Based on Neural Network
+
+- BTDE: Block Term Decomposition Embedding for Link Prediction in Knowledge Graph
+
+- MDE: Multiple Distance Embeddings for Link Prediction in Knowledge Graphs
+
+- Multi-Partition Embedding Interaction with Block Term Format for Knowledge Graph Completion
+
+- A Hash Learning Framework for Search-Oriented Knowledge Graph Embedding
+
+- Improving Knowledge Graph Embedding Using Locally and Globally Attentive Relation Paths
+
+- Debiasing knowledge graph embeddings
+
+- DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion
+
+- A Greedy Bit-flip Training Algorithm for Binarized Knowledge Graph Embeddings
+
+- AutoETER: Automated Entity Type Representation with Relation-Aware Attention for Knowledge Graph Embedding
+
+- Evaluating the Calibration of Knowledge Graph Embeddings for Trustworthy Link Prediction
+
+- Knowledge Association with Hyperbolic Knowledge Graph Embeddings
+
+- Affinity Dependent Negative Sampling for Knowledge Graph Embeddings
+
+- Conditional Constraints for Knowledge Graph Embeddings
+
+- Knowledge Graph Embedding Based on Relevance and Inner Sequence of Relations
+
+- Tensor Decomposition-Based Temporal Knowledge Graph Embedding
+
+- Neighborhood Aggregation Embedding Model for Link Prediction in Knowledge Graphs
+
+- KGvec2go - Knowledge Graph Embeddings as a Service
+
+- Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs.
+
+- Interstellar: Searching Recurrent Architecture for Knowledge Graph Embedding
+
+- GrCluster: a score function to model hierarchy in knowledge graph embeddings
+
+- ExCut: Explainable Embedding-Based Clustering over Knowledge Graphs
+
+- Fantastic Knowledge Graph Embeddings and How to Find the Right Space for Them
+
+- Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding
+
+- DGL-KE: Training Knowledge Graph Embeddings at Scale
+
+- Popularity Agnostic Evaluation of Knowledge Graph Embeddings
+
+- TransMVG: Knowledge Graph Embedding Based on Multiple-Valued Gates
+
+- Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning
+
+- Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction
+
 #### Arxiv
 
 - Yunpu Ma, Yuyi Wang, Volker Tresp. "**Quantum Machine Learning Algorithm for Knowledge Graphs**". **CoRR 2020-01**. Cite 0. [paper](https://arxiv.org/abs/2001.01077)
