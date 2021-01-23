@@ -1356,138 +1356,15 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 ### Standard
 
-| Dataset   | Entity  | Relation |  Training  |  Validation | Test   |
-|:---------:|:-------:|:--------:|:----------:|:-----------:|:------:|
-| WN11      | 38,696  | 11       |  112,581   | 2,609       | 10,544 |
-| WN18      | 40,943  | 18       |  141,442   | 5,000       | 5,000  |
-| WN18RR    | 40,943  | 11       |  86,835    | 3,034       | 3,134  |
-| FB13      | 75,043  | 13       |  316,232   | 5,908       | 23,733 |
-| FB15K     | 14,951  | 1,345    |  483,142   | 50,000      | 59,071 |
-| FB166     | 9,658   | 166      | 100,289    | 10,457      | 12,327 |
-| FB15k-237 | 14,541  | 237      |  272,115   | 17,535      | 20,466 |
-| UMLS      | 135     | 46       |  5,216     | 652         | 661    |
-| YAGO3-10  | 123,182 | 37       |  1,079,040 | 5,000       | 5,000  |
-| NELL-995  | 75,492  | 200      |  123,370   | 15,000      | 15,838 |
-| NELL-995  | 75,492  | 200      |  149,678   | 543         | 3992   |
-| Kinship   | 104     | 25       |  8544      | 1068        | 1074   |
-
 ### Rule
 
 ### Text
 
 ### Temporal
 
-| Dataset | Entities | Relations | Time Steps | Time Span | Training | Validation | Test |
-|:-------:|:--------:|:---------:|:----------:|:---------:|:--------:|:----------:|:------:|
-| **ICEWS14<sup>[DE-SimplE](#DE-SimplE)</sup>** | 7,128 | 230 | 365 | 2014 | 72,826 | 8,941 | 8,963 |
-| **ICEWS05-15<sup>[DE-SimplE](#DE-SimplE)</sup>** | 10,488 | 251 | 4,017 | 2005-2015 | 386,962 | 46,275 | 46,092 |
-| **GDELT<sup>[DE-SimplE](#DE-SimplE)</sup>** | 500 | 20 | 366 | 2015.4.1-2016.3.31 | 2,735,685 | 341,961 | 341,961 |
-| YAGO11k     | 10,623   | 10        | 70         | -453-2844 | 16,408   | 2,050      | 2,051  |
-| Wikidata12k | 12,554   | 24        | 81         | 1709-2018 | 32,497   | 4,062      | 4,062  |
-
 ## Performance
 
 ### Link Prediction
-
-#### WN18
-
-| Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
-|:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ComplEx](#ComplEx)</sup>**     |  -  | 0.454 | 0.089 | 0.823 | 0.934 |
-| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ComplEx](#ComplEx)</sup>** | 902 | 0.822 | 0.728 | 0.914 | 0.936 |
-| 2016 | ICML    | **[ComplEx](#ComplEx)**                                 |  -  | 0.941 | 0.936 | 0.945 | 0.947 |
-| 2018 | AAAI    | **[ConvE](#ConvE)**                                     | 504 | 0.942 | 0.935 | 0.947 | 0.955 |
-| 2018 | ESWC    | **R-GCN+**    |  -  | 81.9 | 69.7 |  92.9  |   96.4  |
-| 2018 | NeurIPS | **SimplE**    |  -  | 94.2 | 93.9 |  94.4  |   94.7  |
-| 2019 | ICLR    | **[RotatE](#RotatE)**                                   | 309 | 0.949 | 0.944 | 0.952 | 0.959 |
-| 2019 | ACL     | **D4-STE**    |  -  | 94.6 | 94.2 |  94.8  |   95.2  |
-| 2019 | ACL     | **D4-Gumbel** |  -  | 94.6 | 94.2 |  94.9  |   95.4  |
-| 2019 | EMNLP   | **[TuckER](#TuckER)**                                   |   - | 0.953 | 0.949 | 0.955 | 0.958 |
-
-#### WN18RR
-
-| Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
-|:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ConvKB](#ConvKB)</sup>**    | 3384 | 0.226 |   -   |  -    | 0.501 |
-| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ConvE](#ConvE)</sup>**  | 5110 | 0.43  | 0.39  | 0.44  | 0.49  |
-| 2016 | ICML    | **[ComplEx](#ComplEx)<sup>[ConvE](#ConvE)</sup>**    | 5261 | 0.44  | 0.41  | 0.46  | 0.51  |
-| 2018 | AAAI    | **[ConvE](#ConvE)**                                  | 5277 | 0.46  | 0.39  | 0.43  | 0.48  |
-| 2019 | ICLR    | **[RotatE](#RotatE)**                                | 3340 | 0.476 | 0.428 | 0.492 | 0.571 |
-| 2019 | ACL     | **D4-STE**    |   -  | 48.0 | 45.2 |  49.1  |   53.6  |
-| 2019 | ACL     | **D4-Gumbel** |   -  | 48.6 | 44.2 |  50.5  |   55.7  |
-| 2019 | EMNLP   | **[TuckER](#TuckER)**                                |   -  | 0.470 | 0.443 | 0.482 | 0.526 |
-| 2020 | AAAI    | **[HAKE](#HAKE)**                                    |   -  | 0.497 | 0.452 | 0.516 | 0.582 |
-| 2020 | AAAI    | **InteractE** | 5203 | 46.3 | 43.0 |  -     |   52.8  |
-
-#### FB15K
-
-| Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
-|:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ComplEx](#ComplEx)</sup>**      | -  | 0.380 | 0.231 | 0.472 | 0.641 |
-| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ComplEx](#ComplEx)</sup>**  | 97 | 0.654 | 0.546 | 0.733 | 0.824 |
-| 2016 | ICML    | **[ComplEx](#ComplEx)**                                  | -  | 0.692 | 0.599 | 0.759 | 0.840 |
-| 2018 | AAAI    | **[ConvE](#ConvE)**                                      | 64 | 0.745 | 0.670 | 0.801 | 0.873 |
-| 2018 | ESWC    | **R-GCN+**    |   -   | 69.6 | 60.1 |  76.0  |   84.2  |
-| 2018 | NeurIPS | **SimplE**    |   -   | 72.7 | 66.0 |  77.3  |   83.8  |
-| 2019 | ICLR    | **[RotatE](#RotatE)**                                    | 40 | 0.797 | 0.746 | 0.830 | 0.884 |
-| 2019 | ACL     | **D4-STE**    |   -   | 73.3 | 64.1 |   80.3 |   87.7  |
-| 2019 | ACL     | **D4-Gumbel** |   -   | 72.8 | 64.8 |   78.2 |   86.4  |
-| 2019 | EMNLP   | **[TuckER](#TuckER)**                                    | -  | 0.795 | 0.741 | 0.833 | 0.892 |
-
-#### FB15K-237
-
-| Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
-|:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2013 | NeurIPS | **[TransE](#TransE)<sup>[ConvKB](#ConvKB)</sup>**    | 357 | 0.294 |   -   |    -  | 0.465 |
-| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ConvE](#ConvE)</sup>**  | 254 | 0.241 | 0.155 | 0.263 | 0.419 |
-| 2016 | ICML    | **[ComplEx](#ComplEx)<sup>[ConvE](#ConvE)</sup>**    | 339 | 0.247 | 0.158 | 0.275 | 0.428 |
-| 2018 | ESWC    | **R-GCN+**    |  -  | 24.9 | 15.1 |  26.4  |   41.7  |
-| 2018 | AAAI    | **[ConvE](#ConvE)**                                  | 246 | 0.316 | 0.239 | 0.350 | 0.491 |
-| 2019 | ICLR    | **[RotatE](#RotatE)**                                | 177 | 0.338 | 0.241 | 0.375 | 0.533 |
-| 2019 | ACL     | **D4-STE**    |  -  | 32.0 | 23.0 |  35.3  |   50.2  |
-| 2019 | ACL     | **D4-Gumbel** |  -  | 30.0 | 20.4 |  33.2  |   49.6  |
-| 2019 | EMNLP   | **[TuckER](#TuckER)**                                |  -  | 0.358 | 0.266 | 0.394 | 0.544 |
-| 2020 | AAAI    | **[HAKE](#HAKE)**                                    |  -  | 0.346 | 0.250 | 0.381 | 0.542 |
-| 2020 | AAAI    | **InteractE** | 172 | 35.4 | 26.3 |  -     |   53.5  |
-
-#### YAGO3-10
-
-| Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
-|:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2015 | ICLR    | **[DistMult](#DistMult)<sup>[ConvE](#ConvE)</sup>**   | 5926 | 0.34  | 0.24  | 0.38  | 0.54  |
-| 2016 | ICML    | **[ComplEx](#ComplEx)<sup>[ConvE](#ConvE)</sup>**     | 6351 | 0.36  | 0.26  | 0.40  | 0.55  |
-| 2018 | AAAI    | **[ConvE](#ConvE)**                                   | 2792 | 0.52  | 0.45  | 0.56  | 0.66  |
-| 2018 | ACL     | **ComplEx-N3** | -    | 0.58  |  -     |  -     |  0.71  |
-| 2019 | ACL     | **D4-STE**    |   -   | 0.472 |  0.381 |  0.523 |  0.643 |
-| 2019 | ACL     | **D4-Gumbel** |   -   | 0.388 |  0.294 |  0.436 |  0.573 |
-| 2019 | ICLR    | **[RotatE](#RotatE)**                                 | 1767 | 0.495 | 0.402 | 0.550 | 0.670 |
-| 2020 | AAAI    | **[HAKE](#HAKE)**                                     |  -   | 0.545 | 0.462 | 0.596 | 0.694 |
-| 2020 | AAAI    | **InteractE**  | 2375 | 0.541 |  0.462 |  -     |  0.687 |
-| 2020 | ICLR    | **DPMPN**      | -    | 0.553 |  0.484 |  0.595 |  0.679 |
-
-
-#### NELL-995
-
-| Year | Source | Methods |  MR |  MRR |Hits@1| Hits@3 | Hits@10 |
-|:----:|:------:|:-------:|:---:|:----:|:----:|:------:|:-------:|
-| 2013 | NeurIPS | **TransE**    | -    | 0.219  |  -     |   -    |  0.352 |
-| 2015 | ICLR    | **DistMult**  | -    | -      |  0.610 |  -     |  0.795 |
-| 2015 | EMNLP   | **PTransE**   | -    | 0.304  |  -     |   -    |  0.437 |
-| 2016 | ICML    | **ComplEx**   | -    | -      |  0.612 |  -     |  0.827 |
-| 2018 | AAAI    | **ConvE**     | -    | -      |  0.672 |  -     |  0.864 |
-| 2018 | AAAI    | **RUGE**      | -    | 0.318  |  -     |   -    |  0.433 |
-| 2020 | AAAI    | **RPJE**      | -    | 0.361  |  -     |   -    |  0.501 |
-| 2020 | ICLR    | **ReifKB**    | -    | -      |  0.641 |   -    |  0.824 |
-
-#### GDELT
-
-| Year | Source | Methods    |  MR |  MRR  | Hits@1 | Hits@3 | Hits@10 |
-|:----:|:------:|:----------:|:---:|:-----:|:------:|:------:|:-------:|
-| 2018 | EMNLP | **[TA-DistMult](#TA-DistMult)<sup>[DE-SinplE](#DE-SimplE)</sup>** | - | 0.206 | 0.124 | 0.219 | 0.365 |
-| 2018 | EMNLP  | **[HyTE](#HyTE)<sup>[DE-SinplE](#DE-SimplE)</sup>** | - | 0.118 | 0.0 | 0.165 | 0.326 |
-| 2020 | AAAI | **[DE-TransE](#DE-SimplE)** | - | 0.126 | 0.0 | 0.181 | 0.350 |
-| 2020 | AAAI | **[DE-DistMult](#DE-SimplE)** | - | 0.213 | 0.130 | 0.228 | 0.376 |
-| 2020 | AAAI | **[DE-SimplE](#DE-SimplE)** | - | 0.230 | 0.141 | 0.248 | 0.403 |
 
 #### ICEWS14
 
@@ -1499,60 +1376,3 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 | 2020 | AAAI   | **[DE-DistMult](#DE-SimplE)** | - | 0.501 | 0.392 | 0.569 | 0.708 |
 | 2020 | AAAI   | **[DE-SimplE](#DE-SimplE)** | - | 0.526 | 0.418 | 0.592 | 0.725 |
 | 2020 | ICLR   | **[TNTComplEx](#TNTComplEx)**  | -   | 0.56  | 0.46   | 0.61   | 0.74    |
-
-#### ICEWS15-05
-
-| Year | Source | Methods    |  MR |  MR R | Hits@1 | Hits@3 | Hits@10 |
-|:----:|:------:|:----------:|:---:|:-----:|:------:|:------:|:-------:|
-| 2018 | EMNLP  | **[TA-DistMult](#TA-DistMult)** | 98 | 0.474 | 0.346  | - | 0.728 |
-| 2018 | EMNLP  | **[HyTE](#HyTE)<sup>[DE-SinplE](#DE-SimplE)</sup>** | - | 0.316 | 0.116 | 0.445 | 0.681 |
-| 2020 | AAAI   | **[DE-TransE](#DE-SimplE)** | - | 0.314 | 0.108 | 0.453 | 0.685 |
-| 2020 | AAAI   | **[DE-DistMult](#DE-SimplE)** | - | 0.484 | 0.366 | 0.546 | 0.718 |
-| 2020 | AAAI   | **[DE-SimplE](#DE-SimplE)** | - | 0.513 | 0.392 | 0.578 | 0.748 |
-| 2020 | ICLR   | **[TNTComplEx](#TNTComplEx)** | -   | 0.60  | 0.50   | 0.65   | 0.78    |
-
-#### YAGO15K
-
-| Year | Source | Methods    |  MR |  MRR | Hits@1 | Hits@3 | Hits@10 |
-|:----:|:------:|:----------:|:---:|:----:|:------:|:------:|:-------:|
-| 2018 | EMNLP  | **[TA-DistMult](TA-DistMult)** | 551 | 0.291 | 0.216 | -    | 0.476 |
-| 2020 | ICLR   | **[TNTComplEx](#TNTComplEx)**  | -   | 0.35  | 0.28  | 0.35 | 0.52  |
-
-#### WikiDATA
-
-| Year | Source | Methods     |  MR |  MRR  | Hits@1 | Hits@3 | Hits@10 |
-|:----:|:------:|:-----------:|:---:|:-----:|:------:|:------:|:-------:|
-| 2018 | EMNLP  | **[TA-DistMult](TA-DistMult)** | 198 | 0.700 | 0.652 | - | 0.785 |
-
-### Triplets Classifcation
-
-#### WN11
-
-| Year | Source | Methods | Acc(%) |
-|:----:|:------:|:-------:|:---:|
-| 2013 | NeurIPS | **[NTN](#NTN)** | 70.4 |
-| 2013 | NeurIPS | **[TransE(unif/bern)](#TransE)** | 75.9/75.9 |
-| 2014 | AAAI | **[TransH(unif/bern)](#TransH)** | 77.7/78.8 |
-| 2015 | AAAI | **[TransR(unif/bern)](#TransR)** | 85.5/85.9 |
-| 2015 | ACL | **[TransD(unif/bern)](#TransD)** | 85.6/86.4 |
-| 2016 | AAAI | **[TranSparse(unif/bern)](#TranSparse)** | 86.8/86.8 |
-| 2018 | AAAI | **[TransAt(bern)](#TransAt)** | 88.2 |
-
-#### FB13
-
-| Year | Source | Methods | Acc |
-|:----:|:------:|:-------:|:---:|
-| 2018 | EMNLP  | **NTN** | 0.871 |
-|      |        | TransE(unif/bern) | 70.9/81.5 |
-|      |        | TransH(unif/bern) | 76.5/83.3 |
-|      |        | TransR(unif/bern) | 74.7/82.5 |
-|      |        | TransD(unif/bern) | 85.9/89.1 |
-|      |        | TransSparse(unif/bern) | 86.5/87.5 |
-|      |        | TransAt(bern) | 89.1 |
-
-#### FB15K
-
-| Year | Source | Methods | Acc |
-|:----:|:------:|:-------:|:---:|
-| 2018 | EMNLP  | **NTN** | 0.683 |
-
