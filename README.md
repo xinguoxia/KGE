@@ -850,6 +850,38 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Fangfang Liu, Yan Shen, Tienan Zhang, Honghao Gao. "**Entity-related paths modeling for knowledge base completion**". **Frontiers of Computer Science 2020**. **Sci 3**. **Impact 1.275**. Cite 0. [paper](https://link.springer.com/article/10.1007/s11704-019-8264-4)
 
+- Knowledge Graph Representation Learning With Multi-Scale Capsule-Based Embedding Model Incorporating Entity Descriptions
+
+- Utilizing Textual Information in Knowledge Graph Embedding: A Survey of Methods and Applications
+
+- 3DRTE: 3D Rotation Embedding in Temporal Knowledge Graph
+
+- Knowledge Graph Embedding Based Collaborative Filtering
+
+- Structure-augmented knowledge graph embedding for sparse data with rule learning
+
+- Enhancing knowledge graph embedding by composite neighbors for link prediction
+
+- A semi-supervised model for knowledge graph embedding
+
+- Leveraging Entity-Type Properties in the Relational Context for Knowledge Graph Embedding
+
+- Improve the translational distance models for knowledge graph embedding
+
+- Generative adversarial networks based on Wasserstein distance for knowledge graph embeddings
+
+- Knowledge graph entity typing via learning connecting embeddings
+
+- Aggregating neighborhood information for negative sampling for knowledge graph embedding
+
+- Multiview Translation Learning for Knowledge Graph Embedding
+
+- Representation Learning of Knowledge Graphs with Embedding Subspaces
+
+- Generalized Translation-Based Embedding of Knowledge Graph
+
+- Benchmarking neural embeddings for link prediction in knowledge graphs under semantic and structural changes
+
 #### Conference
 
 - <a name="CompGCN"></a> **(CompGCN)** Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Partha Talukdar. "**Composition-based Multi-Relational Graph Convolutional Networks**". **ICLR 2020**. Cite 29. [paper](https://openreview.net/forum?id=BylA_C4tPr) [code](https://github.com/malllabiisc/CompGCN) :fire:
