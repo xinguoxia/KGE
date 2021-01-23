@@ -882,6 +882,82 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Benchmarking neural embeddings for link prediction in knowledge graphs under semantic and structural changes
 
+- A Quaternion-Embedded Capsule Network Model for Knowledge Graph Completion
+
+- Hamming Distance Encoding Multihop Relation Knowledge Graph Completion
+
+- Knowledge Graph Completion: A Review
+
+- Graph Attention Networks With Local Structure Awareness for Knowledge Graph Completion
+
+- Knowledge graphs completion via probabilistic reasoning
+
+- Path-based reasoning approach for knowledge graph completion using CNN-BiLSTM with attention mechanism
+
+- GRL: Knowledge graph completion with GAN-based reinforcement learning
+
+- Path-based reasoning with constrained type attention for knowledge graph completion
+
+- Schema aware iterative Knowledge Graph completion
+
+- Few-Shot Knowledge Graph Completion
+
+- Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion
+
+- A Re-evaluation of Knowledge Graph Completion Methods
+
+- TKGFrame: A Two-Phase Framework for Temporal-Aware Knowledge Graph Completion
+
+- Translating Embedding with Local Connection for Knowledge Graph Completion
+
+- The Impact of Negative Triple Generation Strategies and Anomalies on Knowledge Graph Completion
+
+- Embedding based Link Prediction for Knowledge Graph Completion
+
+- GAEAT: Graph Auto-Encoder Attention Networks for Knowledge Graph Completion
+
+- Learning Physical Common Sense as Knowledge Graph Completion via BERT Data Augmentation and Constrained Tucker Factorization
+
+- Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion
+
+- Incremental Multi-source Entity Resolution for Knowledge Graph Completion
+
+- Dynamic Knowledge Graph Completion with Jointly Structural and Textual Dependency
+
+- PRTransE: Emphasize More Important Facts Based on Pagerank for Knowledge Graph Completion
+
+- RA-GCN: Relational Aggregation Graph Convolutional Network for Knowledge Graph Completion
+
+- Weighted Aggregator for the Open-World Knowledge Graph Completion
+
+- Multi-view Classification Model for Knowledge Graph Completion
+
+- A Re-Ranking Framework for Knowledge Graph Completion
+
+- A Contextualized Entity Representation for Knowledge Graph Completion
+
+- Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion
+
+- MSGE: A Multi-step Gated Model for Knowledge Graph Completion
+
+- Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding
+
+- Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study
+
+- Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning
+
+- Relation Adversarial Network for Low Resource Knowledge Graph Completion
+
+- Knowledge Graph Representation Learning With Multi-Scale Capsule-Based Embedding Model Incorporating Entity Descriptions
+
+- Reliable Knowledge Graph Path Representation Learning
+
+- A Model of Text-Enhanced Knowledge Graph Representation Learning With Mutual Attention
+
+- Representation Learning of Knowledge Graphs With Entity Attributes
+
+- Distributed representation of knowledge graphs with subgraph-aware proximity.
+
 #### Conference
 
 - <a name="CompGCN"></a> **(CompGCN)** Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Partha Talukdar. "**Composition-based Multi-Relational Graph Convolutional Networks**". **ICLR 2020**. Cite 29. [paper](https://openreview.net/forum?id=BylA_C4tPr) [code](https://github.com/malllabiisc/CompGCN) :fire:
@@ -1077,6 +1153,16 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 - Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning
 
 - Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction
+
+- Rule-Guided Compositional Representation Learning on Knowledge Graphs
+
+- Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Knowledge Graph Embedding
+
+- TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure
+
+- A Contextualized Entity Representation for Knowledge Graph Completion
+
+- BCRL: Long Text Friendly Knowledge Graph Representation Learning
 
 #### Arxiv
 
