@@ -1000,6 +1000,12 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Varun Ranganathan, Siddharth Suresh, Yash Mathur, Natarajan Subramanyam, Denilson Barbosa. "**GrCluster: a score function to model hierarchy in knowledge graph embeddings**". **SAC 2020**. CCF C. Cite 0. [paper](https://dl.acm.org/doi/10.1145/3341105.3373978)
 
+- Dolores: Deep Contextualized Knowledge Graph Embeddings
+
+- Fine-Grained Evaluation of Knowledge Graph Embedding Models in Downstream Tasks
+
+- Translating Embedding with Local Connection for Knowledge Graph Completion
+
 #### Arxiv
 
 - Yunpu Ma, Yuyi Wang, Volker Tresp. "**Quantum Machine Learning Algorithm for Knowledge Graphs**". **CoRR 2020-01**. Cite 0. [paper](https://arxiv.org/abs/2001.01077)
