@@ -850,17 +850,13 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Fangfang Liu, Yan Shen, Tienan Zhang, Honghao Gao. "**Entity-related paths modeling for knowledge base completion**". **Frontiers of Computer Science 2020**. **Sci 3**. **Impact 1.275**. Cite 0. [paper](https://link.springer.com/article/10.1007/s11704-019-8264-4)
 
-- Knowledge Graph Representation Learning With Multi-Scale Capsule-Based Embedding Model Incorporating Entity Descriptions
+- Fengyuan Lu, Peijin Cong, Xinli Huang. **Utilizing Textual Information in Knowledge Graph Embedding: A Survey of Methods and Applications**. **IEEE Access**. [paper](https://ieeexplore.ieee.org/document/9094215)
 
-- Utilizing Textual Information in Knowledge Graph Embedding: A Survey of Methods and Applications
+- Jingbin Wang, Wang Zhang, Xinyuan Chen, Jing Lei, Xiaolian Lai. **3DRTE: 3D Rotation Embedding in Temporal Knowledge Graph**. **IEEE Access**. [paper](https://ieeexplore.ieee.org/document/9253009)
 
-- 3DRTE: 3D Rotation Embedding in Temporal Knowledge Graph
+- Yuhang Zhang, Jun Wang, Jie Luo. **Knowledge Graph Embedding Based Collaborative Filtering**. **IEEE Access**. [paper](https://ieeexplore.ieee.org/document/9146277)
 
-- Knowledge Graph Embedding Based Collaborative Filtering
-
-- Structure-augmented knowledge graph embedding for sparse data with rule learning
-
-- Enhancing knowledge graph embedding by composite neighbors for link prediction
+- Kai Wang, Yu Liu, Xiujuan Xu, Quan Z. Sheng. **Enhancing knowledge graph embedding by composite neighbors for link prediction**. **Computing**. [paper](https://link.springer.com/article/10.1007%2Fs00607-020-00842-5)
 
 - A semi-supervised model for knowledge graph embedding
 
@@ -991,8 +987,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 - Tensor Graph Convolutional Networks for Multi-Relational and Robust Learning
 
 - 3D Learning and Reasoning in Link Prediction Over Knowledge Graphs
-
-- Enhancing knowledge graph embedding by composite neighbors for link prediction
 
 - Benchmarking neural embeddings for link prediction in knowledge graphs under semantic and structural changes
 
