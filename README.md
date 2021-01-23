@@ -956,7 +956,49 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Representation Learning of Knowledge Graphs With Entity Attributes
 
-- Distributed representation of knowledge graphs with subgraph-aware proximity.
+- Distributed representation of knowledge graphs with subgraph-aware proximity
+
+- 3D Learning and Reasoning in Link Prediction Over Knowledge Graphs
+
+- Reinforcement learning with actor-critic for knowledge graph reasoning
+
+- SDT: An integrated model for open-world knowledge graph reasoning
+
+- A review: Knowledge reasoning over knowledge graph
+
+- ADRL: An attention-based deep reinforcement learning framework for knowledge graph reasoning
+
+- Knowledge graphs completion via probabilistic reasoning
+
+- Path-based reasoning with constrained type attention for knowledge graph completion
+
+- Hybrid reasoning in knowledge graphs: Combing symbolic reasoning and statistical reasoning
+
+- ALSTM: An attention-based long short-term memory framework for knowledge base reasoning
+
+- Modeling of complex internal logic for knowledge base completion
+
+- Entity-related paths modeling for knowledge base completion
+
+- Integrated Embedding Approach for Knowledge Base Completion with CNN
+
+- Modeling relation paths for knowledge base completion via joint adversarial training
+
+- GRL: Knowledge graph completion with GAN-based reinforcement learning
+
+- Path-based reasoning with constrained type attention for knowledge graph completion
+
+- Tensor Graph Convolutional Networks for Multi-Relational and Robust Learning
+
+- 3D Learning and Reasoning in Link Prediction Over Knowledge Graphs
+
+- Enhancing knowledge graph embedding by composite neighbors for link prediction
+
+- Benchmarking neural embeddings for link prediction in knowledge graphs under semantic and structural changes
+
+- Knowledge base enrichment by relation learning from social tagging data
+
+- Relation classification via knowledge graph enhanced transformer encoder
 
 #### Conference
 
@@ -1164,6 +1206,92 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - BCRL: Long Text Friendly Knowledge Graph Representation Learning
 
+- Differentiable Reasoning on Large Knowledge Bases and Natural Language
+
+- Few-Shot Multi-Hop Relation Reasoning over Knowledge Bases
+
+- Hybrid Reasoning Over Large Knowledge Bases Using On-The-Fly Knowledge Extraction
+
+- Scalable Neural Methods for Reasoning With a Symbolic Knowledge Base
+
+- Sequential Fuzzy Description Logic: Reasoning for Fuzzy Knowledge Bases with Sequential Information
+
+- Bridging Text and Knowledge with Multi-Prototype Embedding for Few-Shot Relational Triple Extraction
+
+- Semi-Supervised Learning of Processes Over Multi-Relational Graphs
+
+- Composition-based Multi-Relational Graph Convolutional Networks
+
+- Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution
+
+- MR-GCN: Multi-Relational Graph Convolutional Networks based on Generalized Tensor Product
+
+- Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs
+
+- EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning
+
+- The Research of Link Prediction in Knowledge Graph based on Distance Constraint
+
+- A Multi-Scale Approach for Graph Link Prediction
+
+- Contextual Parameter Generation for Knowledge Graph Link Prediction
+
+- Link Prediction between Group Entities in Knowledge Graphs
+
+- Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction
+
+- Exploiting Common Neighbor Graph for Link Prediction
+
+- BTDE: Block Term Decomposition Embedding for Link Prediction in Knowledge Graph
+
+- MDE: Multiple Distance Embeddings for Link Prediction in Knowledge Graphs
+
+- Link Prediction: A Graphical Model Approach
+
+- Neighborhood Aggregation Embedding Model for Link Prediction in Knowledge Graphs
+
+- Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction
+
+- Link prediction via community detection in bipartite multi-layer graphs
+
+- Interpreting Link Prediction on Knowledge Graphs
+
+- Explainable Link Prediction for Emerging Entities in Knowledge Graphs
+
+- Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning
+
+- Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network
+
+- Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction
+
+- Contextual Parameter Generation for Knowledge Graph Link Prediction
+
+- BTDE: Block Term Decomposition Embedding for Link Prediction in Knowledge Graph
+
+- Evaluating the Calibration of Knowledge Graph Embeddings for Trustworthy Link Prediction
+
+- Neighborhood Aggregation Embedding Model for Link Prediction in Knowledge Graphs
+
+- Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction
+
+- Interpreting Link Prediction on Knowledge Graphs
+
+- Explainable Link Prediction for Emerging Entities in Knowledge Graphs
+
+- Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction
+
+- Dynamic Anticipation and Completion for Multi-Hop Reasoning over Sparse Knowledge Graph
+
+- Dynamic Knowledge Graph Completion with Jointly Structural and Textual Dependency
+
+- Modeling Relation Path for Knowledge Graph via Dynamic Projection
+
+- Generalizing Tensor Decomposition for N-ary Relational Knowledge Bases
+
+- Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs
+
+- Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion
+
 #### Arxiv
 
 - Yunpu Ma, Yuyi Wang, Volker Tresp. "**Quantum Machine Learning Algorithm for Knowledge Graphs**". **CoRR 2020-01**. Cite 0. [paper](https://arxiv.org/abs/2001.01077)
@@ -1187,7 +1315,49 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 - Asan Agibetov, Matthias Samwald. "**Benchmarking neural embeddings for link prediction in knowledge graphs under semantic and structural changes**". **CoRR 2020-05**. Cite 0. [paper](https://arxiv.org/abs/2005.07654)
 
 - Rajarshi Das, Ameya Godbole, Shehzaad Dhuliawala, Manzil Zaheer, Andrew McCallum. "**A Simple Approach to Case-Based Reasoning in Knowledge Bases**". **CoRR 2020-06**. Cite 0. [paper](https://arxiv.org/abs/2006.14198)
-		
+
+- Reasoning on Knowledge Graphs with Debate Dynamics.
+
+- Learning Collaborative Agents with Rule Guidance for Knowledge Graph Reasoning
+
+- Dynamic Anticipation and Completion for Multi-Hop Reasoning over Sparse Knowledge Graph
+
+- MCMH: Learning Multi-Chain Multi-Hop Rules for Knowledge Graph Reasoning
+
+- Neural-Symbolic Relational Reasoning on Graph Models: Effective Link Inference and Computation from Knowledge Bases
+
+- Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning
+
+- Reasoning Like Human: Hierarchical Reinforcement Learning for Knowledge Graph Reasoning
+
+- Commonsense Knowledge Base Completion with Structural and Semantic Context
+
+- OxKBC: Outcome Explanation for Factorization Based Knowledge Base Completion
+
+- Revisiting Evaluation of Knowledge Base Completion Models
+
+- Ranking vs. Classifying: Measuring Knowledge Base Completion Quality
+
+- Embedding based Link Prediction for Knowledge Graph Completion
+
+- IntKB: A Verifiable Interactive Framework for Knowledge Base Completion
+
+- Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols
+
+- Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion
+
+- PRTransE: Emphasize More Important Facts Based on Pagerank for Knowledge Graph Completion
+
+- Knowledge Base Completion for Constructing Problem-Oriented Medical Records
+
+- BoxE: A Box Embedding Model for Knowledge Base Completion
+
+- Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion
+
+- Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding
+
+- Modeling Relation Path for Knowledge Graph via Dynamic Projection
+
 ## Datasets
 
 ### Standard
