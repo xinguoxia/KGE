@@ -1120,6 +1120,8 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Sankalp Garg, Navodita Sharma, Woojeong Jin, Xiang Ren. "**Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution**". **IJCAI 2020**. CCF A. [paper](https://www.ijcai.org/Proceedings/2020/386)
 
+- Prachi Jain, Sushant Rathi, Mausam, Soumen Chakrabarti. "**Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols**". **EMNLP 2020**. CCF B. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.305/)
+
 - Dolores: Deep Contextualized Knowledge Graph Embeddings
 
 - Fine-Grained Evaluation of Knowledge Graph Embedding Models in Downstream Tasks
@@ -1215,8 +1217,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 - Semi-Supervised Learning of Processes Over Multi-Relational Graphs
 
 - Composition-based Multi-Relational Graph Convolutional Networks
-
-- Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution
 
 - MR-GCN: Multi-Relational Graph Convolutional Networks based on Generalized Tensor Product
 
@@ -1335,8 +1335,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 - Embedding based Link Prediction for Knowledge Graph Completion
 
 - IntKB: A Verifiable Interactive Framework for Knowledge Base Completion
-
-- Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols
 
 - Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion
 
