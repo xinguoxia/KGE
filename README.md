@@ -1148,8 +1148,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Debiasing knowledge graph embeddings
 
-- DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion
-
 - A Greedy Bit-flip Training Algorithm for Binarized Knowledge Graph Embeddings
 
 - AutoETER: Automated Entity Type Representation with Relation-Aware Attention for Knowledge Graph Embedding
