@@ -1118,6 +1118,8 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Lifan Lin, Kun She. "**Tensor Decomposition-Based Temporal Knowledge Graph Embedding**". **ICTAI 2020**. CCF C. [paper](https://ieeexplore.ieee.org/document/9288194)
 
+- Sankalp Garg, Navodita Sharma, Woojeong Jin, Xiang Ren. "**Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution**". **IJCAI 2020**. CCF A. [paper](https://www.ijcai.org/Proceedings/2020/386)
+
 - Dolores: Deep Contextualized Knowledge Graph Embeddings
 
 - Fine-Grained Evaluation of Knowledge Graph Embedding Models in Downstream Tasks
