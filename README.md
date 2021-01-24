@@ -1116,6 +1116,8 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Jiasheng Zhang, Yongpan Sheng, Zheng Wang, Jie Shao. "**TKGFrame: A Two-Phase Framework for Temporal-Aware Knowledge Graph Completion**". **APWeb/WAIM 2020**. CCF B. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-60259-8_16)
 
+- Lifan Lin, Kun She. "**Tensor Decomposition-Based Temporal Knowledge Graph Embedding**". **ICTAI 2020**. CCF C. [paper](https://ieeexplore.ieee.org/document/9288194)
+
 - Dolores: Deep Contextualized Knowledge Graph Embeddings
 
 - Fine-Grained Evaluation of Knowledge Graph Embedding Models in Downstream Tasks
@@ -1161,8 +1163,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 - Conditional Constraints for Knowledge Graph Embeddings
 
 - Knowledge Graph Embedding Based on Relevance and Inner Sequence of Relations
-
-- Tensor Decomposition-Based Temporal Knowledge Graph Embedding
 
 - Neighborhood Aggregation Embedding Model for Link Prediction in Knowledge Graphs
 
