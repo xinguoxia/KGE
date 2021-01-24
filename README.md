@@ -1112,6 +1112,8 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Chenjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, Jens Lehmann. "**Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding**". **ISWC**.  CCF B. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_37)
 
+- Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, Jens Lehmann. "**TeRo: A Time-aware Knowledge Graph Embedding via Temporal Rotation**". **COLING 2020**. CCF B. [paper](https://www.aclweb.org/anthology/2020.coling-main.139/)
+
 - Dolores: Deep Contextualized Knowledge Graph Embeddings
 
 - Fine-Grained Evaluation of Knowledge Graph Embedding Models in Downstream Tasks
@@ -1123,8 +1125,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 - AprilE: Attention with Pseudo Residual Connection for Knowledge Graph Embedding
 
 - Knowledge Graph Embedding with Atrous Convolution and Residual Learning
-
-- TeRo: A Time-aware Knowledge Graph Embedding via Temporal Rotation
 
 - Knowledge Graph Embeddings in Geometric Algebras
 
