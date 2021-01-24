@@ -1116,6 +1116,8 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Liang Qu, Huaisheng Zhu, Qiqi Duan, Yuhui Shi. "**Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network**". **WWW 2020**. CCF A. [paper](https://dl.acm.org/doi/10.1145/3366423.3380073)
 
+- Jiasheng Zhang, Yongpan Sheng, Zheng Wang, Jie Shao. "**TKGFrame: A Two-Phase Framework for Temporal-Aware Knowledge Graph Completion**". **APWeb/WAIM 2020**. CCF B. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-60259-8_16)
+
 - Dolores: Deep Contextualized Knowledge Graph Embeddings
 
 - Fine-Grained Evaluation of Knowledge Graph Embedding Models in Downstream Tasks
