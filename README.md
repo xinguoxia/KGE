@@ -1254,8 +1254,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning
 
-- Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network
-
 - Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction
 
 - Contextual Parameter Generation for Knowledge Graph Link Prediction
