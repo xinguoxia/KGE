@@ -936,8 +936,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - MSGE: A Multi-step Gated Model for Knowledge Graph Completion
 
-- Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding
-
 - Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study
 
 - Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning
@@ -1112,6 +1110,8 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Varun Ranganathan, Siddharth Suresh, Yash Mathur, Natarajan Subramanyam, Denilson Barbosa. "**GrCluster: a score function to model hierarchy in knowledge graph embeddings**". **SAC 2020**. CCF C. Cite 0. [paper](https://dl.acm.org/doi/10.1145/3341105.3373978)
 
+- Chenjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, Jens Lehmann. "**Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding**". **ISWC**.  CCF B. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_37)
+
 - Dolores: Deep Contextualized Knowledge Graph Embeddings
 
 - Fine-Grained Evaluation of Knowledge Graph Embedding Models in Downstream Tasks
@@ -1177,8 +1177,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 - ExCut: Explainable Embedding-Based Clustering over Knowledge Graphs
 
 - Fantastic Knowledge Graph Embeddings and How to Find the Right Space for Them
-
-- Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding
 
 - DGL-KE: Training Knowledge Graph Embeddings at Scale
 
@@ -1347,8 +1345,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 - BoxE: A Box Embedding Model for Knowledge Base Completion
 
 - Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion
-
-- Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding
 
 - Modeling Relation Path for Knowledge Graph via Dynamic Projection
 
