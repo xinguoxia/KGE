@@ -1114,6 +1114,8 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, Jens Lehmann. "**TeRo: A Time-aware Knowledge Graph Embedding via Temporal Rotation**". **COLING 2020**. CCF B. [paper](https://www.aclweb.org/anthology/2020.coling-main.139/)
 
+- Liang Qu, Huaisheng Zhu, Qiqi Duan, Yuhui Shi. "**Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network**". **WWW 2020**. CCF A. [paper](https://dl.acm.org/doi/10.1145/3366423.3380073)
+
 - Dolores: Deep Contextualized Knowledge Graph Embeddings
 
 - Fine-Grained Evaluation of Knowledge Graph Embedding Models in Downstream Tasks
