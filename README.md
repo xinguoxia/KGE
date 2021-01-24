@@ -902,8 +902,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - A Re-evaluation of Knowledge Graph Completion Methods
 
-- TKGFrame: A Two-Phase Framework for Temporal-Aware Knowledge Graph Completion
-
 - Translating Embedding with Local Connection for Knowledge Graph Completion
 
 - The Impact of Negative Triple Generation Strategies and Anomalies on Knowledge Graph Completion
@@ -1309,6 +1307,8 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 - Asan Agibetov, Matthias Samwald. "**Benchmarking neural embeddings for link prediction in knowledge graphs under semantic and structural changes**". **CoRR 2020-05**. Cite 0. [paper](https://arxiv.org/abs/2005.07654)
 
 - Rajarshi Das, Ameya Godbole, Shehzaad Dhuliawala, Manzil Zaheer, Andrew McCallum. "**A Simple Approach to Case-Based Reasoning in Knowledge Bases**". **CoRR 2020-06**. Cite 0. [paper](https://arxiv.org/abs/2006.14198)
+
+- Zhen Han, Peng Chen, Yunpu Ma, Volker Tresp. "**DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion**". **EMNLP 2020**. CCF B. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.593/)
 
 - Reasoning on Knowledge Graphs with Debate Dynamics.
 
