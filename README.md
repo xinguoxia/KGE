@@ -3,7 +3,7 @@ Some papers on Knowledge Graph Embedding(KGE)
 
 Thanks for your attention and kind words! We will update KGE later.
 
-Welcome to join our small wechat group via email, to learn and talk about KGE.
+Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ## Contents
 
