@@ -862,11 +862,12 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Kai Wang, Yu Liu, Xiujuan Xu, Quan Z. Sheng. **Enhancing knowledge graph embedding by composite neighbors for link prediction**. **Computing**. [paper](https://link.springer.com/article/10.1007%2Fs00607-020-00842-5)
 
-- A semi-supervised model for knowledge graph embedding
+- Md. Mostafizur Rahman, Atsuhiro Takasu. "**Leveraging Entity-Type Properties in the Relational Context for Knowledge Graph Embedding**". **IEICE Trans. Inf. Syst. 2020**. [paper](https://www.jstage.jst.go.jp/article/transinf/E103.D/5/E103.D_2019DAP0007/_article)
 
-- Leveraging Entity-Type Properties in the Relational Context for Knowledge Graph Embedding
+- Siheng Zhang, Zhengya Sun, Wensheng Zhang. "**Improve the translational distance models for knowledge graph embedding**". **J. Intell. Inf. Syst. 2020**. [paper](https://link.springer.com/article/10.1007/s10844-019-00592-7)
 
-- Improve the translational distance models for knowledge graph embedding
+a service of Schloss Dagstuhl - Leibniz Center for Informatics	homebrowsesearchabout
+w3c valid html retrieved on 2021-01-30 14:53 CET fr
 
 - Generative adversarial networks based on Wasserstein distance for knowledge graph embeddings
 
