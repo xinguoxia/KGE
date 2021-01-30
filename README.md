@@ -866,11 +866,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Siheng Zhang, Zhengya Sun, Wensheng Zhang. "**Improve the translational distance models for knowledge graph embedding**". **J. Intell. Inf. Syst. 2020**. [paper](https://link.springer.com/article/10.1007/s10844-019-00592-7)
 
-a service of Schloss Dagstuhl - Leibniz Center for Informatics	homebrowsesearchabout
-w3c valid html retrieved on 2021-01-30 14:53 CET fr
-
-- Generative adversarial networks based on Wasserstein distance for knowledge graph embeddings
-
 - Knowledge graph entity typing via learning connecting embeddings
 
 - Aggregating neighborhood information for negative sampling for knowledge graph embedding
