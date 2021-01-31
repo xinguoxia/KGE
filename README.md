@@ -1126,29 +1126,29 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Yuzhang Liu, Peng Wang, Yingtai Li, Yizhan Shao, Zhongkai Xu. "**AprilE: Attention with Pseudo Residual Connection for Knowledge Graph Embedding**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.44/)
 
-- Fine-Grained Evaluation of Knowledge Graph Embedding Models in Downstream Tasks
+- Yuxin Zhang, Bohan Li, Han Gao, Ye Ji, Han Yang, Meng Wang. "**Fine-Grained Evaluation of Knowledge Graph Embedding Models in Downstream Tasks**". **APWeb/WAIM 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-60259-8_19)
 
-- Knowledge Graph Embedding with Atrous Convolution and Residual Learning
+- Feiliang Ren, Juchen Li, Huihui Zhang, Shilei Liu, Bochao Li, Ruicheng Ming, Yujia Bai. "**Knowledge Graph Embedding with Atrous Convolution and Residual Learning**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.134/)
 
-- Knowledge Graph Embeddings in Geometric Algebras
+- Chengjin Xu, Mojtaba Nayyeri, Yung-Yu Chen, Jens Lehmann. "**Knowledge Graph Embeddings in Geometric Algebras**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.46/)
 
-- PDKE: An Efficient Distributed Embedding Framework for Large Knowledge Graphs
+- Sicong Dong, Xin Wang, Lele Chai, Jianxin Li, Yajun Yang. "**PDKE: An Efficient Distributed Embedding Framework for Large Knowledge Graphs**". **DASFAA 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-59416-9_35)
 
-- CTransE: An Effective Information Credibility Evaluation Method Based on Classified Translating Embedding in Knowledge Graphs
+- Yunfeng Li, Xiaoyong Li, Mingjian Lei. "**CTransE: An Effective Information Credibility Evaluation Method Based on Classified Translating Embedding in Knowledge Graphs**". **DEXA 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-59051-2_19)
 
-- A Knowledge Graph Embedding Method Based on Neural Network
+- Chenchen Li, Aiping Li, Hongkui Tu, Ye Wang, Changhai Wang. "**A Knowledge Graph Embedding Method Based on Neural Network**". **DSC 2020**. [paper](https://ieeexplore.ieee.org/document/9172840)
 
-- BTDE: Block Term Decomposition Embedding for Link Prediction in Knowledge Graph
+- Tao Luo, Yifan Wei, Mei Yu, Xuewei Li, Mankun Zhao, Tianyi Xu, Jian Yu, Jie Gao, Ruiguo Yu. "**BTDE: Block Term Decomposition Embedding for Link Prediction in Knowledge Graph**". **ECAI 2020**. [paper](http://ebooks.iospress.nl/publication/54966)
 
-- MDE: Multiple Distance Embeddings for Link Prediction in Knowledge Graphs
+- Afshin Sadeghi, Damien Graux, Hamed Shariat Yazdi, Jens Lehmann. "**MDE: Multiple Distance Embeddings for Link Prediction in Knowledge Graphs**". **ECAI 2020**. [paper](http://ebooks.iospress.nl/publication/55043)
 
-- Multi-Partition Embedding Interaction with Block Term Format for Knowledge Graph Completion
+- Hung Nghiep Tran, Atsuhiro Takasu. "**Multi-Partition Embedding Interaction with Block Term Format for Knowledge Graph Completion**". **ECAI 2020**. [paper](http://ebooks.iospress.nl/publication/54968)
 
-- A Hash Learning Framework for Search-Oriented Knowledge Graph Embedding
+- Meng Wang, Tongtong Wu, Guilin Qi. "**A Hash Learning Framework for Search-Oriented Knowledge Graph Embedding**". **ECAI 2020**. [paper](http://ebooks.iospress.nl/publication/54979)
 
-- Improving Knowledge Graph Embedding Using Locally and Globally Attentive Relation Paths
+- Ningning Jia, Xiang Cheng, Sen Su. "**Improving Knowledge Graph Embedding Using Locally and Globally Attentive Relation Paths**". **ECIR 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-45439-5_2)
 
-- Debiasing knowledge graph embeddings
+- Joseph Fisher, Arpit Mittal, Dave Palfrey, Christos Christodoulopoulos. "**Debiasing knowledge graph embeddings**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.595/)
 
 - A Greedy Bit-flip Training Algorithm for Binarized Knowledge Graph Embeddings
 
@@ -1231,10 +1231,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 - Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction
 
 - Exploiting Common Neighbor Graph for Link Prediction
-
-- BTDE: Block Term Decomposition Embedding for Link Prediction in Knowledge Graph
-
-- MDE: Multiple Distance Embeddings for Link Prediction in Knowledge Graphs
 
 - Link Prediction: A Graphical Model Approach
 
