@@ -1120,15 +1120,13 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Prachi Jain, Sushant Rathi, Mausam, Soumen Chakrabarti. "**Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols**". **EMNLP 2020**. CCF B. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.305/)
 
-- Dolores: Deep Contextualized Knowledge Graph Embeddings
+- Haoyu Wang, Vivek Kulkarni, William Yang Wang. "**Dolores: Deep Contextualized Knowledge Graph Embeddings**". **AKBC 2020**. [paper](https://www.akbc.ws/2020/papers/ajrveGQBl0)
+
+- Hao Huang, Guodong Long, Tao Shen, Jing Jiang, Chengqi Zhang. "**RatE: Relation-Adaptive Translating Embedding for Knowledge Graph Completion**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.48/)
+
+- Yuzhang Liu, Peng Wang, Yingtai Li, Yizhan Shao, Zhongkai Xu. "**AprilE: Attention with Pseudo Residual Connection for Knowledge Graph Embedding**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.44/)
 
 - Fine-Grained Evaluation of Knowledge Graph Embedding Models in Downstream Tasks
-
-- Translating Embedding with Local Connection for Knowledge Graph Completion
-
-- RatE: Relation-Adaptive Translating Embedding for Knowledge Graph Completion
-
-- AprilE: Attention with Pseudo Residual Connection for Knowledge Graph Embedding
 
 - Knowledge Graph Embedding with Atrous Convolution and Residual Learning
 
