@@ -217,7 +217,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ### Emergents
 
-#### Few Shot
+#### [Few Shot](https://github.com/xinguoxia/KGE/blob/master/Emergents/FewShot.md)
 
 | Year | Source |	Methods |
 |:----:|:------:|:-------:|
