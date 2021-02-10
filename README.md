@@ -17,7 +17,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - LibKGE [code](https://github.com/uma-pi1/kge)
 - OpenKE [code](https://github.com/thunlp/OpenKE)
-- BioKEEN [code](https://github.com/SmartDataAnalytics/BioKEEN)
+- PyKEEN [code](https://github.com/pykeen/pykeen)
 - Pykg2vec [code](https://github.com/Sujit-O/pykg2vec)
 - GraphVite [code](https://github.com/DeepGraphLearning/graphvite)
 - Scikit-KGE [code](https://github.com/mnick/scikit-kge)
