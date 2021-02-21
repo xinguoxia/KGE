@@ -1108,264 +1108,31 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - <a name="EKGR"></a> **(EKGR)** Rajarshi Bhowmik, Gerard de Melo. "**Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_3)
 
+- <a name="BCRL"></a> **(BCRL)** Gang Wu, Wenfang Wu, Leilei Li, Guodong Zhao, Donghong Han, Baiyou Qiao. "**BCRL: Long Text Friendly Knowledge Graph Representation Learning**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_36)
 
+- Mojtaba Nayyeri, Chengjin Xu, Sahar Vahdati, Nadezhda Vassilyeva, Emanuel Sallinger, Hamed Shariat Yazdi, Jens Lehmann. "**Fantastic Knowledge Graph Embeddings and How to Find the Right Space for Them**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_25)
 
+##### ESWC
 
-- Paolo Rosso, Dingqi Yang, Philippe Cudré-Mauroux. "**Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction**". **WWW 2020**. CCF A. Cite 5. [paper](https://doi.org/10.1145/3366423.3380257)
+- <a name="HyperKG"></a> **(HyperKG)** Prodromos Kolyvakis, Alexandros Kalousis, Dimitris Kiritsis. "**Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion**". **ESWC 2020**. [paper](https://doi.org/10.1007/978-3-030-49461-2_12)
 
-- Jiaoyan Chen, Xi Chen, Ian Horrocks, Ernesto Jiménez-Ruiz, Erik B. Myklebust. "**Correcting Knowledge Base Assertions**". **WWW 2020**. CCF A. Cite 3. [paper](https://dl.acm.org/doi/10.1145/3366423.3380226)
+- <a name="YAGO4"></a> **(YAGO4)** Thomas Pellissier Tanon, Gerhard Weikum, Fabian M. Suchanek. "**YAGO 4: A Reason-able Knowledge Base**. **ESWC 2020**. [paper](https://doi.org/10.1007/978-3-030-49461-2_34)
 
-- Unmesh Joshi, Jacopo Urbani. "**Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning**". **WWW 2020**. CCF A. Cite 0. [paper](https://doi.org/10.1145/3366423.3380043)
+##### WWW
 
-- Aisha Mohamed, Shameem Puthiya Parambath, Zoi Kaoudi, Ashraf Aboulnaga. "**Popularity Agnostic Evaluation of Knowledge Graph Embeddings**". **UAI 2020**. CCF B. Cite 0. [paper](http://www.auai.org/uai2020/proceedings/440_main_paper.pdf)
+- Jiaoyan Chen, Xi Chen, Ian Horrocks, Ernesto Jiménez-Ruiz, Erik B. Myklebust. "**Correcting Knowledge Base Assertions**". **WWW 2020**. [paper](https://dl.acm.org/doi/10.1145/3366423.3380226)
 
+- <a name="GETD"></a> **(GETD)** Yu Liu, Quanming Yao, Yong Li. "**Generalizing Tensor Decomposition for N-ary Relational Knowledge Bases**. **WWW 2020**. [paper](https://dl.acm.org/doi/10.1145/3366423.3380188)
 
+- <a name="HINGE"></a> **(HINGE)** Paolo Rosso, Dingqi Yang, Philippe Cudré-Mauroux. "**Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction**". **WWW 2020**. [paper](https://doi.org/10.1145/3366423.3380257)
 
-- Zeyuan Cui, Shijun Liu, Li Pan, Qiang He. "**Translating Embedding with Local Connection for Knowledge Graph Completion**". **AAMAS 2020**. CCF B. Cite 0. [paper](https://dl.acm.org/doi/abs/10.5555/3398761.3398995)
+- Unmesh Joshi, Jacopo Urbani. "**Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning**". **WWW 2020**. [paper](https://doi.org/10.1145/3366423.3380043)
 
-- Da Xu, Chuanwei Ruan, Jason Cho, Evren Körpeoglu, Sushant Kumar, Kannan Achan. "**Knowledge-aware Complementary Product Representation Learning**". CCF B. **WSDM 2020**. Cite 1. [paper](https://doi.org/10.1145/3336191.3371854)
-
-- Thomas Pellissier Tanon, Gerhard Weikum, Fabian M. Suchanek. "**YAGO 4: A Reason-able Knowledge Base**. **ESWC 2020**. CCF C. Cite 8. [paper](https://doi.org/10.1007/978-3-030-49461-2_34)
-
-- Prodromos Kolyvakis, Alexandros Kalousis, Dimitris Kiritsis. "**Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion**". **ESWC 2020**. CCF C. Cite 1. [paper](https://doi.org/10.1007/978-3-030-49461-2_12)
-
-- Giorgos Stoilos , Damir Juric, Szymon Wartak, Claudia Schulz , Mohammad Khodadadi. "**Hybrid Reasoning Over Large Knowledge Bases Using On-The-Fly Knowledge Extraction**". **ESWC 2020**. CCF C. Cite 0.[paper](https://doi.org/10.1007/978-3-030-49461-2_5)
-
-- Ningning Jia, Xiang Cheng, Sen Su. "**Improving Knowledge Graph Embedding Using Locally and Globally Attentive Relation Paths**". **ECIR 2020**. CCF C. Cite 0. [paper](https://doi.org/10.1007/978-3-030-45439-5_2)
-
-- Chunyang Tan, Kaijia Yang, Xinyu Dai, Shujian Huang, Jiajun Chen. "**MSGE: A Multi-step Gated Model for Knowledge Graph Completion**". **PAKDD 2020**. CCF C. Cite 0. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-47426-3_33)
-
-- Varun Ranganathan, Siddharth Suresh, Yash Mathur, Natarajan Subramanyam, Denilson Barbosa. "**GrCluster: a score function to model hierarchy in knowledge graph embeddings**". **SAC 2020**. CCF C. Cite 0. [paper](https://dl.acm.org/doi/10.1145/3341105.3373978)
-
-- Chenjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, Jens Lehmann. "**Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding**". **ISWC**.  CCF B. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_37)
-
-
-
-- Liang Qu, Huaisheng Zhu, Qiqi Duan, Yuhui Shi. "**Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network**". **WWW 2020**. CCF A. [paper](https://dl.acm.org/doi/10.1145/3366423.3380073)
-
-- Jiasheng Zhang, Yongpan Sheng, Zheng Wang, Jie Shao. "**TKGFrame: A Two-Phase Framework for Temporal-Aware Knowledge Graph Completion**". **APWeb/WAIM 2020**. CCF B. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-60259-8_16)
-
-- Lifan Lin, Kun She. "**Tensor Decomposition-Based Temporal Knowledge Graph Embedding**". **ICTAI 2020**. CCF C. [paper](https://ieeexplore.ieee.org/document/9288194)
-
-
-
-- Haoyu Wang, Vivek Kulkarni, William Yang Wang. "**Dolores: Deep Contextualized Knowledge Graph Embeddings**". **AKBC 2020**. [paper](https://www.akbc.ws/2020/papers/ajrveGQBl0)
-
-- Hao Huang, Guodong Long, Tao Shen, Jing Jiang, Chengqi Zhang. "**RatE: Relation-Adaptive Translating Embedding for Knowledge Graph Completion**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.48/)
-
-- Yuzhang Liu, Peng Wang, Yingtai Li, Yizhan Shao, Zhongkai Xu. "**AprilE: Attention with Pseudo Residual Connection for Knowledge Graph Embedding**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.44/)
-
-- Yuxin Zhang, Bohan Li, Han Gao, Ye Ji, Han Yang, Meng Wang. "**Fine-Grained Evaluation of Knowledge Graph Embedding Models in Downstream Tasks**". **APWeb/WAIM 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-60259-8_19)
-
-- Feiliang Ren, Juchen Li, Huihui Zhang, Shilei Liu, Bochao Li, Ruicheng Ming, Yujia Bai. "**Knowledge Graph Embedding with Atrous Convolution and Residual Learning**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.134/)
-
-- Chengjin Xu, Mojtaba Nayyeri, Yung-Yu Chen, Jens Lehmann. "**Knowledge Graph Embeddings in Geometric Algebras**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.46/)
-
-- Sicong Dong, Xin Wang, Lele Chai, Jianxin Li, Yajun Yang. "**PDKE: An Efficient Distributed Embedding Framework for Large Knowledge Graphs**". **DASFAA 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-59416-9_35)
-
-- Yunfeng Li, Xiaoyong Li, Mingjian Lei. "**CTransE: An Effective Information Credibility Evaluation Method Based on Classified Translating Embedding in Knowledge Graphs**". **DEXA 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-59051-2_19)
-
-- Chenchen Li, Aiping Li, Hongkui Tu, Ye Wang, Changhai Wang. "**A Knowledge Graph Embedding Method Based on Neural Network**". **DSC 2020**. [paper](https://ieeexplore.ieee.org/document/9172840)
-
-- Tao Luo, Yifan Wei, Mei Yu, Xuewei Li, Mankun Zhao, Tianyi Xu, Jian Yu, Jie Gao, Ruiguo Yu. "**BTDE: Block Term Decomposition Embedding for Link Prediction in Knowledge Graph**". **ECAI 2020**. [paper](http://ebooks.iospress.nl/publication/54966)
-
-- Afshin Sadeghi, Damien Graux, Hamed Shariat Yazdi, Jens Lehmann. "**MDE: Multiple Distance Embeddings for Link Prediction in Knowledge Graphs**". **ECAI 2020**. [paper](http://ebooks.iospress.nl/publication/55043)
-
-- Hung Nghiep Tran, Atsuhiro Takasu. "**Multi-Partition Embedding Interaction with Block Term Format for Knowledge Graph Completion**". **ECAI 2020**. [paper](http://ebooks.iospress.nl/publication/54968)
-
-- Meng Wang, Tongtong Wu, Guilin Qi. "**A Hash Learning Framework for Search-Oriented Knowledge Graph Embedding**". **ECAI 2020**. [paper](http://ebooks.iospress.nl/publication/54979)
-
-- Ningning Jia, Xiang Cheng, Sen Su. "**Improving Knowledge Graph Embedding Using Locally and Globally Attentive Relation Paths**". **ECIR 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-45439-5_2)
-
-- Joseph Fisher, Arpit Mittal, Dave Palfrey, Christos Christodoulopoulos. "**Debiasing knowledge graph embeddings**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.595/)
-
-- A Greedy Bit-flip Training Algorithm for Binarized Knowledge Graph Embeddings
-
-- AutoETER: Automated Entity Type Representation with Relation-Aware Attention for Knowledge Graph Embedding
-
-- Evaluating the Calibration of Knowledge Graph Embeddings for Trustworthy Link Prediction
-
-- Knowledge Association with Hyperbolic Knowledge Graph Embeddings
-
-- Affinity Dependent Negative Sampling for Knowledge Graph Embeddings
-
-- Conditional Constraints for Knowledge Graph Embeddings
-
-- Knowledge Graph Embedding Based on Relevance and Inner Sequence of Relations
-
-- Neighborhood Aggregation Embedding Model for Link Prediction in Knowledge Graphs
-
-- KGvec2go - Knowledge Graph Embeddings as a Service
-
-- Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs.
-
-- Interstellar: Searching Recurrent Architecture for Knowledge Graph Embedding
-
-- GrCluster: a score function to model hierarchy in knowledge graph embeddings
-
-- ExCut: Explainable Embedding-Based Clustering over Knowledge Graphs
-
-- Fantastic Knowledge Graph Embeddings and How to Find the Right Space for Them
-
-- DGL-KE: Training Knowledge Graph Embeddings at Scale
-
-- Popularity Agnostic Evaluation of Knowledge Graph Embeddings
-
-- TransMVG: Knowledge Graph Embedding Based on Multiple-Valued Gates
-
-- Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning
-
-- Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction
-
-- Rule-Guided Compositional Representation Learning on Knowledge Graphs
-
-- Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Knowledge Graph Embedding
-
-- TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure
-
-- A Contextualized Entity Representation for Knowledge Graph Completion
-
-- BCRL: Long Text Friendly Knowledge Graph Representation Learning
-
-- Differentiable Reasoning on Large Knowledge Bases and Natural Language
-
-- Few-Shot Multi-Hop Relation Reasoning over Knowledge Bases
-
-- Hybrid Reasoning Over Large Knowledge Bases Using On-The-Fly Knowledge Extraction
-
-- Scalable Neural Methods for Reasoning With a Symbolic Knowledge Base
-
-- Sequential Fuzzy Description Logic: Reasoning for Fuzzy Knowledge Bases with Sequential Information
-
-- Bridging Text and Knowledge with Multi-Prototype Embedding for Few-Shot Relational Triple Extraction
-
-- Semi-Supervised Learning of Processes Over Multi-Relational Graphs
-
-- Composition-based Multi-Relational Graph Convolutional Networks
-
-- MR-GCN: Multi-Relational Graph Convolutional Networks based on Generalized Tensor Product
-
-- Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs
-
-- EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning
-
-- The Research of Link Prediction in Knowledge Graph based on Distance Constraint
-
-- A Multi-Scale Approach for Graph Link Prediction
-
-- Contextual Parameter Generation for Knowledge Graph Link Prediction
-
-- Link Prediction between Group Entities in Knowledge Graphs
-
-- Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction
-
-- Exploiting Common Neighbor Graph for Link Prediction
-
-- Link Prediction: A Graphical Model Approach
-
-- Neighborhood Aggregation Embedding Model for Link Prediction in Knowledge Graphs
-
-- Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction
-
-- Link prediction via community detection in bipartite multi-layer graphs
-
-- Interpreting Link Prediction on Knowledge Graphs
-
-- Explainable Link Prediction for Emerging Entities in Knowledge Graphs
-
-- Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning
-
-- Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction
-
-- Contextual Parameter Generation for Knowledge Graph Link Prediction
-
-- BTDE: Block Term Decomposition Embedding for Link Prediction in Knowledge Graph
-
-- Evaluating the Calibration of Knowledge Graph Embeddings for Trustworthy Link Prediction
-
-- Neighborhood Aggregation Embedding Model for Link Prediction in Knowledge Graphs
-
-- Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction
-
-- Interpreting Link Prediction on Knowledge Graphs
-
-- Explainable Link Prediction for Emerging Entities in Knowledge Graphs
-
-- Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction
-
-- Dynamic Anticipation and Completion for Multi-Hop Reasoning over Sparse Knowledge Graph
-
-- Dynamic Knowledge Graph Completion with Jointly Structural and Textual Dependency
-
-- Modeling Relation Path for Knowledge Graph via Dynamic Projection
-
-- Generalizing Tensor Decomposition for N-ary Relational Knowledge Bases
-
-- Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs
-
-- Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion
+- Liang Qu, Huaisheng Zhu, Qiqi Duan, Yuhui Shi. "**Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network**". **WWW 2020**. [paper](https://dl.acm.org/doi/10.1145/3366423.3380073)
 
 #### Arxiv
 
-- Yunpu Ma, Yuyi Wang, Volker Tresp. "**Quantum Machine Learning Algorithm for Knowledge Graphs**". **CoRR 2020-01**. Cite 0. [paper](https://arxiv.org/abs/2001.01077)
-
-- Andrea Rossi, Donatella Firmani, Antonio Matinata, Paolo Merialdo, Denilson Barbosa. "**Knowledge Graph Embedding for Link Prediction: A Comparative Analysis**". **CoRR 2020-02**. Cite 4. [paper](https://arxiv.org/abs/2002.00819)
-
-- Jianyu Liu, Hegler Tissot. "**Clustering as an Evaluation Protocol for Knowledge Embedding Representation of Categorised Multi-relational Data in the Clinical Domain**". **CoRR 2020-02**. Cite 0. [paper](https://arxiv.org/abs/2002.09473)
-
-- Vassilis N. Ioannidis, Antonio G. Marques, Georgios B. Giannakis. "**Tensor Graph Convolutional Networks for Multi-relational and Robust Learning**". **CoRR 2020-03**. Cite 0. [paper](https://arxiv.org/abs/2003.07729)
-
-- Marjan Albooyeh, Rishab Goel, Seyed Mehran Kazemi. "**Out-of-Sample Representation Learning for Multi-Relational Graphs**". **CoRR 2020-04**. Cite 1. [paper](https://arxiv.org/abs/2004.13230)
-
-- Yanhui Peng, Jing Zhang. "**Knowledge Graph Embedding with Linear Representation for Link Prediction**". **CoRR 2020-04**. Cite 0. [paper](https://arxiv.org/abs/2004.10037)
-
-- Bishal Santra, Prakhar Sharma, Sumegh Roychowdhury, Pawan Goyal. "**Exploring Effects of Random Walk Based Minibatch Selection Policy on Knowledge Graph Completion**". **CoRR 2020-04**. Cite 0. [paper](https://arxiv.org/abs/2004.05553)
-
-- Rajarshi Bhowmik, Gerard de Melo. "**A Joint Framework for Inductive Representation Learning and Explainable Reasoning in Knowledge Graphs**". **CoRR 2020-05**. Cite 0. [paper](https://arxiv.org/abs/2005.00637)
-
-- Asan Agibetov, Matthias Samwald. "**Benchmarking neural embeddings for link prediction in knowledge graphs under semantic and structural changes**". **CoRR 2020-05**. Cite 0. [paper](https://arxiv.org/abs/2005.07654)
-
-- Rajarshi Das, Ameya Godbole, Shehzaad Dhuliawala, Manzil Zaheer, Andrew McCallum. "**A Simple Approach to Case-Based Reasoning in Knowledge Bases**". **CoRR 2020-06**. Cite 0. [paper](https://arxiv.org/abs/2006.14198)
-
-- Zhen Han, Peng Chen, Yunpu Ma, Volker Tresp. "**DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion**". **EMNLP 2020**. CCF B. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.593/)
-
-- Reasoning on Knowledge Graphs with Debate Dynamics.
-
-- Learning Collaborative Agents with Rule Guidance for Knowledge Graph Reasoning
-
-- Dynamic Anticipation and Completion for Multi-Hop Reasoning over Sparse Knowledge Graph
-
-- MCMH: Learning Multi-Chain Multi-Hop Rules for Knowledge Graph Reasoning
-
-- Neural-Symbolic Relational Reasoning on Graph Models: Effective Link Inference and Computation from Knowledge Bases
-
-- Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning
-
-- Reasoning Like Human: Hierarchical Reinforcement Learning for Knowledge Graph Reasoning
-
-- Commonsense Knowledge Base Completion with Structural and Semantic Context
-
-- OxKBC: Outcome Explanation for Factorization Based Knowledge Base Completion
-
-- Revisiting Evaluation of Knowledge Base Completion Models
-
-- Ranking vs. Classifying: Measuring Knowledge Base Completion Quality
-
-- Embedding based Link Prediction for Knowledge Graph Completion
-
-- IntKB: A Verifiable Interactive Framework for Knowledge Base Completion
-
-- Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion
-
-- PRTransE: Emphasize More Important Facts Based on Pagerank for Knowledge Graph Completion
-
-- Knowledge Base Completion for Constructing Problem-Oriented Medical Records
-
-- BoxE: A Box Embedding Model for Knowledge Base Completion
-
-- Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion
-
-- Modeling Relation Path for Knowledge Graph via Dynamic Projection
+- Da Xu, Chuanwei Ruan, Jason Cho, Evren Körpeoglu, Sushant Kumar, Kannan Achan. "**Knowledge-aware Complementary Product Representation Learning**". **WSDM 2020**. [paper](https://doi.org/10.1145/3336191.3371854)
 
 ## Datasets
 
