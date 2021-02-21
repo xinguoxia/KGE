@@ -1038,33 +1038,78 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - <a name="FIRE"></a> **(FIRE)** Chuxu Zhang, Lu Yu, Mandana Saebi, Meng Jiang, Nitesh V. Chawla. "**Few-Shot Multi-Hop Relation Reasoning over Knowledge Bases**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.51/)
 
-##### Lapse
+##### ECAI
+
+- <a name="BTDE"></a> **(BTDE)** Tao Luo, Yifan Wei, Mei Yu, Xuewei Li, Mankun Zhao, Tianyi Xu, Jian Yu, Jie Gao, Ruiguo Yu. "**BTDE: Block Term Decomposition Embedding for Link Prediction in Knowledge Graph**". **ECAI 2020**. [paper](http://ebooks.iospress.nl/publication/54966)
+
+- <a name="HALF"></a> **(HALF)** Meng Wang, Tongtong Wu, Guilin Qi. "**A Hash Learning Framework for Search-Oriented Knowledge Graph Embedding**". **ECAI 2020**. [paper](http://ebooks.iospress.nl/publication/54979)
+
+- <a name="MDE"></a> **(MDE)** Afshin Sadeghi, Damien Graux, Hamed Shariat Yazdi, Jens Lehmann. "**MDE: Multiple Distance Embeddings for Link Prediction in Knowledge Graphs**". **ECAI 2020**. [paper](http://ebooks.iospress.nl/publication/55043)
+
+- <a name="MEI"></a> **(MEI)** Hung Nghiep Tran, Atsuhiro Takasu. "**Multi-Partition Embedding Interaction with Block Term Format for Knowledge Graph Completion**". **ECAI 2020**. [paper](http://ebooks.iospress.nl/publication/54979)
+
+##### COLING
+
+- <a name="AcrE"></a> **(AcrE)** Feiliang Ren, Juchen Li, Huihui Zhang, Shilei Liu, Bochao Li, Ruicheng Ming, Yujia Bai. "**Knowledge Graph Embedding with Atrous Convolution and Residual Learning**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.134/)
+
+- <a name="AprilE"></a> **(AprilE)** Yuzhang Liu, Peng Wang, Yingtai Li, Yizhan Shao, Zhongkai Xu. "**AprilE: Attention with Pseudo Residual Connection for Knowledge Graph Embedding**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.44/)
+
+- <a name="GeomE"></a> **(GeomE)** Chengjin Xu, Mojtaba Nayyeri, Yung-Yu Chen, Jens Lehmann. "**Knowledge Graph Embeddings in Geometric Algebras**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.46/)
+
+- <a name="RatE"></a> **(RatE)** Hao Huang, Guodong Long, Tao Shen, Jing Jiang, Chengqi Zhang. "**RatE: Relation-Adaptive Translating Embedding for Knowledge Graph Completion**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.48/)
+
+- <a name="TeRo"></a> **(TeRo)** Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, Jens Lehmann. "**TeRo: A Time-aware Knowledge Graph Embedding via Temporal Rotation**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.139/)
+
+##### UAI
+
+- Aisha Mohamed, Shameem Puthiya Parambath, Zoi Kaoudi, Ashraf Aboulnaga. "**Popularity Agnostic Evaluation of Knowledge Graph Embeddings**". **UAI 2020**. [paper](http://proceedings.mlr.press/v124/mohamed20a.html)
+
+##### AAMAS
+
+- <a name="TransL"></a> **(TransL)** Zeyuan Cui, Shijun Liu, Li Pan, Qiang He. "**Translating Embedding with Local Connection for Knowledge Graph Completion**". **AAMAS 2020**. [paper](https://dl.acm.org/doi/abs/10.5555/3398761.3398995)
+
+##### SIGMOD
+
+- <a name="Re-evaluation"></a> **(Re-evaluation)** Farahnaz Akrami, Mohammed Samiul Saeef, Qingheng Zhang, Wei Hu, Chengkai Li. "**Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study**". **SIGMOD 2020**. [paper](https://dl.acm.org/doi/10.1145/3318464.3380599)
+
+##### ICDE
+
+- <a name="AutoSF"></a> **(AutoSF)** Yongqi Zhang, Quanming Yao, Wenyuan Dai, Lei Chen. "**AutoSF: Searching Scoring Functions for Knowledge Graph Embedding**". **ICDE 2020**. [paper](https://doi.org/10.1109/ICDE48307.2020.00044)
+
+##### SIGIR
+
+- <a name="DGL-KE"></a> **(DGL-KE)**	Da Zheng, Xiang Song, Chao Ma, Zeyuan Tan, Zihao Ye, Jin Dong, Hao Xiong, Zheng Zhang, George Karypis. "**DGL-KE: Training Knowledge Graph Embeddings at Scale**". **SIGIR 2020**. [paper](https://dl.acm.org/doi/10.1145/3397271.3401172)
+
+##### CIKM
+
+- <a name="ELP"></a> **(ELP)**	Russa Biswas. "**Embedding based Link Prediction for Knowledge Graph Completion**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3418512)
+
+- <a name="NagE"></a> **(NagE)** Tong Yang, Long Sha, Pengyu Hong. "**NagE: Non-Abelian Group Embedding for Knowledge Graphs**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3411875)
+
+- <a name="NASE"></a> **(NASE)** Xiaoyu Kou, Bingfeng Luo, Huang Hu, Yan Zhang. "**NASE: Learning Knowledge Graph Embedding for Link Prediction via Neural Architecture Search**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412104)
+
+- <a name="SLRE"></a> **(SLRE)** Shu Guo, Lin Li, Zhen Hui, Lingshuai Meng, Bingnan Ma, Wei Liu, Lihong Wang, Haibin Zhai, Hong Zhang. "**Knowledge Graph Embedding Preserving Soft Logical Regularity**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412055)
+
+- Iti Bansal, Sudhanshu Tiwari, Carlos R. Rivero. "**The Impact of Negative Triple Generation Strategies and Anomalies on Knowledge Graph Completion**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412023)
+
+- Hao Tian, Reza Zafarani. "**Exploiting Common Neighbor Graph for Link Prediction**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412023)
+
+- Chang Gao, Chengjie Sun, Lili Shan, Lei Lin, Mingjiang Wang. "**Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Knowledge Graph Embedding**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3411889)
+
+- Yanfei Han, Quan Fang, Jun Hu, Shengsheng Qian, Changsheng Xu. "**GAEAT: Graph Auto-Encoder Attention Networks for Knowledge Graph Completion**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412148)
+
+- Julien Leblay, Melisachew Wudage Chekol, Xin Liu. "**Towards Temporal Knowledge Graph Embeddings with Arbitrary Time Precision**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412028)
+
+- Garima Gaur, Arnab Bhattacharya, Srikanta Bedathur. "**How and Why is An Answer (Still) Correct? Maintaining Provenance in Dynamic Knowledge Graphs**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3411958)
+
+##### ISWC
+
+- <a name="ATiSE"></a> **(ATiSE)** Chenjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, Jens Lehmann. "**Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_37)
+
+- <a name="EKGR"></a> **(EKGR)** Rajarshi Bhowmik, Gerard de Melo. "**Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_3)
 
 
 
-- <a name="DArtNet"></a> **(DArtNet)**  Sankalp Garg, Navodita Sharma, Woojeong Jin, Xiang Ren. "**Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution**". **IJCAI 2020**. CCF A. Cite 1. [paper](https://www.ijcai.org/Proceedings/2020/386) [code](https://github.com/INK-USC/DArtNet)
-
-- Fuxiang Zhang, Xin Wang, Zhao Li, Jianxin Li. "**TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure**". **IJCAI 2020**. CCF A. Cite 0. [paper](https://doi.org/10.24963/ijcai.2020/413)
-
-- Zhiqing Sun, Shikhar Vashishth, Soumya Sanyal, Partha Talukdar and Yiming Yang. "**A Re-evaluation of Knowledge Graph Completion Methods**". **ACL 2020**. CCF A. Cite 16. [paper](https://www.aclweb.org/anthology/2020.acl-main.489/) :fire:
-
-- Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi and Christopher Ré. "**Low-Dimensional Hyperbolic Knowledge Graph Embeddings**". **ACL 2020**. CCF A. Cite 7. [paper](https://www.aclweb.org/anthology/2020.acl-main.617/)
-
-- Yun Tang, Jing Huang, Guangtao Wang, Xiaodong He, Bowen Zhou. "**Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding**". **ACL 2020**. CCF A. Cite 6. [paper](https://www.aclweb.org/anthology/2020.acl-main.241/)
-
-- Mrinmaya Sachan. "**Knowledge Graph Embedding Compression**". **ACL 2020**. CCF A. Cite 2. [paper](https://www.aclweb.org/anthology/2020.acl-main.238/)
-
-- Wentao Xu, Shun Zheng, Liang He, Bin Shao, Jian Yin and Tie-Yan Liu. "**SEEK: Segmented Embedding of Knowledge Graphs**". **ACL 2020**. CCF A. Cite 2. [paper](https://www.aclweb.org/anthology/2020.acl-main.358/)
-
-- Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla. "**Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction**". **ACL 2020**. CCF A. Cite 2. [paper](https://www.aclweb.org/anthology/2020.acl-main.209/)
-
-- Zhiwen Xie, Guangyou Zhou, Jin Liu and Jimmy Xiangji Huang. "**ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding**". **ACL 2020**. CCF A. Cite 1. [paper](https://www.aclweb.org/anthology/2020.acl-main.526/)
-
-- Yu Zhao, anxiang zhang, Ruobing Xie, Kang Liu and Xiaojie WANG. "**Connecting Embeddings for Knowledge Graph Entity Typing**". **ACL 2020**. CCF A. Cite 0. [paper](https://www.aclweb.org/anthology/2020.acl-main.572/)
-
-- Farahnaz Akrami, Mohammed Samiul Saeef, Qingheng Zhang, Wei Hu, Chengkai Li. "**Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study**". **SIGMOD 2020**. CCF A. Cite 10. [paper](https://dl.acm.org/doi/10.1145/3318464.3380599)
-
-- Yongqi Zhang, Quanming Yao, Wenyuan Dai, Lei Chen. "**AutoSF: Searching Scoring Functions for Knowledge Graph Embedding**". **ICDE 2020**. CCF A. Cite 5. [paper](https://doi.org/10.1109/ICDE48307.2020.00044)
 
 - Paolo Rosso, Dingqi Yang, Philippe Cudré-Mauroux. "**Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction**". **WWW 2020**. CCF A. Cite 5. [paper](https://doi.org/10.1145/3366423.3380257)
 
@@ -1074,23 +1119,7 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Aisha Mohamed, Shameem Puthiya Parambath, Zoi Kaoudi, Ashraf Aboulnaga. "**Popularity Agnostic Evaluation of Knowledge Graph Embeddings**". **UAI 2020**. CCF B. Cite 0. [paper](http://www.auai.org/uai2020/proceedings/440_main_paper.pdf)
 
-- Tong Yang, Long Sha, Pengyu Hong. "**NagE: Non-Abelian Group Embedding for Knowledge Graphs**". **CIKM 2020**. CCF B. Cite 1. [paper](https://dl.acm.org/doi/10.1145/3340531.3411875)
 
-- Iti Bansal, Sudhanshu Tiwari, Carlos R. Rivero. "**The Impact of Negative Triple Generation Strategies and Anomalies on Knowledge Graph Completion**". **CIKM 2020**. CCF B. Cite 0. [paper](https://dl.acm.org/doi/10.1145/3340531.3412023)
-
-- Chang Gao, Chengjie Sun, Lili Shan, Lei Lin, Mingjiang Wang. "**Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Knowledge Graph Embedding**". **CIKM 2020**. CCF B. Cite 0. [paper](https://dl.acm.org/doi/10.1145/3340531.3411889)
-
-- Garima Gaur, Arnab Bhattacharya, Srikanta Bedathur. "**How and Why is An Answer (Still) Correct? Maintaining Provenance in Dynamic Knowledge Graphs**". **CIKM 2020**. CCF B. Cite 0. [paper](https://dl.acm.org/doi/10.1145/3340531.3411958)
-
-- Shu Guo, Lin Li, Zhen Hui, Lingshuai Meng, Bingnan Ma, Wei Liu, Lihong Wang, Haibin Zhai, Hong Zhang. "**Knowledge Graph Embedding Preserving Soft Logical Regularity**". **CIKM 2020**. CCF B. Cite 0. [paper](https://dl.acm.org/doi/10.1145/3340531.3412055)
-
-- Julien Leblay, Melisachew Wudage Chekol, Xin Liu. "**Towards Temporal Knowledge Graph Embeddings with Arbitrary Time Precision**". **CIKM 2020**. CCF B. Cite 0. [paper](https://dl.acm.org/doi/10.1145/3340531.3412028)
-
-- Yanfei Han, Quan Fang, Jun Hu, Shengsheng Qian, Changsheng Xu. "**GAEAT: Graph Auto-Encoder Attention Networks for Knowledge Graph Completion**". **CIKM 2020**. CCF B. Cite 0. [paper](https://dl.acm.org/doi/10.1145/3340531.3412148)
-
-- Xiaoyu Kou, Bingfeng Luo, Huang Hu, Yan Zhang. "**NASE: Learning Knowledge Graph Embedding for Link Prediction via Neural Architecture Search**". **CIKM 2020**. CCF B. Cite 0. [paper](https://dl.acm.org/doi/10.1145/3340531.3412104)
-
-- Russa Biswas. "**Embedding based Link Prediction for Knowledge Graph Completion**". **CIKM 2020**. CCF B. Cite 0. [paper](https://dl.acm.org/doi/10.1145/3340531.3418512)
 
 - Zeyuan Cui, Shijun Liu, Li Pan, Qiang He. "**Translating Embedding with Local Connection for Knowledge Graph Completion**". **AAMAS 2020**. CCF B. Cite 0. [paper](https://dl.acm.org/doi/abs/10.5555/3398761.3398995)
 
@@ -1110,7 +1139,7 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - Chenjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, Jens Lehmann. "**Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding**". **ISWC**.  CCF B. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_37)
 
-- Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, Jens Lehmann. "**TeRo: A Time-aware Knowledge Graph Embedding via Temporal Rotation**". **COLING 2020**. CCF B. [paper](https://www.aclweb.org/anthology/2020.coling-main.139/)
+
 
 - Liang Qu, Huaisheng Zhu, Qiqi Duan, Yuhui Shi. "**Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network**". **WWW 2020**. CCF A. [paper](https://dl.acm.org/doi/10.1145/3366423.3380073)
 
