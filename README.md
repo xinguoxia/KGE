@@ -367,12 +367,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 ### 2016
 
-#### Journal
-
-- Fei Tian, Bin Gao, Enhong Chen, Tie-Yan Liu. "**Learning Better Word Embedding by Asymmetric Low-Rank Projection of Knowledge Graph**". **Journal of Computer Science and Technology 2016**. **Sci 3**. **Impact 1.506**. Cite 9. [paper](https://link.springer.com/article/10.1007%2Fs11390-016-1651-5) 
-
-- Pasquale Minervini, Claudia d'Amato, Nicola Fanizzi. "**Efficient energy-based embedding models for link prediction in knowledge graphs**". **Journal of Intelligent Information Systems 2016**. **Sci 4**. **Impact 1.813**. Cite 9. [paper](https://link.springer.com/article/10.1007%2Fs10844-016-0414-7)
-
 #### Conference
 
 - <a name="Gaifman"></a> **(Gaifman)** Mathias Niepert. "**Discriminative Gaifman Models**". **NeurIPS 2016**. CCF A. Cite 29. [paper](http://papers.nips.cc/paper/6098-discriminative-gaifman-models) [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips29/reviews/1689.html)
@@ -437,11 +431,7 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - **(TransPES)** Yu Wu, Tingting Mu, John Yannis Goulermas. "**Translating on pairwise entity space for knowledge graph embedding**". **Neurocomputing 2017**. **Sci 2**. **Impact 4.438**. Cite 6. [paper](https://www.sciencedirect.com/science/article/pii/S0925231217307968?via%3Dihub) [code](https://github.com/while519/TranPES)
 
-- Liang Chang, Manli Zhu, Tianlong Gu, Chenzhong Bin, Junyan Qian, Ji Zhang. "**Knowledge Graph Embedding by Dynamic Translation**". **IEEE Access 2017**. **Sci 2**. **Impact 3.745**. Cite 18. [paper](https://ieeexplore.ieee.org/document/8057770)
-
 - **(ComplEx)** Théo Trouillon, Christopher R. Dance, Éric Gaussier, Johannes Welbl, Sebastian Riedel, Guillaume Bouchard. "**Knowledge Graph Completion via Complex Tensor Factorization**". **Journal of Machine Learning Research 2017**. **Sci 2**. **Impact 3.484**. Cite 107. [paper](http://jmlr.org/papers/v18/16-563.html) [code](https://github.com/ttrouill/complex) :fire:
-
-- Nico Potyka, Matthias Thimm. "**Inconsistency-tolerant reasoning over linear probabilistic knowledge bases**". **International Journal of Approximate Reasoning 2017**. **Sci 3**. **Impact 2.678**. Cite 4. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0888613X17303705?via%3Dihub)
 
 #### Conference
 
@@ -500,18 +490,6 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 - **(PaSKoGE)** Yantao Jia, Yuanzhuo Wang, Xiaolong Jin, Xueqi Cheng. "**Path-specific knowledge graph embedding**". **Knowledge-based Systems 2018**. **Sci 2**. **Impact 5.921**. Cite 10. [paper](https://www.sciencedirect.com/science/article/pii/S0950705118301448?via%3Dihub)
 
 - Lirong He, Bin Liu, Guangxi Li, Yongpan Sheng, Yafang Wang, Zenglin Xu. "**Knowledge Base Completion by Variational Bayesian Neural Tensor Decomposition**". **Cognitive Computation 2018**. **Sci 2**. **Impact 4.287**. Cite 16. [paper](https://link.springer.com/article/10.1007%2Fs12559-018-9565-x) :fire:
-
-- Zhen Tan, Xiang Zhao, Yang Fang, Weidong Xiao. "**GTrans: Generic Knowledge Graph Embedding via Multi-State Entities and Dynamic Relation Spaces**". **IEEE Access 2018**. **Sci 2**. **Impact 3.745**. Cite 12. [paper](https://ieeexplore.ieee.org/document/8269287)
-
-- Huan Gao, Jun Shi, Guilin Qi, Meng Wang. "**Triple Context-Based Knowledge Graph Embedding**". **IEEE Access 2018**. **Sci 2**. **Impact 3.745**. Cite 8. [paper](https://ieeexplore.ieee.org/document/8490812/)
-
-- Hyun-Je Song, Seong-Bae Park. "**Enriching Translation-Based Knowledge Graph Embeddings Through Continual Learning**". **IEEE Access 2018**. **Sci 2**. **Impact 3.745**. Cite 2. [paper](https://ieeexplore.ieee.org/document/8486959)
-
-- Xiao Han, Chunhong Zhang, Tingting Sun, Yang Ji, Zheng Hu. "**A Triple-Branch Neural Network for Knowledge Graph Embedding**". **IEEE Access 2018**. **Sci 2**. **Impact 3.745**. Cite 1. [paper](https://ieeexplore.ieee.org/document/8552355)
-
-- Jizhao Zhu, Yantao Jia, Jun Xu, Jianzhong Qiao, Xueqi Cheng. "**Modeling the Correlations of Relations for Knowledge Graph Embedding**. **Journal of Computer Science and Technology 2018**. **Sci 3**. **Impact 1.506**. Cite 8. [paper](https://link.springer.com/article/10.1007/s11390-018-1821-8)
-
-- Yantao Jia, Yuanzhuo Wang, Xiaolong Jin, Hailun Lin, Xueqi Cheng. "**Knowledge Graph Embedding: A Locally and Temporally Adaptive Translation-Based Approach**". **ACM Transactions on the Web 2018**. **Sci 4**. **Impact 1.157**. Cite 10. [paper](https://dl.acm.org/doi/10.1145/3132733)
 
 #### Conference
 
@@ -613,29 +591,9 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 - **(RPE)** Xixun Lin, Yanchun Liang, Fausto Giunchiglia, Xiaoyue Feng, Renchu Guan. "**Relation path embedding in knowledge graphs**". **Neural Computing and Applications 2019**. **Sci 2**. **Impact 4.774**. Cite 10. [paper](https://link.springer.com/article/10.1007%2Fs00521-018-3384-6)
 
-- Ming He, Xiangkun Du, Bo Wang. "**Representation Learning of Knowledge Graphs via Fine-Grained Relation Description Combinations**". **IEEE Access 2019**. **Sci 2**. **Impact 3.745**. Cite 3. [paper](https://ieeexplore.ieee.org/document/8653283)
-
-- Xiaojun Kang, Hong Yao, Qingtao Li, Xinchuan Li, Chao Liu, Lijun Dong. "**TDN: An Integrated Representation Learning Model of Knowledge Graphs**". **IEEE Access 2019**. **Sci 2**. **Impact 3.745**. Cite 2. [paper](https://ieeexplore.ieee.org/document/8698233)
-
-- Jingpei Lei, Dantong Ouyang, Ying Liu. "**Adversarial Knowledge Representation Learning Without External Model**". **IEEE Access 2019**. **Sci 2**. **Impact 3.745**. Cite 1. [paper](https://ieeexplore.ieee.org/document/8599182)
-
-- Wen'an Zhou, Shirui Wang, Chao Jiang. "**Knowledge Graph Embedding With Interactive Guidance From Entity Descriptions**". **IEEE Access 2019**. **Sci 2**. **Impact 3.745**. Cite 1. [paper](https://ieeexplore.ieee.org/document/8886597)
-
-- Weidong Li, Xinyu Zhang, Yaqian Wang, Zhihuan Yan, Rong Peng. "**Graph2Seq: Fusion Embedding Learning for Knowledge Graph Completion**". **IEEE Access 2019**. **Sci 2**. **Impact 3.745**. Cite 1. [paper](https://ieeexplore.ieee.org/document/8886405)
-
 - Chengchun Shi, Wenbin Lu, Rui Song. "**Determining the Number of Latent Factors in Statistical Multi-Relational Learning**". **Journal of Machine Learning Research 2019**. **Sci 2**. **Impact 3.484**. Cite 3. [paper](http://jmlr.org/papers/v20/18-037.html)
 
 - **(ConvKB)** Dai Quoc Nguyen, Dat Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung. "**A convolutional neural network-based model for knowledge base completion and its application to search personalization**". **Semantic Web 2019**. **Sci 3**. **Impact 3.182**. Cite 7. [paper](https://content.iospress.com/articles/semantic-web/sw318)
-
-- Qiannan Zhu, Xiaofei Zhou, Peng Zhang, Yong Shi. "**A neural translating general hyperplane for knowledge graph embedding**". **Journal of Computational Science 2019**. **Sci 3**. **Impact 2.644**. Cite 6. [paper](https://www.sciencedirect.com/science/article/pii/S1877750318310172?via%3Dihub)
-
-- Yu Zhao, Huali Feng, Patrick Gallinari. "**Embedding Learning with Triple Trustiness on Noisy Knowledge Graph**". **Entropy 2019**.  **Sci 3**. **Impact 2.494**. Cite 2. [paper](https://www.mdpi.com/1099-4300/21/11/1083)
-
-- <a name="ConT"></a> **(ConT)** Yunpu Ma, Volker Tresp, Erik A. Daxberger. "**Embedding models for episodic knowledge graphs**". **Journal of Web Semantics 2019**. **Sci 4**. **Impact 2.238**. Cite 18. [paper](https://www.sciencedirect.com/science/article/pii/S1570826818300702?via%3Dihub) :fire:
-
-- Ankur Padia, Konstantinos Kalpakis, Francis Ferraro, Tim Finin. "**Knowledge Graph Fact Prediction via Knowledge-Enriched Tensor Factorization**". **Journal of Web Semantics 2019**. **Sci 4**. **Impact 2.238**. Cite 9. [paper](https://www.sciencedirect.com/science/article/pii/S1570826819300046?via%3Dihub) [code](https://github.com/Ebiquity/KGFP)
-
-- **(AWML)** Chenchen Guo, Chunhong Zhang, Xiao Han, Yang Ji. "**AWML: adaptive weighted margin learning for knowledge graph embedding**". **Journal of Intelligent Information Systems 2019**. **Sci 4**. **Impact 1.813**. Cite 0. [paper](https://link.springer.com/article/10.1007%2Fs10844-018-0535-2)
 
 #### Conference
 
@@ -754,175 +712,33 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 #### Journal
 
-- Yongming Han, GuoFei Chen, Zhongkun Li, Zhiqiang Geng, Fang Li, Bo Ma. "**An asymmetric knowledge representation learning in manifold space**". **Information Sciences 2020**. **Sci 1**. **Impact 5.910**. Cite 1. [paper](https://doi.org/10.1016/j.ins.2020.04.036)
+- Yongming Han, GuoFei Chen, Zhongkun Li, Zhiqiang Geng, Fang Li, Bo Ma. "**An asymmetric knowledge representation learning in manifold space**". **Information Sciences 2020**. **Impact 5.910**. [paper](https://doi.org/10.1016/j.ins.2020.04.036)
 
-- Yuanfei Dai, Shiping Wang, Xing Chen, Chaoyang Xu, Wenzhong Guo. "**Generative adversarial networks based on Wasserstein distance for knowledge graph embeddings**". **Knowledge Based Systems 2020**. **Sci 2**. **Impact 5.921**. Cite 3. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705119305143?via%3Dihub)
+- Richong Zhang, Yongyi Mao, Weihua Zhao. "**Knowledge graphs completion via probabilistic reasoning**". **Information Sciences 2020**. **Impact 5.910**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025520300918?via%3Dihub)
 
-- Chen Li, Xutan Peng, Shanghang Zhang, Hao Peng, Philip S. Yu, Min He, Linfeng Du, Lihong Wang. "**Modeling relation paths for knowledge base completion via joint adversarial training"**. **Knowledge Based Systems 2020**. **Sci 2**. **Impact 5.921**. Cite 0. [paper](https://doi.org/10.1016/j.knosys.2020.105865)
+- Yuanfei Dai, Shiping Wang, Xing Chen, Chaoyang Xu, Wenzhong Guo. "**Generative adversarial networks based on Wasserstein distance for knowledge graph embeddings**". **Knowledge Based Systems 2020**. **Impact 5.921**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705119305143?via%3Dihub)
 
-- Qi Wang, Yongsheng Hao, Jie Cao. "**ADRL: An attention-based deep reinforcement learning framework for knowledge graph reasoning**". **Knowledge Based Systems 2020**. **Sci 2**. **Impact 5.921**. Cite 1. [paper](https://doi.org/10.1016/j.knosys.2020.105910)
+- Chen Li, Xutan Peng, Shanghang Zhang, Hao Peng, Philip S. Yu, Min He, Linfen g Du, Lihong Wang. "**Modeling relation paths for knowledge base completion via joint adversarial training"**. **Knowledge Based Systems 2020**. **Impact 5.921**. [paper](https://doi.org/10.1016/j.knosys.2020.105865)
 
-- Batselem Jagvaral, Wan-Kon Lee, Jae-Seung Roh, Min-Sung Kim, Young-Tack Park. "**Path-based reasoning approach for knowledge graph completion using CNN-BiLSTM with attention mechanism**". **Expert Systems with Applications 2020**. **Sci 2**. **Impact 5.452**. Cite 3. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417419306785?via%3Dihub)
+- Qi Wang, Yongsheng Hao, Jie Cao. "**ADRL: An attention-based deep reinforcement learning framework for knowledge graph reasoning**". **Knowledge Based Systems 2020**. **Impact 5.921**. [paper](https://doi.org/10.1016/j.knosys.2020.105910)
 
-- Kai Lei, Jin Zhang, Yuexiang Xie, Desi Wen, Daoyuan Chen, Min Yang, Ying Shen. "**Path-based reasoning with constrained type attention for knowledge graph completion**". **Neural Computing and Applications 2020**. **Sci 2**. **Impact 4.774**. Cite 4. [paper](https://link.springer.com/article/10.1007%2Fs00521-019-04181-1)
+- Wenti Huang, Yiyu Mao, Zhan Yang, Lei Zhu, Jun Long. "**Relation classification via knowledge graph enhanced transformer encoder**". **Knowledge Based Systems 2020**. **Impact 5.921**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512030486X?via%3Dihub)
 
-- Rui Wang , Bicheng Li , Shengwei Hu , Wenqian Du , Min Zhang. "**Knowledge Graph Embedding via Graph Attenuated Attention Networks**". **IEEE Access 2020**. **Sci 2**. **Impact 3.745**. Cite 6. [paper](https://doi.org/10.1109/ACCESS.2019.2963367)
- 
-- Yashen Wang , Huanhuan Zhang, Ge Shi , Zhirun Liu, Qiang Zhou. "**A Model of Text-Enhanced Knowledge Graph Representation Learning With Mutual Attention**". **IEEE Access 2020**. **Sci 2**. **Impact 3.745**. Cite 1. [paper](https://doi.org/10.1109/ACCESS.2020.2981212)
+- Yu Zhao, Anxiang Zhang, Huali Feng, Qing Li, Patrick Gallinari, Fuji Ren. "**Knowledge graph entity typing via learning connecting embeddings**". **Knowledge Based Systems 2020**. **Impact 5.921**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120301921?via%3Dihub)
 
-- <a name="TDG2E"></a> **(TDG2E)** Xiaoli Tang, Rui Yuan, Qianyu Li, Tengyun Wang, Haizhi Yang, Yundong Cai, Hengjie Song. "**Timespan-Aware Dynamic Knowledge Graph Embedding by Incorporating Temporal Evolution**". **IEEE Access 2020**. **Sci 2**. **Impact 3.745**. Cite 1. [paper](https://ieeexplore.ieee.org/document/8950081)
+- Qi Wang, Yuede Ji, Yongsheng Hao, Jie Cao. "**GRL: Knowledge graph completion with GAN-based reinforcement learning**". **Knowledge Based Systems 2020**. **Impact 5.921**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120305505?via%3Dihub)
 
-- Seungmin Seo, Byungkook Oh, Kyong-Ho Lee. "**Reliable Knowledge Graph Path Representation Learning**". **IEEE Access 2020**. **Sci 2**. **Impact 3.745**. Cite 0. [paper](https://doi.org/10.1109/ACCESS.2020.2973923)
+- Batselem Jagvaral, Wan-Kon Lee, Jae-Seung Roh, Min-Sung Kim, Young-Tack Park. "**Path-based reasoning approach for knowledge graph completion using CNN-BiLSTM with attention mechanism**". **Expert Systems with Applications 2020**. **Impact 5.452**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417419306785?via%3Dihub)
 
-- Zhongwei Zhang, Lei Cao, Xiliang Chen, Wei Tang, Zhixiong Xu, Yangyang Meng. "**Representation Learning of Knowledge Graphs With Entity Attributes**". **IEEE Access 2020**. **Sci 2**. **Impact 3.745**. Cite 3. [paper](https://doi.org/10.1109/ACCESS.2020.2963990)
+- Xiaojun Chen, Shengbin Jia, Ling Ding, Hong Shen, Yang Xiang. "**SDT: An integrated model for open-world knowledge graph reasoning**". **Expert Systems with Applications 2020**. **Impact 5.452**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417420306904?via%3Dihub)
 
-- Takuma Ebisu , Ryutaro Ichise. "**Generalized Translation-Based Embedding of Knowledge Graph**". **IEEE Transactions on Knowledge and Data Engineering 2020**. **Sci 3**. **Impact 4.935**. Cite 5. [paper](https://doi.org/10.1109/TKDE.2019.2893920)
+- Kai Lei, Jin Zhang, Yuexiang Xie, Desi Wen, Daoyuan Chen, Min Yang, Ying Shen. "**Path-based reasoning with constrained type attention for knowledge graph completion**". **Neural Computing and Applications 2020**. **Impact 4.774**. [paper](https://link.springer.com/article/10.1007%2Fs00521-019-04181-1)
 
-- Qi Wang , Yongsheng Hao. "**ALSTM: An attention-based long short-term memory framework for knowledge base reasoning**". **Neurocomputing 2020**. **Sci 3**. **Impact 4.438**. Cite 3. [paper](https://doi.org/10.1016/j.neucom.2020.02.065)
+- Takuma Ebisu, Ryutaro Ichise. "**Generalized Translation-Based Embedding of Knowledge Graph**". **IEEE Transactions on Knowledge and Data Engineering 2020**. **Impact 4.935**. [paper](https://doi.org/10.1109/TKDE.2019.2893920)
 
-- Feng Zhao, Haoran Sun, Langjunqing Jin, Hai Jin. "**Structure-augmented knowledge graph embedding for sparse data with rule learning**". **Computer Communications 2020**. **Sci 3**. **Impact 2.816**. Cite 1. [paper](https://doi.org/10.1016/j.comcom.2020.05.017)
+- Hai Liu, Kairong Hu, Fu Lee Wang, Tianyong Hao. "**Aggregating neighborhood information for negative sampling for knowledge graph embedding**". **Neural Computing and Applications 2020**. **Impact 4.774**. [paper](https://link.springer.com/article/10.1007%2Fs00521-020-04940-5)
 
-- Ruobing Xie, Stefan Heinrich, Zhiyuan Liu, Cornelius Weber, Yuan Yao, Stefan Wermter, Maosong Sun. "**Integrating Image-Based and Knowledge-Based Representation Learning**". **IEEE Transactions on Cognitive and Developmental Systems 2020**. **Sci 3**. **Impact 2.667**. Cite 0. [paper](https://doi.org/10.1109/TCDS.2019.2906685)
-
-- Jia Zhu, Zetao Zheng, Min Yang, Gabriel Pui Cheong Fung, Yong Tang. "**A semi-supervised model for knowledge graph embedding**". **Data Mining and Knowledge Discovery 2020**. **Sci 3**. **Impact 2.629**. Cite 0. [paper](https://link.springer.com/article/10.1007%2Fs10618-019-00653-z)
-
-- Fangfang Liu, Yan Shen, Tienan Zhang, Honghao Gao. "**Entity-related paths modeling for knowledge base completion**". **Frontiers of Computer Science 2020**. **Sci 3**. **Impact 1.275**. Cite 0. [paper](https://link.springer.com/article/10.1007/s11704-019-8264-4)
-
-- Fengyuan Lu, Peijin Cong, Xinli Huang. **Utilizing Textual Information in Knowledge Graph Embedding: A Survey of Methods and Applications**. **IEEE Access**. [paper](https://ieeexplore.ieee.org/document/9094215)
-
-- Jingbin Wang, Wang Zhang, Xinyuan Chen, Jing Lei, Xiaolian Lai. **3DRTE: 3D Rotation Embedding in Temporal Knowledge Graph**. **IEEE Access**. [paper](https://ieeexplore.ieee.org/document/9253009)
-
-- Yuhang Zhang, Jun Wang, Jie Luo. **Knowledge Graph Embedding Based Collaborative Filtering**. **IEEE Access**. [paper](https://ieeexplore.ieee.org/document/9146277)
-
-- Kai Wang, Yu Liu, Xiujuan Xu, Quan Z. Sheng. **Enhancing knowledge graph embedding by composite neighbors for link prediction**. **Computing**. [paper](https://link.springer.com/article/10.1007%2Fs00607-020-00842-5)
-
-- Md. Mostafizur Rahman, Atsuhiro Takasu. "**Leveraging Entity-Type Properties in the Relational Context for Knowledge Graph Embedding**". **IEICE Trans. Inf. Syst. 2020**. [paper](https://www.jstage.jst.go.jp/article/transinf/E103.D/5/E103.D_2019DAP0007/_article)
-
-- Siheng Zhang, Zhengya Sun, Wensheng Zhang. "**Improve the translational distance models for knowledge graph embedding**". **J. Intell. Inf. Syst. 2020**. [paper](https://link.springer.com/article/10.1007/s10844-019-00592-7)
-
-- Knowledge graph entity typing via learning connecting embeddings
-
-- Aggregating neighborhood information for negative sampling for knowledge graph embedding
-
-- Multiview Translation Learning for Knowledge Graph Embedding
-
-- Representation Learning of Knowledge Graphs with Embedding Subspaces
-
-- Generalized Translation-Based Embedding of Knowledge Graph
-
-- Benchmarking neural embeddings for link prediction in knowledge graphs under semantic and structural changes
-
-- A Quaternion-Embedded Capsule Network Model for Knowledge Graph Completion
-
-- Hamming Distance Encoding Multihop Relation Knowledge Graph Completion
-
-- Knowledge Graph Completion: A Review
-
-- Graph Attention Networks With Local Structure Awareness for Knowledge Graph Completion
-
-- Knowledge graphs completion via probabilistic reasoning
-
-- Path-based reasoning approach for knowledge graph completion using CNN-BiLSTM with attention mechanism
-
-- GRL: Knowledge graph completion with GAN-based reinforcement learning
-
-- Path-based reasoning with constrained type attention for knowledge graph completion
-
-- Schema aware iterative Knowledge Graph completion
-
-- Few-Shot Knowledge Graph Completion
-
-- Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion
-
-- A Re-evaluation of Knowledge Graph Completion Methods
-
-- Translating Embedding with Local Connection for Knowledge Graph Completion
-
-- The Impact of Negative Triple Generation Strategies and Anomalies on Knowledge Graph Completion
-
-- Embedding based Link Prediction for Knowledge Graph Completion
-
-- GAEAT: Graph Auto-Encoder Attention Networks for Knowledge Graph Completion
-
-- Learning Physical Common Sense as Knowledge Graph Completion via BERT Data Augmentation and Constrained Tucker Factorization
-
-- Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion
-
-- Incremental Multi-source Entity Resolution for Knowledge Graph Completion
-
-- Dynamic Knowledge Graph Completion with Jointly Structural and Textual Dependency
-
-- PRTransE: Emphasize More Important Facts Based on Pagerank for Knowledge Graph Completion
-
-- RA-GCN: Relational Aggregation Graph Convolutional Network for Knowledge Graph Completion
-
-- Weighted Aggregator for the Open-World Knowledge Graph Completion
-
-- Multi-view Classification Model for Knowledge Graph Completion
-
-- A Re-Ranking Framework for Knowledge Graph Completion
-
-- A Contextualized Entity Representation for Knowledge Graph Completion
-
-- Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion
-
-- MSGE: A Multi-step Gated Model for Knowledge Graph Completion
-
-- Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study
-
-- Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning
-
-- Relation Adversarial Network for Low Resource Knowledge Graph Completion
-
-- Knowledge Graph Representation Learning With Multi-Scale Capsule-Based Embedding Model Incorporating Entity Descriptions
-
-- Reliable Knowledge Graph Path Representation Learning
-
-- A Model of Text-Enhanced Knowledge Graph Representation Learning With Mutual Attention
-
-- Representation Learning of Knowledge Graphs With Entity Attributes
-
-- Distributed representation of knowledge graphs with subgraph-aware proximity
-
-- 3D Learning and Reasoning in Link Prediction Over Knowledge Graphs
-
-- Reinforcement learning with actor-critic for knowledge graph reasoning
-
-- SDT: An integrated model for open-world knowledge graph reasoning
-
-- A review: Knowledge reasoning over knowledge graph
-
-- ADRL: An attention-based deep reinforcement learning framework for knowledge graph reasoning
-
-- Knowledge graphs completion via probabilistic reasoning
-
-- Path-based reasoning with constrained type attention for knowledge graph completion
-
-- Hybrid reasoning in knowledge graphs: Combing symbolic reasoning and statistical reasoning
-
-- ALSTM: An attention-based long short-term memory framework for knowledge base reasoning
-
-- Modeling of complex internal logic for knowledge base completion
-
-- Entity-related paths modeling for knowledge base completion
-
-- Integrated Embedding Approach for Knowledge Base Completion with CNN
-
-- Modeling relation paths for knowledge base completion via joint adversarial training
-
-- GRL: Knowledge graph completion with GAN-based reinforcement learning
-
-- Path-based reasoning with constrained type attention for knowledge graph completion
-
-- Tensor Graph Convolutional Networks for Multi-Relational and Robust Learning
-
-- 3D Learning and Reasoning in Link Prediction Over Knowledge Graphs
-
-- Benchmarking neural embeddings for link prediction in knowledge graphs under semantic and structural changes
-
-- Knowledge base enrichment by relation learning from social tagging data
-
-- Relation classification via knowledge graph enhanced transformer encoder
+- Qi Wang , Yongsheng Hao. "**ALSTM: An attention-based long short-term memory framework for knowledge base reasoning**". **Neurocomputing 2020**. **Impact 4.438**. [paper](https://doi.org/10.1016/j.neucom.2020.02.065)
 
 #### Conference
 
