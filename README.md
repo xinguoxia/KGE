@@ -581,19 +581,30 @@ Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **arxiv 201
 
 #### Journal
 
-- **(TKGE)** Binling Nie, Shouqian Sun. "**Knowledge graph embedding via reasoning over entities, relations, and text**". **Future Generation Computer Systems 2019**. **Sci 1**. **Impact 6.125**. Cite 12. [paper](https://www.sciencedirect.com/science/article/pii/S0167739X17321593?via%3Dihub) :fire:
+##### Future Generation Computer Systems
 
-- **(KEC)** Niannian Guan, Dandan Song, Lejian Liao. "**Knowledge graph embedding with concepts**". **Knowledge-based Systems 2019**. **Sci 2**. **Impact 5.921**. Cite 24. [paper](https://www.sciencedirect.com/science/article/pii/S0950705118304945?via%3Dihub) :fire: :boom:
+- <a name="TKGE"></a> **(TKGE)** Binling Nie, Shouqian Sun. "**Knowledge graph embedding via reasoning over entities, relations, and text**". **Future Gener. Comput. Syst. 2019**. **Impact 6.125**. [paper](https://www.sciencedirect.com/science/article/pii/S0167739X17321593?via%3Dihub) :fire:
 
-- **(ProjFE)** Huajing Liu, Luyi Bai, Xiangnan Ma, Wenting Yu, Changming Xu. "**ProjFE: Prediction of fuzzy entity and relation for knowledge graph completion**". **Applied Soft Computing 2019**. **Sci 2**. **Impact 5.472**. Cite 4. [paper](https://www.sciencedirect.com/science/article/pii/S1568494619302959?via%3Dihub)
+##### Knowledge-based Systems
 
-- Xing Tang, Ling Chen, Jun Cui, Baogang Wei. "**Knowledge representation learning with entity descriptions, hierarchical types, and textual relations**". **Information Processing and Management 2019**. **Sci 2**. **Impact 4.787**. Cite 8. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457318303698?via%3Dihub)
+- <a name="KEC"></a> **(KEC)** Niannian Guan, Dandan Song, Lejian Liao. "**Knowledge graph embedding with concepts**". **Knowl. Based Syst. 2019**. **Impact 5.921**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705118304945?via%3Dihub) :fire: :boom:
 
-- **(RPE)** Xixun Lin, Yanchun Liang, Fausto Giunchiglia, Xiaoyue Feng, Renchu Guan. "**Relation path embedding in knowledge graphs**". **Neural Computing and Applications 2019**. **Sci 2**. **Impact 4.774**. Cite 10. [paper](https://link.springer.com/article/10.1007%2Fs00521-018-3384-6)
+##### Applied Soft Computing
 
-- Chengchun Shi, Wenbin Lu, Rui Song. "**Determining the Number of Latent Factors in Statistical Multi-Relational Learning**". **Journal of Machine Learning Research 2019**. **Sci 2**. **Impact 3.484**. Cite 3. [paper](http://jmlr.org/papers/v20/18-037.html)
+- <a name="ProjFE"></a> **(ProjFE)** Huajing Liu, Luyi Bai, Xiangnan Ma, Wenting Yu, Changming Xu. "**ProjFE: Prediction of fuzzy entity and relation for knowledge graph completion**". **Appl. Soft Comput. 2019**. **Impact 5.472**. [paper](https://www.sciencedirect.com/science/article/pii/S1568494619302959?via%3Dihub)
 
-- **(ConvKB)** Dai Quoc Nguyen, Dat Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung. "**A convolutional neural network-based model for knowledge base completion and its application to search personalization**". **Semantic Web 2019**. **Sci 3**. **Impact 3.182**. Cite 7. [paper](https://content.iospress.com/articles/semantic-web/sw318)
+##### Information Processing and Management
+
+- <a name="MKRL"></a> **(MKRL)** Xing Tang, Ling Chen, Jun Cui, Baogang Wei. "**Knowledge representation learning with entity descriptions, hierarchical types, and textual relations**". **Inf. Process. Manag. 2019**. **Impact 4.787**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457318303698?via%3Dihub)
+
+##### Neural Computing and Applications
+
+- <a name="RPE"></a> **(RPE)** Xixun Lin, Yanchun Liang, Fausto Giunchiglia, Xiaoyue Feng, Renchu Guan. "**Relation path embedding in knowledge graphs**". **Neural Comput. Appl. 2019**. **Impact 4.774**. [paper](https://link.springer.com/article/10.1007%2Fs00521-018-3384-6)
+
+##### Journal of Machine Learning Research
+
+- Chengchun Shi, Wenbin Lu, Rui Song. "**Determining the Number of Latent Factors in Statistical Multi-Relational Learning**". **J. Mach. Learn. Res. 2019**. **Impact 3.484**. [paper](http://jmlr.org/papers/v20/18-037.html)
+
 
 #### Conference
 
