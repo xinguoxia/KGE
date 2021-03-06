@@ -889,7 +889,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### Neural Computing and Applications
 
-- Kai Lei, Jin Zhang, Yuexiang Xie, Desi Wen, Daoyuan Chen, Min Yang, Ying Shen. "**Path-based reasoning with constrained type attention for knowledge graph completion**". **Neural Comput. Appl. 2020**. **Impact 4.774**. [paper](https://link.springer.com/article/10.1007%2Fs00521-019-04181-1)
+- <a name="PRCTA"></a> **(PRCTA)** Kai Lei, Jin Zhang, Yuexiang Xie, Desi Wen, Daoyuan Chen, Min Yang, Ying Shen. "**Path-based reasoning with constrained type attention for knowledge graph completion**". **Neural Comput. Appl. 2020**. **Impact 4.774**. [paper](https://link.springer.com/article/10.1007%2Fs00521-019-04181-1)
 
 - <a name="NKSGAN"></a> **(NKSGAN)** Hai Liu, Kairong Hu, Fu Lee Wang, Tianyong Hao. "**Aggregating neighborhood information for negative sampling for knowledge graph embedding**". **Neural Comput. Appl. 2020**. **Impact 4.774**. [paper](https://link.springer.com/article/10.1007%2Fs00521-020-04940-5)
 
