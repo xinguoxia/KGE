@@ -1107,6 +1107,42 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - Liang Qu, Huaisheng Zhu, Qiqi Duan, Yuhui Shi. "**Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network**". **WWW 2020**. [paper](https://dl.acm.org/doi/10.1145/3366423.3380073)
 
+### 2021
+
+#### Journal
+
+##### Knowledge Based Systems
+
+- <a name="CoRelatE"></a> **(CoRelatE)** Yan Huang, Haili Sun, Ke Xu, Songfeng Lu, Tongyang Wang, Xinfang Zhang. "**CoRelatE: Learning the correlation in multi-fold relations for knowledge graph embedding**". **Knowl. Based Syst. 2021**. **Impact 5.921**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120307309?via%3Dihub)
+
+- <a name="TimE"></a> **(TimE)** Qianjin Zhang, Ronggui Wang, Juan Yang, Lixia Xue. "**Knowledge graph embedding by translating in time domain space for link prediction**". **Knowl. Based Syst. 2021**. **Impact 5.921**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120306936?via%3Dihub)
+
+- <a name="TrustE"></a> **(TrustE)** Yu Zhao, Zhiquan Li, Wei Deng, Ruobing Xie, Qing Li. "**Learning entity type structured embeddings with trustworthiness on noisy knowledge graphs**". **Knowl. Based Syst. 2021**. **Impact 5.921**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120307590?via%3Dihub)
+
+##### Expert Systems with Applications
+
+- <a name="KGEL"></a> **(KGEL)** Adnan Zeb, Anwar Ul Haq, Defu Zhang, Junde Chen, Zhiguo Gong. "**KGEL: A novel end-to-end embedding learning framework for knowledge graph completion**". **Expert Syst. Appl. 2021**. **Impact 5.452**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417420309039?via%3Dihub)
+
+##### IEEE Transactions on Knowledge and Data Engineering
+
+- Han Xiao, Yidong Chen, Xiaodong Shi. "**Knowledge Graph Embedding Based on Multi-View Clustering Framework**". **IEEE Trans. Knowl. Data Eng. 2021**. **Impact 4.935**. [paper](https://ieeexplore.ieee.org/document/8778709)
+
+- <a name="RLvLR"></a> **(RLvLR)** Pouya Ghiasnezhad Omran, Kewen Wang, Zhe Wang. "**An Embedding-Based Approach to Rule Learning in Knowledge Graphs**". **IEEE Trans. Knowl. Data Eng. 2021**. **Impact 4.935**. [paper](https://ieeexplore.ieee.org/document/8839576)
+
+##### Neural Computing and Applications
+
+- <a name="NKSGAN"></a> **(NKSGAN)** Hai Liu, Kairong Hu, Fu Lee Wang, Tianyong Hao. "**Correction to: Aggregating neighborhood information for negative sampling for knowledge graph embedding**". **Neural Comput. Appl. 2021**. **Impact 4.774**. [paper](https://link.springer.com/article/10.1007%2Fs00521-020-04940-5)
+
+##### Neurocomputing 
+
+- Zhifei Li, Hai Liu, Zhaoli Zhang, Tingting Liu, Jiangbo Shu. "**Recalibration convolutional networks for learning interaction knowledge graph embedding**". **Neurocomputing 2021**. **Impact 4.438**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220318506?via%3Dihub)
+
+- Mingda Li, Zhengya Sun, Siheng Zhang, Wensheng Zhang. "**Enhancing knowledge graph embedding with relational constraints**". **Neurocomputing 2021**. **Impact 4.438**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220318932?via%3Dihub)
+
+- Shuangyin Li, Heng Wang, Rong Pan, Mingzhi Mao. "**MemoryPath: A deep reinforcement learning framework for incorporating memory component into knowledge graph reasoning**". **Neurocomputing 2021**. **Impact 4.438**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312959?via%3Dihub)
+
+- Qi Wang, Yongsheng Hao, Feng Chen. "**Deepening the IDA* algorithm for knowledge graph reasoning through neural network architecture.**". **Neurocomputing 2021**. **Impact 4.438**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220319408?via%3Dihub)
+
 ## Datasets
 
 ### Standard
