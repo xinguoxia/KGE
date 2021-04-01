@@ -1143,6 +1143,56 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - Qi Wang, Yongsheng Hao, Feng Chen. "**Deepening the IDA* algorithm for knowledge graph reasoning through neural network architecture.**". **Neurocomputing 2021**. **Impact 4.438**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220319408?via%3Dihub)
 
+#### Conference
+
+##### ICLR
+
+- Interpreting Knowledge Graph Relation Representation from Word Embeddings
+
+- RNNLogic: Learning Logic Rules for Reasoning on Knowledge GraphsPoster
+
+- Learning to Deceive Knowledge Graph Augmented Models via Targeted PerturbationPoster
+
+- Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge GraphsPoster
+
+##### AAAI
+
+- Type-augmented Relation Prediction in Knowledge Graphs
+
+- Knowledge Graph Embeddings with Projective Transformations
+
+- ChronoR: Rotation Based Temporal Knowledge Graph Embedding
+
+- Dual Quaternion Knowledge Graph Embeddings
+
+- GaussianPath: A Bayesian Multi-Hop Reasoning Framework for Knowledge Graph Reasoning
+
+- Topology-Aware Correlations between Relations for Inductive Link Prediction in Knowledge Graphs
+
+- PASSLEAF: A Pool-Based Semi-Supervised Learning Framework for Uncertain Knowledge Graph Embedding
+
+- Learning from History: Modeling Temporal Knowledge Graphs with Sequential Copy-Generation Networks
+
+##### WWW
+
+- MulDE: Multi-teacher Knowledge Distillation for Low-dimensional Knowledge Graph Embeddings
+
+- Knowledge Embedding Based Graph Convolutional Network
+
+- Role-Aware Modeling for N-ary Relational Knowledge Bases
+
+- Efficient Knowledge Graph Embedding without Negative Sampling
+
+- MQuadE: a Unified Model for Knowledge Fact Embedding
+
+- An Adversarial Transfer Network for Knowledge Representation Learning
+
+- Mixed-Curvature Multi-Relational Graph Neural Network for Knowledge Graph Completion
+
+- RETA: A Schema-Aware, End-to-End Solution for Instance Completion in Knowledge Graphs
+
+- Structure-Augmented Text Representation Learning for Efficient Knowledge Graph Completion
+
 ## Datasets
 
 ### Standard
