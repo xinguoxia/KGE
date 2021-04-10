@@ -1119,6 +1119,10 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="TrustE"></a> **(TrustE)** Yu Zhao, Zhiquan Li, Wei Deng, Ruobing Xie, Qing Li. "**Learning entity type structured embeddings with trustworthiness on noisy knowledge graphs**". **Knowl. Based Syst. 2021**. **Impact 5.921**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120307590?via%3Dihub)
 
+##### Neural Networks
+
+- <a name="DAPath"></a> **(DAPath)** Prayag Tiwari, Hongyin Zhu, Hari Mohan Pandey. "**DAPath: Distance-aware knowledge graph reasoning based on deep reinforcement learning**". **Neural Networks 2021**. **Impact 5.5337**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S089360802030410X?via%3Dihub)
+
 ##### Expert Systems with Applications
 
 - <a name="KGEL"></a> **(KGEL)** Adnan Zeb, Anwar Ul Haq, Defu Zhang, Junde Chen, Zhiguo Gong. "**KGEL: A novel end-to-end embedding learning framework for knowledge graph completion**". **Expert Syst. Appl. 2021**. **Impact 5.452**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417420309039?via%3Dihub)
@@ -1141,7 +1145,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - Shuangyin Li, Heng Wang, Rong Pan, Mingzhi Mao. "**MemoryPath: A deep reinforcement learning framework for incorporating memory component into knowledge graph reasoning**". **Neurocomputing 2021**. **Impact 4.438**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312959?via%3Dihub)
 
-- Qi Wang, Yongsheng Hao, Feng Chen. "**Deepening the IDA* algorithm for knowledge graph reasoning through neural network architecture.**". **Neurocomputing 2021**. **Impact 4.438**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220319408?via%3Dihub)
+- Qi Wang, Yongsheng Hao, Feng Chen. "**Deepening the IDA algorithm for knowledge graph reasoning through neural network architecture**". **Neurocomputing 2021**. **Impact 4.438**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220319408?via%3Dihub)
 
 #### Conference
 
@@ -1192,6 +1196,10 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 - RETA: A Schema-Aware, End-to-End Solution for Instance Completion in Knowledge Graphs
 
 - Structure-Augmented Text Representation Learning for Efficient Knowledge Graph Completion
+
+##### WSDM
+
+- <a name="DBKGE"></a> **(DBKGE)** Siyuan Liao, Shangsong Liang, Zaiqiao Meng, Qiang Zhang. "**Learning Dynamic Embeddings for Temporal Knowledge Graphs**". **WSDM 2021**. [paper](https://dl.acm.org/doi/10.1145/3437963.3441741) [code]
 
 ## Datasets
 
