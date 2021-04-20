@@ -1035,7 +1035,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### UAI
 
-- Aisha Mohamed, Shameem Puthiya Parambath, Zoi Kaoudi, Ashraf Aboulnaga. "**Popularity Agnostic Evaluation of Knowledge Graph Embeddings**". **UAI 2020**. [paper](http://proceedings.mlr.press/v124/mohamed20a.html)
+- <a name="Strat-Hits"></a> **(Strat-Hits)** Aisha Mohamed, Shameem Puthiya Parambath, Zoi Kaoudi, Ashraf Aboulnaga. "**Popularity Agnostic Evaluation of Knowledge Graph Embeddings**". **UAI 2020**. [paper](http://proceedings.mlr.press/v124/mohamed20a.html)
 
 ##### AAMAS
 
