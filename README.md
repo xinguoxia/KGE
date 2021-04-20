@@ -901,8 +901,6 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### ICLR
 
-- <a name="Calibration"></a> **(Calibration)** Pedro Tabacof, Luca Costabello. "**Probability Calibration for Knowledge Graph Embedding Models**". **ICLR 2020**. [paper](https://openreview.net/forum?id=S1g8K1BFwS)
-
 - <a name="CompGCN"></a> **(CompGCN)** Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Partha Talukdar. "**Composition-based Multi-Relational Graph Convolutional Networks**". **ICLR 2020**. [paper](https://openreview.net/forum?id=BylA_C4tPr) [code](https://github.com/malllabiisc/CompGCN) :fire:
 
 - <a name="DPMPN"></a> **(DPMPN)** Xiaoran Xu, Wei Feng, Yunsheng Jiang, Xiaohui Xie, Zhiqing Sun, Zhi-Hong Deng. "**Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning**". **ICLR 2020**. [paper](https://openreview.net/forum?id=rkeuAhVKvB) [code](https://github.com/netpaladinx/DPMPN)
@@ -910,6 +908,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 - <a name="DrKIT"></a> **(DrKIT)** Bhuwan Dhingra, Manzil Zaheer, Vidhisha Balachandran, Graham Neubig, Ruslan Salakhutdinov, William W. Cohen. "**Differentiable Reasoning over a Virtual Knowledge Base**". **ICLR 2020**. [paper](https://openreview.net/forum?id=SJxstlHFPH) :fire:
 
 - <a name="Neural-LP-N"></a> **(Neural-LP-N)** Po-Wei Wang, Daria Stepanova, Csaba Domokos, J. Zico Kolter. "**Differentiable learning of numerical rules in knowledge graphs**". **ICLR 2020**. [paper](https://openreview.net/forum?id=rJleKgrKwS)
+
+- <a name="Probability"></a> **(Probability)** Pedro Tabacof, Luca Costabello. "**Probability Calibration for Knowledge Graph Embedding Models**". **ICLR 2020**. [paper](https://openreview.net/forum?id=S1g8K1BFwS)
 
 - <a name="Q2B"></a> **(Q2B)** Hongyu Ren, Weihua Hu, Jure Leskovec. "**Query2box: Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings**". **ICLR 2020**. [paper](https://openreview.net/forum?id=BJgr4kSFDS) :fire:
 
@@ -987,7 +987,11 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### EMNLP
 
-- <a name="Calibration"></a> **(Calibration)** JTara Safavi, Danai Koutra, Edgar Meij. "**Evaluating the Calibration of Knowledge Graph Embeddings for Trustworthy Link Prediction**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.667/)
+- <a name="AutoETER"></a> **(AutoETER)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu, Jingyang Li. "**AutoETER: Automated Entity Type Representation with Relation-Aware Attention for Knowledge Graph Embedding**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.105/)
+
+- <a name="B-CP"></a> **(B-CP)** Katsuhiko Hayashi, Koki Kishimoto, Masashi Shimbo. "**A Greedy Bit-flip Training Algorithm for Binarized Knowledge Graph Embeddings**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.10/)
+
+- <a name="Confidence"></a> **(Confidence)** JTara Safavi, Danai Koutra, Edgar Meij. "**Evaluating the Calibration of Knowledge Graph Embeddings for Trustworthy Link Prediction**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.667/)
 
 - <a name="DacKGR"></a> **(DacKGR)** Xin Lv, Xu Han, Lei Hou, Juanzi Li, Zhiyuan Liu, Wei Zhang, Yichi Zhang, Hao Kong, Suhui Wu. "**Dynamic Anticipation and Completion for Multi-Hop Reasoning over Sparse Knowledge Graph**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.667/)
 
@@ -997,6 +1001,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="FAAN"></a> **(FAAN)** Jiawei Sheng, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu, Hongbo Xu. "**Adaptive Attentional Network for Few-Shot Knowledge Graph Completion**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.131/) [code](https://github.com/JiaweiSheng/FAAN)
 
+- <a name="FIRE"></a> **(FIRE)** Chuxu Zhang, Lu Yu, Mandana Saebi, Meng Jiang, Nitesh V. Chawla. "**Few-Shot Multi-Hop Relation Reasoning over Knowledge Bases**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.51/)
+
 - <a name="HyperKA"></a> **(HyperKA)** Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai, Wei Zhang. "**Knowledge Association with Hyperbolic Knowledge Graph Embeddings**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.460/)
 
 - <a name="RE-Net"></a> **(RE-Net)** Woojeong Jin, Meng Qu, Xisen Jin, Xiang Ren. "**Recurrent Event Network: Autoregressive Structure Inferenceover Temporal Knowledge Graphs**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.541/)
@@ -1004,12 +1010,6 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 - <a name="TeMP"></a> **(TeMP)** Jiapeng Wu, Meng Cao, Jackie Chi Kit Cheung, William L. Hamilton. "**TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.462/)
 
 - <a name="TIMEPLEX"></a> **(TIMEPLEX)** Prachi Jain, Sushant Rathi, Mausam, Soumen Chakrabarti. "**Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.305/)
-
-- <a name="AutoETER"></a> **(AutoETER)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu, Jingyang Li. "**AutoETER: Automated Entity Type Representation with Relation-Aware Attention for Knowledge Graph Embedding**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.105/)
-
-- <a name="B-CP"></a> **(B-CP)** Katsuhiko Hayashi, Koki Kishimoto, Masashi Shimbo. "**A Greedy Bit-flip Training Algorithm for Binarized Knowledge Graph Embeddings**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.10/)
-
-- <a name="FIRE"></a> **(FIRE)** Chuxu Zhang, Lu Yu, Mandana Saebi, Meng Jiang, Nitesh V. Chawla. "**Few-Shot Multi-Hop Relation Reasoning over Knowledge Bases**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.51/)
 
 ##### ECAI
 
