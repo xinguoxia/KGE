@@ -1153,11 +1153,11 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - Interpreting Knowledge Graph Relation Representation from Word Embeddings
 
-- RNNLogic: Learning Logic Rules for Reasoning on Knowledge GraphsPoster
+- RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs
 
-- Learning to Deceive Knowledge Graph Augmented Models via Targeted PerturbationPoster
+- Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation
 
-- Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge GraphsPoster
+- Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs
 
 ##### AAAI
 
