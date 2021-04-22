@@ -1043,7 +1043,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### SIGMOD
 
-- <a name="Re-evaluation"></a> **(Re-evaluation)** Farahnaz Akrami, Mohammed Samiul Saeef, Qingheng Zhang, Wei Hu, Chengkai Li. "**Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study**". **SIGMOD 2020**. [paper](https://dl.acm.org/doi/10.1145/3318464.3380599)
+- <a name="FMRR"></a> **(FMRR)** Farahnaz Akrami, Mohammed Samiul Saeef, Qingheng Zhang, Wei Hu, Chengkai Li. "**Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study**". **SIGMOD 2020**. [paper](https://dl.acm.org/doi/10.1145/3318464.3380599)
 
 ##### ICDE
 
