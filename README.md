@@ -1193,8 +1193,6 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - Mixed-Curvature Multi-Relational Graph Neural Network for Knowledge Graph Completion
 
-- RETA: A Schema-Aware, End-to-End Solution for Instance Completion in Knowledge Graphs
-
 - Structure-Augmented Text Representation Learning for Efficient Knowledge Graph Completion
 
 ##### WSDM
