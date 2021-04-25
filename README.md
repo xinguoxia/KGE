@@ -969,9 +969,9 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="KG-Reeval"></a> **(Re-evaluation)** Zhiqing Sun, Shikhar Vashishth, Soumya Sanyal, Partha Talukdar and Yiming Yang. "**A Re-evaluation of Knowledge Graph Completion Methods**". **ACL 2020**. [paper](https://www.aclweb.org/anthology/2020.acl-main.489/) [code](https://github.com/svjan5/kg-reeval) :fire:
 
-- <a name="ReInceptionE"></a> **(ReInceptionE)** Zhiwen Xie, Guangyou Zhou, Jin Liu and Jimmy Xiangji Huang. "**ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding**". **ACL 2020**. [paper](https://www.aclweb.org/anthology/2020.acl-main.526/)
+- <a name="ReInceptionE"></a> **(ReInceptionE)** Zhiwen Xie, Guangyou Zhou, Jin Liu and Jimmy Xiangji Huang. "**ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding**". **ACL 2020**. [paper](https://www.aclweb.org/anthology/2020.acl-main.526/) [code](https://github.com/JuneTse/ReInceptionE)
 
-- <a name="SEEK"></a> **(SEEK)** Wentao Xu, Shun Zheng, Liang He, Bin Shao, Jian Yin and Tie-Yan Liu. "**SEEK: Segmented Embedding of Knowledge Graphs**". **ACL 2020**. [paper](https://www.aclweb.org/anthology/2020.acl-main.358/)
+- <a name="SEEK"></a> **(SEEK)** Wentao Xu, Shun Zheng, Liang He, Bin Shao, Jian Yin and Tie-Yan Liu. "**SEEK: Segmented Embedding of Knowledge Graphs**". **ACL 2020**. [paper](https://www.aclweb.org/anthology/2020.acl-main.358/) [code](https://github.com/Wentao-Xu/SEEK)
 
 ##### ICML
 
