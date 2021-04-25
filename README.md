@@ -1017,9 +1017,9 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="HALF"></a> **(HALF)** Meng Wang, Tongtong Wu, Guilin Qi. "**A Hash Learning Framework for Search-Oriented Knowledge Graph Embedding**". **ECAI 2020**. [paper](http://ebooks.iospress.nl/publication/54979)
 
-- <a name="MDE"></a> **(MDE)** Afshin Sadeghi, Damien Graux, Hamed Shariat Yazdi, Jens Lehmann. "**MDE: Multiple Distance Embeddings for Link Prediction in Knowledge Graphs**". **ECAI 2020**. [paper](http://ebooks.iospress.nl/publication/55043)
+- <a name="MDE"></a> **(MDE)** Afshin Sadeghi, Damien Graux, Hamed Shariat Yazdi, Jens Lehmann. "**MDE: Multiple Distance Embeddings for Link Prediction in Knowledge Graphs**". **ECAI 2020**. [paper](http://ebooks.iospress.nl/publication/55043) [code](https://github.com/mlwin-de/MDE)
 
-- <a name="MEI"></a> **(MEI)** Hung Nghiep Tran, Atsuhiro Takasu. "**Multi-Partition Embedding Interaction with Block Term Format for Knowledge Graph Completion**". **ECAI 2020**. [paper](http://ebooks.iospress.nl/publication/54979)
+- <a name="MEI"></a> **(MEI)** Hung Nghiep Tran, Atsuhiro Takasu. "**Multi-Partition Embedding Interaction with Block Term Format for Knowledge Graph Completion**". **ECAI 2020**. [paper](http://ebooks.iospress.nl/publication/54979) [code](https://github.com/tranhungnghiep/AnalyzeKGE)
 
 ##### COLING
 
