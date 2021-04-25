@@ -949,11 +949,11 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### NeurIPS
 
-- <a name="BETAE"></a> **(BETAE)** Hongyu Ren, Jure Leskovec. "**Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs**". **NeurIPS 2020**. [paper](https://proceedings.neurips.cc/paper/2020/hash/e43739bba7cdb577e9e3e4e42447f5a5-Abstract.html)
+- <a name="BETAE"></a> **(BETAE)** Hongyu Ren, Jure Leskovec. "**Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs**". **NeurIPS 2020**. [paper](https://proceedings.neurips.cc/paper/2020/hash/e43739bba7cdb577e9e3e4e42447f5a5-Abstract.html) [code](http://snap.stanford.edu/betae/) 
 
 - <a name="GEN"></a> **(GEN)** Jinheon Baek, Dong Bok Lee, Sung Ju Hwang. "**Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction**". **NeurIPS 2020**. [paper](https://neurips.cc/virtual/2020/public/poster_0663a4ddceacb40b095eda264a85f15c.html) [code](https://github.com/JinheonBaek/GEN)
 
-- <a name="Interstellar"></a> **(Interstellar)** Yongqi Zhang, Quanming Yao, Lei Chen. "**Interstellar: Searching Recurrent Architecture for Knowledge Graph Embedding**". **NeurIPS 2020**. [paper](https://proceedings.neurips.cc/paper/2020/hash/722caafb4825ef5d8670710fa29087cf-Abstract.html)
+- <a name="Interstellar"></a> **(Interstellar)** Yongqi Zhang, Quanming Yao, Lei Chen. "**Interstellar: Searching Recurrent Architecture for Knowledge Graph Embedding**". **NeurIPS 2020**. [paper](https://proceedings.neurips.cc/paper/2020/hash/722caafb4825ef5d8670710fa29087cf-Abstract.html) [code](https://github.com/AutoML-4Paradigm/Interstellar)
 
 ##### ACL
 
