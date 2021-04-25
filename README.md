@@ -1009,7 +1009,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="TeMP"></a> **(TeMP)** Jiapeng Wu, Meng Cao, Jackie Chi Kit Cheung, William L. Hamilton. "**TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.462/) [code](https://github.com/JiapengWu/TeMP)
 
-- <a name="TIMEPLEX"></a> **(TIMEPLEX)** Prachi Jain, Sushant Rathi, Mausam, Soumen Chakrabarti. "**Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.305/) [code](https://github.com/soledad921/ATISE)
+- <a name="TIMEPLEX"></a> **(TIMEPLEX)** Prachi Jain, Sushant Rathi, Mausam, Soumen Chakrabarti. "**Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.305/)
 
 ##### ECAI
 
@@ -1039,7 +1039,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### AAMAS
 
-- <a name="TransL"></a> **(TransL)** Zeyuan Cui, Shijun Liu, Li Pan, Qiang He. "**Translating Embedding with Local Connection for Knowledge Graph Completion**". **AAMAS 2020**. [paper](https://dl.acm.org/doi/abs/10.5555/3398761.3398995)
+- <a name="TransL"></a> **(TransL)** Zeyuan Cui, Shijun Liu, Li Pan, Qiang He. "**Translating Embedding with Local Connection for Knowledge Graph Completion**". **AAMAS 2020**. [paper](https://dl.acm.org/doi/abs/10.5555/3398761.3398995) [code](https://github.com/KGCompletion/TransL)
 
 ##### SIGMOD
 
@@ -1047,11 +1047,11 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### ICDE
 
-- <a name="AutoSF"></a> **(AutoSF)** Yongqi Zhang, Quanming Yao, Wenyuan Dai, Lei Chen. "**AutoSF: Searching Scoring Functions for Knowledge Graph Embedding**". **ICDE 2020**. [paper](https://doi.org/10.1109/ICDE48307.2020.00044)
+- <a name="AutoSF"></a> **(AutoSF)** Yongqi Zhang, Quanming Yao, Wenyuan Dai, Lei Chen. "**AutoSF: Searching Scoring Functions for Knowledge Graph Embedding**". **ICDE 2020**. [paper](https://doi.org/10.1109/ICDE48307.2020.00044) [code](https://github.com/yzhangee/AutoSF)
 
 ##### SIGIR
 
-- <a name="DGL-KE"></a> **(DGL-KE)**	Da Zheng, Xiang Song, Chao Ma, Zeyuan Tan, Zihao Ye, Jin Dong, Hao Xiong, Zheng Zhang, George Karypis. "**DGL-KE: Training Knowledge Graph Embeddings at Scale**". **SIGIR 2020**. [paper](https://dl.acm.org/doi/10.1145/3397271.3401172)
+- <a name="DGL-KE"></a> **(DGL-KE)**	Da Zheng, Xiang Song, Chao Ma, Zeyuan Tan, Zihao Ye, Jin Dong, Hao Xiong, Zheng Zhang, George Karypis. "**DGL-KE: Training Knowledge Graph Embeddings at Scale**". **SIGIR 2020**. [paper](https://dl.acm.org/doi/10.1145/3397271.3401172) [code](https://github.com/awslabs/dgl-ke)
 
 ##### CIKM
 
@@ -1059,15 +1059,15 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="NagE"></a> **(NagE)** Tong Yang, Long Sha, Pengyu Hong. "**NagE: Non-Abelian Group Embedding for Knowledge Graphs**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3411875)
 
-- <a name="NASE"></a> **(NASE)** Xiaoyu Kou, Bingfeng Luo, Huang Hu, Yan Zhang. "**NASE: Learning Knowledge Graph Embedding for Link Prediction via Neural Architecture Search**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412104)
+- <a name="NASE"></a> **(NASE)** Xiaoyu Kou, Bingfeng Luo, Huang Hu, Yan Zhang. "**NASE: Learning Knowledge Graph Embedding for Link Prediction via Neural Architecture Search**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412104) [code](https://github.com/KXY-PUBLIC/NASE)
 
-- <a name="SLRE"></a> **(SLRE)** Shu Guo, Lin Li, Zhen Hui, Lingshuai Meng, Bingnan Ma, Wei Liu, Lihong Wang, Haibin Zhai, Hong Zhang. "**Knowledge Graph Embedding Preserving Soft Logical Regularity**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412055)
+- <a name="SLRE"></a> **(SLRE)** Shu Guo, Lin Li, Zhen Hui, Lingshuai Meng, Bingnan Ma, Wei Liu, Lihong Wang, Haibin Zhai, Hong Zhang. "**Knowledge Graph Embedding Preserving Soft Logical Regularity**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412055) [code](https://github.com/StudyGroup-lab/SLRE)
 
-- Iti Bansal, Sudhanshu Tiwari, Carlos R. Rivero. "**The Impact of Negative Triple Generation Strategies and Anomalies on Knowledge Graph Completion**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412023)
+- Iti Bansal, Sudhanshu Tiwari, Carlos R. Rivero. "**The Impact of Negative Triple Generation Strategies and Anomalies on Knowledge Graph Completion**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412023) [code](https://github.com/crrivero/ImpactNegativeTriples)
 
 - Hao Tian, Reza Zafarani. "**Exploiting Common Neighbor Graph for Link Prediction**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3417464)
 
-- Chang Gao, Chengjie Sun, Lili Shan, Lei Lin, Mingjiang Wang. "**Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Knowledge Graph Embedding**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3411889)
+- Chang Gao, Chengjie Sun, Lili Shan, Lei Lin, Mingjiang Wang. "**Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Knowledge Graph Embedding**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3411889) [code](https://github.com/gao-xiao-bai/Rotate3D-Representing-Relations-as-Rotations-in-Three-Dimensional-Space-for-KG-Embedding)
 
 - Yanfei Han, Quan Fang, Jun Hu, Shengsheng Qian, Changsheng Xu. "**GAEAT: Graph Auto-Encoder Attention Networks for Knowledge Graph Completion**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412148)
 
@@ -1077,13 +1077,13 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### WSDM
 
-- Da Xu, Chuanwei Ruan, Jason Cho, Evren Körpeoglu, Sushant Kumar, Kannan Achan. "**Knowledge-aware Complementary Product Representation Learning**". **WSDM 2020**. [paper](https://doi.org/10.1145/3336191.3371854)
+- Da Xu, Chuanwei Ruan, Jason Cho, Evren Körpeoglu, Sushant Kumar, Kannan Achan. "**Knowledge-aware Complementary Product Representation Learning**". **WSDM 2020**. [paper](https://doi.org/10.1145/3336191.3371854) [code](https://github.com/StatsDLMathsRecomSys/Knowledge-aware-complementary-product-representation-learning)
 
 ##### ISWC
 
-- <a name="ATiSE"></a> **(ATiSE)** Chenjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, Jens Lehmann. "**Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_37)
+- <a name="ATiSE"></a> **(ATiSE)** Chenjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, Jens Lehmann. "**Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_37) [code](https://github.com/soledad921/ATISE)
 
-- <a name="EKGR"></a> **(EKGR)** Rajarshi Bhowmik, Gerard de Melo. "**Explainable Link Prediction for Emerging Entities in Knowledge Graphs**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_3)
+- <a name="EKGR"></a> **(EKGR)** Rajarshi Bhowmik, Gerard de Melo. "**Explainable Link Prediction for Emerging Entities in Knowledge Graphs**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_3) [code](https://github.com/kingsaint/InductiveExplainableLinkPrediction)
 
 - <a name="BCRL"></a> Gang Wu, Wenfang Wu, Leilei Li, Guodong Zhao, Donghong Han, Baiyou Qiao. "**BCRL: Long Text Friendly Knowledge Graph Representation Learning**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_36)
 
@@ -1095,7 +1095,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="YAGO4"></a> **(YAGO4)** Thomas Pellissier Tanon, Gerhard Weikum, Fabian M. Suchanek. "**YAGO 4: A Reason-able Knowledge Base**. **ESWC 2020**. [paper](https://doi.org/10.1007/978-3-030-49461-2_34)
 
-##### WWW Correction
+##### WWW
 
 - <a name="Correction"></a> **(Correction)** Jiaoyan Chen, Xi Chen, Ian Horrocks, Ernesto Jiménez-Ruiz, Erik B. Myklebust. "**Correcting Knowledge Base Assertions**". **WWW 2020**. [paper](https://dl.acm.org/doi/10.1145/3366423.3380226)
 
