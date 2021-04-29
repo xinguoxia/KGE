@@ -1009,7 +1009,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="TeMP"></a> **(TeMP)** Jiapeng Wu, Meng Cao, Jackie Chi Kit Cheung, William L. Hamilton. "**TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.462/) [code](https://github.com/JiapengWu/TeMP)
 
-- <a name="TIMEPLEX"></a> **(TIMEPLEX)** Prachi Jain, Sushant Rathi, Mausam, Soumen Chakrabarti. "**Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.305/)
+- <a name="TIMEPLEX"></a> **(TIMEPLEX)** Prachi Jain, Sushant Rathi, Mausam, Soumen Chakrabarti. "**Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.305/) [code](https://github.com/dair-iitd/tkbi)
 
 ##### ECAI
 
