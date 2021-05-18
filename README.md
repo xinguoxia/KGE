@@ -1057,23 +1057,19 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="ELP"></a> **(ELP)**	Russa Biswas. "**Embedding based Link Prediction for Knowledge Graph Completion**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3418512)
 
+- <a name="GAEAT"></a> **(GAEAT)** Yanfei Han, Quan Fang, Jun Hu, Shengsheng Qian, Changsheng Xu. "**GAEAT: Graph Auto-Encoder Attention Networks for Knowledge Graph Completion**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412148)
+
+- <a name="LCWA"></a> **(LCWA)** Iti Bansal, Sudhanshu Tiwari, Carlos R. Rivero. "**The Impact of Negative Triple Generation Strategies and Anomalies on Knowledge Graph Completion**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412023) [code](https://github.com/crrivero/ImpactNegativeTriples)
+
 - <a name="NagE"></a> **(NagE)** Tong Yang, Long Sha, Pengyu Hong. "**NagE: Non-Abelian Group Embedding for Knowledge Graphs**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3411875)
 
 - <a name="NASE"></a> **(NASE)** Xiaoyu Kou, Bingfeng Luo, Huang Hu, Yan Zhang. "**NASE: Learning Knowledge Graph Embedding for Link Prediction via Neural Architecture Search**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412104) [code](https://github.com/KXY-PUBLIC/NASE)
 
+- <a name="Rotate3D"></a> **(Rotate3D)**  Chang Gao, Chengjie Sun, Lili Shan, Lei Lin, Mingjiang Wang. "**Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Knowledge Graph Embedding**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3411889) [code](https://github.com/gao-xiao-bai/Rotate3D-Representing-Relations-as-Rotations-in-Three-Dimensional-Space-for-KG-Embedding)
+
 - <a name="SLRE"></a> **(SLRE)** Shu Guo, Lin Li, Zhen Hui, Lingshuai Meng, Bingnan Ma, Wei Liu, Lihong Wang, Haibin Zhai, Hong Zhang. "**Knowledge Graph Embedding Preserving Soft Logical Regularity**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412055) [code](https://github.com/StudyGroup-lab/SLRE)
 
-- Iti Bansal, Sudhanshu Tiwari, Carlos R. Rivero. "**The Impact of Negative Triple Generation Strategies and Anomalies on Knowledge Graph Completion**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412023) [code](https://github.com/crrivero/ImpactNegativeTriples)
-
-- Hao Tian, Reza Zafarani. "**Exploiting Common Neighbor Graph for Link Prediction**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3417464)
-
-- Chang Gao, Chengjie Sun, Lili Shan, Lei Lin, Mingjiang Wang. "**Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Knowledge Graph Embedding**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3411889) [code](https://github.com/gao-xiao-bai/Rotate3D-Representing-Relations-as-Rotations-in-Three-Dimensional-Space-for-KG-Embedding)
-
-- Yanfei Han, Quan Fang, Jun Hu, Shengsheng Qian, Changsheng Xu. "**GAEAT: Graph Auto-Encoder Attention Networks for Knowledge Graph Completion**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412148)
-
-- Julien Leblay, Melisachew Wudage Chekol, Xin Liu. "**Towards Temporal Knowledge Graph Embeddings with Arbitrary Time Precision**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412028)
-
-- Garima Gaur, Arnab Bhattacharya, Srikanta Bedathur. "**How and Why is An Answer (Still) Correct? Maintaining Provenance in Dynamic Knowledge Graphs**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3411958)
+- <a name="ToKE"></a> **(ToKE)** Julien Leblay, Melisachew Wudage Chekol, Xin Liu. "**Towards Temporal Knowledge Graph Embeddings with Arbitrary Time Precision**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412028)
 
 ##### WSDM
 
