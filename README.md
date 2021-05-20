@@ -1099,9 +1099,9 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="HINGE"></a> **(HINGE)** Paolo Rosso, Dingqi Yang, Philippe Cudré-Mauroux. "**Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction**". **WWW 2020**. [paper](https://doi.org/10.1145/3366423.3380257) [code](https://github.com/eXascaleInfolab/HINGE_code)
 
-- Unmesh Joshi, Jacopo Urbani. "**Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning**". **WWW 2020**. [paper](https://doi.org/10.1145/3366423.3380043)
+- <a name="Subgraph"></a> **(Subgraph)** Unmesh Joshi, Jacopo Urbani. "**Searching for Embeddings in a Haystack: Link Prediction on Knowledge Graphs with Subgraph Pruning**". **WWW 2020**. [paper](https://doi.org/10.1145/3366423.3380043)
 
-- <a name="TDGNN"></a> Liang Qu, Huaisheng Zhu, Qiqi Duan, Yuhui Shi. "**Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network**". **WWW 2020**. [paper](https://dl.acm.org/doi/10.1145/3366423.3380073) [code](https://github.com/Leo-Q-316/TDGNN)
+- <a name="TDGNN"></a> **(TDGNN)** Liang Qu, Huaisheng Zhu, Qiqi Duan, Yuhui Shi. "**Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network**". **WWW 2020**. [paper](https://dl.acm.org/doi/10.1145/3366423.3380073) [code](https://github.com/Leo-Q-316/TDGNN)
 
 ### 2021
 
