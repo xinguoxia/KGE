@@ -1147,13 +1147,11 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### ICLR
 
-- Interpreting Knowledge Graph Relation Representation from Word Embeddings
+- Zhen Han, Peng Chen, Yunpu Ma, Volker Tresp. "**Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs**". [paper](https://iclr.cc/virtual/2021/poster/3378)
 
-- RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs
+- Meng Qu, Junkun Chen, Louis-Pascal A Xhonneux, Yoshua Bengio, Jian Tang. "**RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs**". [paper](https://iclr.cc/virtual/2021/poster/3084)
 
-- Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation
-
-- Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs
+- Carl Allen, Ivana Balazevic, Timothy Hospedales. "**Interpreting Knowledge Graph Relation Representation from Word Embeddings**". [paper](https://iclr.cc/virtual/2021/poster/2656)
 
 ##### AAAI
 
