@@ -1157,21 +1157,28 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### AAAI
 
-- Type-augmented Relation Prediction in Knowledge Graphs
+- Zhu-Mu Chen, Mi-Yen Yeh, Tei-Wei Kuo. "**PASSLEAF: A Pool-bAsed Semi-Supervised LEArning Framework for Uncertain Knowledge Graph Embedding**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16522)
 
-- Knowledge Graph Embeddings with Projective Transformations
+- Tony Gracious, Shubham Gupta, Arun Kanthali, Rui M. Castro, Ambedkar Dukkipati. "**Neural Latent Space Model for Dynamic Networks and Temporal Knowledge Graphs**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16526)
 
-- ChronoR: Rotation Based Temporal Knowledge Graph Embedding
+- Guojia Wan, Bo Du. "**GaussianPath: A Bayesian Multi-Hop Reasoning Framework for Knowledge Graph Reasoning**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16565)
 
-- Dual Quaternion Knowledge Graph Embeddings
+- Bhushan Kotnis, Carolin Lawrence, Mathias Niepert. "**Answering Complex Queries in Knowledge Graphs with Bidirectional Sequence Encoders**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16630)
 
-- GaussianPath: A Bayesian Multi-Hop Reasoning Framework for Knowledge Graph Reasoning
+- Jiajun Chen, Huarui He, Feng Wu, Jie Wang. "**Topology-Aware Correlations Between Relations for Inductive Link Prediction in Knowledge Graphs**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16779)
 
-- Topology-Aware Correlations between Relations for Inductive Link Prediction in Knowledge Graphs
+- Ali Sadeghian, Mohammadreza Armandpour, Anthony Colas, Daisy Zhe Wang. "**ChronoR: Rotation Based Temporal Knowledge Graph Embedding**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16802)
 
-- PASSLEAF: A Pool-Based Semi-Supervised Learning Framework for Uncertain Knowledge Graph Embedding
+- Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Xiaochun Cao, Qingming Huang. "**Dual Quaternion Knowledge Graph Embeddings**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16850)
 
-- Learning from History: Modeling Temporal Knowledge Graphs with Sequential Copy-Generation Networks
+- Zijun Cui, Pavan Kapanipathi, Kartik Talamadupula, Tian Gao, Qiang Ji. "**Type-augmented Relation Prediction in Knowledge Graphs**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16879)
+
+- Mojtaba Nayyeri, Sahar Vahdati, Can Aykul, Jens Lehmann. "**5* Knowledge Graph Embeddings with Projective Transformations**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17095)
+
+- Mehrnoosh Mirtaheri. "**Relational Learning to Capture the Dynamics and Sparsity of Knowledge Graphs**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17859)
+
+- Cunchao Zhu, Muhao Chen, Changjun Fan, Guangquan Cheng, Yan Zhang. "**Learning from History: Modeling Temporal Knowledge Graphs with Sequential Copy-Generation Networks**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16604)
+
 
 ##### WWW
 
