@@ -1153,9 +1153,9 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="PMI"></a> **(PMI)** Carl Allen, Ivana Balazevic, Timothy Hospedales. "**Interpreting Knowledge Graph Relation Representation from Word Embeddings**". [paper](https://iclr.cc/virtual/2021/poster/2656)
 
-- <a name="RNNLogic"></a> **(RNNLogic)** Meng Qu, Junkun Chen, Louis-Pascal A Xhonneux, Yoshua Bengio, Jian Tang. "**RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs**". [paper](https://iclr.cc/virtual/2021/poster/3084)
+- <a name="RNNLogic"></a> **(RNNLogic)** Meng Qu, Junkun Chen, Louis-Pascal A Xhonneux, Yoshua Bengio, Jian Tang. "**RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs**". [paper](https://iclr.cc/virtual/2021/poster/3084) [code](https://github.com/DeepGraphLearning/RNNLogic)
 
-- <a name="xERTE"></a> **(xERTE)** Zhen Han, Peng Chen, Yunpu Ma, Volker Tresp. "**Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs**". [paper](https://iclr.cc/virtual/2021/poster/3378)
+- <a name="xERTE"></a> **(xERTE)** Zhen Han, Peng Chen, Yunpu Ma, Volker Tresp. "**Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs**". [paper](https://iclr.cc/virtual/2021/poster/3378) [code](https://github.com/TemporalKGTeam/xERTE)
 
 ##### AAAI
 
