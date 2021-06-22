@@ -1177,6 +1177,19 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - Cunchao Zhu, Muhao Chen, Changjun Fan, Guangquan Cheng, Yan Zhang. "**Learning from History: Modeling Temporal Knowledge Graphs with Sequential Copy-Generation Networks**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16604)
 
+##### NAACL
+
+- Shuai Zhang, Xi Rao, Yi Tay, Ce Zhang. "**Knowledge Router: Learning Disentangled Representations for Knowledge Graphs**". [paper](https://www.aclweb.org/anthology/2021.naacl-main.1/)
+
+- Xuelu Chen, Michael Boratko, Muhao Chen, Shib Sankar Dasgupta, Xiang Lorraine Li, Andrew McCallum. "**Probabilistic Box Embeddings for Uncertain Knowledge Graph Reasoning**". [paper](https://www.aclweb.org/anthology/2021.naacl-main.68/)
+
+- Xutan Peng, Guanyi Chen, Chenghua Lin, Mark Stevenson. "**Highly Efficient Knowledge Graph Embedding Learning with Orthogonal Procrustes Analysis**". [paper](https://www.aclweb.org/anthology/2021.naacl-main.187/)
+
+- Chengjin Xu, Yung-Yu Chen, Mojtaba Nayyeri, Jens Lehmann. "**Temporal Knowledge Graph Completion using a Linear Temporal Regularizer and Multivector Embeddings**". [paper](https://www.aclweb.org/anthology/2021.naacl-main.202/)
+
+- Saed Rezayi, Handong Zhao, Sungchul Kim, Ryan A. Rossi, Nedim Lipka, Sheng Li. "**Edge: Enriching Knowledge Graph Embeddings with External Text**". [paper](https://www.aclweb.org/anthology/2021.naacl-main.221/)
+
+- Youri Xu, Haihong E, Meina Song, Wenyu Song, Xiaodong Lv, Haotian Wang, Jinrui Yang. "**RTFE: A Recursive Temporal Fact Embedding Framework for Temporal Knowledge Graph Completion**". [paper](https://www.aclweb.org/anthology/2021.naacl-main.451/)
 
 ##### WWW
 
