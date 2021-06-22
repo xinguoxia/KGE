@@ -1203,17 +1203,17 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - Kai Wang, Yu Liu, Qian Ma, Quan Z. Sheng. "**MulDE: Multi-teacher Knowledge Distillation for Low-dimensional Knowledge Graph Embeddings**". [paper](https://dl.acm.org/doi/10.1145/3442381.3449898)
 
-- Zelong Li, Jianchao Ji, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Chong Chen, Yongfeng Zhang. "**Efficient Non-Sampling Knowledge Graph Embedding**". [paper](https://dl.acm.org/doi/10.1145/3442381.3449859)
+- Zelong Li, Jianchao Ji, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Chong Chen, Yongfeng Zhang. "**Efficient Non-Sampling Knowledge Graph Embedding**". [paper](https://dl.acm.org/doi/10.1145/3442381.3449859) [code](https://github.com/rutgerswiselab/NS-KGE)
 		
-- Bo Wang, Tao Shen, Guodong Long, Tianyi Zhou, Ying Wang, Yi Chang. "**Structure-Augmented Text Representation Learning for Efficient Knowledge Graph Completion**". [paper](https://dl.acm.org/doi/10.1145/3442381.3450043)
+- Bo Wang, Tao Shen, Guodong Long, Tianyi Zhou, Ying Wang, Yi Chang. "**Structure-Augmented Text Representation Learning for Efficient Knowledge Graph Completion**". [paper](https://dl.acm.org/doi/10.1145/3442381.3450043) [code](https://github.com/wangbo9719/StAR_KGC)
 
-- Huijuan Wang, Shuangyin Li, Rong Pan. "**An Adversarial Transfer Network for Knowledge Representation Learning**". [paper](https://dl.acm.org/doi/10.1145/3442381.3450064)
+- Huijuan Wang, Shuangyin Li, Rong Pan. "**An Adversarial Transfer Network for Knowledge Representation Learning**". [paper](https://dl.acm.org/doi/10.1145/3442381.3450064) [code](https://github.com/LemonNoel/ATransN)
 		
 - Shen Wang, Xiaokai Wei, Cicero Nogueira dos Santos, Zhiguo Wang, Ramesh Nallapati, Andrew O. Arnold, Bing Xiang, Philip S. Yu, Isabel F. Cruz. "**Mixed-Curvature Multi-Relational Graph Neural Network for Knowledge Graph Completion**". [paper](https://dl.acm.org/doi/10.1145/3442381.3450118)
 
 - Donghan Yu, Yiming Yang, Ruohong Zhang, Yuexin Wu. "**Knowledge Embedding Based Graph Convolutional Network**". [paper](https://dl.acm.org/doi/10.1145/3442381.3449925)
 
-- Yu Liu, Quanming Yao, Yong Li. "**Role-Aware Modeling for N-ary Relational Knowledge Bases**". [paper](https://dl.acm.org/doi/10.1145/3442381.3449874)
+- Yu Liu, Quanming Yao, Yong Li. "**Role-Aware Modeling for N-ary Relational Knowledge Bases**". [paper](https://dl.acm.org/doi/10.1145/3442381.3449874) [code](https://github.com/liuyuaa/RAM)
 
 - Jinxing Yu, Yunfeng Cai, Mingming Sun, Ping Li. "**MQuadE: a Unified Model for Knowledge Fact Embedding**". [paper](https://dl.acm.org/doi/10.1145/3442381.3449879)
 
