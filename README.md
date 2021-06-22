@@ -1149,29 +1149,29 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="xERTE"></a> **(xERTE)** Zhen Han, Peng Chen, Yunpu Ma, Volker Tresp. "**Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs**". [paper](https://iclr.cc/virtual/2021/poster/3378)
 
-- Meng Qu, Junkun Chen, Louis-Pascal A Xhonneux, Yoshua Bengio, Jian Tang. "**RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs**". [paper](https://iclr.cc/virtual/2021/poster/3084)
+- <a name="RNNLogic"></a> **(RNNLogic)** Meng Qu, Junkun Chen, Louis-Pascal A Xhonneux, Yoshua Bengio, Jian Tang. "**RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs**". [paper](https://iclr.cc/virtual/2021/poster/3084)
 
-- Carl Allen, Ivana Balazevic, Timothy Hospedales. "**Interpreting Knowledge Graph Relation Representation from Word Embeddings**". [paper](https://iclr.cc/virtual/2021/poster/2656)
+- <a name="PMI"></a> **(PMI)** Carl Allen, Ivana Balazevic, Timothy Hospedales. "**Interpreting Knowledge Graph Relation Representation from Word Embeddings**". [paper](https://iclr.cc/virtual/2021/poster/2656)
 
 ##### AAAI
 
-- Zhu-Mu Chen, Mi-Yen Yeh, Tei-Wei Kuo. "**PASSLEAF: A Pool-bAsed Semi-Supervised LEArning Framework for Uncertain Knowledge Graph Embedding**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16522)
+- <a name="PASSLEAF"></a> **(PASSLEAF)** Zhu-Mu Chen, Mi-Yen Yeh, Tei-Wei Kuo. "**PASSLEAF: A Pool-bAsed Semi-Supervised LEArning Framework for Uncertain Knowledge Graph Embedding**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16522)
 
-- Tony Gracious, Shubham Gupta, Arun Kanthali, Rui M. Castro, Ambedkar Dukkipati. "**Neural Latent Space Model for Dynamic Networks and Temporal Knowledge Graphs**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16526)
+- <a name="NLSM"></a> **(NLSM)** Tony Gracious, Shubham Gupta, Arun Kanthali, Rui M. Castro, Ambedkar Dukkipati. "**Neural Latent Space Model for Dynamic Networks and Temporal Knowledge Graphs**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16526)
 
-- Guojia Wan, Bo Du. "**GaussianPath: A Bayesian Multi-Hop Reasoning Framework for Knowledge Graph Reasoning**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16565)
+- <a name="GaussianPath"></a> **(GaussianPath)** Guojia Wan, Bo Du. "**GaussianPath: A Bayesian Multi-Hop Reasoning Framework for Knowledge Graph Reasoning**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16565)
 
-- Bhushan Kotnis, Carolin Lawrence, Mathias Niepert. "**Answering Complex Queries in Knowledge Graphs with Bidirectional Sequence Encoders**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16630)
+- <a name="BiQE"></a> **(BiQE)** Bhushan Kotnis, Carolin Lawrence, Mathias Niepert. "**Answering Complex Queries in Knowledge Graphs with Bidirectional Sequence Encoders**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16630)
 
-- Jiajun Chen, Huarui He, Feng Wu, Jie Wang. "**Topology-Aware Correlations Between Relations for Inductive Link Prediction in Knowledge Graphs**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16779)
+- <a name="TACT"></a> **(TACT)** Jiajun Chen, Huarui He, Feng Wu, Jie Wang. "**Topology-Aware Correlations Between Relations for Inductive Link Prediction in Knowledge Graphs**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16779)
 
-- Ali Sadeghian, Mohammadreza Armandpour, Anthony Colas, Daisy Zhe Wang. "**ChronoR: Rotation Based Temporal Knowledge Graph Embedding**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16802)
+- <a name="ChronoR"></a> **(ChronoR)** Ali Sadeghian, Mohammadreza Armandpour, Anthony Colas, Daisy Zhe Wang. "**ChronoR: Rotation Based Temporal Knowledge Graph Embedding**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16802)
 
-- Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Xiaochun Cao, Qingming Huang. "**Dual Quaternion Knowledge Graph Embeddings**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16850)
+- <a name="DualE"></a> **(DualE)** Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Xiaochun Cao, Qingming Huang. "**Dual Quaternion Knowledge Graph Embeddings**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16850)
 
-- Zijun Cui, Pavan Kapanipathi, Kartik Talamadupula, Tian Gao, Qiang Ji. "**Type-augmented Relation Prediction in Knowledge Graphs**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16879)
+- <a name="TaRP"></a> **(TaRP)** Zijun Cui, Pavan Kapanipathi, Kartik Talamadupula, Tian Gao, Qiang Ji. "**Type-augmented Relation Prediction in Knowledge Graphs**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16879)
 
-- Mojtaba Nayyeri, Sahar Vahdati, Can Aykul, Jens Lehmann. "**5* Knowledge Graph Embeddings with Projective Transformations**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17095)
+- <a name="5E"></a> **(5E)** Mojtaba Nayyeri, Sahar Vahdati, Can Aykul, Jens Lehmann. "**5 Knowledge Graph Embeddings with Projective Transformations**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17095)
 
 - Mehrnoosh Mirtaheri. "**Relational Learning to Capture the Dynamics and Sparsity of Knowledge Graphs**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17859)
 
