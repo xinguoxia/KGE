@@ -937,6 +937,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="R2D2"></a> **(R2D2)** Marcel Hildebrandt, Jorge Andres Quintero Serna, Yunpu Ma, Martin Ringsquandl, Mitchell Joblin, Volker Tresp. "**Reasoning on Knowledge Graphs with Debate Dynamics**". **AAAI 2020**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/6600) [code](https://github.com/m-hildebrandt/R2D2)
 
+- <a name="RARL"></a> **(RARL)** Giuseppe Pirrò. "**Relatedness and TBox-Driven Rule Learning in Large Knowledge Bases**". **AAAI 2020**. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/5690)
+
 - <a name="RGHAT"></a> **(RGHAT)** Zhao Zhang, Fuzhen Zhuang, Hengshu Zhu, Zhiping Shi, Hui Xiong, Qing He. "**Relational Graph Neural Network with Hierarchical Attention for Knowledge Graph Completion**". **AAAI 2020**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/6508)
 
 - <a name="Robust"></a> **(Robust)** Peru Bhardwaj. "**Towards Adversarially Robust Knowledge Graph Embeddings**". **AAAI 2020**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/7128)
@@ -944,6 +946,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 - <a name="RPJE"></a> **(RPJE)** Guanglin Niu, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li, Xiaowei Zhang. "**Rule-Guided Compositional Representation Learning on Knowledge Graphs**". **AAAI 2020**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5687) [code](https://github.com/ngl567/RPJE)
 
 - <a name="SimE"></a> **(SimE)** Chaitanya Malaviya, Chandra Bhagavatula, Antoine Bosselut, Yejin Choi. "**Commonsense Knowledge Base Completion with Structural and Semantic Context**". **AAAI 2020**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5684) :fire:
+
+- <a name="Triple2Vec"></a> **(Triple2Vec)** Valeria Fionda, Giuseppe Pirrò. "**Learning Triple Embeddings from Knowledge Graphs**". **AAAI 2020**. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/5800)
 
 - <a name="ZSGAN"></a> **(ZSGAN)** Pengda Qin, Xin Wang, Wenhu Chen, Chunyun Zhang, Weiran Xu, William Yang Wang. "**Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs**". **AAAI 2020**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/6392) [code](https://github.com/Panda0406/Zero-shot-knowledge-graph-relational-learning)
 
