@@ -991,6 +991,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="DArtNet"></a> **(DArtNet)** Sankalp Garg, Navodita Sharma, Woojeong Jin, Xiang Ren. "**Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution**". **IJCAI 2020**. [paper](https://www.ijcai.org/Proceedings/2020/386) [code](https://github.com/INK-USC/DArtNet)
 
+- <a name="HRL"></a> **(HRL)** Guojia Wan, Shirui Pan, Chen Gong, Chuan Zhou, Gholamreza Haffari. "**Reasoning Like Human: Hierarchical Reinforcement Learning for Knowledge Graph Reasoning**". **IJCAI 2020**. [paper](https://www.ijcai.org/proceedings/2020/267)
+
 - <a name="HypE"></a> **(HypE)** Bahare Fatemi, Perouz Taslakian, David Vázquez, David Poole. "**Knowledge Hypergraphs: Prediction Beyond Binary Relations**". **IJCAI 2020**. [paper](https://www.ijcai.org/Proceedings/2020/303) [code](https://github.com/baharefatemi/HypE)
 
 - <a name="TransRHS"></a> **(TransRHS)** Fuxiang Zhang, Xin Wang, Zhao Li, Jianxin Li. "**TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure**". **IJCAI 2020**. [paper](https://doi.org/10.24963/ijcai.2020/413) [code](https://github.com/tjuzhangfx/TransRHS)
