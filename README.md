@@ -1235,6 +1235,12 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="TeLM"></a> **(TeLM)** Chengjin Xu, Yung-Yu Chen, Mojtaba Nayyeri, Jens Lehmann. "**Temporal Knowledge Graph Completion using a Linear Temporal Regularizer and Multivector Embeddings**". **NAACL-HLT 2021**. [paper](https://www.aclweb.org/anthology/2021.naacl-main.202/)
 
+##### ICDE
+
+- Yueji Yang, Yuchen Li, Anthony K. H. Tung. "**NewsLink: Empowering Intuitive News Search with Knowledge Graphs**". **ICDE 2021**. [paper](https://ieeexplore.ieee.org/document/9458619)
+
+- Shimin Di, Quanming Yao, Yongqi Zhang, Lei Chen. "**Efficient Relation-aware Scoring Function Search for Knowledge Graph Embedding**". **ICDE 2021**. [paper](https://ieeexplore.ieee.org/document/9458750)
+
 ##### WWW
 
 - Sudhanshu Tiwari, Iti Bansal, Carlos R. Rivero. "**Revisiting the Evaluation Protocol of Knowledge Graph Completion Methods for Link Prediction**". [paper](https://dl.acm.org/doi/10.1145/3442381.3449856)
