@@ -985,6 +985,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="SEEK"></a> **(SEEK)** Wentao Xu, Shun Zheng, Liang He, Bin Shao, Jian Yin and Tie-Yan Liu. "**SEEK: Segmented Embedding of Knowledge Graphs**". **ACL 2020**. [paper](https://www.aclweb.org/anthology/2020.acl-main.358/) [code](https://github.com/Wentao-Xu/SEEK)
 
+- <a name="NeuInfer"></a> **(NeuInfer)**  Saiping Guan, Xiaolong Jin, Jiafeng Guo, Yuanzhuo Wang, Xueqi Cheng. "**NeuInfer: Knowledge Inference on N-ary Facts**". **ACL 2020**. [paper](https://aclanthology.org/2020.acl-main.546/)
+
 ##### ICML
 
 - <a name="LowFER"></a> **(LowFER)** Saadullah Amin, Stalin Varanasi, Katherine Ann Dunfield, Günter Neumann. "**LowFER: Low-rank Bilinear Pooling for Link Prediction**". **ICML 2020**. [paper](http://proceedings.mlr.press/v119/amin20a) [code](https://github.com/suamin/LowFER)
@@ -1043,6 +1045,10 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="TIMEPLEX"></a> **(TIMEPLEX)** Prachi Jain, Sushant Rathi, Mausam, Soumen Chakrabarti. "**Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.305/) [code](https://github.com/dair-iitd/tkbi)
 
+- <a name="PCBR"></a> **(PCBR)** Rajarshi Das, Ameya Godbole, Nicholas Monath, Manzil Zaheer, Andrew McCallum. "**Probabilistic Case-based Reasoning in Knowledge Bases**". **EMNLP (Findings) 2020**. [paper](https://aclanthology.org/2020.findings-emnlp.427/)
+
+- <a name="Pretrain-KGE"></a> **(Pretrain-KGE)** Zhiyuan Zhang, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun, Bin He. "**Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**". **EMNLP (Findings) 2020**. [paper](https://aclanthology.org/2020.findings-emnlp.25/)
+
 ##### ECAI
 
 - <a name="BTDE"></a> **(BTDE)** Tao Luo, Yifan Wei, Mei Yu, Xuewei Li, Mankun Zhao, Tianyi Xu, Jian Yu, Jie Gao, Ruiguo Yu. "**BTDE: Block Term Decomposition Embedding for Link Prediction in Knowledge Graph**". **ECAI 2020**. [paper](http://ebooks.iospress.nl/publication/54966)
@@ -1068,6 +1074,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 - <a name="KG-BERT"></a> **(KG-BERT)** Bosung Kim, Taesuk Hong, Youngjoong Ko, Jungyun Seo. "**Multi-Task Learning for Knowledge Graph Completion with Pre-trained Language Models**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.153/)
 
 - <a name="TeRo"></a> **(TeRo)** Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, Jens Lehmann. "**TeRo: A Time-aware Knowledge Graph Embedding via Temporal Rotation**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.139/) [code](https://github.com/soledad921/ATISE)
+
+- <a name="KD-MKB"></a> **(KD-MKB)** Raphaël Sourty, Jose G. Moreno, François-Paul Servant, Lynda Tamine-Lechani. "**Knowledge Base Embedding By Cooperative Knowledge Distillation**". **COLING 2020**. [paper](https://aclanthology.org/2020.coling-main.489/)
 
 ##### UAI
 
