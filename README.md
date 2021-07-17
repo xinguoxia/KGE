@@ -1253,11 +1253,49 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="TeLM"></a> **(TeLM)** Chengjin Xu, Yung-Yu Chen, Mojtaba Nayyeri, Jens Lehmann. "**Temporal Knowledge Graph Completion using a Linear Temporal Regularizer and Multivector Embeddings**". **NAACL-HLT 2021**. [paper](https://www.aclweb.org/anthology/2021.naacl-main.202/)
 
+##### SIGIR
+
+- Guanglin Niu, Yang Li, Chengguang Tang, Ruiying Geng, Jian Dai, Qiao Liu, Hao Wang, Jian Sun, Fei Huang, Luo Si. "**Relational Learning with Gated and Attentive Neighbor Aggregator for Few-Shot Knowledge Graph Completion**". **SIGIR 2021**. [paper](https://dl.acm.org/doi/10.1145/3404835.3462925)
+
+- Zixuan Li, Xiaolong Jin, Wei Li, Saiping Guan, Jiafeng Guo, Huawei Shen, Yuanzhuo Wang, Xueqi Cheng. "**Temporal Knowledge Graph Reasoning Based on Evolutional Representation Learning**". **SIGIR 2021**. [paper](https://dl.acm.org/doi/10.1145/3404835.3462963)
+
+- Jiapeng Wu, Yishi Xu, Yingxue Zhang, Chen Ma, Mark Coates, Jackie Chi Kit Cheung. "**TIE: A Framework for Embedding-based Incremental Temporal Knowledge Graph Completion**". **SIGIR 2021**.
+
+- Chanyoung Chung, Joyce Jiyoung Whang. "**Knowledge Graph Embedding via Metagraph Learning**". **SIGIR 2021**.
+
+- Zhiyi Jiang, Jianliang Gao, Xinqi Lv. "**MetaP: Meta Pattern Learning for One-Shot Knowledge Graph Completion**". **SIGIR 2021**.
+
 ##### ICDE
 
 - Yueji Yang, Yuchen Li, Anthony K. H. Tung. "**NewsLink: Empowering Intuitive News Search with Knowledge Graphs**". **ICDE 2021**. [paper](https://ieeexplore.ieee.org/document/9458619)
 
 - Shimin Di, Quanming Yao, Yongqi Zhang, Lei Chen. "**Efficient Relation-aware Scoring Function Search for Knowledge Graph Embedding**". **ICDE 2021**. [paper](https://ieeexplore.ieee.org/document/9458750)
+
+##### WSDM
+
+- <a name="DBKGE"></a> **(DBKGE)** Siyuan Liao, Shangsong Liang, Zaiqiao Meng, Qiang Zhang. "**Learning Dynamic Embeddings for Temporal Knowledge Graphs**". **WSDM 2021**. [paper](https://dl.acm.org/doi/10.1145/3437963.3441741)
+
+##### DASFAA
+
+- Jiaheng Dou, Bing Tian, Yong Zhang, Chunxiao Xing. "**A Novel Embedding Model for Knowledge Graph Completion Based on Multi-Task Learning**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_17)
+
+- Zhijuan Du. "**Sequence Embedding for Zero or Low Resource Knowledge Graph Completion**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_20)
+
+- Liang Xu, Junjie Yao. "**Iterative Reasoning over Knowledge Graph**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_14)
+
+- Jiasheng Zhang, Shuang Liang, Zhiyi Deng, Jie Shao. "**Spatial-Temporal Attention Network for Temporal Knowledge Graph Completion**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_15)
+
+- Jiatao Zhang, Tianxing Wu, Guilin Qi. "**Gaussian Metric Learning for Few-Shot Uncertain Knowledge Graph Completion**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_18)
+
+##### ESWC
+
+- Nitisha Jain, Jan-Christoph Kalo, Wolf-Tilo Balke, Ralf Krestel. "**Do Embeddings Actually Capture Knowledge Graph Semantics?**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_9)
+
+- Caglar Demir, Axel-Cyrille Ngonga Ngomo. "**Convolutional Complex Knowledge Graph Embeddings**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_24)
+
+- Simon Werner, Achim Rettinger, Lavdim Halilaj, Jürgen Lüttin. "**RETRA: Recurrent Transformers for Learning Temporally Contextualized Knowledge Graph Embeddings**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_25)
+
+- Claudia d'Amato, Nicola Flavio Quatraro, Nicola Fanizzi. "**Injecting Background Knowledge into Embedding Models for Predictive Tasks on Knowledge Graphs**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_26)
 
 ##### WWW
 
@@ -1280,10 +1318,6 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 - Yu Liu, Quanming Yao, Yong Li. "**Role-Aware Modeling for N-ary Relational Knowledge Bases**". [paper](https://dl.acm.org/doi/10.1145/3442381.3449874) [code](https://github.com/liuyuaa/RAM)
 
 - Jinxing Yu, Yunfeng Cai, Mingming Sun, Ping Li. "**MQuadE: a Unified Model for Knowledge Fact Embedding**". [paper](https://dl.acm.org/doi/10.1145/3442381.3449879)
-
-##### WSDM
-
-- <a name="DBKGE"></a> **(DBKGE)** Siyuan Liao, Shangsong Liang, Zaiqiao Meng, Qiang Zhang. "**Learning Dynamic Embeddings for Temporal Knowledge Graphs**". **WSDM 2021**. [paper](https://dl.acm.org/doi/10.1145/3437963.3441741)
 
 ## Datasets
 
