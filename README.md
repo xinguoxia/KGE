@@ -1115,6 +1115,10 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="ToKE"></a> **(ToKE)** Julien Leblay, Melisachew Wudage Chekol, Xin Liu. "**Towards Temporal Knowledge Graph Embeddings with Arbitrary Time Precision**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412028)
 
+##### DASFAA
+
+- <a name="PDKE"></a> **(PDKE)** Sicong Dong, Xin Wang, Lele Chai, Jianxin Li, Yajun Yang. "**PDKE: An Efficient Distributed Embedding Framework for Large Knowledge Graphs**". **DASFAA 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-59416-9_35)
+
 ##### ISWC
 
 - <a name="ATiSE"></a> **(ATiSE)** Chenjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, Jens Lehmann. "**Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_37) [code](https://github.com/soledad921/ATISE)
@@ -1129,11 +1133,17 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - Susheel Suresh, Jennifer Neville. "**A Hybrid Model for Learning Embeddings and Logical Rules Simultaneously from Knowledge Graphs**". **ICDM 2020**. [paper](https://ieeexplore.ieee.org/document/9338353)
 
+- <a name="LineaRE"></a> **(LineaRE)** Yanhui Peng, Jing Zhang. "**LineaRE: Simple but Powerful Knowledge Graph Embedding for Link Prediction**". **ICDM 2020**. [paper](https://ieeexplore.ieee.org/document/9338434)
+
 ##### ESWC
 
 - <a name="HyperKG"></a> **(HyperKG)** Prodromos Kolyvakis, Alexandros Kalousis, Dimitris Kiritsis. "**Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion**". **ESWC 2020**. [paper](https://doi.org/10.1007/978-3-030-49461-2_12) [code](https://github.com/prokolyvakis/hyperkg)
 
 - <a name="YAGO4"></a> **(YAGO4)** Thomas Pellissier Tanon, Gerhard Weikum, Fabian M. Suchanek. "**YAGO 4: A Reason-able Knowledge Base**". **ESWC 2020**. [paper](https://doi.org/10.1007/978-3-030-49461-2_34) [code](https://github.com/yago-naga/yago4)
+
+- Giorgos Stoilos, Damir Juric, Szymon Wartak, Claudia Schulz, Mohammad Khodadadi. "**Hybrid Reasoning Over Large Knowledge Bases Using On-The-Fly Knowledge Extraction**". **ESWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-49461-2_5)
+
+- Alieh Saeedi, Eric Peukert, Erhard Rahm. "**Incremental Multi-source Entity Resolution for Knowledge Graph Completion**". **ESWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-49461-2_23)
 
 ##### WWW
 
