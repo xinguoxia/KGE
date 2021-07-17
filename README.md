@@ -712,7 +712,6 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - Chengchun Shi, Wenbin Lu, Rui Song. "**Determining the Number of Latent Factors in Statistical Multi-Relational Learning**". **J. Mach. Learn. Res. 2019**. **Impact 3.484**. [paper](http://jmlr.org/papers/v20/18-037.html)
 
-
 #### Conference
 
 ##### ICLR
