@@ -1136,13 +1136,11 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### ESWC
 
+- <a name="FAMER"></a> **(FAMER)** Alieh Saeedi, Eric Peukert, Erhard Rahm. "**Incremental Multi-source Entity Resolution for Knowledge Graph Completion**". **ESWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-49461-2_23)
+
 - <a name="HyperKG"></a> **(HyperKG)** Prodromos Kolyvakis, Alexandros Kalousis, Dimitris Kiritsis. "**Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion**". **ESWC 2020**. [paper](https://doi.org/10.1007/978-3-030-49461-2_12) [code](https://github.com/prokolyvakis/hyperkg)
 
 - <a name="YAGO4"></a> **(YAGO4)** Thomas Pellissier Tanon, Gerhard Weikum, Fabian M. Suchanek. "**YAGO 4: A Reason-able Knowledge Base**". **ESWC 2020**. [paper](https://doi.org/10.1007/978-3-030-49461-2_34) [code](https://github.com/yago-naga/yago4)
-
-- Giorgos Stoilos, Damir Juric, Szymon Wartak, Claudia Schulz, Mohammad Khodadadi. "**Hybrid Reasoning Over Large Knowledge Bases Using On-The-Fly Knowledge Extraction**". **ESWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-49461-2_5)
-
-- Alieh Saeedi, Eric Peukert, Erhard Rahm. "**Incremental Multi-source Entity Resolution for Knowledge Graph Completion**". **ESWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-49461-2_23)
 
 ##### WWW
 
