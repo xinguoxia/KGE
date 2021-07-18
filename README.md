@@ -1032,6 +1032,10 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="oDistMult"></a> **(oDistMult)** Marjan Albooyeh, Rishab Goel, Seyed Mehran Kazemi. "**Out-of-Sample Representation Learning for Knowledge Graphs**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.241/)
 
+- <a name="PCBR"></a> **(PCBR)** Rajarshi Das, Ameya Godbole, Nicholas Monath, Manzil Zaheer, Andrew McCallum. "**Probabilistic Case-based Reasoning in Knowledge Bases**". **EMNLP (Findings) 2020**. [paper](https://aclanthology.org/2020.findings-emnlp.427/)
+
+- <a name="Pretrain-KGE"></a> **(Pretrain-KGE)** Zhiyuan Zhang, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun, Bin He. "**Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**". **EMNLP (Findings) 2020**. [paper](https://aclanthology.org/2020.findings-emnlp.25/)
+
 - <a name="RE-Net"></a> **(RE-Net)** Woojeong Jin, Meng Qu, Xisen Jin, Xiang Ren. "**Recurrent Event Network: Autoregressive Structure Inferenceover Temporal Knowledge Graphs**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.541/) [code](https://github.com/INK-USC/RE-Net)
 
 - <a name="RuleGuider"></a> **(RuleGuider)** Deren Lei, Gangrong Jiang, Xiaotao Gu, Kexuan Sun, Yuning Mao, Xiang Ren. "**Learning Collaborative Agents with Rule Guidance for Knowledge Graph Reasoning**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.688/)
@@ -1043,10 +1047,6 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 - <a name="TeMP"></a> **(TeMP)** Jiapeng Wu, Meng Cao, Jackie Chi Kit Cheung, William L. Hamilton. "**TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.462/) [code](https://github.com/JiapengWu/TeMP)
 
 - <a name="TIMEPLEX"></a> **(TIMEPLEX)** Prachi Jain, Sushant Rathi, Mausam, Soumen Chakrabarti. "**Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.305/) [code](https://github.com/dair-iitd/tkbi)
-
-- <a name="PCBR"></a> **(PCBR)** Rajarshi Das, Ameya Godbole, Nicholas Monath, Manzil Zaheer, Andrew McCallum. "**Probabilistic Case-based Reasoning in Knowledge Bases**". **EMNLP (Findings) 2020**. [paper](https://aclanthology.org/2020.findings-emnlp.427/)
-
-- <a name="Pretrain-KGE"></a> **(Pretrain-KGE)** Zhiyuan Zhang, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun, Bin He. "**Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**". **EMNLP (Findings) 2020**. [paper](https://aclanthology.org/2020.findings-emnlp.25/)
 
 ##### ECAI
 
