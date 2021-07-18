@@ -1252,11 +1252,11 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### SIGIR
 
-- Guanglin Niu, Yang Li, Chengguang Tang, Ruiying Geng, Jian Dai, Qiao Liu, Hao Wang, Jian Sun, Fei Huang, Luo Si. "**Relational Learning with Gated and Attentive Neighbor Aggregator for Few-Shot Knowledge Graph Completion**". **SIGIR 2021**. [paper](https://dl.acm.org/doi/10.1145/3404835.3462925)
+- <a name="GANA"></a> **(GANA)** Guanglin Niu, Yang Li, Chengguang Tang, Ruiying Geng, Jian Dai, Qiao Liu, Hao Wang, Jian Sun, Fei Huang, Luo Si. "**Relational Learning with Gated and Attentive Neighbor Aggregator for Few-Shot Knowledge Graph Completion**". **SIGIR 2021**. [paper](https://dl.acm.org/doi/10.1145/3404835.3462925)
 
-- Zixuan Li, Xiaolong Jin, Wei Li, Saiping Guan, Jiafeng Guo, Huawei Shen, Yuanzhuo Wang, Xueqi Cheng. "**Temporal Knowledge Graph Reasoning Based on Evolutional Representation Learning**". **SIGIR 2021**. [paper](https://dl.acm.org/doi/10.1145/3404835.3462963)
+- <a name="RE-GCN"></a> **(RE-GCN)** Zixuan Li, Xiaolong Jin, Wei Li, Saiping Guan, Jiafeng Guo, Huawei Shen, Yuanzhuo Wang, Xueqi Cheng. "**Temporal Knowledge Graph Reasoning Based on Evolutional Representation Learning**". **SIGIR 2021**. [paper](https://dl.acm.org/doi/10.1145/3404835.3462963)
 
-- Jiapeng Wu, Yishi Xu, Yingxue Zhang, Chen Ma, Mark Coates, Jackie Chi Kit Cheung. "**TIE: A Framework for Embedding-based Incremental Temporal Knowledge Graph Completion**". **SIGIR 2021**.
+- <a name="TIE"></a> **(TIE)** Jiapeng Wu, Yishi Xu, Yingxue Zhang, Chen Ma, Mark Coates, Jackie Chi Kit Cheung. "**TIE: A Framework for Embedding-based Incremental Temporal Knowledge Graph Completion**". **SIGIR 2021**.
 
 - Chanyoung Chung, Joyce Jiyoung Whang. "**Knowledge Graph Embedding via Metagraph Learning**". **SIGIR 2021**.
 
