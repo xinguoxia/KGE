@@ -1154,9 +1154,9 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="TDGNN"></a> **(TDGNN)** Liang Qu, Huaisheng Zhu, Qiqi Duan, Yuhui Shi. "**Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network**". **WWW 2020**. [paper](https://dl.acm.org/doi/10.1145/3366423.3380073) [code](https://github.com/Leo-Q-316/TDGNN)
 
-- Ningyu Zhang, Shumin Deng, Zhanlin Sun, Jiaoyan Chen, Wei Zhang, Huajun Chen. "**Relation Adversarial Network for Low Resource Knowledge Graph Completion**". **WWW 2020**. [paper](https://dl.acm.org/doi/10.1145/3366423.3380089)
+- <a name="UPGAN"></a> **(UPGAN)** Gaole He, Junyi Li, Wayne Xin Zhao, Peiju Liu, Ji-Rong Wen. "**Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning**". **WWW 2020**. [paper](https://dl.acm.org/doi/10.1145/3366423.3380155)
 
-- Gaole He, Junyi Li, Wayne Xin Zhao, Peiju Liu, Ji-Rong Wen. "**Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning**". **WWW 2020**. [paper](https://dl.acm.org/doi/10.1145/3366423.3380155)
+- <a name="wRAN"></a> **(wRAN)** Ningyu Zhang, Shumin Deng, Zhanlin Sun, Jiaoyan Chen, Wei Zhang, Huajun Chen. "**Relation Adversarial Network for Low Resource Knowledge Graph Completion**". **WWW 2020**. [paper](https://dl.acm.org/doi/10.1145/3366423.3380089)
 
 ### 2021
 
