@@ -974,6 +974,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="HypKGE"></a> **(HypKGE)** Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi and Christopher Ré. "**Low-Dimensional Hyperbolic Knowledge Graph Embeddings**". **ACL 2020**. [paper](https://www.aclweb.org/anthology/2020.acl-main.617/) [code](https://github.com/HazyResearch/KGEmb)
 
+- <a name="NeuInfer"></a> **(NeuInfer)**  Saiping Guan, Xiaolong Jin, Jiafeng Guo, Yuanzhuo Wang, Xueqi Cheng. "**NeuInfer: Knowledge Inference on N-ary Facts**". **ACL 2020**. [paper](https://aclanthology.org/2020.acl-main.546/)
+
 - <a name="OLP"></a> **(OLP)** Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla. "**Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction**". **ACL 2020**. [paper](https://www.aclweb.org/anthology/2020.acl-main.209/) [code](https://github.com/samuelbroscheit/open_knowledge_graph_embeddings)
 
 - <a name="OTE"></a> **(OTE)** Yun Tang, Jing Huang, Guangtao Wang, Xiaodong He, Bowen Zhou. "**Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding**". **ACL 2020**. [paper](https://www.aclweb.org/anthology/2020.acl-main.241/) [code](https://github.com/JD-AI-Research-Silicon-Valley/KGEmbedding-OTE)
@@ -983,8 +985,6 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 - <a name="ReInceptionE"></a> **(ReInceptionE)** Zhiwen Xie, Guangyou Zhou, Jin Liu and Jimmy Xiangji Huang. "**ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding**". **ACL 2020**. [paper](https://www.aclweb.org/anthology/2020.acl-main.526/) [code](https://github.com/JuneTse/ReInceptionE)
 
 - <a name="SEEK"></a> **(SEEK)** Wentao Xu, Shun Zheng, Liang He, Bin Shao, Jian Yin and Tie-Yan Liu. "**SEEK: Segmented Embedding of Knowledge Graphs**". **ACL 2020**. [paper](https://www.aclweb.org/anthology/2020.acl-main.358/) [code](https://github.com/Wentao-Xu/SEEK)
-
-- <a name="NeuInfer"></a> **(NeuInfer)**  Saiping Guan, Xiaolong Jin, Jiafeng Guo, Yuanzhuo Wang, Xueqi Cheng. "**NeuInfer: Knowledge Inference on N-ary Facts**". **ACL 2020**. [paper](https://aclanthology.org/2020.acl-main.546/)
 
 ##### ICML
 
