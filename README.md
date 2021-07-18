@@ -1066,13 +1066,13 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="GeomE"></a> **(GeomE)** Chengjin Xu, Mojtaba Nayyeri, Yung-Yu Chen, Jens Lehmann. "**Knowledge Graph Embeddings in Geometric Algebras**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.46/)
 
-- <a name="RatE"></a> **(RatE)** Hao Huang, Guodong Long, Tao Shen, Jing Jiang, Chengqi Zhang. "**RatE: Relation-Adaptive Translating Embedding for Knowledge Graph Completion**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.48/)
-
 - <a name="IntKB"></a> **(IntKB)** Bernhard Kratzwald, Guo Kunpeng, Stefan Feuerriegel, Dennis Diefenbach. "**IntKB: A Verifiable Interactive Framework for Knowledge Base Completion**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.490/)
 
 - <a name="KD-MKB"></a> **(KD-MKB)** Raphaël Sourty, Jose G. Moreno, François-Paul Servant, Lynda Tamine-Lechani. "**Knowledge Base Embedding By Cooperative Knowledge Distillation**". **COLING 2020**. [paper](https://aclanthology.org/2020.coling-main.489/)
 
 - <a name="KG-BERT"></a> **(KG-BERT)** Bosung Kim, Taesuk Hong, Youngjoong Ko, Jungyun Seo. "**Multi-Task Learning for Knowledge Graph Completion with Pre-trained Language Models**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.153/)
+
+- <a name="RatE"></a> **(RatE)** Hao Huang, Guodong Long, Tao Shen, Jing Jiang, Chengqi Zhang. "**RatE: Relation-Adaptive Translating Embedding for Knowledge Graph Completion**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.48/)
 
 - <a name="TeRo"></a> **(TeRo)** Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, Jens Lehmann. "**TeRo: A Time-aware Knowledge Graph Embedding via Temporal Rotation**". **COLING 2020**. [paper](https://www.aclweb.org/anthology/2020.coling-main.139/) [code](https://github.com/soledad921/ATISE)
 
