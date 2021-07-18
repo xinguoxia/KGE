@@ -1130,7 +1130,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### ICDM
 
-- Susheel Suresh, Jennifer Neville. "**A Hybrid Model for Learning Embeddings and Logical Rules Simultaneously from Knowledge Graphs**". **ICDM 2020**. [paper](https://ieeexplore.ieee.org/document/9338353)
+- <a name="HybridER"></a> **(HybridER)** Susheel Suresh, Jennifer Neville. "**A Hybrid Model for Learning Embeddings and Logical Rules Simultaneously from Knowledge Graphs**". **ICDM 2020**. [paper](https://ieeexplore.ieee.org/document/9338353)
 
 - <a name="LineaRE"></a> **(LineaRE)** Yanhui Peng, Jing Zhang. "**LineaRE: Simple but Powerful Knowledge Graph Embedding for Link Prediction**". **ICDM 2020**. [paper](https://ieeexplore.ieee.org/document/9338434)
 
