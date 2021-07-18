@@ -1144,7 +1144,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### WWW
 
-- <a name="KG_Curation"></a> **(KG_Curation)** Jiaoyan Chen, Xi Chen, Ian Horrocks, Ernesto Jiménez-Ruiz, Erik B. Myklebust. "**Correcting Knowledge Base Assertions**". **WWW 2020**. [paper](https://dl.acm.org/doi/10.1145/3366423.3380226) [code](https://github.com/ChenJiaoyan/KG_Curation)
+- <a name="Curation"></a> **(Curation)** Jiaoyan Chen, Xi Chen, Ian Horrocks, Ernesto Jiménez-Ruiz, Erik B. Myklebust. "**Correcting Knowledge Base Assertions**". **WWW 2020**. [paper](https://dl.acm.org/doi/10.1145/3366423.3380226) [code](https://github.com/ChenJiaoyan/KG_Curation)
 
 - <a name="GETD"></a> **(GETD)** Yu Liu, Quanming Yao, Yong Li. "**Generalizing Tensor Decomposition for N-ary Relational Knowledge Bases**". **WWW 2020**. [paper](https://dl.acm.org/doi/10.1145/3366423.3380188) [code](https://github.com/liuyuaa/GETD)
 
