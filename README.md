@@ -1122,11 +1122,11 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="ATiSE"></a> **(ATiSE)** Chenjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Shariat Yazdi, Jens Lehmann. "**Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_37) [code](https://github.com/soledad921/ATISE)
 
+- <a name="BCRL"></a> **(BCRL)** Gang Wu, Wenfang Wu, Leilei Li, Guodong Zhao, Donghong Han, Baiyou Qiao. "**BCRL: Long Text Friendly Knowledge Graph Representation Learning**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_36)
+
 - <a name="EKGR"></a> **(EKGR)** Rajarshi Bhowmik, Gerard de Melo. "**Explainable Link Prediction for Emerging Entities in Knowledge Graphs**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_3) [code](https://github.com/kingsaint/InductiveExplainableLinkPrediction)
 
-- <a name="BCRL"></a> Gang Wu, Wenfang Wu, Leilei Li, Guodong Zhao, Donghong Han, Baiyou Qiao. "**BCRL: Long Text Friendly Knowledge Graph Representation Learning**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_36)
-
-- Mojtaba Nayyeri, Chengjin Xu, Sahar Vahdati, Nadezhda Vassilyeva, Emanuel Sallinger, Hamed Shariat Yazdi, Jens Lehmann. "**Fantastic Knowledge Graph Embeddings and How to Find the Right Space for Them**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_25)
+- <a name="SpacE"></a> **(SpacE)** Mojtaba Nayyeri, Chengjin Xu, Sahar Vahdati, Nadezhda Vassilyeva, Emanuel Sallinger, Hamed Shariat Yazdi, Jens Lehmann. "**Fantastic Knowledge Graph Embeddings and How to Find the Right Space for Them**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_25)
 
 ##### ICDM
 
