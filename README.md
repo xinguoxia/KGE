@@ -1264,9 +1264,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### ICDE
 
-- Yueji Yang, Yuchen Li, Anthony K. H. Tung. "**NewsLink: Empowering Intuitive News Search with Knowledge Graphs**". **ICDE 2021**. [paper](https://ieeexplore.ieee.org/document/9458619)
-
-- Shimin Di, Quanming Yao, Yongqi Zhang, Lei Chen. "**Efficient Relation-aware Scoring Function Search for Knowledge Graph Embedding**". **ICDE 2021**. [paper](https://ieeexplore.ieee.org/document/9458750)
+- <a name="ERAS"></a> **(ERAS)** Shimin Di, Quanming Yao, Yongqi Zhang, Lei Chen. "**Efficient Relation-aware Scoring Function Search for Knowledge Graph Embedding**". **ICDE 2021**. [paper](https://ieeexplore.ieee.org/document/9458750)
 
 ##### WSDM
 
