@@ -1272,15 +1272,13 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### DASFAA
 
-- Jiaheng Dou, Bing Tian, Yong Zhang, Chunxiao Xing. "**A Novel Embedding Model for Knowledge Graph Completion Based on Multi-Task Learning**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_17)
+- <a name="SEwA"></a> **(SEwA)** Zhijuan Du. "**Sequence Embedding for Zero or Low Resource Knowledge Graph Completion**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_20)
 
-- Zhijuan Du. "**Sequence Embedding for Zero or Low Resource Knowledge Graph Completion**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_20)
+- <a name="ST-ConvKB"></a> **(ST-ConvKB)** Jiasheng Zhang, Shuang Liang, Zhiyi Deng, Jie Shao. "**Spatial-Temporal Attention Network for Temporal Knowledge Graph Completion**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_15)
 
-- Liang Xu, Junjie Yao. "**Iterative Reasoning over Knowledge Graph**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_14)
+- <a name="TransMTL"></a> **(TransMTL)** Jiaheng Dou, Bing Tian, Yong Zhang, Chunxiao Xing. "**A Novel Embedding Model for Knowledge Graph Completion Based on Multi-Task Learning**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_17)
 
-- Jiasheng Zhang, Shuang Liang, Zhiyi Deng, Jie Shao. "**Spatial-Temporal Attention Network for Temporal Knowledge Graph Completion**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_15)
-
-- Jiatao Zhang, Tianxing Wu, Guilin Qi. "**Gaussian Metric Learning for Few-Shot Uncertain Knowledge Graph Completion**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_18)
+- <a name="GMUC"></a> **(GMUC)** Jiatao Zhang, Tianxing Wu, Guilin Qi. "**Gaussian Metric Learning for Few-Shot Uncertain Knowledge Graph Completion**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_18)
 
 ##### ESWC
 
