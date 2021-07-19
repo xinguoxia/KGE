@@ -1282,13 +1282,13 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### ESWC
 
-- Nitisha Jain, Jan-Christoph Kalo, Wolf-Tilo Balke, Ralf Krestel. "**Do Embeddings Actually Capture Knowledge Graph Semantics?**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_9)
+- <a name="ConEx"></a> **(ConEx)** Caglar Demir, Axel-Cyrille Ngonga Ngomo. "**Convolutional Complex Knowledge Graph Embeddings**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_24)
 
-- Caglar Demir, Axel-Cyrille Ngonga Ngomo. "**Convolutional Complex Knowledge Graph Embeddings**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_24)
+- <a name="RETRA"></a> **(RETRA)** Simon Werner, Achim Rettinger, Lavdim Halilaj, Jürgen Lüttin. "**RETRA: Recurrent Transformers for Learning Temporally Contextualized Knowledge Graph Embeddings**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_25)
 
-- Simon Werner, Achim Rettinger, Lavdim Halilaj, Jürgen Lüttin. "**RETRA: Recurrent Transformers for Learning Temporally Contextualized Knowledge Graph Embeddings**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_25)
+- <a name="Semantic"></a> **(Semantic)** Nitisha Jain, Jan-Christoph Kalo, Wolf-Tilo Balke, Ralf Krestel. "**Do Embeddings Actually Capture Knowledge Graph Semantics?**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_9)
 
-- Claudia d'Amato, Nicola Flavio Quatraro, Nicola Fanizzi. "**Injecting Background Knowledge into Embedding Models for Predictive Tasks on Knowledge Graphs**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_26)
+- <a name="TransROWL"></a> **(TransROWL)** Claudia d'Amato, Nicola Flavio Quatraro, Nicola Fanizzi. "**Injecting Background Knowledge into Embedding Models for Predictive Tasks on Knowledge Graphs**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_26)
 
 ##### WWW
 
