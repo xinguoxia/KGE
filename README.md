@@ -1294,6 +1294,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="AMIE"></a> **(AMIE)** Sudhanshu Tiwari, Iti Bansal, Carlos R. Rivero. "**Revisiting the Evaluation Protocol of Knowledge Graph Completion Methods for Link Prediction**". [paper](https://dl.acm.org/doi/10.1145/3442381.3449856)
 
+- <a name="ATransN"></a> **(ATransN)** Huijuan Wang, Shuangyin Li, Rong Pan. "**An Adversarial Transfer Network for Knowledge Representation Learning**". [paper](https://dl.acm.org/doi/10.1145/3442381.3450064) [code](https://github.com/LemonNoel/ATransN)
+
 - <a name="KE-GCN"></a> **(KE-GCN)** Donghan Yu, Yiming Yang, Ruohong Zhang, Yuexin Wu. "**Knowledge Embedding Based Graph Convolutional Network**". [paper](https://dl.acm.org/doi/10.1145/3442381.3449925)
 
 - <a name="M2GNN"></a> **(M2GNN)** Shen Wang, Xiaokai Wei, Cicero Nogueira dos Santos, Zhiguo Wang, Ramesh Nallapati, Andrew O. Arnold, Bing Xiang, Philip S. Yu, Isabel F. Cruz. "**Mixed-Curvature Multi-Relational Graph Neural Network for Knowledge Graph Completion**". [paper](https://dl.acm.org/doi/10.1145/3442381.3450118)
@@ -1309,8 +1311,6 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 - <a name="RETA"></a> **(RETA)** Paolo Rosso, Dingqi Yang, Natalia Ostapuk, Philippe Cudré-Mauroux. "**RETA: A Schema-Aware, End-to-End Solution for Instance Completion in Knowledge Graphs**". [paper](https://dl.acm.org/doi/10.1145/3442381.3449883)
 		
 - <a name="StAR"></a> **(StAR)** Bo Wang, Tao Shen, Guodong Long, Tianyi Zhou, Ying Wang, Yi Chang. "**Structure-Augmented Text Representation Learning for Efficient Knowledge Graph Completion**". [paper](https://dl.acm.org/doi/10.1145/3442381.3450043) [code](https://github.com/wangbo9719/StAR_KGC)
-
-- Huijuan Wang, Shuangyin Li, Rong Pan. "**An Adversarial Transfer Network for Knowledge Representation Learning**". [paper](https://dl.acm.org/doi/10.1145/3442381.3450064) [code](https://github.com/LemonNoel/ATransN)
 		
 ## Datasets
 
