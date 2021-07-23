@@ -172,6 +172,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 | Year | Source | Methods |
 |:----:|:------:|:-------:|
+| 2018 | ACL | **[TypeComplex](#TypeComplex)** |
 | 2021 | WWW | **[RETA-Grader](#RETA-Grader)** |
 
 ### Augmentations
@@ -224,7 +225,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ### Emergents
 
-#### [Few Shot](https://github.com/xinguoxia/KGE/blob/master/Emergents/FewShot.md)
+#### Few Shot
 
 | Year | Source |	Methods |
 |:----:|:------:|:-------:|
