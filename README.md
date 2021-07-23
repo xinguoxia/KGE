@@ -789,6 +789,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### ACL
 
+- <a name="A2N"></a> **(A2N)** Trapit Bansal, Da-Cheng Juan, Sujith Ravi, Andrew McCallum. "**A2N: Attending to Neighbors for Knowledge Graph Inference**". **ACL 2019**. [paper](https://aclanthology.org/P19-1431/)
+
 - <a name="DihEdral"></a> **(DihEdral)** Canran Xu, Ruijiang Li. "**Relation Embedding with Dihedral Group in Knowledge Graph**". **ACL 2019**. [paper](https://www.aclweb.org/anthology/P19-1026/)
 
 - <a name="KBGAT"></a> **(KBGAT)** Deepak Nathani, Jatin Chauhan, Charu Sharma, Manohar Kaul. "**Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs**". **ACL 2019**. [paper](https://www.aclweb.org/anthology/P19-1466/) [code](https://github.com/deepakn97/relationPrediction) :fire: :boom:
