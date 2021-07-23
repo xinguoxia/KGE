@@ -306,6 +306,12 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 |:----:|:------:|:-------:|
 | 2021 | WWW | **[NS-KGE](#NS-KGE)** |
 
+#### Transfer
+
+| Year | Source |	Methods |
+|:----:|:------:|:-------:|
+| 2021 | WWW | **[MulDE](#MulDE)** |
+
 ## Papers
 
 ### Survey
