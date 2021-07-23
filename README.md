@@ -621,6 +621,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="POE"></a> **(POE)** Luke Vilnis, Xiang Li, Shikhar Murty, Andrew McCallum. "**Probabilistic Embedding of Knowledge Graphs with Box Lattice Measures**". **ACL 2018**. [paper](https://www.aclweb.org/anthology/P18-1025/)
 
+- <a name="TypeComplex"></a> **(TypeComplex)** Prachi Jain, Pankaj Kumar, Mausam, Soumen Chakrabarti. "**Type-Sensitive Knowledge Base Inference Without Explicit Type Supervision**". **ACL 2018**. [paper](https://aclanthology.org/P18-2013/)
+
 ##### ICML
 
 - <a name="ComplEx-N3"></a> **(ComplEx-N3)** Timothée Lacroix, Nicolas Usunier, Guillaume Obozinski. "**Canonical Tensor Decomposition for Knowledge Base Completion**". **ICML 2018**. [paper](http://proceedings.mlr.press/v80/lacroix18a.html) [code](https://github.com/facebookresearch/kbc) :fire:
