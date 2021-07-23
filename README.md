@@ -300,6 +300,12 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2020 | IJCAI                    | **[DArtNet](#DArtNet)**         |
 | 2020 | CoRR                     | **[TIMEPLEX](#TIMEPLEX)**       |
 
+#### Study
+
+| Year | Source |	Methods |
+|:----:|:------:|:-------:|
+| 2021 | WWW | **[NS-KGE](#NS-KGE)** |
+
 ## Papers
 
 ### Survey
