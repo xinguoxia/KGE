@@ -133,7 +133,6 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2019 | EMNLP         | **[CaRe](#CaRe)**                       |
 | 2019 | EMNLP         | **[TCVAE](#TCVAE)**                     |
 | 2019 | EMNLP         | **[CPL](#CPL)**                         |
-
 | 2021 | WWW | **[StAR](#StAR)** |
 
 #### Hierarchy
