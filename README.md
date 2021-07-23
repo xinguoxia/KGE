@@ -113,6 +113,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2020 | ICLR | **[CompGCN](#SAGCN)** |
 | 2020 | ICLR | **[DPMPN](#DPMPN)** |
 | 2020 | AAAI | **[RGHAT](#RGHAT)** |
+| 2021 | WWW | **[KE-GNN](#KE-GNN)** |
 | 2021 | WWW | **[M2GNN](#M2GNN)** |
 
 ### Informations
@@ -308,11 +309,13 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | Year | Source |	Methods |
 |:----:|:------:|:-------:|
 | 2021 | WWW | **[NS-KGE](#NS-KGE)** |
+| 2021 | WWW | **[AMIE](#AMIE)** |
 
 #### Transfer
 
 | Year | Source |	Methods |
 |:----:|:------:|:-------:|
+| 2021 | WWW | **[ATransN](#ATransN)** |
 | 2021 | WWW | **[MulDE](#MulDE)** |
 
 ## Papers
