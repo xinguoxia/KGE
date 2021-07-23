@@ -57,6 +57,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2019 | IJCAI         | **[TransMS](#TransMS)**         |
 | 2019 | WSDM          | **[CrossE](#CrossE)**           |
 | 2020 | AAAI          | **[HAKE](#HAKE)**               |
+| 2020 | ACL  | **[OTE](#OTE)**               |
+| 2021 | WWW | **[MQuatE](#MQuatE)** |
 
 #### Multiplication
 
@@ -68,8 +70,11 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2016 | AAAI          | **[HolE](#HolE)**               |
 | 2017 | ICML          | **[ANALOGY](#ANALOGY)**         |
 | 2018 | NeurIPS       | **[SimplE](#SimplE)**           |
+| 2019 | NeurIPS | **[QuatE](#QuatE)** |
 | 2019 | ACL           | **[DihEdral](#DihEdral)**       |
-| 2019 | EMNLP         | **[TuckER](#TuckER)**           |
+| 2019 | EMNLP | **[TuckER](#TuckER)**           |
+| 2020 | ACL | **[SEEK](#SEEK)** |
+
 
 #### Neural Networks
 
