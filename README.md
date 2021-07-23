@@ -53,6 +53,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2018 | AAAI          | **[TransAt](#TransAt)**         |
 | 2018 | EMNLP         | **[TransC](#TransC)**           |
 | 2019 | ICLR          | **[RotatE](#RotatE)**           |
+| 2019 | NeurIPS       | **[MuRP](#MuRP)**           |
 | 2019 | AAAI          | **[TransGate](#TransGate)**     |
 | 2019 | IJCAI         | **[TransMS](#TransMS)**         |
 | 2019 | WSDM          | **[CrossE](#CrossE)**           |
@@ -74,7 +75,6 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2019 | ACL           | **[DihEdral](#DihEdral)**       |
 | 2019 | EMNLP | **[TuckER](#TuckER)**           |
 | 2020 | ACL | **[SEEK](#SEEK)** |
-
 
 #### Neural Networks
 
@@ -100,6 +100,20 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2020 | ICLR          | **[CompGCN](#CompGCN)**         |
 | 2020 | ICLR          | **[DPMPN](#DPMPN)**             |
 | 2020 | AAAI          | **[InteractE](#InteractE)**     |
+
+#### Graph Networks
+
+| Year | Source        |	Methods                        |
+|:----:|:-------------:|:-------------------------------:|
+| 2018 | ESWC | **[R-GCN](#R-GCN)** |
+| 2019 | ACL | **[A2N](#A2N)** |
+| 2019 | AAAI | **[SACN](#SACN)** |
+| 2019 | IJCAI | **[VR-GCN](#VR-GCN)** |
+| 2019 | ICASSP | **[GRNN](#GRNN)** |
+| 2020 | ICLR | **[CompGCN](#SAGCN)** |
+| 2020 | ICLR | **[DPMPN](#DPMPN)** |
+| 2020 | AAAI | **[RGHAT](#RGHAT)** |
+| 2021 | WWW | **[M2GNN](#M2GNN)** |
 
 ### Informations
 
@@ -254,22 +268,6 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2019 | NeurIPS       | **[MuRP](#MuRP)**               |
 | 2019 | ICLR          | **[RotatE](#RotatE)**           |
 | 2020 | AAAI          | **[HAKE](#HAKE)**               |
-
-#### Graph Networks
-
-| Year | Source        |	Methods                        |
-|:----:|:-------------:|:-------------------------------:|
-| 2018 | ESWC | **[R-GCN](#R-GCN)** |
-| 2019 | AAAI | **[SACN](#SACN)** |
-| 2019 | IJCAI | **[VR-GCN](#VR-GCN)** |
-| 2019 | ICASSP | **[GRNN](#GRNN)** |
-| 2019 | PRICAI | **[SAGCN](#SAGCN)** |
-| 2019 | K-CAP | **[TransGCN](#TransGCN)** |
-| 2020 | IEEE Access | **[GAATs](#GAATs)** |
-| 2020 | ICLR | **[CompGCN](#SAGCN)** |
-| 2020 | ICLR | **[DPMPN](#DPMPN)** |
-| 2020 | AAAI | **[RGHAT](#RGHAT)** |
-| 2020 | CoRR | **[TGCN](#TGCN)** |
 
 #### N-ary
 
