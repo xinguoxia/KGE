@@ -59,6 +59,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2019 | WSDM          | **[CrossE](#CrossE)**           |
 | 2020 | AAAI          | **[HAKE](#HAKE)**               |
 | 2020 | ACL  | **[OTE](#OTE)**               |
+| 2021 | ESWC | **[TransROWL](#TransROWL)** |
 | 2021 | WWW | **[MQuatE](#MQuatE)** |
 
 #### Multiplication
@@ -310,6 +311,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 |:----:|:------:|:-------:|
 | 2021 | WWW | **[NS-KGE](#NS-KGE)** |
 | 2021 | WWW | **[AMIE](#AMIE)** |
+| 2021 | ESWC | **[Semantic](#Semantic)** |
 
 #### Transfer
 
