@@ -61,6 +61,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2020 | ACL  | **[OTE](#OTE)**               |
 | 2021 | ESWC | **[TransROWL](#TransROWL)** |
 | 2021 | WWW | **[MQuatE](#MQuatE)** |
+| 2021 | DASFAA | **[TransMTL](#TransMTL)** |
 
 #### Multiplication
 
@@ -76,6 +77,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2019 | ACL           | **[DihEdral](#DihEdral)**       |
 | 2019 | EMNLP | **[TuckER](#TuckER)**           |
 | 2020 | ACL | **[SEEK](#SEEK)** |
+| 2021 | ESWC | **[ConEx](#ConEx)** |
 
 #### Neural Networks
 
@@ -101,6 +103,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2020 | ICLR          | **[CompGCN](#CompGCN)**         |
 | 2020 | ICLR          | **[DPMPN](#DPMPN)**             |
 | 2020 | AAAI          | **[InteractE](#InteractE)**     |
+| 2021 | DASFAA | **[TransMTL](#TransMTL)** |
 
 #### Graph Networks
 
@@ -285,25 +288,37 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 #### Temporal
 
-| Year | Source                   |	Methods                     |
-|:----:|:------------------------:|:-------------------------------:|
-| 2014 | EMNLP                    | **[CTPs](#CTPs)**               |
-| 2016 | EMNLP                    | **[t-TransE](#t-TransE)**       |
-| 2016 | COLING                   | **[TransE-TAE](#TransE-TAE)**   |
-| 2017 | ICML                     | **[Know-Evolve](#Know-Evolve)** |
-| 2017 | AAAI                     | **[MLNs](#MLNs)**               |
-| 2018 | WWW                      | **[TTransE](#TTransE)**         |
-| 2018 | EMNLP                    | **[TA-DistMult](#TA-DistMult)** |
-| 2018 | EMNLP                    | **[HyTE](#HyTE)**               |
-| 2019 | Journal of Web Semantics | **[ConT](#ConT)**               |
-| 2019 | ICLR                     | **[DyRep](#DyRep)**             |
-| 2019 | ICTAI                    | **[Hybrid-TE](#Hybrid-TE)**     |
-| 2019 | WISE                     | **[CATE](#CATE)**               |
-| 2020 | IEEE Access              | **[TDG2E](#TDG2E)**             |
-| 2020 | ICLR                     | **[TComplEx](#TComplEx)**       |
-| 2020 | AAAI                     | **[DE-SimplE](#DE-SimplE)**     |
-| 2020 | IJCAI                    | **[DArtNet](#DArtNet)**         |
-| 2020 | CoRR                     | **[TIMEPLEX](#TIMEPLEX)**       |
+| Year | Source | Methods |
+|:----:|:------:|:-------:|
+| 2014 | EMNLP | **[CTPs](#CTPs)** |
+| 2016 | EMNLP | **[t-TransE](#t-TransE)** |
+| 2016 | COLING | **[TransE-TAE](#TransE-TAE)**   |
+| 2017 | ICML | **[Know-Evolve](#Know-Evolve)** |
+| 2017 | AAAI | **[MLNs](#MLNs)** |
+| 2018 | WWW | **[TTransE](#TTransE)** |
+| 2018 | EMNLP | **[HyTE](#HyTE)** |
+| 2018 | EMNLP | **[TA-DistMult](#TA-DistMult)** |
+| 2019 | ICLR | **[DyRep](#DyRep)** |
+| 2020 | ICLR | **[TComplEx](#TComplEx)** |
+| 2020 | AAAI | **[DE-SimplE](#DE-SimplE)** |
+| 2020 | IJCAI | **[DArtNet](#DArtNet)** |
+| 2020 | EMNLP | **[DyERNIE](#DyERNIE)** |
+| 2020 | EMNLP | **[TeMP](#TeMP)** |
+| 2020 | EMNLP | **[TIMEPLEX](#TIMEPLEX)** |
+| 2020 | COLING | **[TeRo](#TeRo)** |
+| 2020 | CIKM | **[ToKE](#ToKE)** |
+| 2020 | CIKM | **[ATiSE](#ATiSE)** |
+| 2020 | WWW | **[TDGNN](#TDGNN)** |
+| 2021 | AAAI | **[ChronoR](#ChronoR)** |
+| 2021 | AAAI | **[CyGNet](#CyGNet)** |
+| 2021 | AAAI | **[NLSM](#NLSM)** |
+| 2021 | NAACL-HLT | **[RTFE](#RTFE)** |
+| 2021 | NAACL-HLT | **[TeLM](#TeLM)** |
+| 2021 | SIGIR | **[RE-GCN](#RE-GCN)** |
+| 2021 | SIGIR | **[TIE](#TIE)** |
+| 2021 | WSDM | **[DBKGE](#DBKGE)** |
+| 2021 | DASFAA | **[ST-ConvKB](#ST-ConvKB)** |
+| 2021 | ESWC | **[RETRA](#RETRA)** |
 
 #### Study
 
