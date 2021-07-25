@@ -335,6 +335,13 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2021 | WWW | **[ATransN](#ATransN)** |
 | 2021 | WWW | **[MulDE](#MulDE)** |
 
+#### Low Resource 
+
+| Year | Source |	Methods |
+|:----:|:------:|:-------:|
+| 2020 | WWW | **[wRAN](#wRAN)** |
+| 2021 | DASFAA | **[SEwA](#SEwA)** |
+
 ## Papers
 
 ### Survey
