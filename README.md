@@ -72,6 +72,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2016 | ICML          | **[ComplEx](#ComplEx)**         |
 | 2016 | AAAI          | **[HolE](#HolE)**               |
 | 2017 | ICML          | **[ANALOGY](#ANALOGY)**         |
+| 2018 | NeurIPS       | **[HolEX](#HolEX)**           |
 | 2018 | NeurIPS       | **[SimplE](#SimplE)**           |
 | 2019 | NeurIPS | **[QuatE](#QuatE)** |
 | 2019 | ACL           | **[DihEdral](#DihEdral)**       |
@@ -262,6 +263,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2020 | AAAI | **[ZSGAN](#ZSGAN)** |
 | 2020 | EMNLP | **[FAAN](#FAAN)** |
 | 2020 | EMNLP | **[FIRE](#FIRE)** |
+| 20121 | DASFAA | **[GMUC](#GMUC)** |
+
 
 #### Hyper Planes
 
@@ -341,6 +344,20 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 |:----:|:------:|:-------:|
 | 2020 | WWW | **[wRAN](#wRAN)** |
 | 2021 | DASFAA | **[SEwA](#SEwA)** |
+
+#### Uncertain
+
+| Year | Source | Methods |
+|:----:|:------:|:-------:|
+| 2019 | AAAI | **[UKGE](#UKGE)** |
+| 2021 | DASFAA | **[GMUC](#GMUC)** |
+
+#### AutoML
+
+| Year | Source | Methods |
+|:----:|:------:|:-------:|
+| 2020 | ICDE | **[AutoSF](#AutoSF)** |
+| 2021 | ICDE | **[ERAS](#ERAS)** |
 
 ## Papers
 
@@ -663,6 +680,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 ##### NeurIPS
 
 - <a name="GQE"></a> **(GQE)** William L. Hamilton, Payal Bajaj, Marinka Zitnik, Dan Jurafsky, Jure Leskovec. "**Embedding Logical Queries on Knowledge Graphs**". **NeurIPS 2018**. [paper](http://papers.nips.cc/paper/7473-embedding-logical-queries-on-knowledge-graphs) [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips31/reviews/1018.html) [code](https://github.com/williamleif/graphqembed) :fire:
+
+- <a name="HolEX"></a> **(HolEX)** Yexiang Xue, Yang Yuan, Zhitian Xu, Ashish Sabharwal. "**Expanding Holographic Embeddings for Knowledge Completion**". **NeurIPS 2018**. [paper](https://proceedings.neurips.cc/paper/2018/hash/dd28e50635038e9cf3a648c2dd17ad0a-Abstract.html)
 
 - <a name="SimplE"></a> **(SimplE)** Seyed Mehran Kazemi, David Poole. "**SimplE Embedding for Link Prediction in Knowledge Graphs**". **NeurIPS 2018**. [paper](http://papers.nips.cc/paper/7682-simple-embedding-for-link-prediction-in-knowledge-graphs) [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips31/reviews/2093.html) [code](https://github.com/Mehran-k/SimplE) :fire:
 
@@ -1340,13 +1359,13 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### DASFAA
 
+- <a name="GMUC"></a> **(GMUC)** Jiatao Zhang, Tianxing Wu, Guilin Qi. "**Gaussian Metric Learning for Few-Shot Uncertain Knowledge Graph Completion**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_18)
+
 - <a name="SEwA"></a> **(SEwA)** Zhijuan Du. "**Sequence Embedding for Zero or Low Resource Knowledge Graph Completion**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_20)
 
 - <a name="ST-ConvKB"></a> **(ST-ConvKB)** Jiasheng Zhang, Shuang Liang, Zhiyi Deng, Jie Shao. "**Spatial-Temporal Attention Network for Temporal Knowledge Graph Completion**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_15)
 
 - <a name="TransMTL"></a> **(TransMTL)** Jiaheng Dou, Bing Tian, Yong Zhang, Chunxiao Xing. "**A Novel Embedding Model for Knowledge Graph Completion Based on Multi-Task Learning**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_17)
-
-- <a name="GMUC"></a> **(GMUC)** Jiatao Zhang, Tianxing Wu, Guilin Qi. "**Gaussian Metric Learning for Few-Shot Uncertain Knowledge Graph Completion**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_18)
 
 ##### ESWC
 
