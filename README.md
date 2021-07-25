@@ -59,6 +59,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2019 | WSDM          | **[CrossE](#CrossE)**           |
 | 2020 | AAAI          | **[HAKE](#HAKE)**               |
 | 2020 | ACL  | **[OTE](#OTE)**               |
+| 2021 | NAACL-HLT | **[ProcrustEs](#ProcrustEs)** |
 | 2021 | ESWC | **[TransROWL](#TransROWL)** |
 | 2021 | WWW | **[MQuatE](#MQuatE)** |
 | 2021 | DASFAA | **[TransMTL](#TransMTL)** |
@@ -78,6 +79,10 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2019 | ACL           | **[DihEdral](#DihEdral)**       |
 | 2019 | EMNLP | **[TuckER](#TuckER)**           |
 | 2020 | ACL | **[SEEK](#SEEK)** |
+| 2021 | AAAI | **[5E](#5E)** |
+| 2021 | AAAI | **[DualE](#DualE)** |
+| 2021 | NAACL | **[KRE](#KRE)** |
+| 2021 | NAACL | **[KRE](#KRE)** |
 | 2021 | ESWC | **[ConEx](#ConEx)** |
 
 #### Neural Networks
@@ -104,6 +109,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2020 | ICLR          | **[CompGCN](#CompGCN)**         |
 | 2020 | ICLR          | **[DPMPN](#DPMPN)**             |
 | 2020 | AAAI          | **[InteractE](#InteractE)**     |
+| 2021 | NAACL | **[EDGE](#EDGE)** |
 | 2021 | DASFAA | **[TransMTL](#TransMTL)** |
 
 #### Graph Networks
@@ -114,6 +120,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2019 | ACL | **[A2N](#A2N)** |
 | 2019 | AAAI | **[SACN](#SACN)** |
 | 2019 | IJCAI | **[VR-GCN](#VR-GCN)** |
+| 2019 | IJCAI | **[RDGCN](#RDGCN)** |
 | 2019 | ICASSP | **[GRNN](#GRNN)** |
 | 2020 | ICLR | **[CompGCN](#SAGCN)** |
 | 2020 | ICLR | **[DPMPN](#DPMPN)** |
@@ -139,7 +146,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2019 | EMNLP         | **[OPTransE](#OPTransE)**       |
 | 2020 | AAAI          | **[RPJE](#RPJE)**               |
 
-#### Textual
+#### Text
 
 | Year | Source        |	Methods                                |
 |:----:|:-------------:|:---------------------------------------:|
@@ -158,6 +165,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2019 | EMNLP         | **[CaRe](#CaRe)**                       |
 | 2019 | EMNLP         | **[TCVAE](#TCVAE)**                     |
 | 2019 | EMNLP         | **[CPL](#CPL)**                         |
+| 2021 | NAACL | **[EDGE](#EDGE)** |
 | 2021 | WWW | **[StAR](#StAR)** |
 
 #### Hierarchy
@@ -263,7 +271,9 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2020 | AAAI | **[ZSGAN](#ZSGAN)** |
 | 2020 | EMNLP | **[FAAN](#FAAN)** |
 | 2020 | EMNLP | **[FIRE](#FIRE)** |
-| 20121 | DASFAA | **[GMUC](#GMUC)** |
+| 2021 | SIGIR | **[GANA](#GANA)** |
+| 2021 | SIGIR | **[MetaP](#MetaP)** |
+| 2021 | DASFAA | **[GMUC](#GMUC)** |
 
 
 #### Hyper Planes
@@ -307,6 +317,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2020 | IJCAI | **[DArtNet](#DArtNet)** |
 | 2020 | EMNLP | **[DyERNIE](#DyERNIE)** |
 | 2020 | EMNLP | **[TeMP](#TeMP)** |
+| 2020 | EMNLP | **[RE-NET](#RE-NET)** |
 | 2020 | EMNLP | **[TIMEPLEX](#TIMEPLEX)** |
 | 2020 | COLING | **[TeRo](#TeRo)** |
 | 2020 | CIKM | **[ToKE](#ToKE)** |
@@ -315,6 +326,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2021 | AAAI | **[ChronoR](#ChronoR)** |
 | 2021 | AAAI | **[CyGNet](#CyGNet)** |
 | 2021 | AAAI | **[NLSM](#NLSM)** |
+| 2021 | NAACL-HLT | **[KRE](#KRE)** |
 | 2021 | NAACL-HLT | **[RTFE](#RTFE)** |
 | 2021 | NAACL-HLT | **[TeLM](#TeLM)** |
 | 2021 | SIGIR | **[RE-GCN](#RE-GCN)** |
@@ -327,6 +339,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 | Year | Source |	Methods |
 |:----:|:------:|:-------:|
+| 2021 | AAAI | **[CLKGE](#CLKGE)** |
+| 2021 | SIGIR | **[META-KGE](#META-KGE)** |
 | 2021 | WWW | **[NS-KGE](#NS-KGE)** |
 | 2021 | WWW | **[AMIE](#AMIE)** |
 | 2021 | ESWC | **[Semantic](#Semantic)** |
@@ -349,7 +363,9 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 | Year | Source | Methods |
 |:----:|:------:|:-------:|
+| 2017 | CIKM | **[URGE](#URGE)** |
 | 2019 | AAAI | **[UKGE](#UKGE)** |
+| 2021 | NAACL | **[BEUrRE](#BEUrRE)** |
 | 2021 | DASFAA | **[GMUC](#GMUC)** |
 
 #### AutoML
@@ -358,6 +374,33 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 |:----:|:------:|:-------:|
 | 2020 | ICDE | **[AutoSF](#AutoSF)** |
 | 2021 | ICDE | **[ERAS](#ERAS)** |
+
+#### Segmented
+
+| Year | Source | Methods |
+|:----:|:------:|:-------:|
+| 2020 | ACL | **[SEEK](#SEEK)** |
+| 2020 | ACL | **[OTE](#OTE)** |
+| 2021 | NAACL | **[ProcrustEs](#ProcrustEs)** |
+
+#### Complex Query
+
+| Year | Source | Methods |
+|:----:|:------:|:-------:|
+| 2018 | NeurIPS | **[GQE](#GQE)** |
+| 2020 | ICLR | **[Q2B](#Q2B)** |
+| 2020 | UAI | **[TRACTOR](#TRACTOR)** |
+| 2021 | AAAI | **[BiQE](#BiQE)** |
+
+#### Reinforcement Learning
+
+| Year | Source | Methods |
+|:----:|:------:|:-------:|
+| 2017 | EMNLP | **[DeepPath](#DeepPath)** |
+| 2018 | ICLR | **[MINERVA](#MINERVA)** |
+| 2018 | NeurIPS | **[M-Walk](#M-Walk)** |
+| 2018 | EMNLP | **[MultiHopKG](#MultiHopKG)** |
+| 2021 | AAAI | **[GaussianPath](#GaussianPath)** |
 
 ## Papers
 
@@ -621,6 +664,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="TransE-RS"></a> **(TransE-RS)** Xiaofei Zhou, Qiannan Zhu, Ping Liu, Li Guo. "**Learning Knowledge Embeddings by Combining Limit-based Scoring Loss**". **CIKM 2017**. [paper](https://dl.acm.org/doi/10.1145/3132847.3132939)
 
+- <a name="URGE"></a> **(URGE)** Jiafeng Hu, Reynold Cheng, Zhipeng Huang, Yixiang Fang, Siqiang Luo. "**On Embedding Uncertain Graphs**". **CIKM 2017**. [paper](https://dl.acm.org/doi/10.1145/3132847.3132885)
+
 ##### WSDM
 
 - <a name="RSTE"></a> **(RSTE)** Yi Tay, Anh Tuan Luu, Siu Cheung Hui, Falk Brauer. "**Random Semantic Tensor Ensemble for Scalable Knowledge Graph Link Prediction**". **WSDM 2017**. [paper](https://dl.acm.org/doi/10.1145/3018661.3018695)
@@ -684,6 +729,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 - <a name="HolEX"></a> **(HolEX)** Yexiang Xue, Yang Yuan, Zhitian Xu, Ashish Sabharwal. "**Expanding Holographic Embeddings for Knowledge Completion**". **NeurIPS 2018**. [paper](https://proceedings.neurips.cc/paper/2018/hash/dd28e50635038e9cf3a648c2dd17ad0a-Abstract.html)
 
 - <a name="SimplE"></a> **(SimplE)** Seyed Mehran Kazemi, David Poole. "**SimplE Embedding for Link Prediction in Knowledge Graphs**". **NeurIPS 2018**. [paper](http://papers.nips.cc/paper/7682-simple-embedding-for-link-prediction-in-knowledge-graphs) [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips31/reviews/2093.html) [code](https://github.com/Mehran-k/SimplE) :fire:
+
+- <a name="M-Walk"></a> **(M-Walk)** Yelong Shen, Jianshu Chen, Po-Sen Huang, Yuqing Guo, Jianfeng Gao. "**M-Walk: Learning to Walk over Graphs using Monte Carlo Tree Search**". **NeurIPS 2018**. [paper](https://proceedings.neurips.cc/paper/2018/hash/c6f798b844366ccd65d99bc7f31e0e02-Abstract.html)
 
 ##### ACL
 
@@ -850,6 +897,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 - <a name="Attack"></a> **(Attack)** Hengtong Zhang, Tianhang Zheng, Jing Gao, Chenglin Miao, Lu Su, Yaliang Li, Kui Ren. "**Data Poisoning Attack against Knowledge Graph Embedding**". **IJCAI 2019**. CCF A. Cite 6. [paper](https://www.ijcai.org/proceedings/2019/674)
 
 - <a name="M-GNN"></a> **(M-GNN)** Zihan Wang, Zhaochun Ren, Chunyu He, Peng Zhang, Yue Hu. "**Robust Embedding with Multi-Level Structures for Link Prediction**". **IJCAI 2019**. [paper](https://www.ijcai.org/proceedings/2019/728)
+
+- <a name="RDGCN"></a> **(RDGCN)** Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Rui Yan, Dongyan Zhao. "**Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs**". **IJCAI 2019**. [paper](https://www.ijcai.org/proceedings/2019/733)
 
 -  <a name="TransMS"></a> **(TransMS)** Shihui Yang, Jidong Tian, Honglun Zhang, Junchi Yan, Hao He, Yaohui Jin. "**TransMS: Knowledge Graph Embedding for Complex Relations by Multidirectional Semantics**". **IJCAI 2019**. [paper](https://www.ijcai.org/proceedings/2019/268)
 
@@ -1123,7 +1172,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 - <a name="Pretrain-KGE"></a> **(Pretrain-KGE)** Zhiyuan Zhang, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun, Bin He. "**Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**". **EMNLP (Findings) 2020**. [paper](https://aclanthology.org/2020.findings-emnlp.25/)
 
-- <a name="RE-Net"></a> **(RE-Net)** Woojeong Jin, Meng Qu, Xisen Jin, Xiang Ren. "**Recurrent Event Network: Autoregressive Structure Inferenceover Temporal Knowledge Graphs**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.541/) [code](https://github.com/INK-USC/RE-Net)
+- <a name="RE-NET"></a> **(RE-NET)** Woojeong Jin, Meng Qu, Xisen Jin, Xiang Ren. "**Recurrent Event Network: Autoregressive Structure Inferenceover Temporal Knowledge Graphs**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.541/) [code](https://github.com/INK-USC/RE-Net)
 
 - <a name="RuleGuider"></a> **(RuleGuider)** Deren Lei, Gangrong Jiang, Xiaotao Gu, Kexuan Sun, Yuning Mao, Xiang Ren. "**Learning Collaborative Agents with Rule Guidance for Knowledge Graph Reasoning**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.688/)
 
@@ -1166,6 +1215,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 ##### UAI
 
 - <a name="Strat-Hits"></a> **(Strat-Hits)** Aisha Mohamed, Shameem Puthiya Parambath, Zoi Kaoudi, Ashraf Aboulnaga. "**Popularity Agnostic Evaluation of Knowledge Graph Embeddings**". **UAI 2020**. [paper](http://proceedings.mlr.press/v124/mohamed20a.html)
+
+- <a name="TRACTOR"></a> **(TRACTOR)** Tal Friedman, Guy Van den Broeck. "**Symbolic Querying of Vector Spaces: Probabilistic Databases Meets Relational Embeddings**". **UAI 2020**. [paper](http://proceedings.mlr.press/v124/friedman20a.html)
 
 ##### AAMAS
 
