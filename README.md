@@ -400,6 +400,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2018 | ICLR | **[MINERVA](#MINERVA)** |
 | 2018 | NeurIPS | **[M-Walk](#M-Walk)** |
 | 2018 | EMNLP | **[MultiHopKG](#MultiHopKG)** |
+| 2021 | AAAI | **[PASSLEAF](#PASSLEAF)** |
 | 2021 | AAAI | **[GaussianPath](#GaussianPath)** |
 
 ## Papers
