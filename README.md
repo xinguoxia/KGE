@@ -205,7 +205,10 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 | Year | Source | Methods |
 |:----:|:------:|:-------:|
+| 2016 | IJCAI | **[TKRL](#TKRL)** |
+| 2017 | ECML/PKDD | **[TransT](#TransT)** |
 | 2018 | ACL | **[TypeComplex](#TypeComplex)** |
+| 2019 | KDD | **[JOIE](#JOIE)** |
 | 2021 | WWW | **[RETA-Grader](#RETA-Grader)** |
 
 ### Augmentations
@@ -367,6 +370,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2019 | AAAI | **[UKGE](#UKGE)** |
 | 2021 | NAACL | **[BEUrRE](#BEUrRE)** |
 | 2021 | DASFAA | **[GMUC](#GMUC)** |
+| 2021 | AAAI | **[PASSLEAF](#PASSLEAF)** |
 
 #### AutoML
 
@@ -402,6 +406,15 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2018 | EMNLP | **[MultiHopKG](#MultiHopKG)** |
 | 2021 | AAAI | **[PASSLEAF](#PASSLEAF)** |
 | 2021 | AAAI | **[GaussianPath](#GaussianPath)** |
+
+####  Inductive Link Prediction
+
+| Year | Source | Methods |
+|:----:|:------:|:-------:|
+| 2017 | NeurIPS | **[Neural-LP](#Neural-LP)** |
+| 2019 | NeurIPS | **[DRUM](#DRUM)** |
+| 2020 | ICML | **[GraIL](#GraIL)** |
+| 2021 | AAAI | **[AAAI](#TACT)** |
 
 ## Papers
 
@@ -1126,6 +1139,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 ##### ICML
 
 - <a name="LowFER"></a> **(LowFER)** Saadullah Amin, Stalin Varanasi, Katherine Ann Dunfield, Günter Neumann. "**LowFER: Low-rank Bilinear Pooling for Link Prediction**". **ICML 2020**. [paper](http://proceedings.mlr.press/v119/amin20a) [code](https://github.com/suamin/LowFER)
+
+- <a name="GraIL"></a> **(GraIL)** Komal K. Teru, Etienne Denis, Will Hamilton. "**Inductive Relation Prediction by Subgraph Reasoning**". **ICML 2020**. [paper](http://proceedings.mlr.press/v119/teru20a.html)
 
 ##### IJCAI
 
