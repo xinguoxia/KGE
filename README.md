@@ -98,31 +98,27 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2018 | NAACL-HLT     | **[ConvKB](#ConvKB)**           |
 | 2018 | NAACL-HLT     | **[KBGAN](#KBGAN)**             |
 | 2019 | ICML          | **[RSN](#RSN)**                 |
-| 2019 | AAAI          | **[SACN](#SACN)**               |
-| 2019 | IJCAI         | **[VR-GCN](#VR-GCN)**           |
 | 2019 | IJCAI         | **[M-GNN](#M-GNN)**             |
 | 2019 | ACL           | **[KBGAT](#KBGAT)**             |
 | 2019 | WWW           | **[ActiveLink](#ActiveLink)**   |
 | 2019 | NAACL-HLT     | **[CapsE](#CapsE)**             |
 | 2019 | NAACL-HLT     | **[ConvR](#ConvR)**             |
 | 2019 | K-CAP         | **[TransGCN](#TransGCN)**       |
-| 2020 | ICLR          | **[CompGCN](#CompGCN)**         |
-| 2020 | ICLR          | **[DPMPN](#DPMPN)**             |
 | 2020 | AAAI          | **[InteractE](#InteractE)**     |
 | 2021 | NAACL | **[EDGE](#EDGE)** |
 | 2021 | DASFAA | **[TransMTL](#TransMTL)** |
 
 #### Graph Networks
 
-| Year | Source        |	Methods                        |
-|:----:|:-------------:|:-------------------------------:|
+| Year | Source | Methods |
+|:----:|:------:|:-------:|
 | 2018 | ESWC | **[R-GCN](#R-GCN)** |
 | 2019 | ACL | **[A2N](#A2N)** |
 | 2019 | AAAI | **[SACN](#SACN)** |
 | 2019 | IJCAI | **[VR-GCN](#VR-GCN)** |
 | 2019 | IJCAI | **[RDGCN](#RDGCN)** |
 | 2019 | ICASSP | **[GRNN](#GRNN)** |
-| 2020 | ICLR | **[CompGCN](#SAGCN)** |
+| 2020 | ICLR | **[CompGCN](#CompGCN)** |
 | 2020 | ICLR | **[DPMPN](#DPMPN)** |
 | 2020 | AAAI | **[RGHAT](#RGHAT)** |
 | 2021 | WWW | **[KE-GNN](#KE-GNN)** |
@@ -209,6 +205,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2017 | ECML/PKDD | **[TransT](#TransT)** |
 | 2018 | ACL | **[TypeComplex](#TypeComplex)** |
 | 2019 | KDD | **[JOIE](#JOIE)** |
+| 2021 | AAAI | **[TaRP](#TaRP)** |
 | 2021 | WWW | **[RETA-Grader](#RETA-Grader)** |
 
 ### Augmentations
@@ -233,19 +230,19 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 #### Soft Rules
 
-| Year | Source        |	Methods                        |
-|:----:|:-------------:|:-------------------------------:|
-| 2015 | IJCAI         | **[r-TransE](#r-TransE)**       |
-| 2016 | IJCAI         | **[ProPPR](#ProPPR)**           |
+| Year | Source | Methods |
+|:----:|:------:|:-------:|
+| 2015 | IJCAI | **[r-TransE](#r-TransE)** |
+| 2016 | IJCAI | **[ProPPR](#ProPPR)** |
 | 2016 | EMNLP         | **[KALE](#KALE)**               |
-| 2017 | NeurIPS       | **[Neural-LP](#Neural-LP)**     |
+| 2017 | NeurIPS | **[Neural-LP](#Neural-LP)** |
 | 2018 | NeurIPS       | **[GQE](#GQE)**                 |
 | 2018 | AAAI          | **[RUGE](#RUGE)**               |
 | 2019 | NeurIPS       | **[DRUM](#DRUM)**               |
 | 2019 | AAAI          | **[UKGE](#UKGE)**               |
-| 2019 | IJCAI         | **[AnyBURL](#AnyBURL)**         |
+| 2019 | IJCAI | **[AnyBURL](#AnyBURL)** |
 | 2019 | WWW           | **[IterE](#IterE)**             |
-| 2020 | ICLR          | **[Neural-LP-N](#Neural-LP-N)** |
+| 2020 | ICLR | **[Neural-LP-N](#Neural-LP-N)** |
 | 2020 | ICLR          | **[Q2B](#Q2B)**                 |
 | 2020 | AAAI          | **[RPJE](#RPJE)**               |
 
@@ -340,8 +337,10 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 #### Study
 
-| Year | Source |	Methods |
+| Year | Source | Methods |
 |:----:|:------:|:-------:|
+| 2020 | ICLR | **[Calibration](#Calibration)** |
+| 2020 | ICLR | **[Teach](#Teach)** |
 | 2021 | AAAI | **[CLKGE](#CLKGE)** |
 | 2021 | SIGIR | **[META-KGE](#META-KGE)** |
 | 2021 | WWW | **[NS-KGE](#NS-KGE)** |
@@ -415,6 +414,12 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2019 | NeurIPS | **[DRUM](#DRUM)** |
 | 2020 | ICML | **[GraIL](#GraIL)** |
 | 2021 | AAAI | **[AAAI](#TACT)** |
+
+####  Virtual
+
+| Year | Source | Methods |
+|:----:|:------:|:-------:|
+| 2020 | ICLR | **[DrKIT](#DrKIT)** |
 
 ## Papers
 
@@ -1052,6 +1057,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 ##### ICLR
 
+- <a name="Calibration"></a> **(Calibration)** Pedro Tabacof, Luca Costabello. "**Probability Calibration for Knowledge Graph Embedding Models**". **ICLR 2020**. [paper](https://openreview.net/forum?id=S1g8K1BFwS)
+
 - <a name="CompGCN"></a> **(CompGCN)** Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Partha Talukdar. "**Composition-based Multi-Relational Graph Convolutional Networks**". **ICLR 2020**. [paper](https://openreview.net/forum?id=BylA_C4tPr) [code](https://github.com/malllabiisc/CompGCN) :fire:
 
 - <a name="DPMPN"></a> **(DPMPN)** Xiaoran Xu, Wei Feng, Yunsheng Jiang, Xiaohui Xie, Zhiqing Sun, Zhi-Hong Deng. "**Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning**". **ICLR 2020**. [paper](https://openreview.net/forum?id=rkeuAhVKvB) [code](https://github.com/netpaladinx/DPMPN)
@@ -1059,8 +1066,6 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 - <a name="DrKIT"></a> **(DrKIT)** Bhuwan Dhingra, Manzil Zaheer, Vidhisha Balachandran, Graham Neubig, Ruslan Salakhutdinov, William W. Cohen. "**Differentiable Reasoning over a Virtual Knowledge Base**". **ICLR 2020**. [paper](https://openreview.net/forum?id=SJxstlHFPH) [code](https://github.com/google-research/language/tree/master/language/labs/drkit) :fire:
 
 - <a name="Neural-LP-N"></a> **(Neural-LP-N)** Po-Wei Wang, Daria Stepanova, Csaba Domokos, J. Zico Kolter. "**Differentiable learning of numerical rules in knowledge graphs**". **ICLR 2020**. [paper](https://openreview.net/forum?id=rJleKgrKwS)
-
-- <a name="Probability"></a> **(Probability)** Pedro Tabacof, Luca Costabello. "**Probability Calibration for Knowledge Graph Embedding Models**". **ICLR 2020**. [paper](https://openreview.net/forum?id=S1g8K1BFwS)
 
 - <a name="Q2B"></a> **(Q2B)** Hongyu Ren, Weihua Hu, Jure Leskovec. "**Query2box: Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings**". **ICLR 2020**. [paper](https://openreview.net/forum?id=BJgr4kSFDS) [code](https://github.com/hyren/query2box) :fire:
 
