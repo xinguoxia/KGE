@@ -104,6 +104,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2019 | NAACL-HLT     | **[ConvR](#ConvR)**             |
 | 2019 | K-CAP         | **[TransGCN](#TransGCN)**       |
 | 2020 | AAAI | **[InteractE](#InteractE)** |
+| 2020 | AAAI | **[ParamE](#ParamE)** |
 | 2020 | AAAI | **[CoPER](#CoPER)** |
 | 2021 | NAACL | **[EDGE](#EDGE)** |
 | 2021 | DASFAA | **[TransMTL](#TransMTL)** |
@@ -403,6 +404,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2018 | ICLR | **[MINERVA](#MINERVA)** |
 | 2018 | NeurIPS | **[M-Walk](#M-Walk)** |
 | 2018 | EMNLP | **[MultiHopKG](#MultiHopKG)** |
+| 2020 | AAAI | **[R2D2](#R2D2)** |
 | 2021 | AAAI | **[PASSLEAF](#PASSLEAF)** |
 | 2021 | AAAI | **[GaussianPath](#GaussianPath)** |
 
