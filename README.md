@@ -94,7 +94,6 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2017 | AAAI          | **[ProjE](#ProjE)**             |
 | 2018 | AAAI          | **[ConvE](#ConvE)**             |
 | 2018 | CIKM          | **[SENN](#SENN)**               |
-| 2018 | ESWC          | **[R-GCN](#R-GCN)**             |
 | 2018 | NAACL-HLT     | **[ConvKB](#ConvKB)**           |
 | 2018 | NAACL-HLT     | **[KBGAN](#KBGAN)**             |
 | 2019 | ICML          | **[RSN](#RSN)**                 |
@@ -104,7 +103,8 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 | 2019 | NAACL-HLT     | **[CapsE](#CapsE)**             |
 | 2019 | NAACL-HLT     | **[ConvR](#ConvR)**             |
 | 2019 | K-CAP         | **[TransGCN](#TransGCN)**       |
-| 2020 | AAAI          | **[InteractE](#InteractE)**     |
+| 2020 | AAAI | **[InteractE](#InteractE)** |
+| 2020 | AAAI | **[CoPER](#CoPER)** |
 | 2021 | NAACL | **[EDGE](#EDGE)** |
 | 2021 | DASFAA | **[TransMTL](#TransMTL)** |
 
@@ -260,7 +260,7 @@ Welcome to join our small WeChat group via email, to learn and talk about KGE.
 
 #### Few Shot
 
-| Year | Source |	Methods |
+| Year | Source | Methods |
 |:----:|:------:|:-------:|
 | 2018 | EMNLP | **[GMatching](#GMatching)** |
 | 2019 | EMNLP | **[MetaR](#MetaR)** |
