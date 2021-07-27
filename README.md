@@ -57,7 +57,8 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2019 | WSDM          | **[CrossE](#CrossE)**           |
 | 2020 | AAAI          | **[HAKE](#HAKE)**               |
 | 2020 | NeurIPS | **[BoxE](#BoxE)** |
-| 2020 | ACL  | **[OTE](#OTE)**               |
+| 2020 | ACL | **[OTE](#OTE)** |
+| 2020 | ACL | **[ATTH](#ATTH)** |
 | 2021 | NAACL-HLT | **[ProcrustEs](#ProcrustEs)** |
 | 2021 | ESWC | **[TransROWL](#TransROWL)** |
 | 2021 | WWW | **[MQuatE](#MQuatE)** |
@@ -75,9 +76,10 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2018 | NeurIPS       | **[HolEX](#HolEX)**           |
 | 2018 | NeurIPS       | **[SimplE](#SimplE)**           |
 | 2019 | NeurIPS | **[QuatE](#QuatE)** |
-| 2019 | ACL           | **[DihEdral](#DihEdral)**       |
-| 2019 | EMNLP | **[TuckER](#TuckER)**           |
+| 2019 | ACL | **[DihEdral](#DihEdral)** |
+| 2019 | EMNLP | **[TuckER](#TuckER)** |
 | 2020 | ACL | **[SEEK](#SEEK)** |
+| 2020 | ICML | **[LowFER](#LowFER)** |
 | 2021 | AAAI | **[5E](#5E)** |
 | 2021 | AAAI | **[DualE](#DualE)** |
 | 2021 | NAACL | **[KRE](#KRE)** |
@@ -93,6 +95,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2017 | AAAI          | **[ProjE](#ProjE)**             |
 | 2018 | AAAI          | **[ConvE](#ConvE)**             |
 | 2018 | CIKM          | **[SENN](#SENN)**               |
+| 2018 | CIKM          | **[CACL](#CACL)**               |
 | 2018 | NAACL-HLT     | **[ConvKB](#ConvKB)**           |
 | 2018 | NAACL-HLT     | **[KBGAN](#KBGAN)**             |
 | 2019 | ICML          | **[RSN](#RSN)**                 |
@@ -100,7 +103,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2019 | ACL           | **[KBGAT](#KBGAT)**             |
 | 2019 | WWW           | **[ActiveLink](#ActiveLink)**   |
 | 2019 | NAACL-HLT     | **[CapsE](#CapsE)**             |
-| 2019 | NAACL-HLT     | **[ConvR](#ConvR)**             |
+| 2019 | NAACL-HLT | **[ConvR](#ConvR)** |
 | 2019 | K-CAP         | **[TransGCN](#TransGCN)**       |
 | 2020 | AAAI | **[InteractE](#InteractE)** |
 | 2020 | AAAI | **[ParamE](#ParamE)** |
@@ -138,9 +141,10 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2017 | CIKM          | **[TCE](#TCE)**                 |
 | 2018 | ICLR          | **[MINERVA](#MINERVA)**         |
 | 2018 | EMNLP         | **[MultiHopKG](#MultiHopKG)**   |
-| 2019 | ICML          | **[RSN](#RSN)**                 |
+| 2019 | ICML | **[RSN](#RSN)** |
 | 2019 | EMNLP         | **[OPTransE](#OPTransE)**       |
 | 2020 | AAAI | **[RPJE](#RPJE)** |
+| 2020 | NeurIPS | **[Interstellar](#Interstellar)** |
 
 #### Text
 
@@ -203,8 +207,10 @@ Thanks for your attention and kind words! We will update KGE later.
 |:----:|:------:|:-------:|
 | 2016 | IJCAI | **[TKRL](#TKRL)** |
 | 2017 | ECML/PKDD | **[TransT](#TransT)** |
+| 2017 | CIKM | **[ETE](#ETE)** |
 | 2018 | ACL | **[TypeComplex](#TypeComplex)** |
 | 2019 | KDD | **[JOIE](#JOIE)** |
+| 2020 | ACL | **[ConnectE](#ConnectE)** |
 | 2021 | AAAI | **[TaRP](#TaRP)** |
 | 2021 | WWW | **[RETA-Grader](#RETA-Grader)** |
 
@@ -218,15 +224,15 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2018 | ACL           | **[ComplEx-NNE](#ComplEx-NNE)** |
 | 2019 | AAAI          | **[SimplE+](#SimplE+)**         |
 
-#### Regularizers
+#### Regularize
 
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2015 | ACL           | **[SSE](#SSE)**                 |
-| 2018 | ICML          | **[ComplEx-N3](#ComplEx-N3)**   |
+| 2018 | ICML | **[ComplEx-N3](#ComplEx-N3)** |
 | 2018 | AAAI          | **[ComplEx-L1](#ComplEx-L1)**   |
 | 2019 | UAI           | **[EM](#EM)**                   |
-| 2020 | ICLR          | **[Teach](#Teach)**             
+| 2020 | NeurIPS | **[DURA](#DURA)** |            
 
 #### Soft Rules
 
@@ -264,6 +270,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 | Year | Source | Methods |
 |:----:|:------:|:-------:|
+| 2017 | IJCAI | **[MEAN](#MEAN)** |
 | 2018 | EMNLP | **[GMatching](#GMatching)** |
 | 2019 | EMNLP | **[MetaR](#MetaR)** |
 | 2019 | EMNLP | **[TCVAE](#TCVAE)** |
@@ -296,6 +303,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2016 | IJCAI | **[m-TransH](#m-TransH)** |
 | 2018 | WWW | **[RAE](#RAE)** |
 | 2019 | WWW | **[NaLP](#NaLP)** |
+| 2020 | NeurIPS | **[BoxE](#BoxE)** |
 | 2020 | ACL | **[NeuInfer](#NeuInfer)** |
 | 2020 | IJCAI | **[HypE](#HypE)** |
 | 2020 | WWW | **[HINGE](#HINGE)** |
@@ -344,6 +352,9 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | AAAI | **[Robust](#Robust)** |
 | 2020 | ICLR | **[Calibration](#Calibration)** |
 | 2020 | ICLR | **[Teach](#Teach)** |
+| 2020 | ACL | **[Compression](#Compression)** |
+| 2020 | ACL | **[OLP](#OLP)** |
+| 2020 | ACL | **[Re-evaluation](#Re-evaluation)** |
 | 2021 | AAAI | **[CLKGE](#CLKGE)** |
 | 2021 | SIGIR | **[META-KGE](#META-KGE)** |
 | 2021 | WWW | **[NS-KGE](#NS-KGE)** |
@@ -354,6 +365,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 | Year | Source |	Methods |
 |:----:|:------:|:-------:|
+| 2017 | IJCAI | **[MEAN](#MEAN)** |
 | 2021 | WWW | **[ATransN](#ATransN)** |
 | 2021 | WWW | **[MulDE](#MulDE)** |
 
@@ -396,6 +408,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2018 | NeurIPS | **[GQE](#GQE)** |
 | 2020 | ICLR | **[Q2B](#Q2B)** |
 | 2020 | NeurIPS | **[BETAE](#BETAE)** |
+| 2020 | NeurIPS | **[EmQL](#EmQL)** |
 | 2020 | UAI | **[TRACTOR](#TRACTOR)** |
 | 2021 | AAAI | **[BiQE](#BiQE)** |
 
@@ -676,11 +689,17 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="Know-Evolve"></a> **(Know-Evolve)** Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song. "**Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs**". **ICML 2017**. [paper](http://proceedings.mlr.press/v70/trivedi17a.html) :fire:
 
+- <a name="MPNN"></a> **(MPNN)** Justin Gilmer, Samuel S. Schoenholz, Patrick F. Riley, Oriol Vinyals, George E. Dahl. "**Neural Message Passing for Quantum Chemistry**". **ICML 2017**. [paper](http://proceedings.mlr.press/v70/gilmer17a.html)
+
 ##### IJCAI
 
 - <a name="IKRL"></a> **(IKRL)** Ruobing Xie, Zhiyuan Liu, Huanbo Luan, Maosong Sun. "**Image-embodied Knowledge Representation Learning**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/438) [code](https://github.com/thunlp/IKRL)
 
 - <a name="Jointly(A-LSTM)"></a> **(Jointly(A-LSTM))** Jiacheng Xu, Xipeng Qiu, Kan Chen, Xuanjing Huang. "**Knowledge Graph Representation with Jointly Structural and Textual Encoding**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/183) [code](https://github.com/jiacheng-xu/Attn-KGE) :fire:
+
+- <a name="MEAN"></a> **MEAN** Takuo Hamaguchi, Hidekazu Oiwa, Masashi Shimbo, Yuji Matsumoto. "**Knowledge Transfer for Out-of-Knowledge-Base Entities : A Graph Neural Network Approach**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/250)
+
+- <a name="IPTransE"></a> **IPTransE** Hao Zhu, Ruobing Xie, Zhiyuan Liu, Maosong Sun. "**Iterative Entity Alignment via Joint Knowledge Embeddings**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/595)
 
 ##### EMNLP
 
@@ -1145,11 +1164,11 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### ACL
 
+- <a name="ATTH"></a> **(ATTH)** Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi and Christopher Ré. "**Low-Dimensional Hyperbolic Knowledge Graph Embeddings**". **ACL 2020**. [paper](https://www.aclweb.org/anthology/2020.acl-main.617/) [code](https://github.com/HazyResearch/KGEmb)
+
 - <a name="Compression"></a> **(Compression)** Mrinmaya Sachan. "**Knowledge Graph Embedding Compression**". **ACL 2020**. [paper](https://www.aclweb.org/anthology/2020.acl-main.238/)
 
 - <a name="ConnectE"></a> **(ConnectE)** Yu Zhao, anxiang zhang, Ruobing Xie, Kang Liu and Xiaojie WANG. "**Connecting Embeddings for Knowledge Graph Entity Typing**". **ACL 2020**. [paper](https://www.aclweb.org/anthology/2020.acl-main.572/) [code](https://github.com/Adam1679/ConnectE)
-
-- <a name="ATTH"></a> **(ATTH)** Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi and Christopher Ré. "**Low-Dimensional Hyperbolic Knowledge Graph Embeddings**". **ACL 2020**. [paper](https://www.aclweb.org/anthology/2020.acl-main.617/) [code](https://github.com/HazyResearch/KGEmb)
 
 - <a name="NeuInfer"></a> **(NeuInfer)**  Saiping Guan, Xiaolong Jin, Jiafeng Guo, Yuanzhuo Wang, Xueqi Cheng. "**NeuInfer: Knowledge Inference on N-ary Facts**". **ACL 2020**. [paper](https://aclanthology.org/2020.acl-main.546/)
 
