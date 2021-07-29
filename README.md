@@ -421,6 +421,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2018 | NeurIPS | **[M-Walk](#M-Walk)** |
 | 2018 | EMNLP | **[MultiHopKG](#MultiHopKG)** |
 | 2020 | AAAI | **[R2D2](#R2D2)** |
+| 2020 | IJCAI | **[RLH](#RLH)** |
 | 2021 | AAAI | **[PASSLEAF](#PASSLEAF)** |
 | 2021 | AAAI | **[GaussianPath](#GaussianPath)** |
 
@@ -429,6 +430,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | Year | Source | Methods |
 |:----:|:------:|:-------:|
 | 2017 | NeurIPS | **[Neural-LP](#Neural-LP)** |
+| 2018 | ISWC | **[RuleN](#RuleN)** |
 | 2019 | NeurIPS | **[DRUM](#DRUM)** |
 | 2020 | ICML | **[GraIL](#GraIL)** |
 | 2021 | AAAI | **[AAAI](#TACT)** |
@@ -1192,9 +1194,9 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="DArtNet"></a> **(DArtNet)** Sankalp Garg, Navodita Sharma, Woojeong Jin, Xiang Ren. "**Temporal Attribute Prediction via Joint Modeling of Multi-Relational Structure Evolution**". **IJCAI 2020**. [paper](https://www.ijcai.org/Proceedings/2020/386) [code](https://github.com/INK-USC/DArtNet)
 
-- <a name="HRL"></a> **(HRL)** Guojia Wan, Shirui Pan, Chen Gong, Chuan Zhou, Gholamreza Haffari. "**Reasoning Like Human: Hierarchical Reinforcement Learning for Knowledge Graph Reasoning**". **IJCAI 2020**. [paper](https://www.ijcai.org/proceedings/2020/267)
-
 - <a name="HypE"></a> **(HypE)** Bahare Fatemi, Perouz Taslakian, David Vázquez, David Poole. "**Knowledge Hypergraphs: Prediction Beyond Binary Relations**". **IJCAI 2020**. [paper](https://www.ijcai.org/Proceedings/2020/303) [code](https://github.com/baharefatemi/HypE)
+
+- <a name="RLH"></a> **(RLH)** Guojia Wan, Shirui Pan, Chen Gong, Chuan Zhou, Gholamreza Haffari. "**Reasoning Like Human: Hierarchical Reinforcement Learning for Knowledge Graph Reasoning**". **IJCAI 2020**. [paper](https://www.ijcai.org/proceedings/2020/267)
 
 - <a name="TransRHS"></a> **(TransRHS)** Fuxiang Zhang, Xin Wang, Zhao Li, Jianxin Li. "**TransRHS: A Representation Learning Method for Knowledge Graphs with Relation Hierarchical Structure**". **IJCAI 2020**. [paper](https://doi.org/10.24963/ijcai.2020/413) [code](https://github.com/tjuzhangfx/TransRHS)
 
