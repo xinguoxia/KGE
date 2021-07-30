@@ -56,6 +56,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2019 | IJCAI         | **[TransMS](#TransMS)**         |
 | 2019 | WSDM          | **[CrossE](#CrossE)**           |
 | 2020 | AAAI          | **[HAKE](#HAKE)**               |
+| 2020 | IJCAI | **[TransRHS](#TransRHS)** |
 | 2020 | NeurIPS | **[BoxE](#BoxE)** |
 | 2020 | ACL | **[OTE](#OTE)** |
 | 2020 | ACL | **[ATTH](#ATTH)** |
@@ -175,8 +176,9 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2016 | IJCAI         | **[TKRL](#TKRL)**               |
 | 2016 | SIGIR         | **[HiRi](#HiRi)**               |
 | 2018 | AAAI          | **[TransE-T](#TransE-T)**       |
-| 2018 | EMNLP         | **[TransE-HRS](#TransE-HRS)**   |
+| 2018 | EMNLP | **[TransE-HRS](#TransE-HRS)** |
 | 2020 | AAAI          | **[HAKE](#HAKE)**               |
+| 2020 | IJCAI | **[TransRHS](#TransRHS)** |
 
 #### Taxonomic
 
@@ -211,6 +213,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2018 | ACL | **[TypeComplex](#TypeComplex)** |
 | 2019 | KDD | **[JOIE](#JOIE)** |
 | 2020 | ACL | **[ConnectE](#ConnectE)** |
+| 2020 | EMNLP | **[AutoETER](#AutoETER)** |
 | 2021 | AAAI | **[TaRP](#TaRP)** |
 | 2021 | WWW | **[RETA-Grader](#RETA-Grader)** |
 
