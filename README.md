@@ -60,6 +60,8 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | NeurIPS | **[BoxE](#BoxE)** |
 | 2020 | ACL | **[OTE](#OTE)** |
 | 2020 | ACL | **[ATTH](#ATTH)** |
+| 2020 | ICDM | **[LineaRE](#LineaRE)** |
+| 2020 | ESWC | **[HyperKG](#HyperKG)** |
 | 2021 | NAACL-HLT | **[ProcrustEs](#ProcrustEs)** |
 | 2021 | ESWC | **[TransROWL](#TransROWL)** |
 | 2021 | WWW | **[MQuatE](#MQuatE)** |
@@ -74,12 +76,13 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2016 | ICML          | **[ComplEx](#ComplEx)**         |
 | 2016 | AAAI          | **[HolE](#HolE)**               |
 | 2017 | ICML          | **[ANALOGY](#ANALOGY)**         |
-| 2018 | NeurIPS       | **[HolEX](#HolEX)**           |
+| 2018 | NeurIPS | **[HolEX](#HolEX)** |
 | 2018 | NeurIPS       | **[SimplE](#SimplE)**           |
 | 2019 | NeurIPS | **[QuatE](#QuatE)** |
 | 2019 | ACL | **[DihEdral](#DihEdral)** |
 | 2019 | EMNLP | **[TuckER](#TuckER)** |
 | 2020 | EMNLP | **[B-CP](#B-CP)** |
+| 2020 | ICDE | **[AutoSF](#AutoSF)** |
 | 2020 | ACL | **[SEEK](#SEEK)** |
 | 2020 | ICML | **[LowFER](#LowFER)** |
 | 2021 | AAAI | **[5E](#5E)** |
@@ -225,7 +228,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2015 | ACL           | **[SSE](#SSE)**                 |
-| 2018 | ACL           | **[ComplEx-NNE](#ComplEx-NNE)** |
+| 2018 | ACL | **[ComplEx-NNE](#ComplEx-NNE)** |
 | 2019 | AAAI          | **[SimplE+](#SimplE+)**         |
 
 #### Regularize
@@ -251,11 +254,14 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2018 | AAAI | **[RLvLR](#RLvLR)** |
 | 2018 | UAI | **[KB-LRN](#KB-LRN)** |
 | 2018 | ISWC | **[RuleN](#RuleN)** |
+| 2018 | ACL | **[ComplEx-NNE](#ComplEx-NNE)** |
 | 2019 | NeurIPS       | **[DRUM](#DRUM)**               |
 | 2019 | AAAI          | **[UKGE](#UKGE)**               |
 | 2019 | IJCAI | **[AnyBURL](#AnyBURL)** |
-| 2019 | WWW           | **[IterE](#IterE)**             |
+| 2019 | WWW | **[IterE](#IterE)** |
 | 2020 | ICLR | **[Neural-LP-N](#Neural-LP-N)** |
+| 2019 | NeurIPS | **[pLogicNet](#pLogicNet)** |
+| 2020 | ICDM | **[HybridER](#HybridER)** |
 | 2020 | AAAI | **[RPJE](#RPJE)** |
 | 2021 | AAAI | **[RARL](#RARL)** |
 
@@ -310,6 +316,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | NeurIPS | **[BoxE](#BoxE)** |
 | 2020 | ACL | **[NeuInfer](#NeuInfer)** |
 | 2020 | IJCAI | **[HypE](#HypE)** |
+| 2020 | WWW | **[GETD](#GETD)** |
 | 2020 | WWW | **[HINGE](#HINGE)** |
 | 2021 | WWW | **[RAW](#RAW)** |
 
@@ -355,6 +362,7 @@ Thanks for your attention and kind words! We will update KGE later.
 |:----:|:------:|:-------:|
 | 2020 | AAAI | **[Robust](#Robust)** |
 | 2020 | ICLR | **[Calibration](#Calibration)** |
+| 2020 | WWW | **[Curation](#Curation)** |
 | 2020 | ICLR | **[Teach](#Teach)** |
 | 2020 | ACL | **[Compression](#Compression)** |
 | 2020 | ACL | **[OLP](#OLP)** |
@@ -460,6 +468,14 @@ Thanks for your attention and kind words! We will update KGE later.
 | Year | Source | Methods |
 |:----:|:------:|:-------:|
 | 2020 | AAAI | **[SimE](#SimE)** |
+
+####  Recommendation
+
+| Year | Source | Methods |
+|:----:|:------:|:-------:|
+| 2018 | ESWC | **[CoFM](#CoFM)** |
+| 2019 | WWW | **[KTUP](#KTUP)** |
+| 2020 | WWW | **[UPGAN](#UPGAN)** |
 
 ## Papers
 
@@ -880,6 +896,8 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="R-GCN"></a> **(R-GCN)** Michael Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne van den Berg, Ivan Titov, Max Welling. "**Modeling Relational Data with Graph Convolutional Networks**". **ESWC 2018**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-93417-4_38) [code](https://github.com/tkipf/relational-gcn) :fire:
 
+- <a name="CoFM"></a> **(CoFM)** Guangyuan Piao, John G. Breslin. "**Transfer Learning for Item Recommendations and Knowledge Graph Completion in Item Related Domains via a Co-Factorization Model**". **ESWC 2018**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-93417-4_32)
+
 ##### WWW
 
 - Kaja Zupanc, Jesse Davis. "**Estimating Rule Quality for Knowledge Base Completion with the Relationship between Coverage Assumption**". **WWW 2018**. [paper](https://dl.acm.org/doi/10.1145/3178876.3186006)
@@ -948,7 +966,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="QuatE"></a> **(QuatE)** Shuai Zhangy, Yi Tay, Lina Yao, Qi Liu. "**Quaternion Knowledge Graph Embeddings**". **NeurIPS 2019**. [paper](http://papers.nips.cc/paper/8541-quaternion-knowledge-graph-embeddings) [code](https://github.com/cheungdaven/QuatE) :fire:
 
-- Meng Qu, Jian Tang. "**Probabilistic Logic Neural Networks for Reasoning**". **NeurIPS 2019**. [paper](https://proceedings.neurips.cc/paper/2019/hash/13e5ebb0fa112fe1b31a1067962d74a7-Abstract.html)
+- <a name="pLogicNet"></a> **(pLogicNet)** Meng Qu, Jian Tang. "**Probabilistic Logic Neural Networks for Reasoning**". **NeurIPS 2019**. [paper](https://proceedings.neurips.cc/paper/2019/hash/13e5ebb0fa112fe1b31a1067962d74a7-Abstract.html)
 
 ##### ACL
 
@@ -1059,6 +1077,8 @@ Thanks for your attention and kind words! We will update KGE later.
 - <a name="MARINE"></a> **(MARINE)** Ming-Han Feng, Chin-Chi Hsu, Cheng-Te Li, Mi-Yen Yeh, Shou-De Lin. "**MARINE: Multi-relational Network Embeddings with Relational Proximity and Node Attributes**". **WWW 2019**. [paper](https://dl.acm.org/doi/10.1145/3308558.3313715)
 
 - <a name="NaLP"></a> **(NaLP)** Saiping Guan, Xiaolong Jin, Yuanzhuo Wang, Xueqi Cheng. "**Link Prediction on N-ary Relational Data**". **WWW 2019**. [paper](https://dl.acm.org/doi/10.1145/3308558.3313414) [code](https://github.com/gsp2014/NaLP)
+
+- <a name="KTUP"></a> **(KTUP)** Yixin Cao, Xiang Wang, Xiangnan He, Zikun Hu, Tat-Seng Chua. "**Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preferences**". **WWW 2019**. [paper](https://dl.acm.org/doi/10.1145/3308558.3313705)
 
 ##### ICASSP
 
