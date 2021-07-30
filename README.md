@@ -62,6 +62,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | ACL | **[ATTH](#ATTH)** |
 | 2020 | ICDM | **[LineaRE](#LineaRE)** |
 | 2020 | ESWC | **[HyperKG](#HyperKG)** |
+| 2020 | ISWC | **[SpacE](#SpacE)** |
 | 2021 | NAACL-HLT | **[ProcrustEs](#ProcrustEs)** |
 | 2021 | ESWC | **[TransROWL](#TransROWL)** |
 | 2021 | WWW | **[MQuatE](#MQuatE)** |
@@ -157,19 +158,20 @@ Thanks for your attention and kind words! We will update KGE later.
 |:----:|:-------------:|:---------------------------------------:|
 | 2014 | EMNLP         | **[pTransE](#pTransE)**                 |
 | 2015 | EMNLP         | **[Jointly(desp)](#Jointly(desp))**     |
-| 2016 | AAAI          | **[DKRL](#DKRL)**                       |
-| 2016 | IJCAI         | **[TEKE](#TEKE)**                       |
+| 2016 | AAAI  | **[DKRL](#DKRL)** |
+| 2016 | IJCAI | **[TEKE](#TEKE)** |
 | 2017 | AAAI          | **[SSP](#SSP)**                         |
-| 2017 | IJCAI         | **[Jointly(A-LSTM)](#Jointly(A-LSTM))** |
+| 2017 | IJCAI | **[Jointly(A-LSTM)](#Jointly(A-LSTM))** |
 | 2017 | ACL           | **[FRN](#FRN)**                         |
 | 2018 | AAAI          | **[ConMask](#ConMask)**                 |
 | 2018 | AAAI          | **[JointNRE](#JointNRE)**               |
-| 2018 | NAACL-HLT     | **[ATE](#ATE)**                         |
+| 2018 | NAACL-HLT | **[ATE](#ATE)** |
 | 2019 | AAAI          | **[OWE](#OWE)**                         |
 | 2019 | IJCAI         | **[WWV](#WWV)**                         |
 | 2019 | EMNLP         | **[CaRe](#CaRe)**                       |
 | 2019 | EMNLP         | **[TCVAE](#TCVAE)**                     |
 | 2019 | EMNLP         | **[CPL](#CPL)**                         |
+| 2020 | ISWC | **[BCRL](#BCRL)** |
 | 2021 | NAACL | **[EDGE](#EDGE)** |
 | 2021 | WWW | **[StAR](#StAR)** |
 
@@ -342,7 +344,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | EMNLP | **[TIMEPLEX](#TIMEPLEX)** |
 | 2020 | COLING | **[TeRo](#TeRo)** |
 | 2020 | CIKM | **[ToKE](#ToKE)** |
-| 2020 | CIKM | **[ATiSE](#ATiSE)** |
+| 2020 | ISWC | **[ATiSE](#ATiSE)** |
 | 2020 | WWW | **[TDGNN](#TDGNN)** |
 | 2021 | AAAI | **[ChronoR](#ChronoR)** |
 | 2021 | AAAI | **[CyGNet](#CyGNet)** |
@@ -449,6 +451,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2018 | ISWC | **[RuleN](#RuleN)** |
 | 2019 | NeurIPS | **[DRUM](#DRUM)** |
 | 2020 | ICML | **[GraIL](#GraIL)** |
+| 2020 | ISWC | **[IELP](#IELP)** |
 | 2021 | AAAI | **[AAAI](#TACT)** |
 
 ####  Virtual
@@ -1356,7 +1359,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="BCRL"></a> **(BCRL)** Gang Wu, Wenfang Wu, Leilei Li, Guodong Zhao, Donghong Han, Baiyou Qiao. "**BCRL: Long Text Friendly Knowledge Graph Representation Learning**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_36)
 
-- <a name="EKGR"></a> **(EKGR)** Rajarshi Bhowmik, Gerard de Melo. "**Explainable Link Prediction for Emerging Entities in Knowledge Graphs**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_3) [code](https://github.com/kingsaint/InductiveExplainableLinkPrediction)
+- <a name="IELP"></a> **(IELP)** Rajarshi Bhowmik, Gerard de Melo. "**Explainable Link Prediction for Emerging Entities in Knowledge Graphs**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_3) [code](https://github.com/kingsaint/InductiveExplainableLinkPrediction)
 
 - <a name="SpacE"></a> **(SpacE)** Mojtaba Nayyeri, Chengjin Xu, Sahar Vahdati, Nadezhda Vassilyeva, Emanuel Sallinger, Hamed Shariat Yazdi, Jens Lehmann. "**Fantastic Knowledge Graph Embeddings and How to Find the Right Space for Them**". **ISWC 2020**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-62419-4_25)
 
