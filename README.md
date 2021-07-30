@@ -79,7 +79,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2019 | NeurIPS | **[QuatE](#QuatE)** |
 | 2019 | ACL | **[DihEdral](#DihEdral)** |
 | 2019 | EMNLP | **[TuckER](#TuckER)** |
-| 2020 | EMNLP | **[Bit-flip B-CP](#Bit-flip B-CP)** |
+| 2020 | EMNLP | **[B-CP](#B-CP)** |
 | 2020 | ACL | **[SEEK](#SEEK)** |
 | 2020 | ICML | **[LowFER](#LowFER)** |
 | 2021 | AAAI | **[5E](#5E)** |
@@ -236,6 +236,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2018 | ICML | **[ComplEx-N3](#ComplEx-N3)** |
 | 2018 | AAAI          | **[ComplEx-L1](#ComplEx-L1)**   |
 | 2019 | UAI           | **[EM](#EM)**                   |
+| 2020 | EMNLP | **[DA+CSTR](#DA+CSTR)** |
 | 2020 | NeurIPS | **[DURA](#DURA)** |            
 
 #### Soft Rules
@@ -287,7 +288,6 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2021 | SIGIR | **[GANA](#GANA)** |
 | 2021 | SIGIR | **[MetaP](#MetaP)** |
 | 2021 | DASFAA | **[GMUC](#GMUC)** |
-
 
 #### Hyper Planes
 
@@ -426,8 +426,10 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2018 | ICLR | **[MINERVA](#MINERVA)** |
 | 2018 | NeurIPS | **[M-Walk](#M-Walk)** |
 | 2018 | EMNLP | **[MultiHopKG](#MultiHopKG)** |
+| 2020 | EMNLP | **[CPL](#CPL)** |
 | 2020 | AAAI | **[R2D2](#R2D2)** |
 | 2020 | IJCAI | **[RLH](#RLH)** |
+| 2020 | EMNLP | **[DacKGR](#DacKGR)** |
 | 2021 | AAAI | **[PASSLEAF](#PASSLEAF)** |
 | 2021 | AAAI | **[GaussianPath](#GaussianPath)** |
 
@@ -684,6 +686,8 @@ Thanks for your attention and kind words! We will update KGE later.
 ##### NeurIPS
 
 - <a name="Neural-LP"></a> **(Neural-LP)** Fan Yang, Zhilin Yang, William W. Cohen. "**Differentiable Learning of Logical Rules for Knowledge Base Reasoning**". **NeurIPS 2017**. [paper](http://papers.nips.cc/paper/6826-differentiable-learning-of-logical-rules-for-knowledge-base-reasoning) [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips30/reviews/1347.html) [code](https://github.com/fanyangxyz/Neural-LP) :fire:
+
+- <a name="NTPs"></a> **(NTPs)** Tim Rocktäschel, Sebastian Riedel. "**End-to-end Differentiable Proving**". **NeurIPS 2017**. [paper](https://proceedings.neurips.cc/paper/2017/hash/b2ab001909a8a6f04b51920306046ce5-Abstract.html)
 
 ##### ACL
 
@@ -1210,7 +1214,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="AutoETER"></a> **(AutoETER)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu, Jingyang Li. "**AutoETER: Automated Entity Type Representation with Relation-Aware Attention for Knowledge Graph Embedding**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.105/) [code](https://github.com/ngl567/AutoETER)
 
-- <a name="Bit-flip B-CP"></a> **(Bit-flip B-CP)** Katsuhiko Hayashi, Koki Kishimoto, Masashi Shimbo. "**A Greedy Bit-flip Training Algorithm for Binarized Knowledge Graph Embeddings**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.10/)
+- <a name="B-CP"></a> **(B-CP)** Katsuhiko Hayashi, Koki Kishimoto, Masashi Shimbo. "**A Greedy Bit-flip Training Algorithm for Binarized Knowledge Graph Embeddings**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.10/)
 
 - <a name="CoDEx"></a> **(CoDEx)** Tara Safavi, Danai Koutra. "**CoDEx: A Comprehensive Knowledge Graph Completion Benchmark**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.669/)
 
