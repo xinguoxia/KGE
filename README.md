@@ -79,6 +79,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2019 | NeurIPS | **[QuatE](#QuatE)** |
 | 2019 | ACL | **[DihEdral](#DihEdral)** |
 | 2019 | EMNLP | **[TuckER](#TuckER)** |
+| 2020 | EMNLP | **[Bit-flip B-CP](#Bit-flip B-CP)** |
 | 2020 | ACL | **[SEEK](#SEEK)** |
 | 2020 | ICML | **[LowFER](#LowFER)** |
 | 2021 | AAAI | **[5E](#5E)** |
@@ -358,6 +359,8 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | ACL | **[Compression](#Compression)** |
 | 2020 | ACL | **[OLP](#OLP)** |
 | 2020 | ACL | **[Re-evaluation](#Re-evaluation)** |
+| 2020 | EMNLP | **[CoDEx](#CoDEx)** |
+| 2020 | EMNLP | **[Confidence](#Confidence)** |
 | 2021 | AAAI | **[CLKGE](#CLKGE)** |
 | 2021 | SIGIR | **[META-KGE](#META-KGE)** |
 | 2021 | WWW | **[NS-KGE](#NS-KGE)** |
@@ -1207,7 +1210,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="AutoETER"></a> **(AutoETER)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu, Jingyang Li. "**AutoETER: Automated Entity Type Representation with Relation-Aware Attention for Knowledge Graph Embedding**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.105/) [code](https://github.com/ngl567/AutoETER)
 
-- <a name="B-CP"></a> **(B-CP)** Katsuhiko Hayashi, Koki Kishimoto, Masashi Shimbo. "**A Greedy Bit-flip Training Algorithm for Binarized Knowledge Graph Embeddings**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.10/)
+- <a name="Bit-flip B-CP"></a> **(Bit-flip B-CP)** Katsuhiko Hayashi, Koki Kishimoto, Masashi Shimbo. "**A Greedy Bit-flip Training Algorithm for Binarized Knowledge Graph Embeddings**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.10/)
 
 - <a name="CoDEx"></a> **(CoDEx)** Tara Safavi, Danai Koutra. "**CoDEx: A Comprehensive Knowledge Graph Completion Benchmark**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.669/)
 
