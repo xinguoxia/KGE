@@ -50,7 +50,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2018 | AAAI          | **[TorusE](#TorusE)**           |
 | 2018 | AAAI          | **[TransAt](#TransAt)**         |
 | 2018 | EMNLP         | **[TransC](#TransC)**           |
-| 2019 | ICLR          | **[RotatE](#RotatE)**           |
+| 2019 | ICLR | **[RotatE](#RotatE)** |
 | 2019 | NeurIPS       | **[MuRP](#MuRP)**           |
 | 2019 | AAAI          | **[TransGate](#TransGate)**     |
 | 2019 | IJCAI         | **[TransMS](#TransMS)**         |
@@ -60,6 +60,8 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | NeurIPS | **[BoxE](#BoxE)** |
 | 2020 | ACL | **[OTE](#OTE)** |
 | 2020 | ACL | **[ATTH](#ATTH)** |
+| 2020 | CIKM | **[NagE](#NagE)** |
+| 2020 | CIKM | **[Rotate3D](#Rotate3D)** |
 | 2020 | ICDM | **[LineaRE](#LineaRE)** |
 | 2020 | ESWC | **[HyperKG](#HyperKG)** |
 | 2020 | ISWC | **[SpacE](#SpacE)** |
@@ -130,6 +132,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | ICLR | **[CompGCN](#CompGCN)** |
 | 2020 | ICLR | **[DPMPN](#DPMPN)** |
 | 2020 | AAAI | **[RGHAT](#RGHAT)** |
+| 2020 | CIKM | **[GAEAT](#GAEAT)** |
 | 2021 | WWW | **[KE-GNN](#KE-GNN)** |
 | 2021 | WWW | **[M2GNN](#M2GNN)** |
 
@@ -238,10 +241,12 @@ Thanks for your attention and kind words! We will update KGE later.
 | Year | Source        |	Methods                        |
 |:----:|:-------------:|:-------------------------------:|
 | 2015 | ACL           | **[SSE](#SSE)**                 |
+| 2017 | ECML/PKDD | **[ComplEx<sup>R</sup>](#ComplEx<sup>R</sup>)** |
 | 2018 | ICML | **[ComplEx-N3](#ComplEx-N3)** |
 | 2018 | AAAI          | **[ComplEx-L1](#ComplEx-L1)**   |
 | 2019 | UAI           | **[EM](#EM)**                   |
 | 2020 | EMNLP | **[DA+CSTR](#DA+CSTR)** |
+| 2020 | CIKM | **[SLRE](#SLRE)** |
 | 2020 | NeurIPS | **[DURA](#DURA)** |            
 
 #### Soft Rules
@@ -265,6 +270,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2019 | NeurIPS | **[pLogicNet](#pLogicNet)** |
 | 2020 | ICDM | **[HybridER](#HybridER)** |
 | 2020 | AAAI | **[RPJE](#RPJE)** |
+| 2020 | CIKM | **[SLRE](#SLRE)** |
 | 2021 | AAAI | **[RARL](#RARL)** |
 
 #### Negative Sampling
@@ -758,7 +764,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### ECML-PKDD
 
-- <a name="Regularize"></a> **(Regularize)** Pasquale Minervini, Luca Costabello, Emir Muñoz, Vít Novácek, Pierre-Yves Vandenbussche. "**Regularizing Knowledge Graph Embeddings via Equivalence and Inversion Axioms**". **ECML/PKDD 2017**. CCF B. Cite 31. [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-71249-9_40)
+- <a name="ComplEx<sup>R</sup>"></a> **(ComplEx<sup>R</sup>)** Pasquale Minervini, Luca Costabello, Emir Muñoz, Vít Novácek, Pierre-Yves Vandenbussche. "**Regularizing Knowledge Graph Embeddings via Equivalence and Inversion Axioms**". **ECML/PKDD 2017**. CCF B. Cite 31. [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-71249-9_40)
 
 - <a name="TransT"></a> **(TransT)** Shiheng Ma, Jianhui Ding, Weijia Jia, Kun Wang, Minyi Guo. "**TransT: Type-Based Multiple Embedding Representations for Knowledge Graph Completion**". **ECML/PKDD 2017**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-71249-9_43)
 
