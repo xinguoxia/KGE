@@ -267,15 +267,18 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2017 | NeurIPS | **[Neural-LP](#Neural-LP)** |
 | 2018 | AAAI | **[RUGE](#RUGE)** |
 | 2018 | AAAI | **[RLvLR](#RLvLR)** |
-| 2018 | UAI | **[KB-LRN](#KB-LRN)** |
+| 2018 | UAI | **[KBLRN](#KBLRN)** |
 | 2018 | ISWC | **[RuleN](#RuleN)** |
 | 2018 | ACL | **[ComplEx-NNE](#ComplEx-NNE)** |
 | 2019 | NeurIPS       | **[DRUM](#DRUM)**               |
+| 2019 | NeurIPS | **[pLogicNet](#pLogicNet)** |
 | 2019 | AAAI          | **[UKGE](#UKGE)**               |
 | 2019 | IJCAI | **[AnyBURL](#AnyBURL)** |
 | 2019 | WWW | **[IterE](#IterE)** |
 | 2020 | ICLR | **[Neural-LP-N](#Neural-LP-N)** |
-| 2019 | NeurIPS | **[pLogicNet](#pLogicNet)** |
+| 2020 | EMNLP | **[RuleGuider](#RuleGuider)** |
+| 2020 | EMNLP | **[ASR-ComplEx](#ASR-ComplEx)** |
+| 2020 | EMNLP | **[MCMH](#MCMH)** |
 | 2020 | ICDM | **[HybridER](#HybridER)** |
 | 2020 | AAAI | **[RPJE](#RPJE)** |
 | 2020 | CIKM | **[SLRE](#SLRE)** |
@@ -290,6 +293,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2018 | NAACL-HLT     | **[KBGAN](#KBGAN)**             |
 | 2019 | ICLR          | **[RotatE](#RotatE)**           |
 | 2019 | ICDE          | **[NSCaching](#NACaching)**     |
+| 2020 | EMNLP | **[SANS](#SANS)** |
 
 ### Emergents
 
@@ -334,6 +338,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | IJCAI | **[HypE](#HypE)** |
 | 2020 | WWW | **[GETD](#GETD)** |
 | 2020 | WWW | **[HINGE](#HINGE)** |
+| 2020 | EMNLP | **[STARE](#STARE)** |
 | 2021 | WWW | **[RAW](#RAW)** |
 
 #### Temporal
@@ -404,6 +409,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 | Year | Source |	Methods |
 |:----:|:------:|:-------:|
+| 2020 | EMNLP | **[Pretrain-KGE](#Pretrain-KGE)** |
 | 2020 | WWW | **[wRAN](#wRAN)** |
 | 2021 | DASFAA | **[SEwA](#SEwA)** |
 
@@ -455,6 +461,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | AAAI | **[R2D2](#R2D2)** |
 | 2020 | IJCAI | **[RLH](#RLH)** |
 | 2020 | EMNLP | **[DacKGR](#DacKGR)** |
+| 2020 | EMNLP | **[RuleGuider](#RuleGuider)** |
 | 2021 | AAAI | **[PASSLEAF](#PASSLEAF)** |
 | 2021 | AAAI | **[GaussianPath](#GaussianPath)** |
 
@@ -746,6 +753,10 @@ Thanks for your attention and kind words! We will update KGE later.
 - <a name="MEAN"></a> **MEAN** Takuo Hamaguchi, Hidekazu Oiwa, Masashi Shimbo, Yuji Matsumoto. "**Knowledge Transfer for Out-of-Knowledge-Base Entities : A Graph Neural Network Approach**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/250)
 
 - <a name="IPTransE"></a> **IPTransE** Hao Zhu, Ruobing Xie, Zhiyuan Liu, Maosong Sun. "**Iterative Entity Alignment via Joint Knowledge Embeddings**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/595)
+
+##### UAI
+
+- <a name="ASR-ComplEx"></a> **ASR-ComplEx** Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel. "**Adversarial Sets for Regularising Neural Link Predictors**". **UAI 2017**. [paper](http://auai.org/uai2017/proceedings/papers/306.pdf)
 
 ##### EMNLP
 
