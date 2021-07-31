@@ -57,6 +57,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2019 | WSDM          | **[CrossE](#CrossE)**           |
 | 2020 | AAAI          | **[HAKE](#HAKE)**               |
 | 2020 | IJCAI | **[TransRHS](#TransRHS)** |
+| 2020 | AAMAS | **[TransL](#TransL)** |
 | 2020 | NeurIPS | **[BoxE](#BoxE)** |
 | 2020 | ACL | **[OTE](#OTE)** |
 | 2020 | ACL | **[ATTH](#ATTH)** |
@@ -65,6 +66,9 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | ICDM | **[LineaRE](#LineaRE)** |
 | 2020 | ESWC | **[HyperKG](#HyperKG)** |
 | 2020 | ISWC | **[SpacE](#SpacE)** |
+| 2020 | COLING | **[AprilE](#AprilE)** |
+| 2020 | COLING | **[RatE](#RatE)** |
+| 2020 | ECAI | **[MDE](#MDE)** |
 | 2021 | NAACL-HLT | **[ProcrustEs](#ProcrustEs)** |
 | 2021 | ESWC | **[TransROWL](#TransROWL)** |
 | 2021 | WWW | **[MQuatE](#MQuatE)** |
@@ -88,6 +92,9 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | ICDE | **[AutoSF](#AutoSF)** |
 | 2020 | ACL | **[SEEK](#SEEK)** |
 | 2020 | ICML | **[LowFER](#LowFER)** |
+| 2020 | COLING | **[GeomE](#GeomE)** |
+| 2020 | ECAI | **[BTDE](#BTDE)** |
+| 2020 | ECAI | **[MEI](#MEI)** |
 | 2021 | AAAI | **[5E](#5E)** |
 | 2021 | AAAI | **[DualE](#DualE)** |
 | 2021 | NAACL | **[KRE](#KRE)** |
@@ -106,7 +113,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2018 | CIKM          | **[CACL](#CACL)**               |
 | 2018 | NAACL-HLT     | **[ConvKB](#ConvKB)**           |
 | 2018 | NAACL-HLT     | **[KBGAN](#KBGAN)**             |
-| 2019 | ICML          | **[RSN](#RSN)**                 |
+| 2019 | ICML | **[RSN](#RSN)** |
 | 2019 | IJCAI         | **[M-GNN](#M-GNN)**             |
 | 2019 | ACL           | **[KBGAT](#KBGAT)**             |
 | 2019 | WWW           | **[ActiveLink](#ActiveLink)**   |
@@ -115,6 +122,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2019 | K-CAP         | **[TransGCN](#TransGCN)**       |
 | 2020 | AAAI | **[InteractE](#InteractE)** |
 | 2020 | AAAI | **[ParamE](#ParamE)** |
+| 2020 | COLING | **[ArcE](#ArcE)** |
 | 2020 | AAAI | **[CoPER](#CoPER)** |
 | 2021 | NAACL | **[EDGE](#EDGE)** |
 | 2021 | DASFAA | **[TransMTL](#TransMTL)** |
@@ -388,6 +396,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | Year | Source |	Methods |
 |:----:|:------:|:-------:|
 | 2017 | IJCAI | **[MEAN](#MEAN)** |
+| 2020 | COLING | **[KD-MKB](#KD-MKB)** |
 | 2021 | WWW | **[ATransN](#ATransN)** |
 | 2021 | WWW | **[MulDE](#MulDE)** |
 
