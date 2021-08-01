@@ -323,6 +323,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2019 | ICLR | **[DyRep](#DyRep)** |
 | 2020 | ICLR | **[TComplEx](#TComplEx)** |
 | 2020 | AAAI | **[DE-SimplE](#DE-SimplE)** |
+| 2020 | AAAI | **[EvolveGCN](#EvolveGCN)** |
 | 2020 | IJCAI | **[DArtNet](#DArtNet)** |
 | 2020 | EMNLP | **[DyERNIE](#DyERNIE)** |
 | 2020 | EMNLP | **[RE-NET](#RE-NET)** |
@@ -335,6 +336,8 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2021 | AAAI | **[ChronoR](#ChronoR)** |
 | 2021 | AAAI | **[CyGNet](#CyGNet)** |
 | 2021 | AAAI | **[NLSM](#NLSM)** |
+| 2021 | ACL | **[CluSTeR](#CluSTeR)** |
+| 2021 | ACL | **[HERCULES](#HERCULES)** |
 | 2021 | NAACL-HLT | **[KRE](#KRE)** |
 | 2021 | NAACL-HLT | **[RTFE](#RTFE)** |
 | 2021 | NAACL-HLT | **[TeLM](#TeLM)** |
@@ -1123,6 +1126,8 @@ Thanks for your attention and kind words! We will update KGE later.
 - <a name="CoPER"></a> **(CoPER)** George Stoica, Otilia Stretcu, Anthony Platanios, Tom Mitchell, Barnabas Poczos. "**Contextual Parameter Generation for Knowledge Graph Link Prediction**". **AAAI 2020**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5693) [code](https://github.com/otiliastr/coper)
 
 - <a name="DE-SimplE"></a> **(DE-SimplE)** Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **AAAI 2020**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5815) [code](https://github.com/BorealisAI/DE-SimplE) :fire:
+
+- <a name="EvolveGCN"></a> **(EvolveGCN)** Aldo Pareja, Giacomo Domeniconi, Jie Chen, Tengfei Ma, Toyotaro Suzumura, Hiroki Kanezashi, Tim Kaler, Tao B. Schardl, Charles E. Leiserson. "**EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs**". **AAAI 2020**. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/5984)
 
 - <a name="FSRL"></a> **(FSRL)** Chuxu Zhang, Huaxiu Yao, Chao Huang, Meng Jiang, Zhenhui Li, Nitesh V. Chawla. "**Few-Shot Knowledge Graph Completion**". **AAAI 2020**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5698) [code](https://github.com/chuxuzhang/AAAI2020_FSRL)
 
