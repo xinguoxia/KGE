@@ -1438,6 +1438,30 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="TaRP"></a> **(TaRP)** Zijun Cui, Pavan Kapanipathi, Kartik Talamadupula, Tian Gao, Qiang Ji. "**Type-augmented Relation Prediction in Knowledge Graphs**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16879)
 
+##### ACL
+
+- <a name="CluSTeR"></a> **(CluSTeR)** Zixuan Li, Xiaolong Jin, Saiping Guan, Wei Li, Jiafeng Guo, Yuanzhuo Wang, Xueqi Cheng. "**Search from History and Reason for Future: Two-stage Reasoning on Temporal Knowledge Graphs**". **ACL/IJCNLP 2021**. [paper](https://aclanthology.org/2021.acl-long.365/)
+
+- <a name="EIGAT"></a> **(EIGAT)** Yu Zhao, Han Zhou, Ruobing Xie, Fuzhen Zhuang, Qing Li, Ji Liu. "**Incorporating Global Information in Local Attention for Knowledge Representation Learning**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.115/)
+
+- <a name="GRAN"></a> **(GRAN)** Quan Wang, Haifeng Wang, Yajuan Lyu, Yong Zhu. "**Link Prediction on N-ary Relational Facts: A Graph-based Approach**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.35/)
+
+- <a name="HERCULES"></a> **(HERCULES)** Sebastien Montella, Lina Maria Rojas-Barahona, Johannes Heinecke. "**Hyperbolic Temporal Knowledge Graph Embeddings with Relational and Time Curvatures**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.292/)
+
+- <a name="InferenceAttack"></a> **(InferenceAttack)** Peru Bhardwaj, John D. Kelleher, Luca Costabello, Declan O'Sullivan. "**Poisoning Knowledge Graph Embeddings via Relation Inference Patterns**". **ACL/IJCNLP 2021**. [paper](https://aclanthology.org/2021.acl-long.147/)
+
+- <a name="InferWiki"></a> **(InferWiki)** Yixin Cao, Xiang Ji, Xin Lv, Juanzi Li, Yonggang Wen, Hanwang Zhang. "**Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion**". **ACL/IJCNLP 2021**. [paper](https://aclanthology.org/2021.acl-long.534/)
+
+- <a name="MLMLM"></a> **(MLMLM)** Louis Clouâtre, Philippe Trempe, Amal Zouaq, Sarath Chandar. "**MLMLM: Link Prediction with Mean Likelihood Masked Language Model**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.378/)
+
+- <a name="OKGIT"></a> **(OKGIT)** Chandrahas, Partha P. Talukdar. "**OKGIT: Open Knowledge Graph Link Prediction with Implicit Types**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.225/)
+
+- <a name="PairRE"></a> **(PairRE)** Linlin Chao, Jianshan He, Taifeng Wang, Wei Chu. "**PairRE: Knowledge Graph Embeddings via Paired Relation Vectors**". **ACL/IJCNLP  2021**. [paper](https://aclanthology.org/2021.acl-long.336/)
+
+- <a name="RARL"></a> **(RARL)** Zhongni Hou, Xiaolong Jin, Zixuan Li, Long Bai。"**Rule-Aware Reinforcement Learning for Knowledge Graph Reasoning**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.412/)
+
+- <a name="SCE"></a> **(SCE)** Hidetaka Kamigaito, Katsuhiko Hayashi. "**Unified Interpretation of Softmax Cross-Entropy and Negative Sampling: With Case Study for Knowledge Graph Embedding**". **ACL/IJCNLP 2021**. [paper](https://aclanthology.org/2021.acl-long.429/)
+
 ##### NAACL
 
 - <a name="BEUrRE"></a> **(BEUrRE)** Xuelu Chen, Michael Boratko, Muhao Chen, Shib Sankar Dasgupta, Xiang Lorraine Li, Andrew McCallum. "**Probabilistic Box Embeddings for Uncertain Knowledge Graph Reasoning**". **NAACL-HLT 2021**. [paper](https://www.aclweb.org/anthology/2021.naacl-main.68/) [code](https://github.com/stasl0217/beurre)
