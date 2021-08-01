@@ -130,6 +130,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2018 | ESWC | **[R-GCN](#R-GCN)** |
 | 2019 | AAAI | **[SACN](#SACN)** |
 | 2019 | ACL | **[A2N](#A2N)** |
+| 2019 | ACL | **[KBGAT](#KBGAT)** |
 | 2019 | IJCAI | **[M-GNN](#M-GNN)** |
 | 2019 | IJCAI | **[RDGCN](#RDGCN)** |
 | 2019 | IJCAI | **[VR-GCN](#VR-GCN)** |
@@ -138,6 +139,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | ICLR | **[DPMPN](#DPMPN)** |
 | 2020 | AAAI | **[RGHAT](#RGHAT)** |
 | 2020 | CIKM | **[GAEAT](#GAEAT)** |
+| 2021 | ACL | **[EIGAT](#EIGAT)** |
 | 2021 | WWW | **[KE-GCN](#KE-GCN)** |
 | 2021 | WWW | **[M2GNN](#M2GNN)** |
 
