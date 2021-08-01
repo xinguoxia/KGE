@@ -138,7 +138,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | ICLR | **[DPMPN](#DPMPN)** |
 | 2020 | AAAI | **[RGHAT](#RGHAT)** |
 | 2020 | CIKM | **[GAEAT](#GAEAT)** |
-| 2021 | WWW | **[KE-GNN](#KE-GNN)** |
+| 2021 | WWW | **[KE-GCN](#KE-GCN)** |
 | 2021 | WWW | **[M2GNN](#M2GNN)** |
 
 #### Hyper Planes
