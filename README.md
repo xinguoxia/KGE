@@ -1424,7 +1424,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="CLKGE"></a> **(CLKGE)** Mehrnoosh Mirtaheri. "**Relational Learning to Capture the Dynamics and Sparsity of Knowledge Graphs**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17859)
 
-- <a name="CyGNet"></a> **(CyGNet)** Cunchao Zhu, Muhao Chen, Changjun Fan, Guangquan Cheng, Yan Zhang. "**Learning from History: Modeling Temporal Knowledge Graphs with Sequential Copy-Generation Networks**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16604)
+- <a name="CyGNet"></a> **(CyGNet)** Cunchao Zhu, Muhao Chen, Changjun Fan, Guangquan Cheng, Yan Zhang. "**Learning from History: Modeling Temporal Knowledge Graphs with Sequential Copy-Generation Networks**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16604) [code](https://github.com/CunchaoZ/CyGNet)
 
 - <a name="DualE"></a> **(DualE)** Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Xiaochun Cao, Qingming Huang. "**Dual Quaternion Knowledge Graph Embeddings**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16850)
 
@@ -1498,7 +1498,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="ATransN"></a> **(ATransN)** Huijuan Wang, Shuangyin Li, Rong Pan. "**An Adversarial Transfer Network for Knowledge Representation Learning**". **WWW 2021**. [paper](https://dl.acm.org/doi/10.1145/3442381.3450064) [code](https://github.com/LemonNoel/ATransN)
 
-- <a name="KE-GCN"></a> **(KE-GCN)** Donghan Yu, Yiming Yang, Ruohong Zhang, Yuexin Wu. "**Knowledge Embedding Based Graph Convolutional Network**". **WWW 2021**. [paper](https://dl.acm.org/doi/10.1145/3442381.3449925)
+- <a name="KE-GCN"></a> **(KE-GCN)** Donghan Yu, Yiming Yang, Ruohong Zhang, Yuexin Wu. "**Knowledge Embedding Based Graph Convolutional Network**". **WWW 2021**. [paper](https://dl.acm.org/doi/10.1145/3442381.3449925) [code](https://github.com/Lee-zix/RE-GCN)
 
 - <a name="M2GNN"></a> **(M2GNN)** Shen Wang, Xiaokai Wei, Cicero Nogueira dos Santos, Zhiguo Wang, Ramesh Nallapati, Andrew O. Arnold, Bing Xiang, Philip S. Yu, Isabel F. Cruz. "**Mixed-Curvature Multi-Relational Graph Neural Network for Knowledge Graph Completion**". **WWW 2021**. [paper](https://dl.acm.org/doi/10.1145/3442381.3450118)
 
