@@ -68,8 +68,8 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | ISWC | **[SpacE](#SpacE)** |
 | 2020 | ICDM | **[LineaRE](#LineaRE)** |
 | 2020 | ESWC | **[HyperKG](#HyperKG)** |
+| 2021 | ACL | **[PairRE](#PairRE)** |
 | 2021 | NAACL-HLT | **[ProcrustEs](#ProcrustEs)** |
-| 2021 | DASFAA | **[TransMTL](#TransMTL)** |
 | 2021 | ESWC | **[TransROWL](#TransROWL)** |
 | 2021 | WWW | **[MQuatE](#MQuatE)** |
 
