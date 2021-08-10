@@ -98,7 +98,6 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2021 | AAAI | **[5E](#5E)** |
 | 2021 | AAAI | **[DualE](#DualE)** |
 | 2021 | NAACL-HLT | **[KRE](#KRE)** |
-| 2021 | NAACL-HLT | **[KRE](#KRE)** |
 | 2021 | ESWC | **[ConEx](#ConEx)** |
 
 #### Neural Networks
