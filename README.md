@@ -343,6 +343,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2021 | NAACL-HLT | **[KRE](#KRE)** |
 | 2021 | NAACL-HLT | **[RTFE](#RTFE)** |
 | 2021 | NAACL-HLT | **[TeLM](#TeLM)** |
+| 2021 | KDD | **[T-GAP](#T-GAP)** |
 | 2021 | SIGIR | **[RE-GCN](#RE-GCN)** |
 | 2021 | SIGIR | **[TIE](#TIE)** |
 | 2021 | WSDM | **[DBKGE](#DBKGE)** |
@@ -421,6 +422,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | NeurIPS | **[EmQL](#EmQL)** |
 | 2020 | UAI | **[TRACTOR](#TRACTOR)** |
 | 2021 | AAAI | **[BiQE](#BiQE)** |
+| 2021 | KDD | **[NewLook](#NewLook)** |
 
 #### Reinforcement Learning
 
@@ -1491,6 +1493,18 @@ Thanks for your attention and kind words! We will update KGE later.
 - <a name="RTFE"></a> **(RTFE)** Youri Xu, Haihong E, Meina Song, Wenyu Song, Xiaodong Lv, Haotian Wang, Jinrui Yang. "**RTFE: A Recursive Temporal Fact Embedding Framework for Temporal Knowledge Graph Completion**". **NAACL-HLT 2021**. [paper](https://www.aclweb.org/anthology/2021.naacl-main.451/)
 
 - <a name="TeLM"></a> **(TeLM)** Chengjin Xu, Yung-Yu Chen, Mojtaba Nayyeri, Jens Lehmann. "**Temporal Knowledge Graph Completion using a Linear Temporal Regularizer and Multivector Embeddings**". **NAACL-HLT 2021**. [paper](https://www.aclweb.org/anthology/2021.naacl-main.202/)
+
+##### KDD
+
+- <a name="KompaRe"></a> **(KompaRe)** Lihui Liu, Boxin Du, Yi Ren Fung, Heng Ji, Jiejun Xu, Hanghang Tong. "**KompaRe: A Knowledge Graph Comparative Reasoning System**". **KDD 2021**. [paper](https://dl.acm.org/doi/10.1145/3447548.3467128)
+
+- <a name="NewLook"></a> **(NewLook)** Lihui Liu, Boxin Du, Heng Ji, ChengXiang Zhai, Hanghang Tong. "**Neural-Answering Logical Queries on Knowledge Graphs**". **KDD 2021**. [paper](https://dl.acm.org/doi/10.1145/3447548.3467375)
+
+- <a name="PathCon"></a> **(PathCon)** Hongwei Wang, Hongyu Ren, Jure Leskovec. "**Relational Message Passing for Knowledge Graph Completion**". **KDD 2021**. [paper](https://dl.acm.org/doi/10.1145/3447548.3467247)
+
+- <a name="RGTN"></a> **(RGTN)** Han Huang, Leilei Sun, Bowen Du, Chuanren Liu, Weifeng Lv, Hui Xiong. "**Representation Learning on Knowledge Graphs for Node Importance Estimation**". **KDD 2021**. [paper](https://dl.acm.org/doi/10.1145/3447548.3467342)
+
+- <a name="T-GAP"></a> **(T-GAP)** Jaehun Jung, Jinhong Jung, U. Kang. "**Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion**". **KDD 2021**. [paper](https://dl.acm.org/doi/10.1145/3447548.3467292)
 
 ##### SIGIR
 
