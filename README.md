@@ -339,6 +339,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2021 | AAAI | **[NLSM](#NLSM)** |
 | 2021 | ACL | **[CluSTeR](#CluSTeR)** |
 | 2021 | ACL | **[HERCULES](#HERCULES)** |
+| 2021 | IJCAI | **[HIPNet](#HIPNet)** |
 | 2021 | NAACL-HLT | **[KRE](#KRE)** |
 | 2021 | NAACL-HLT | **[RTFE](#RTFE)** |
 | 2021 | NAACL-HLT | **[TeLM](#TeLM)** |
@@ -354,6 +355,7 @@ Thanks for your attention and kind words! We will update KGE later.
 |:----:|:------:|:-------:|
 | 2017 | CIKM | **[URGE](#URGE)** |
 | 2019 | AAAI | **[UKGE](#UKGE)** |
+| 2021 | IJCAI | **[FocusE](#FocusE)** |
 | 2021 | NAACL | **[BEUrRE](#BEUrRE)** |
 | 2021 | DASFAA | **[GMUC](#GMUC)** |
 | 2021 | AAAI | **[PASSLEAF](#PASSLEAF)** |
@@ -1468,6 +1470,14 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="SCE"></a> **(SCE)** Hidetaka Kamigaito, Katsuhiko Hayashi. "**Unified Interpretation of Softmax Cross-Entropy and Negative Sampling: With Case Study for Knowledge Graph Embedding**". **ACL/IJCNLP 2021**. [paper](https://aclanthology.org/2021.acl-long.429/)
 
+##### IJCAI
+
+- <a name="FocusE"></a> **(FocusE)** Sumit Pai, Luca Costabello. "**Learning Embeddings from Knowledge Graphs With Numeric Edge Attributes**". **IJCAI 2021**. [paper](https://www.ijcai.org/proceedings/2021/395)
+
+- <a name="HIPNet"></a> **(HIPNet)** Yongquan He, Peng Zhang, Luchen Liu, Qi Liang, Wenyuan Zhang, Chuang Zhang, "**HIP Network: Historical Information Passing Network for Extrapolation Reasoning on Temporal Knowledge Graph**". **IJCAI 2021**. [paper](https://www.ijcai.org/proceedings/2021/264)
+
+- <a name="NIC"></a> **(NIC)** Kai Wang, Yu Liu, Quan Z. Sheng. "**Neighborhood Intervention Consistency: Measuring Confidence for Knowledge Graph Link Prediction**". **IJCAI 2021**. [paper](https://www.ijcai.org/proceedings/2021/288)
+
 ##### NAACL
 
 - <a name="BEUrRE"></a> **(BEUrRE)** Xuelu Chen, Michael Boratko, Muhao Chen, Shib Sankar Dasgupta, Xiang Lorraine Li, Andrew McCallum. "**Probabilistic Box Embeddings for Uncertain Knowledge Graph Reasoning**". **NAACL-HLT 2021**. [paper](https://www.aclweb.org/anthology/2021.naacl-main.68/) [code](https://github.com/stasl0217/beurre)
@@ -1564,9 +1574,7 @@ Thanks for your attention and kind words! We will update KGE later.
 |:----:|:------:|:-----------:|:---:|:-----:|:------:|:------:|:-------:|
 | 2018 | EMNLP  | **[TA-DistMult](#TA-DistMult)** | 276 | 0.477 | 0.363  | -      | 0.686   |
 | 2018 | EMNLP  | **[HyTE](#HyTE)<sup>[DE-SinplE](#DE-SimplE)</sup>** | - | 0.297 | 0.108 | 0.416 | 0.655 |
-| 2020 | AAAI   | **[DE-TransE](#DE-SimplE)** | - | 0.326 | 0.124 | 0.467 | 0.686 |
-| 2020 | AAAI   | **[DE-DistMult](#DE-SimplE)** | - | 0.501 | 0.392 | 0.569 | 0.708 |
+| 2020 | AAAI | **[DE-TransE](#DE-SimplE)** | - | 0.326 | 0.124 | 0.467 | 0.686 |
+| 2020 | AAAI | **[DE-DistMult](#DE-SimplE)** | - | 0.501 | 0.392 | 0.569 | 0.708 |
 | 2020 | AAAI   | **[DE-SimplE](#DE-SimplE)** | - | 0.526 | 0.418 | 0.592 | 0.725 |
 | 2020 | ICLR   | **[TNTComplEx](#TNTComplEx)**  | -   | 0.56  | 0.46   | 0.61   | 0.74    |
-
-
