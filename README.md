@@ -1572,6 +1572,30 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="ERAS"></a> **(ERAS)** Shimin Di, Quanming Yao, Yongqi Zhang, Lei Chen. "**Efficient Relation-aware Scoring Function Search for Knowledge Graph Embedding**". **ICDE 2021**. [paper](https://ieeexplore.ieee.org/document/9458750)
 
+##### CIKM
+
+- Cycle or Minkowski: Which is More Appropriate for Knowledge Graph Embedding? ‐ Han Yang, Leilei Zhang, Bingning Wang, Ting Yao , Junfei Liu 
+
+- HopfE: Knowledge Graph Representation Learning using Inverse Hopf Fibrations ‐ Anson Bastos, Kuldeep Singh, Abhishek Nadgeri, Saeedeh Shekarpour, Isaiah Onando Mulang, Johannes Hoffart
+
+- Automated Query Graph Generation for Querying Knowledge Graphs ‐ Weiguo Zheng, Mei Zhang 
+
+- Differentially Private Federated Knowledge Graphs Embedding ‐ Hao Peng, Haoran Li, Yangqiu Song, Vincent Zheng, Jianxin Li 
+
+- A Lightweight Knowledge Graph Embedding Framework for Efficient Inference and Storage ‐ Haoyu Wang, Yaqing Wang, Defu Lian, Jing Gao
+
+- Predicting Instance Type Assertions in Knowledge Graphs Using Stochastic Neural Networks ‐ Tobias Weller, Maribel Acosta
+
+- Meta-Learning Based Hyper-Relation Feature Modeling for Out-of-Knowledge-Base Embedding ‐ Yufeng Zhang, Weiqing Wang, Wei Chen, Jiajie Xu, An Liu, Lei Zhao
+
+- When Hardness Makes a Difference: Multi-Hop Knowledge Graph Reasoning over Few-Shot Relations ‐ Shangfei Zheng, Wei Chen, Pengpeng Zhao, An Liu, Junhua Fang, Lei Zhao
+
+- Computing and Maintaining Provenance of Query Result Probabilities in Uncertain Knowledge Graphs ‐ Garima Gaur, Abhishek Dang, Arnab Bhattacharya, Srikanta Bedathur
+
+- Tracking Semantic Evolutionary Changes in Large-Scale Ontological Knowledge Bases ‐ Zhao Liu, Chang Lu, Ghadah Alghamdi, Renate A. Schmidt , Yizheng Zhao
+
+- Topic-aware Heterogeneous Graph Neural Network for Link Prediction ‐ Siyong Xu, Cheng Yang, Chuan Shi, Yuan Fang, Yuxin Guo, Tianchi Yang , Luhao Zhang, Maodi Hu
+
 ##### WSDM
 
 - <a name="DBKGE"></a> **(DBKGE)** Siyuan Liao, Shangsong Liang, Zaiqiao Meng, Qiang Zhang. "**Learning Dynamic Embeddings for Temporal Knowledge Graphs**". **WSDM 2021**. [paper](https://dl.acm.org/doi/10.1145/3437963.3441741)
