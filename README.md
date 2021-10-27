@@ -1480,6 +1480,56 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="NIC"></a> **(NIC)** Kai Wang, Yu Liu, Quan Z. Sheng. "**Neighborhood Intervention Consistency: Measuring Confidence for Knowledge Graph Link Prediction**". **IJCAI 2021**. [paper](https://www.ijcai.org/proceedings/2021/288)
 
+##### EMNLP
+
+- "**A Semantic Filter Based on Relations for Knowledge Graph Completion**". Liang Zongwei, Yang Junan, Liu Hui and Huang KeJu
+
+- "**TimeTraveler: Reinforcement Learning for Temporal Knowledge Graph Forecasting**". Haohai Sun, Jialun Zhong, Yunpu Ma, Zhen Han and Kun He
+
+- "**Time-aware Graph Neural Network for Entity Alignment between Temporal Knowledge Graphs**". Chengjin Xu, Fenglong Su and Jens Lehmann
+
+- "**Set Generation Networks for End-to-End Knowledge Base Population**". Dianbo Sui, Chenhao Wang, Yubo Chen, Kang Liu, Jun Zhao and Wei Bi
+
+- "**NegatER: Unsupervised Discovery of Negatives in Commonsense Knowledge Bases**". Tara Safavi, Jing Zhu and Danai Koutra
+
+- "**Case-based Reasoning for Natural Language Queries over Knowledge Bases**". Rajarshi Das, Manzil Zaheer, Dung Thai, Ameya Godbole, Ethan Perez, Jay Yoon Lee, Lizhen Tan, Lazaros Polymenakos and Andrew McCallum
+
+- "**BiQUE: Biquaternionic Embeddings of Knowledge Graphs**". Jia Guo and Stanley Kok
+
+- "**Time-dependent Entity Embedding is not All You Need: A Re-evaluation of Temporal Knowledge Graph Completion Models under a Unified Framework**". Zhen Han, Gengyuan Zhang, Yunpu Ma and Volker Tresp
+
+- "**Learning Neural Ordinary Equations for Forecasting Future Links on Temporal Knowledge Graphs**". Zhen Han, Zifeng Ding, Yunpu Ma, Yujia Gu and Volker Tresp
+
+- "**STaCK: Sentence Ordering with Temporal Commonsense Knowledge**". Deepanway Ghosal, Navonil Majumder, Rada Mihalcea and Soujanya Poria
+
+- "**Knowledge Base Completion Meets Transfer Learning**". Vid Kocijan and Thomas Lukasiewicz
+
+- "**Adversarial Attacks on Knowledge Graph Embeddings via Instance Attribution Methods**". Peru Bhardwaj, John Kelleher, Luca Costabello and Declan O'Sullivan
+
+- "**HittER: Hierarchical Transformers for Knowledge Graph Embeddings**". Sanxing Chen, Xiaodong Liu, Jianfeng Gao, Jian Jiao, Ruofei Zhang and Yangfeng Ji
+
+- "**Knowledge Graph Representation Learning using Ordinary Differential Equations**". Mojtaba Nayyeri, Chengjin Xu, Franca Hoffmann, Mirza Mohtashim Alam, Jens Lehmann and sahar vahdati
+
+- "**Data Collection vs. Knowledge Graph Completion: What is Needed to Improve Coverage?**" Kenneth Church and Yuchen Bian
+
+- "**P-INT: A Path-based Interaction Model for Few-shot Knowledge Graph Completion**". Jingwen Xu, Jing Zhang, Xirui Ke, Yuxiao Dong, Hong Chen, Cuiping Li and Yongbin Liu
+
+- "**Hyperbolic Geometry is Not Necessary: Lightweight Euclidean-Based Models for Low-Dimensional Knowledge Graph Embeddings**". Kai Wang, Yu Liu, Dan Lin and Michael Sheng
+
+- "**Improving Knowledge Graph Embedding Using Affine Transformations of Entities Corresponding to Each Relation**". Jinfa Yang, Yongjie Shi, Xin Tong, Robin Wang, Taiyan Chen and Xianghua Ying
+
+- "**EventKE: Event-Enhanced Knowledge Graph Embedding**". Zixuan Zhang, Hongwei Wang, Han Zhao, Hanghang Tong and Heng Ji
+
+- "**Knowledge Representation Learning with Contrastive Completion Coding**". Bo Ouyang, Wenbing Huang, Runfa Chen, Zhixing Tan, Yang Liu, Maosong Sun and Jihong Zhu
+
+- "**RelDiff: Enriching Knowledge Graph Relation Representations for Sensitivity Classification**". Hitarth Narvala, Graham McDonald and Iadh Ounis
+
+- "**A Divide-And-Conquer Approach for Multi-label Multi-hop Relation Detection in Knowledge Base Question Answering**". Deyu Zhou, Yanzheng Xiang, Linhai Zhang, Chenchen Ye, Qian-Wen Zhang and Yunbo Cao
+
+- "**Hyperbolic Hierarchy-Aware Knowledge Graph Embedding for Link Prediction**". Zhe Pan and Peng Wang
+
+- "**Open-Domain Contextual Link Prediction and its Complementarity with Entailment Graphs**". Mohammad Javad Hosseini, Shay B. Cohen, Mark Johnson and Mark Steedman
+
 ##### NAACL
 
 - <a name="BEUrRE"></a> **(BEUrRE)** Xuelu Chen, Michael Boratko, Muhao Chen, Shib Sankar Dasgupta, Xiang Lorraine Li, Andrew McCallum. "**Probabilistic Box Embeddings for Uncertain Knowledge Graph Reasoning**". **NAACL-HLT 2021**. [paper](https://www.aclweb.org/anthology/2021.naacl-main.68/) [code](https://github.com/stasl0217/beurre)
