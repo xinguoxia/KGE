@@ -1596,14 +1596,6 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - Weiguo Zheng, Mei Zhang. "**Automated Query Graph Generation for Querying Knowledge Graphs**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482235)
 
-- Predicting Instance Type Assertions in Knowledge Graphs Using Stochastic Neural Networks ‐ Tobias Weller, Maribel Acosta
-
-- Computing and Maintaining Provenance of Query Result Probabilities in Uncertain Knowledge Graphs ‐ Garima Gaur, Abhishek Dang, Arnab Bhattacharya, Srikanta Bedathur
-
-- Tracking Semantic Evolutionary Changes in Large-Scale Ontological Knowledge Bases ‐ Zhao Liu, Chang Lu, Ghadah Alghamdi, Renate A. Schmidt , Yizheng Zhao
-
-- Topic-aware Heterogeneous Graph Neural Network for Link Prediction ‐ Siyong Xu, Cheng Yang, Chuan Shi, Yuan Fang, Yuxin Guo, Tianchi Yang , Luhao Zhang, Maodi Hu
-
 ##### WSDM
 
 - <a name="DBKGE"></a> **(DBKGE)** Siyuan Liao, Shangsong Liang, Zaiqiao Meng, Qiang Zhang. "**Learning Dynamic Embeddings for Temporal Knowledge Graphs**". **WSDM 2021**. [paper](https://dl.acm.org/doi/10.1145/3437963.3441741)
