@@ -1562,7 +1562,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="META-KGE"></a> **(META-KGE)** Chanyoung Chung, Joyce Jiyoung Whang. "**Knowledge Graph Embedding via Metagraph Learning**". **SIGIR 2021**. [paper](https://dl.acm.org/doi/10.1145/3404835.3463072)
 
-- <a name="MetaP"></a> **(MetaP)** Zhiyi Jiang, Jianliang Gao, Xinqi Lv. "**MetaP: Meta Pattern Learning for One-Shot Knowledge Graph Completion**". **SIGIR 2021**. [https://dl.acm.org/doi/10.1145/3404835.3463086]
+- <a name="MetaP"></a> **(MetaP)** Zhiyi Jiang, Jianliang Gao, Xinqi Lv. "**MetaP: Meta Pattern Learning for One-Shot Knowledge Graph Completion**". **SIGIR 2021**. [paper](https://dl.acm.org/doi/10.1145/3404835.3463086)
 
 - <a name="RE-GCN"></a> **(RE-GCN)** Zixuan Li, Xiaolong Jin, Wei Li, Saiping Guan, Jiafeng Guo, Huawei Shen, Yuanzhuo Wang, Xueqi Cheng. "**Temporal Knowledge Graph Reasoning Based on Evolutional Representation Learning**". **SIGIR 2021**. [paper](https://dl.acm.org/doi/10.1145/3404835.3462963) [code](https://github.com/Lee-zix/RE-GCN)
 
