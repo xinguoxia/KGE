@@ -1608,6 +1608,12 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="TransMTL"></a> **(TransMTL)** Jiaheng Dou, Bing Tian, Yong Zhang, Chunxiao Xing. "**A Novel Embedding Model for Knowledge Graph Completion Based on Multi-Task Learning**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_17)
 
+##### ECML-PKDD
+
+- <a name="PaGNN"></a> **(PaGNN)** Shuo Yang, Binbin Hu, Zhiqiang Zhang, Wang Sun, Yang Wang, Jun Zhou, Hongyu Shan, Yuetian Cao, Borui Ye, Yanming Fang, Quan Yu. "**Inductive Link Prediction with Interactive Structure Learning on Attributed Graph**". **ECML/PKDD 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-86520-7_24)
+
+- <a name="WD/MMD"></a> **(WD/MMD)** Luu Huu Phuc, Koh Takeuchi, Seiji Okajima, Arseny Tolmachev, Tomoyoshi Takebayashi, Koji Maruhashi, Hisashi Kashima. "**Inter-domain Multi-relational Link Prediction**". **ECML/PKDD 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-86520-7_18)
+
 ##### ESWC
 
 - <a name="ConEx"></a> **(ConEx)** Caglar Demir, Axel-Cyrille Ngonga Ngomo. "**Convolutional Complex Knowledge Graph Embeddings**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_24)
