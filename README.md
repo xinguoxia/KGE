@@ -465,11 +465,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - HongYun Cai, Vincent W. Zheng, Kevin Chen-Chuan Chang. "**A Comprehensive Survey of Graph Embedding: Problems, Techniques, and Applications**". **IEEE Transactions on Knowledge and Data Engineering 2018**. [paper](https://ieeexplore.ieee.org/document/8294302)
 
-- Seyed Mehran Kazemi, Rishab Goel, Kshitij Jain, Ivan Kobyzev, Akshay Sethi, Peter Forsyth, Pascal Poupart. "**Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey**". **CoRR 2019-05**. [paper](https://arxiv.org/abs/1905.11485)
-
-- Shaoxiong Ji, Shirui Pan, Erik Cambria, Pekka Marttinen, Philip S. Yu. "**A Survey on Knowledge Graphs: Representation, Acquisition and Applications**". **CoRR 2020-02**. [paper](https://arxiv.org/abs/2002.00388)
-
-- Andrea Rossi, Donatella Firmani, Antonio Matinata, Paolo Merialdo, Denilson Barbosa. "**Knowledge Graph Embedding for Link Prediction: A Comparative Analysis**". **CoRR 2020-02**. [paper](https://arxiv.org/abs/2002.00819)
+- Andrea Rossi, Donatella Firmani, Antonio Matinata, Paolo Merialdo, Denilson Barbosa. "**Knowledge Graph Embedding for Link Prediction: A Comparative Analysis**". **ACM Trans. Knowl. Discov. Data 2021**. [paper](https://dl.acm.org/doi/10.1145/3424672)
 
 ### 2011
 
