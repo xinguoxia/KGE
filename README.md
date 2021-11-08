@@ -1574,27 +1574,25 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### CIKM
 
+- <a name="CyclE"></a> **(CyclE)** Han Yang, Leilei Zhang, Bingning Wang, Ting Yao, Junfei Liu. "**Cycle or Minkowski: Which is More Appropriate for Knowledge Graph Embedding**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482245)
+
+- <a name="DisenKGAT"></a> **(DisenKGAT)** Junkang Wu, Wentao Shi, Xuezhi Cao, Jiawei Chen, Wenqiang Lei, Fuzheng Zhang, Wei Wu, Xiangnan He. "**DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482424)
+
+- <a name="DT-GCN"></a> **(DT-GCN)** Yuxin Shen, Zhao Li, Xin Wang, Jianxin Li, Xiaowang Zhang. "**DataType-Aware Knowledge Graph Representation Learning in Hyperbolic Space**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482421)
+
+- <a name="FKGE"></a> **(FKGE)** Hao Peng, Haoran Li, Yangqiu Song, Vincent W. Zheng, Jianxin Li. "**Differentially Private Federated Knowledge Graphs Embedding**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482252)
+
+- <a name="GrpKG"></a> **(GrpKG)** Han Yang, Junfei Liu. "**Knowledge Graph Representation Learning as Groupoid: Unifying TransE, RotatE, QuatE, ComplEx**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482442)
+
 - <a name="HopfE"></a> **(HopfE)** Anson Bastos, Kuldeep Singh, Abhishek Nadgeri, Saeedeh Shekarpour, Isaiah Onando Mulang, Johannes Hoffart. "**HopfE: Knowledge Graph Representation Learning using Inverse Hopf Fibrations**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482263)
 
-- Hao Peng, Haoran Li, Yangqiu Song, Vincent W. Zheng, Jianxin Li. "**Differentially Private Federated Knowledge Graphs Embedding**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482252)
+- <a name="HRFN"></a> **(HRFN)** Yufeng Zhang, Weiqing Wang, Wei Chen, Jiajie Xu, An Liu, Lei Zhao. "**Meta-Learning Based Hyper-Relation Feature Modeling for Out-of-Knowledge-Base Embedding**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482367)
 
-- Yuxin Shen, Zhao Li, Xin Wang, Jianxin Li, Xiaowang Zhang. "**DataType-Aware Knowledge Graph Representation Learning in Hyperbolic Space**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482421)
+- <a name="LightKG"></a> **(LightKG)** Haoyu Wang, Yaqing Wang, Defu Lian, Jing Gao. "**A Lightweight Knowledge Graph Embedding Framework for Efficient Inference and Storage**".  **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482224)
 
-- Haoyu Wang, Yaqing Wang, Defu Lian, Jing Gao. "**A Lightweight Knowledge Graph Embedding Framework for Efficient Inference and Storage**".  **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482224)
+- <a name="REFORM"></a> **(REFORM)** Song Wang, Xiao Huang, Chen Chen, Liang Wu, Jundong Li. "**REFORM: Error-Aware Few-Shot Knowledge Graph Completion**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482470)
 
-- Song Wang, Xiao Huang, Chen Chen, Liang Wu, Jundong Li. "**REFORM: Error-Aware Few-Shot Knowledge Graph Completion**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482470)
-
-- Junkang Wu, Wentao Shi, Xuezhi Cao, Jiawei Chen, Wenqiang Lei, Fuzheng Zhang, Wei Wu, Xiangnan He. "**DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482424)
-
-- Han Yang, Leilei Zhang, Bingning Wang, Ting Yao, Junfei Liu. "**Cycle or Minkowski: Which is More Appropriate for Knowledge Graph Embedding? **". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482245)
-
-- Han Yang, Junfei Liu. "**Knowledge Graph Representation Learning as Groupoid: Unifying TransE, RotatE, QuatE, ComplEx**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482442)
-
-- Yufeng Zhang, Weiqing Wang, Wei Chen, Jiajie Xu, An Liu, Lei Zhao. "**Meta-Learning Based Hyper-Relation Feature Modeling for Out-of-Knowledge-Base Embedding**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482367)
-
-- Shangfei Zheng, Wei Chen, Pengpeng Zhao, An Liu, Junhua Fang, Lei Zhao. "**When Hardness Makes a Difference: Multi-Hop Knowledge Graph Reasoning over Few-Shot Relations**. **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482402)
-
-- Weiguo Zheng, Mei Zhang. "**Automated Query Graph Generation for Querying Knowledge Graphs**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482235)
+- <a name="THML"></a> **(THML)** Shangfei Zheng, Wei Chen, Pengpeng Zhao, An Liu, Junhua Fang, Lei Zhao. "**When Hardness Makes a Difference: Multi-Hop Knowledge Graph Reasoning over Few-Shot Relations**. **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482402)
 
 ##### WSDM
 
