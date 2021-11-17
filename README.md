@@ -1478,53 +1478,45 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### EMNLP
 
-- "**A Semantic Filter Based on Relations for Knowledge Graph Completion**". Liang Zongwei, Yang Junan, Liu Hui and Huang KeJu
+- <a name="BiQUE"></a> **(BiQUE)** Jia Guo, Stanley Kok. "**BiQUE: Biquaternionic Embeddings of Knowledge Graphs**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.657/)
 
-- "**TimeTraveler: Reinforcement Learning for Temporal Knowledge Graph Forecasting**". Haohai Sun, Jialun Zhong, Yunpu Ma, Zhen Han and Kun He
+- <a name="C3"></a> **(C3)** Bo Ouyang, Wenbing Huang, Runfa Chen, Zhixing Tan, Yang Liu, Maosong Sun, Jihong Zhu. "**Knowledge Representation Learning with Contrastive Completion Coding**". **EMNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-emnlp.263/)
 
-- "**Time-aware Graph Neural Network for Entity Alignment between Temporal Knowledge Graphs**". Chengjin Xu, Fenglong Su and Jens Lehmann
+- <a name="CET"></a> **(CET)** Weiran Pan, Wei Wei, Xian-Ling Mao. "**Context-aware Entity Typing in Knowledge Graphs**". **EMNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-emnlp.193/)
 
-- "**Set Generation Networks for End-to-End Knowledge Base Population**". Dianbo Sui, Chenhao Wang, Yubo Chen, Kang Liu, Jun Zhao and Wei Bi
+- <a name="DataCollection"></a> **(DataCollection)** Kenneth Church, Yuchen Bian. "**Data Collection vs. Knowledge Graph Completion: What is Needed to Improve Coverage?**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.501/)
 
-- "**NegatER: Unsupervised Discovery of Negatives in Commonsense Knowledge Bases**". Tara Safavi, Jing Zhu and Danai Koutra
+- <a name="EventKE"></a> **(EventKE)** Zixuan Zhang, Hongwei Wang, Han Zhao, Hanghang Tong, Heng Ji. "**EventKE: Event-Enhanced Knowledge Graph Embedding**". **EMNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-emnlp.120/)
 
-- "**Case-based Reasoning for Natural Language Queries over Knowledge Bases**". Rajarshi Das, Manzil Zaheer, Dung Thai, Ameya Godbole, Ethan Perez, Jay Yoon Lee, Lizhen Tan, Lazaros Polymenakos and Andrew McCallum
+- <a name="FieldE"></a> **(FieldE)** Mojtaba Nayyeri, Chengjin Xu, Franca Hoffmann, Mirza Mohtashim Alam, Jens Lehmann, Sahar Vahdati. "**Knowledge Graph Representation Learning using Ordinary Differential Equations**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.750/)
 
-- "**BiQUE: Biquaternionic Embeddings of Knowledge Graphs**". Jia Guo and Stanley Kok
+- <a name="HBE"></a> **(HBE)** Zhe Pan, Peng Wang. "**Hyperbolic Hierarchy-Aware Knowledge Graph Embedding for Link Prediction**". **EMNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-emnlp.251/)
 
-- "**Time-dependent Entity Embedding is not All You Need: A Re-evaluation of Temporal Knowledge Graph Completion Models under a Unified Framework**". Zhen Han, Gengyuan Zhang, Yunpu Ma and Volker Tresp
+- <a name="HittER"></a> **(HittER)** Sanxing Chen, Xiaodong Liu, Jianfeng Gao, Jian Jiao, Ruofei Zhang, Yangfeng Ji. "**HittER: Hierarchical Transformers for Knowledge Graph Embeddings**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.812/)
 
-- "**Learning Neural Ordinary Equations for Forecasting Future Links on Temporal Knowledge Graphs**". Zhen Han, Zifeng Ding, Yunpu Ma, Yujia Gu and Volker Tresp
+- <a name="KGBiasDetec"></a> **(KGBiasDetec)** Daphna Keidar, Mian Zhong, Ce Zhang, Yash Raj Shrestha, Bibek Paudel. "**Towards Automatic Bias Detection in Knowledge Graphs**". **EMNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-emnlp.321/)
 
-- "**STaCK: Sentence Ordering with Temporal Commonsense Knowledge**". Deepanway Ghosal, Navonil Majumder, Rada Mihalcea and Soujanya Poria
+- <a name="KGE+AT"></a> **(KGE+AT)** Jinfa Yang, Yongjie Shi, Xin Tong, Robin Wang, Taiyan Chen, Xianghua Ying. "**Improving Knowledge Graph Embedding Using Affine Transformations of Entities Corresponding to Each Relation**". **EMNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-emnlp.46/)
 
-- "**Knowledge Base Completion Meets Transfer Learning**". Vid Kocijan and Thomas Lukasiewicz
+- <a name="P-INT"></a> **(P-INT)** Jingwen Xu, Jing Zhang, Xirui Ke, Yuxiao Dong, Hong Chen, Cuiping Li, Yongbin Liu. "**P-INT: A Path-based Interaction Model for Few-shot Knowledge Graph Completion**". **EMNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-emnlp.35/)
 
-- "**Adversarial Attacks on Knowledge Graph Embeddings via Instance Attribution Methods**". Peru Bhardwaj, John Kelleher, Luca Costabello and Declan O'Sullivan
+- <a name="Pre-Training"></a> **(Pre-Training)** Vid Kocijan, Thomas Lukasiewicz. "**Knowledge Base Completion Meets Transfer Learning**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.524/)
 
-- "**HittER: Hierarchical Transformers for Knowledge Graph Embeddings**". Sanxing Chen, Xiaodong Liu, Jianfeng Gao, Jian Jiao, Ruofei Zhang and Yangfeng Ji
+- <a name="RelDiff"></a> **(RelDiff)** Hitarth Narvala, Graham McDonald, Iadh Ounis. "**RelDiff: Enriching Knowledge Graph Relation Representations for Sensitivity Classification**". **EMNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-emnlp.311/)
 
-- "**Knowledge Graph Representation Learning using Ordinary Differential Equations**". Mojtaba Nayyeri, Chengjin Xu, Franca Hoffmann, Mirza Mohtashim Alam, Jens Lehmann and sahar vahdati
+- <a name="RotL"></a> **(RotL)** Kai Wang, Yu Liu, Dan Lin, Michael Sheng. "**Hyperbolic Geometry is Not Necessary: Lightweight Euclidean-Based Models for Low-Dimensional Knowledge Graph Embeddings**". **EMNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-emnlp.42/)
 
-- "**Data Collection vs. Knowledge Graph Completion: What is Needed to Improve Coverage?**" Kenneth Church and Yuchen Bian
+- <a name="SFBR"></a> **(SFBR)** Zongwei Liang, Junan Yang, Hui Liu, Ke-Ju Huang. "**A Semantic Filter Based on Relations for Knowledge Graph Completion**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.625/)
 
-- "**P-INT: A Path-based Interaction Model for Few-shot Knowledge Graph Completion**". Jingwen Xu, Jing Zhang, Xirui Ke, Yuxiao Dong, Hong Chen, Cuiping Li and Yongbin Liu
+- <a name="TANGO"></a> **(TANGO)** Zhen Han, Zifeng Ding, Yunpu Ma, Yujia Gu, Volker Tresp. "**Learning Neural Ordinary Equations for Forecasting Future Links on Temporal Knowledge Graphs**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.658/)
 
-- "**Hyperbolic Geometry is Not Necessary: Lightweight Euclidean-Based Models for Low-Dimensional Knowledge Graph Embeddings**". Kai Wang, Yu Liu, Dan Lin and Michael Sheng
+- <a name="TEA-GNN"></a> **(TEA-GNN)** Chengjin Xu, Fenglong Su, Jens Lehmann. "**Time-aware Graph Neural Network for Entity Alignment between Temporal Knowledge Graphs**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.709/)
 
-- "**Improving Knowledge Graph Embedding Using Affine Transformations of Entities Corresponding to Each Relation**". Jinfa Yang, Yongjie Shi, Xin Tong, Robin Wang, Taiyan Chen and Xianghua Ying
+- <a name="TEE"></a> **(TEE)** Zhen Han, Gengyuan Zhang, Yunpu Ma, Volker Tresp. "**Time-dependent Entity Embedding is not All You Need: A Re-evaluation of Temporal Knowledge Graph Completion Models under a Unified Framework**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.639/)
 
-- "**EventKE: Event-Enhanced Knowledge Graph Embedding**". Zixuan Zhang, Hongwei Wang, Han Zhao, Hanghang Tong and Heng Ji
+- <a name="TITer"></a> **(TITer)** Haohai Sun, Jialun Zhong, Yunpu Ma, Zhen Han, Kun He. "**TimeTraveler: Reinforcement Learning for Temporal Knowledge Graph Forecasting**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.655/)
 
-- "**Knowledge Representation Learning with Contrastive Completion Coding**". Bo Ouyang, Wenbing Huang, Runfa Chen, Zhixing Tan, Yang Liu, Maosong Sun and Jihong Zhu
-
-- "**RelDiff: Enriching Knowledge Graph Relation Representations for Sensitivity Classification**". Hitarth Narvala, Graham McDonald and Iadh Ounis
-
-- "**A Divide-And-Conquer Approach for Multi-label Multi-hop Relation Detection in Knowledge Base Question Answering**". Deyu Zhou, Yanzheng Xiang, Linhai Zhang, Chenchen Ye, Qian-Wen Zhang and Yunbo Cao
-
-- "**Hyperbolic Hierarchy-Aware Knowledge Graph Embedding for Link Prediction**". Zhe Pan and Peng Wang
-
-- "**Open-Domain Contextual Link Prediction and its Complementarity with Entailment Graphs**". Mohammad Javad Hosseini, Shay B. Cohen, Mark Johnson and Mark Steedman
+- <a name="UniKER"></a> **(UniKER)** Kewei Cheng, Ziqing Yang, Ming Zhang, Yizhou Sun. "**UniKER: A Unified Framework for Combining Embedding and Definite Horn Rule Reasoning for Knowledge Graph Inference**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.769/)
 
 ##### NAACL
 
