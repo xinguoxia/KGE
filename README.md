@@ -1432,6 +1432,16 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - Mojtaba Nayyeri, Gökce Müge Cil, Sahar Vahdati, Francesco Osborne, Mahfuzur Rahman, Simone Angioni, Angelo A. Salatino, Diego Reforgiato Recupero, Nadezhda Vassilyeva, Enrico Motta, Jens Lehmann. "**Trans4E: Link prediction on scholarly knowledge graphs**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221009607?via%3Dihub)
 
+- Tianyang Shao, Xinyi Li, Xiang Zhao, Hao Xu, Weidong Xiao. "**DSKRL: A dissimilarity-support-aware knowledge representation learning framework on noisy knowledge graph**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221009590?via%3Dihub) 
+
+- Shensi Wang, Kun Fu, Xian Sun, Zequn Zhang, Shuchao Li, Li Jin. "**Hierarchical-aware relation rotational knowledge graph embedding for link prediction**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221008560?via%3Dihub) 
+
+- Zikang Wang, Linjing Li, Daniel Zeng. "**SRGCN: Graph-based multi-hop reasoning on knowledge graphs**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221007530?via%3Dihub) 
+
+- Yingying Xue, Jiahui Jin, Aibo Song, Yingxue Zhang, Yangyang Liu, Kaixuan Wang. "**Relation-based multi-type aware knowledge graph embedding**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122100758X?via%3Dihub) 
+
+- Xiaojuan Zhao, Yan Jia, Aiping Li, Rong Jiang, Kai Chen, Ye Wang. "**Target relational attention-oriented knowledge graph reasoning**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221009668?via%3Dihub) 
+
 ##### Ad Hoc Networks
 
 - Yao Zhang, Hengpeng Xu, Xu Zhang, Xingxing Wu, Zhenglu Yang. "**TRFR: A ternary relation link prediction framework on Knowledge graphs**". **Ad Hoc Networks 2021**. **Impact 4.111**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1570870520307319?via%3Dihub) 
