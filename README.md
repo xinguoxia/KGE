@@ -1500,7 +1500,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="NLSM"></a> **(NLSM)** Tony Gracious, Shubham Gupta, Arun Kanthali, Rui M. Castro, Ambedkar Dukkipati. "**Neural Latent Space Model for Dynamic Networks and Temporal Knowledge Graphs**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16526)
 
-- <a name="PASSLEAF"></a> **(PASSLEAF)** Zhu-Mu Chen, Mi-Yen Yeh, Tei-Wei Kuo. "**PASSLEAF: A Pool-bAsed Semi-Supervised LEArning Framework for Uncertain Knowledge Graph Embedding**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16522)
+- <a name="PASSLEAF"></a> **(PASSLEAF)** Zhu-Mu Chen, Mi-Yen Yeh, Tei-Wei Kuo. "**PASSLEAF: A Pool-based Semi-Supervised LEArning Framework for Uncertain Knowledge Graph Embedding**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16522)
 
 - <a name="TACT"></a> **(TACT)** Jiajun Chen, Huarui He, Feng Wu, Jie Wang. "**Topology-Aware Correlations Between Relations for Inductive Link Prediction in Knowledge Graphs**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16779)
 
