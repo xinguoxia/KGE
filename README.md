@@ -1392,7 +1392,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="RHGNN"></a> **(RHGNN)** Adnan Zeb, Anwar Ul Haq, Junde Chen, Zhenfeng Lei, Defu Zhang. "**Learning hyperbolic attention-based embeddings for link prediction in knowledge graphs**". **Knowl. Based Syst. 2021**. **Impact 8.038**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121006316?via%3Dihub)
 
-- <a name="TAGAT"></a> **(TAGAT)** Yuzhuo Wang, Hongzhi Wang, Junwei He, Wenbo Lu, Shuolin Gao. "**TAGAT: Type-Aware Graph Attention neTworks for reasoning over knowledge graphs**". **Knowl. Based Syst. 2021**. **Impact 8.038**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121007620?via%3Dihub)
+- <a name="TAGAT"></a> **(TAGAT)** Yuzhuo Wang, Hongzhi Wang, Junwei He, Wenbo Lu, Shuolin Gao. "**TAGAT: Type-Aware Graph Attention networks for reasoning over knowledge graphs**". **Knowl. Based Syst. 2021**. **Impact 8.038**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121007620?via%3Dihub)
 
 - <a name="TimE"></a> **(TimE)** Qianjin Zhang, Ronggui Wang, Juan Yang, Lixia Xue. "**Knowledge graph embedding by translating in time domain space for link prediction**". **Knowl. Based Syst. 2021**. **Impact 8.038**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120306936?via%3Dihub)
 
