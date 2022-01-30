@@ -1494,7 +1494,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="CyGNet"></a> **(CyGNet)** Cunchao Zhu, Muhao Chen, Changjun Fan, Guangquan Cheng, Yan Zhang. "**Learning from History: Modeling Temporal Knowledge Graphs with Sequential Copy-Generation Networks**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16604) [code](https://github.com/CunchaoZ/CyGNet)
 
-- <a name="DualE"></a> **(DualE)** Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Xiaochun Cao, Qingming Huang. "**Dual Quaternion Knowledge Graph Embeddings**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16850)
+- <a name="DualE"></a> **(DualE)** Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Xiaochun Cao, Qingming Huang. "**Dual Quaternion Knowledge Graph Embeddings**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16850) [code](https://github.com/Lion-ZS/DualE)
 
 - <a name="GaussianPath"></a> **(GaussianPath)** Guojia Wan, Bo Du. "**GaussianPath: A Bayesian Multi-Hop Reasoning Framework for Knowledge Graph Reasoning**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16565)
 
@@ -1524,7 +1524,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="OKGIT"></a> **(OKGIT)** Chandrahas, Partha P. Talukdar. "**OKGIT: Open Knowledge Graph Link Prediction with Implicit Types**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.225/)
 
-- <a name="PairRE"></a> **(PairRE)** Linlin Chao, Jianshan He, Taifeng Wang, Wei Chu. "**PairRE: Knowledge Graph Embeddings via Paired Relation Vectors**". **ACL/IJCNLP  2021**. [paper](https://aclanthology.org/2021.acl-long.336/)
+- <a name="PairRE"></a> **(PairRE)** Linlin Chao, Jianshan He, Taifeng Wang, Wei Chu. "**PairRE: Knowledge Graph Embeddings via Paired Relation Vectors**". **ACL/IJCNLP  2021**. [paper](https://aclanthology.org/2021.acl-long.336/) [code](https://github.com/alipay/KnowledgeGraphEmbeddingsViaPairedRelationVectors_PairRE)
 
 - <a name="RARL"></a> **(RARL)** Zhongni Hou, Xiaolong Jin, Zixuan Li, Long Bai。"**Rule-Aware Reinforcement Learning for Knowledge Graph Reasoning**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.412/)
 
@@ -1540,7 +1540,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### EMNLP
 
-- <a name="BiQUE"></a> **(BiQUE)** Jia Guo, Stanley Kok. "**BiQUE: Biquaternionic Embeddings of Knowledge Graphs**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.657/)
+- <a name="BiQUE"></a> **(BiQUE)** Jia Guo, Stanley Kok. "**BiQUE: Biquaternionic Embeddings of Knowledge Graphs**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.657/) [code](https://github.com/guojiapub/BiQUE)
 
 - <a name="C3"></a> **(C3)** Bo Ouyang, Wenbing Huang, Runfa Chen, Zhixing Tan, Yang Liu, Maosong Sun, Jihong Zhu. "**Knowledge Representation Learning with Contrastive Completion Coding**". **EMNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-emnlp.263/)
 
@@ -1592,7 +1592,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="RTFE"></a> **(RTFE)** Youri Xu, Haihong E, Meina Song, Wenyu Song, Xiaodong Lv, Haotian Wang, Jinrui Yang. "**RTFE: A Recursive Temporal Fact Embedding Framework for Temporal Knowledge Graph Completion**". **NAACL-HLT 2021**. [paper](https://www.aclweb.org/anthology/2021.naacl-main.451/)
 
-- <a name="TeLM"></a> **(TeLM)** Chengjin Xu, Yung-Yu Chen, Mojtaba Nayyeri, Jens Lehmann. "**Temporal Knowledge Graph Completion using a Linear Temporal Regularizer and Multivector Embeddings**". **NAACL-HLT 2021**. [paper](https://www.aclweb.org/anthology/2021.naacl-main.202/)
+- <a name="TeLM"></a> **(TeLM)** Chengjin Xu, Yung-Yu Chen, Mojtaba Nayyeri, Jens Lehmann. "**Temporal Knowledge Graph Completion using a Linear Temporal Regularizer and Multivector Embeddings**". **NAACL-HLT 2021**. [paper](https://www.aclweb.org/anthology/2021.naacl-main.202/) [code](https://github.com/soledad921/TeLM)
 
 ##### KDD
 
@@ -1604,7 +1604,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="RGTN"></a> **(RGTN)** Han Huang, Leilei Sun, Bowen Du, Chuanren Liu, Weifeng Lv, Hui Xiong. "**Representation Learning on Knowledge Graphs for Node Importance Estimation**". **KDD 2021**. [paper](https://dl.acm.org/doi/10.1145/3447548.3467342)
 
-- <a name="T-GAP"></a> **(T-GAP)** Jaehun Jung, Jinhong Jung, U. Kang. "**Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion**". **KDD 2021**. [paper](https://dl.acm.org/doi/10.1145/3447548.3467292)
+- <a name="T-GAP"></a> **(T-GAP)** Jaehun Jung, Jinhong Jung, U. Kang. "**Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion**". **KDD 2021**. [paper](https://dl.acm.org/doi/10.1145/3447548.3467292) [code](https://github.com/anonymoususer99/T-GAP)
 
 ##### SIGIR
 
