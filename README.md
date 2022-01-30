@@ -1390,7 +1390,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="MöbiusE"></a> **(MöbiusE)** Yao Chen, Jiangang Liu, Zhe Zhang, Shiping Wen, Wenjun Xiong. "**MöbiusE: Knowledge Graph Embedding on Möbius Ring**". **Knowl. Based Syst. 2021**. **Impact 8.038**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121004445?via%3Dihub)
 
-- <a name="MRotatE"></a> **(MRotatE)** Xuqian Huang, Jiuyang Tang, Zhen Tan, Weixin Zeng, Ji Wang, Xiang Zhao. "**Knowledge graph embedding by relational and entity rotation**". **Knowl. Based Syst. 2021**. **Impact 8.038**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705121005724?via%3Dihub)
+- <a name="MRotatE"></a> **(MRotatE)** Xuqian Huang, Jiuyang Tang, Zhen Tan, Weixin Zeng, Ji Wang, Xiang Zhao. "**Knowledge graph embedding by relational and entity rotation**". **Knowl. Based Syst. 2021**. **Impact 8.038**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705121005724?via%3Dihub) [code](https://github.com/XuqianHuang/MRotatE)
 
 - <a name="RHGNN"></a> **(RHGNN)** Adnan Zeb, Anwar Ul Haq, Junde Chen, Zhenfeng Lei, Defu Zhang. "**Learning hyperbolic attention-based embeddings for link prediction in knowledge graphs**". **Knowl. Based Syst. 2021**. **Impact 8.038**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121006316?via%3Dihub)
 
@@ -1432,7 +1432,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### Engineering Applications of Artificial Intelligence
 
-- <a name="CAFE"></a> **(CAFE)** Agustín Borrego, Daniel Ayala, Inma Hernández, Carlos R. Rivero, David Ruiz. "**CAFE: Knowledge graph completion using neighborhood-aware features**. **Eng. Appl. Artif. Intell. 2021**. **Impact 6.212**. [paper](https://www.sciencedirect.com/science/article/pii/S0952197621001500?via%3Dihub)
+- <a name="CAFE"></a> **(CAFE)** Agustín Borrego, Daniel Ayala, Inma Hernández, Carlos R. Rivero, David Ruiz. "**CAFE: Knowledge graph completion using neighborhood-aware features**. **Eng. Appl. Artif. Intell. 2021**". **Impact 6.212**. [paper](https://www.sciencedirect.com/science/article/pii/S0952197621001500?via%3Dihub) [code](https://github.com/DEAL-US/CAFE)
 
 ##### Neurocomputing 
 
@@ -1444,7 +1444,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="HA-RotatE"></a> **(HA-RotatE)** Shensi Wang, Kun Fu, Xian Sun, Zequn Zhang, Shuchao Li, Li Jin. "**Hierarchical-aware relation rotational knowledge graph embedding for link prediction**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221008560?via%3Dihub) 
 
-- <a name="IE-RCN"></a> **(IE-RCN)** Zhifei Li, Hai Liu, Zhaoli Zhang, Tingting Liu, Jiangbo Shu. "**Recalibration convolutional networks for learning interaction knowledge graph embedding**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220318506?via%3Dihub)
+- <a name="IE-RCN"></a> **(IE-RCN)** Zhifei Li, Hai Liu, Zhaoli Zhang, Tingting Liu, Jiangbo Shu. "**Recalibration convolutional networks for learning interaction knowledge graph embedding**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220318506?via%3Dihub) [code](https://github.com/zhifei1993/RCN)
 
 - <a name="KRC"></a> **(KRC)** Mingda Li, Zhengya Sun, Siheng Zhang, Wensheng Zhang. "**Enhancing knowledge graph embedding with relational constraints**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220318932?via%3Dihub)
 
