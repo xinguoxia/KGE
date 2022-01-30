@@ -1164,7 +1164,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="BoxE"></a> **(BoxE)** Ralph Abboud, Ismail Ilkan Ceylan, Thomas Lukasiewicz, Tommaso Salvatori. "**BoxE: A Box Embedding Model for Knowledge Base Completion**". **NeurIPS 2020**. [paper](https://proceedings.neurips.cc/paper/2020/hash/6dbbe6abe5f14af882ff977fc3f35501-Abstract.html)
 
-- <a name="DURA"></a> **(DURA)** Zhanqiu Zhang, Jianyu Cai, Jie Wang. "**Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion**". **NeurIPS 2020**. [paper](https://proceedings.neurips.cc/paper/2020/hash/f6185f0ef02dcaec414a3171cd01c697-Abstract.html)
+- <a name="DURA"></a> **(DURA)** Zhanqiu Zhang, Jianyu Cai, Jie Wang. "**Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion**". **NeurIPS 2020**. [paper](https://proceedings.neurips.cc/paper/2020/hash/f6185f0ef02dcaec414a3171cd01c697-Abstract.html) [code](https://github.com/MIRALab-USTC/KGE-DURA)
 
 - <a name="EmQL"></a> **(EmQL)** Haitian Sun, Andrew O. Arnold, Tania Bedrax-Weiss, Fernando Pereira, William W. Cohen. "**Faithful Embeddings for Knowledge Base Queries**". **NeurIPS 2020**. [paper](https://proceedings.neurips.cc/paper/2020/hash/fe74074593f21197b7b7be3c08678616-Abstract.html)
 
@@ -1304,11 +1304,11 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### SIGIR
 
-- <a name="DGL-KE"></a> **(DGL-KE)**	Da Zheng, Xiang Song, Chao Ma, Zeyuan Tan, Zihao Ye, Jin Dong, Hao Xiong, Zheng Zhang, George Karypis. "**DGL-KE: Training Knowledge Graph Embeddings at Scale**". **SIGIR 2020**. [paper](https://dl.acm.org/doi/10.1145/3397271.3401172) [code](https://github.com/awslabs/dgl-ke)
+- <a name="DGL-KE"></a> **(DGL-KE)** Da Zheng, Xiang Song, Chao Ma, Zeyuan Tan, Zihao Ye, Jin Dong, Hao Xiong, Zheng Zhang, George Karypis. "**DGL-KE: Training Knowledge Graph Embeddings at Scale**". **SIGIR 2020**. [paper](https://dl.acm.org/doi/10.1145/3397271.3401172) [code](https://github.com/awslabs/dgl-ke)
 
 ##### CIKM
 
-- <a name="ELP"></a> **(ELP)**	Russa Biswas. "**Embedding based Link Prediction for Knowledge Graph Completion**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3418512)
+- <a name="ELP"></a> **(ELP)** Russa Biswas. "**Embedding based Link Prediction for Knowledge Graph Completion**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3418512)
 
 - <a name="GAEAT"></a> **(GAEAT)** Yanfei Han, Quan Fang, Jun Hu, Shengsheng Qian, Changsheng Xu. "**GAEAT: Graph Auto-Encoder Attention Networks for Knowledge Graph Completion**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412148)
 
@@ -1318,7 +1318,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="NASE"></a> **(NASE)** Xiaoyu Kou, Bingfeng Luo, Huang Hu, Yan Zhang. "**NASE: Learning Knowledge Graph Embedding for Link Prediction via Neural Architecture Search**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412104) [code](https://github.com/KXY-PUBLIC/NASE)
 
-- <a name="Rotate3D"></a> **(Rotate3D)**  Chang Gao, Chengjie Sun, Lili Shan, Lei Lin, Mingjiang Wang. "**Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Knowledge Graph Embedding**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3411889) [code](https://github.com/gao-xiao-bai/Rotate3D-Representing-Relations-as-Rotations-in-Three-Dimensional-Space-for-KG-Embedding)
+- <a name="Rotate3D"></a> **(Rotate3D)** Chang Gao, Chengjie Sun, Lili Shan, Lei Lin, Mingjiang Wang. "**Rotate3D: Representing Relations as Rotations in Three-Dimensional Space for Knowledge Graph Embedding**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3411889) [code](https://github.com/gao-xiao-bai/Rotate3D-Representing-Relations-as-Rotations-in-Three-Dimensional-Space-for-KG-Embedding)
 
 - <a name="SLRE"></a> **(SLRE)** Shu Guo, Lin Li, Zhen Hui, Lingshuai Meng, Bingnan Ma, Wei Liu, Lihong Wang, Haibin Zhai, Hong Zhang. "**Knowledge Graph Embedding Preserving Soft Logical Regularity**". **CIKM 2020**. [paper](https://dl.acm.org/doi/10.1145/3340531.3412055) [code](https://github.com/StudyGroup-lab/SLRE)
 
@@ -1510,7 +1510,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="CluSTeR"></a> **(CluSTeR)** Zixuan Li, Xiaolong Jin, Saiping Guan, Wei Li, Jiafeng Guo, Yuanzhuo Wang, Xueqi Cheng. "**Search from History and Reason for Future: Two-stage Reasoning on Temporal Knowledge Graphs**". **ACL/IJCNLP 2021**. [paper](https://aclanthology.org/2021.acl-long.365/)
 
-- <a name="EIGAT"></a> **(EIGAT)** Yu Zhao, Han Zhou, Ruobing Xie, Fuzhen Zhuang, Qing Li, Ji Liu. "**Incorporating Global Information in Local Attention for Knowledge Representation Learning**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.115/)
+- <a name="EIGAT"></a> **(EIGAT)** Yu Zhao, Han Zhou, Ruobing Xie, Fuzhen Zhuang, Qing Li, Ji Liu. "**Incorporating Global Information in Local Attention for Knowledge Representation Learning**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.115/) [code](https://github.com/zhouhanhanhan/EIGAT)
 
 - <a name="GRAN"></a> **(GRAN)** Quan Wang, Haifeng Wang, Yajuan Lyu, Yong Zhu. "**Link Prediction on N-ary Relational Facts: A Graph-based Approach**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.35/)
 
@@ -1626,7 +1626,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="CyclE"></a> **(CyclE)** Han Yang, Leilei Zhang, Bingning Wang, Ting Yao, Junfei Liu. "**Cycle or Minkowski: Which is More Appropriate for Knowledge Graph Embedding**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482245)
 
-- <a name="DisenKGAT"></a> **(DisenKGAT)** Junkang Wu, Wentao Shi, Xuezhi Cao, Jiawei Chen, Wenqiang Lei, Fuzheng Zhang, Wei Wu, Xiangnan He. "**DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482424)
+- <a name="DisenKGAT"></a> **(DisenKGAT)** Junkang Wu, Wentao Shi, Xuezhi Cao, Jiawei Chen, Wenqiang Lei, Fuzheng Zhang, Wei Wu, Xiangnan He. "**DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482424) [code](https://github.com/junkangwu/DisenKGAT)
 
 - <a name="DT-GCN"></a> **(DT-GCN)** Yuxin Shen, Zhao Li, Xin Wang, Jianxin Li, Xiaowang Zhang. "**DataType-Aware Knowledge Graph Representation Learning in Hyperbolic Space**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482421)
 
