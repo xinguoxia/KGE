@@ -467,6 +467,8 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - Andrea Rossi, Donatella Firmani, Antonio Matinata, Paolo Merialdo, Denilson Barbosa. "**Knowledge Graph Embedding for Link Prediction: A Comparative Analysis**". **ACM Trans. Knowl. Discov. Data 2021**. [paper](https://dl.acm.org/doi/10.1145/3424672)
 
+- Erik Cambria, Shaoxiong Ji, Shirui Pan, Philip S. Yu. "**Knowledge graph representation and reasoning**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122100953X?via%3Dihub)
+
 ### 2011
 
 #### Conference
@@ -1434,29 +1436,27 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### Neurocomputing 
 
-- Zhifei Li, Hai Liu, Zhaoli Zhang, Tingting Liu, Jiangbo Shu. "**Recalibration convolutional networks for learning interaction knowledge graph embedding**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220318506?via%3Dihub)
+- <a name="Deep-IDA"></a> **(Deep-IDA)** Qi Wang, Yongsheng Hao, Feng Chen. "**Deepening the IDA algorithm for knowledge graph reasoning through neural network architecture**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220319408?via%3Dihub)
 
-- Mingda Li, Zhengya Sun, Siheng Zhang, Wensheng Zhang. "**Enhancing knowledge graph embedding with relational constraints**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220318932?via%3Dihub)
+- <a name="DSKRL"></a> **(DSKRL)** Tianyang Shao, Xinyi Li, Xiang Zhao, Hao Xu, Weidong Xiao. "**DSKRL: A dissimilarity-support-aware knowledge representation learning framework on noisy knowledge graph**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221009590?via%3Dihub) 
 
-- Shuangyin Li, Heng Wang, Rong Pan, Mingzhi Mao. "**MemoryPath: A deep reinforcement learning framework for incorporating memory component into knowledge graph reasoning**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312959?via%3Dihub)
+- <a name="GAKGE"></a> **(GAKGE)** Chen Li, Xutan Peng, Yuhang Niu, Shanghang Zhang, Hao Peng, Chuan Zhou, Jianxin Li. "**Learning graph attention-aware knowledge graph embedding**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221010961?via%3Dihub)
 
-- Qi Wang, Yongsheng Hao, Feng Chen. "**Deepening the IDA algorithm for knowledge graph reasoning through neural network architecture**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220319408?via%3Dihub)
+- <a name="HA-RotatE"></a> **(HA-RotatE)** Shensi Wang, Kun Fu, Xian Sun, Zequn Zhang, Shuchao Li, Li Jin. "**Hierarchical-aware relation rotational knowledge graph embedding for link prediction**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221008560?via%3Dihub) 
 
-- Erik Cambria, Shaoxiong Ji, Shirui Pan, Philip S. Yu. "**Knowledge graph representation and reasoning**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122100953X?via%3Dihub)
+- <a name="IE-RCN"></a> **(IE-RCN)** Zhifei Li, Hai Liu, Zhaoli Zhang, Tingting Liu, Jiangbo Shu. "**Recalibration convolutional networks for learning interaction knowledge graph embedding**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220318506?via%3Dihub)
 
-- Chen Li, Xutan Peng, Yuhang Niu, Shanghang Zhang, Hao Peng, Chuan Zhou, Jianxin Li. "**Learning graph attention-aware knowledge graph embedding**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221010961?via%3Dihub)
+- <a name="KRC"></a> **(KRC)** Mingda Li, Zhengya Sun, Siheng Zhang, Wensheng Zhang. "**Enhancing knowledge graph embedding with relational constraints**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220318932?via%3Dihub)
 
-- Mojtaba Nayyeri, Gökce Müge Cil, Sahar Vahdati, Francesco Osborne, Mahfuzur Rahman, Simone Angioni, Angelo A. Salatino, Diego Reforgiato Recupero, Nadezhda Vassilyeva, Enrico Motta, Jens Lehmann. "**Trans4E: Link prediction on scholarly knowledge graphs**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221009607?via%3Dihub)
+- <a name="MemoryPath"></a> **(MemoryPath)** Shuangyin Li, Heng Wang, Rong Pan, Mingzhi Mao. "**MemoryPath: A deep reinforcement learning framework for incorporating memory component into knowledge graph reasoning**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231220312959?via%3Dihub)
 
-- Tianyang Shao, Xinyi Li, Xiang Zhao, Hao Xu, Weidong Xiao. "**DSKRL: A dissimilarity-support-aware knowledge representation learning framework on noisy knowledge graph**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221009590?via%3Dihub) 
+- <a name="MTE"></a> **(MTE)** Yingying Xue, Jiahui Jin, Aibo Song, Yingxue Zhang, Yangyang Liu, Kaixuan Wang. "**Relation-based multi-type aware knowledge graph embedding**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122100758X?via%3Dihub) 
 
-- Shensi Wang, Kun Fu, Xian Sun, Zequn Zhang, Shuchao Li, Li Jin. "**Hierarchical-aware relation rotational knowledge graph embedding for link prediction**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221008560?via%3Dihub) 
+- <a name="SRGCN"></a> **(SRGCN)** Zikang Wang, Linjing Li, Daniel Zeng. "**SRGCN: Graph-based multi-hop reasoning on knowledge graphs**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221007530?via%3Dihub)
 
-- Zikang Wang, Linjing Li, Daniel Zeng. "**SRGCN: Graph-based multi-hop reasoning on knowledge graphs**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221007530?via%3Dihub) 
+- <a name="Trans4E"></a> **(Trans4E)** Mojtaba Nayyeri, Gökce Müge Cil, Sahar Vahdati, Francesco Osborne, Mahfuzur Rahman, Simone Angioni, Angelo A. Salatino, Diego Reforgiato Recupero, Nadezhda Vassilyeva, Enrico Motta, Jens Lehmann. "**Trans4E: Link prediction on scholarly knowledge graphs**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221009607?via%3Dihub)
 
-- Yingying Xue, Jiahui Jin, Aibo Song, Yingxue Zhang, Yangyang Liu, Kaixuan Wang. "**Relation-based multi-type aware knowledge graph embedding**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122100758X?via%3Dihub) 
-
-- Xiaojuan Zhao, Yan Jia, Aiping Li, Rong Jiang, Kai Chen, Ye Wang. "**Target relational attention-oriented knowledge graph reasoning**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221009668?via%3Dihub) 
+- <a name="TRAR"></a> **(TRAR)** Xiaojuan Zhao, Yan Jia, Aiping Li, Rong Jiang, Kai Chen, Ye Wang. "**Target relational attention-oriented knowledge graph reasoning**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221009668?via%3Dihub) 
 
 ##### Neural Computing and Applications
 
