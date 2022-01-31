@@ -1398,6 +1398,8 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="KMAE"></a> **(KMAE)** Dan Jiang, Ronggui Wang, Juan Yang, Lixia Xue. "**Kernel multi-attention neural network for knowledge graph embedding**". **Knowl. Based Syst. 2021**. **Impact 8.038**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121004500?via%3Dihub)
 
+- <a name="MGTransR"></a> **(MGTransR)** Jianxing Zheng, Qinwen Li, Jian Liao, Suge Wang. "**Explainable link prediction based on multi-granularity relation-embedded representation**". **Knowl. Based Syst. 2021**. **Impact 8.038**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512100664X?via%3Dihub)
+
 - <a name="MöbiusE"></a> **(MöbiusE)** Yao Chen, Jiangang Liu, Zhe Zhang, Shiping Wen, Wenjun Xiong. "**MöbiusE: Knowledge Graph Embedding on Möbius Ring**". **Knowl. Based Syst. 2021**. **Impact 8.038**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121004445?via%3Dihub)
 
 - <a name="MRotatE"></a> **(MRotatE)** Xuqian Huang, Jiuyang Tang, Zhen Tan, Weixin Zeng, Ji Wang, Xiang Zhao. "**Knowledge graph embedding by relational and entity rotation**". **Knowl. Based Syst. 2021**. **Impact 8.038**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705121005724?via%3Dihub) [code](https://github.com/XuqianHuang/MRotatE)
