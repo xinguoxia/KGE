@@ -455,19 +455,25 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ### Survey
 
-- Yoshua Bengio, Aaron C. Courville, Pascal Vincent. "**Representation Learning: A Review and New Perspectives**". **Transactions on Pattern Analysis and Machine Intelligence 2013**. [paper](https://ieeexplore.ieee.org/document/6472238)
+- Yoshua Bengio, Aaron C. Courville, Pascal Vincent. "**Representation Learning: A Review and New Perspectives**". **Transactions on Pattern Analysis and Machine Intelligence 2013**. **Impact 16.389**. [paper](https://ieeexplore.ieee.org/document/6472238)
 
-- Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich. "**A Review of Relational Machine Learning for Knowledge Graphs**". **Proceedings of the IEEE 2016**. [paper](https://ieeexplore.ieee.org/document/7358050)
+- Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich. "**A Review of Relational Machine Learning for Knowledge Graphs**". **Proceedings of the IEEE 2016**. **Impact 10.960**. [paper](https://ieeexplore.ieee.org/document/7358050)
 
-- Quan Wang, Zhendong Mao, Bin Wang, Li Guo. "**Knowledge Graph Embedding: A Survey of Approaches and Applications**". **IEEE Transactions on Knowledge and Data Engineering 2017**. [paper](https://ieeexplore.ieee.org/document/8047276)
+- Quan Wang, Zhendong Mao, Bin Wang, Li Guo. "**Knowledge Graph Embedding: A Survey of Approaches and Applications**". **IEEE Transactions on Knowledge and Data Engineering 2017**. **Impact 6.976**.  [paper](https://ieeexplore.ieee.org/document/8047276)
 
-- Xiaojun Chen, Shengbin Jia, Yang Xiang. "**A review: Knowledge reasoning over knowledge graph**". **Expert Systems with Applications 2020**. [paper](https://www.sciencedirect.com/science/article/pii/S0957417419306669?via%3Dihub)
+- HongYun Cai, Vincent W. Zheng, Kevin Chen-Chuan Chang. "**A Comprehensive Survey of Graph Embedding: Problems, Techniques, and Applications**". **IEEE Transactions on Knowledge and Data Engineering 2018**. **Impact 6.976**. [paper](https://ieeexplore.ieee.org/document/8294302)
 
-- HongYun Cai, Vincent W. Zheng, Kevin Chen-Chuan Chang. "**A Comprehensive Survey of Graph Embedding: Problems, Techniques, and Applications**". **IEEE Transactions on Knowledge and Data Engineering 2018**. [paper](https://ieeexplore.ieee.org/document/8294302)
+- Xiaojun Chen, Shengbin Jia, Yang Xiang. "**A review: Knowledge reasoning over knowledge graph**". **Expert Systems with Applications 2020**. **Impact 6.953**. [paper](https://www.sciencedirect.com/science/article/pii/S0957417419306669?via%3Dihub)
 
-- Andrea Rossi, Donatella Firmani, Antonio Matinata, Paolo Merialdo, Denilson Barbosa. "**Knowledge Graph Embedding for Link Prediction: A Comparative Analysis**". **ACM Trans. Knowl. Discov. Data 2021**. [paper](https://dl.acm.org/doi/10.1145/3424672)
+- Aidan Hogan, Eva Blomqvist, Michael Cochez, Claudia D’amato, Gerard De Melo, Claudio Gutierrez, Sabrina Kirrane, José Emilio Labra Gayo, Roberto Navigli, Sebastian Neumaier, Axel-Cyrille Ngonga Ngomo, Axel Polleres, Sabbir M. Rashid,Anisa Rula, Lukas Schmelzeisen, Juan Sequeda, Steffen Staab, Antoine Zimmermann. "**Knowledge Graphs**". **ACM Computing Surveys 2021**. **Impact 10.282**. [paper](https://dl.acm.org/doi/10.1145/3447772)
 
 - Erik Cambria, Shaoxiong Ji, Shirui Pan, Philip S. Yu. "**Knowledge graph representation and reasoning**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122100953X?via%3Dihub)
+
+- Xuejie Hao, Zheng Ji, Xiuhong Li, Lizeyan Yin, Lu Liu, Meiying Sun, Qiang Liu, Rongjin Yang. "**Construction and Application of a Knowledge Graph**". **Remote Sensing 2021**. **Impact 4.848**. [paper](https://www.mdpi.com/2072-4292/13/13/2511)
+
+- Claudio Gutierrez, Juan F. Sequeda. "**Knowledge Graphs**". **Communications of the ACM 2021**. **Impact 4.654**. [paper](https://dl.acm.org/doi/10.1145/3418294)
+
+- Andrea Rossi, Donatella Firmani, Antonio Matinata, Paolo Merialdo, Denilson Barbosa. "**Knowledge Graph Embedding for Link Prediction: A Comparative Analysis**". **ACM Transactions on Knowledge Discovery from Data 2021**. **Impact 2.713**. [paper](https://dl.acm.org/doi/10.1145/3424672)
 
 ### 2011
 
@@ -1374,7 +1380,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### IEEE Internet of Things Journal
 
-- <a name=""></a> **()** Feng Zhao, Tao Xu, Langjunqing Jin, Hai Jin. "**Convolutional Network Embedding of Text-Enhanced Representation for Knowledge Graph Completion**". **IEEE Internet of Things Journal 2021**. **Impact 9.4716**. [paper](https://ieeexplore.ieee.org/document/9266078)
+- <a name="TECRL"></a> **(TECRL)** Feng Zhao, Tao Xu, Langjunqing Jin, Hai Jin. "**Convolutional Network Embedding of Text-Enhanced Representation for Knowledge Graph Completion**". **IEEE Internet of Things Journal 2021**. **Impact 9.4716**. [paper](https://ieeexplore.ieee.org/document/9266078)
 
 ##### Neural Networks
 
@@ -1472,17 +1478,13 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="SD-GAT"></a> **(SD-GAT)** Xue Zhou, Bei Hui, Lizong Zhang, Kexi Ji. "**A structure distinguishable graph attention network for knowledge base completion**". **Neural Comput. Appl. 2021**. **Impact 5.606**. [paper](https://link.springer.com/article/10.1007%2Fs00521-021-06221-1)
 
-##### Remote Sensing
-
-- Xuejie Hao, Zheng Ji, Xiuhong Li, Lizeyan Yin, Lu Liu, Meiying Sun, Qiang Liu, Rongjin Yang. "**Construction and Application of a Knowledge Graph**". **Remote Sensing 2021**. [paper](https://www.mdpi.com/2072-4292/13/13/2511)
-
 ##### Ad Hoc Networks
 
 - <a name="TRFR"></a> **(TRFR)** Yao Zhang, Hengpeng Xu, Xu Zhang, Xingxing Wu, Zhenglu Yang. "**TRFR: A ternary relation link prediction framework on Knowledge graphs**". **Ad Hoc Networks 2021**. **Impact 4.111**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1570870520307319?via%3Dihub) 
 
 ##### International Journal of Machine Learning and Cybernetics
 
-- Yuhan Wang, Weidong Xiao, Zhen Tan, Xiang Zhao. "**Caps-OWKG: a capsule network model for open-world knowledge graph**". **International Journal of Machine Learning and Cybernetics 2021**. **Impact 4.012**. [paper](https://link.springer.com/article/10.1007%2Fs13042-020-01259-4)
+- <a name="Caps-OWKG"></a> **(Caps-OWKG)** Yuhan Wang, Weidong Xiao, Zhen Tan, Xiang Zhao. "**Caps-OWKG: a capsule network model for open-world knowledge graph**". **International Journal of Machine Learning and Cybernetics 2021**. **Impact 4.012**. [paper](https://link.springer.com/article/10.1007%2Fs13042-020-01259-4)
 
 #### Conference
 
