@@ -1372,6 +1372,10 @@ Thanks for your attention and kind words! We will update KGE later.
 
 #### Journal
 
+##### IEEE Internet of Things Journal
+
+- <a name=""></a> **()** Feng Zhao, Tao Xu, Langjunqing Jin, Hai Jin. "**Convolutional Network Embedding of Text-Enhanced Representation for Knowledge Graph Completion**". **IEEE Internet of Things Journal 2021**. **Impact 9.4716**. [paper](https://ieeexplore.ieee.org/document/9266078)
+
 ##### Neural Networks
 
 - <a name="DAPath"></a> **(DAPath)** Prayag Tiwari, Hongyin Zhu, Hari Mohan Pandey. "**DAPath: Distance-aware knowledge graph reasoning based on deep reinforcement learning**". **Neural Networks 2021**. **Impact 8.05**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S089360802030410X?via%3Dihub)
@@ -1468,9 +1472,17 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="SD-GAT"></a> **(SD-GAT)** Xue Zhou, Bei Hui, Lizong Zhang, Kexi Ji. "**A structure distinguishable graph attention network for knowledge base completion**". **Neural Comput. Appl. 2021**. **Impact 5.606**. [paper](https://link.springer.com/article/10.1007%2Fs00521-021-06221-1)
 
+##### Remote Sensing
+
+- Xuejie Hao, Zheng Ji, Xiuhong Li, Lizeyan Yin, Lu Liu, Meiying Sun, Qiang Liu, Rongjin Yang. "**Construction and Application of a Knowledge Graph**". **Remote Sensing 2021**. [paper](https://www.mdpi.com/2072-4292/13/13/2511)
+
 ##### Ad Hoc Networks
 
 - <a name="TRFR"></a> **(TRFR)** Yao Zhang, Hengpeng Xu, Xu Zhang, Xingxing Wu, Zhenglu Yang. "**TRFR: A ternary relation link prediction framework on Knowledge graphs**". **Ad Hoc Networks 2021**. **Impact 4.111**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1570870520307319?via%3Dihub) 
+
+##### International Journal of Machine Learning and Cybernetics
+
+- Yuhan Wang, Weidong Xiao, Zhen Tan, Xiang Zhao. "**Caps-OWKG: a capsule network model for open-world knowledge graph**". **International Journal of Machine Learning and Cybernetics 2021**. **Impact 4.012**. [paper](https://link.springer.com/article/10.1007%2Fs13042-020-01259-4)
 
 #### Conference
 
