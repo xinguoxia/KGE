@@ -1034,7 +1034,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="HapPenIng"></a> **(HapPenIng)** Simon Gottschalk, Elena Demidova. "**HapPenIng: Happen, Predict, Infer - Event Series Completion in a Knowledge Graph**". **ISWC 2019**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30793-6_12)
 
-- <a name="LiteralE"></a> **(LiteralE)** Agustinus Kristiadi, Mohammad Asif Khan, Denis Lukovnikov, Jens Lehmann, Asja Fischer. "**Incorporating Literals into Knowledge Graph Embeddings**". **ISWC 2019**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30793-6_20)
+- <a name="LiteralE"></a> **(LiteralE)** Agustinus Kristiadi, Mohammad Asif Khan, Denis Lukovnikov, Jens Lehmann, Asja Fischer. "**Incorporating Literals into Knowledge Graph Embeddings**". **ISWC 2019**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30793-6_20) [code](https://github.com/SmartDataAnalytics/LiteralE)
 
 - <a name="KEEN"></a> **(KEEN)** Mehdi Ali, Hajira Jabeen, Charles Tapley Hoyt, Jens Lehmann. "**The KEEN Universe - An Ecosystem for Knowledge Graph Embeddings with a Focus on Reproducibility and Transferability**". **ISWC 2019**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30796-7_1)
 
