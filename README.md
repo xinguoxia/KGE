@@ -1788,7 +1788,6 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="NoGE"></a> **(NoGE)** Dai Quoc Nguyen, Vinh Tong, Dinh Q. Phung, Dat Quoc Nguyen. "**Node Co-occurrence based Graph Neural Networks for Knowledge Graph Link Prediction**". **WSDM 2022**. [paper](https://dl.acm.org/doi/10.1145/3488560.3502183)
 
-
 ## Datasets
 
 ### Standard
