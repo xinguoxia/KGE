@@ -475,6 +475,14 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - Andrea Rossi, Donatella Firmani, Antonio Matinata, Paolo Merialdo, Denilson Barbosa. "**Knowledge Graph Embedding for Link Prediction: A Comparative Analysis**". **ACM Transactions on Knowledge Discovery from Data 2021**. **Impact 2.713**. [paper](https://dl.acm.org/doi/10.1145/3424672)
 
+- Ilaria Tiddi, Stefan Schlobach. "**Knowledge graphs as tools for explainable machine learning: A survey**". **Artificial Intelligence 2022**. [paper](https://www.sciencedirect.com/science/article/pii/S0004370221001788?via%3Dihub)
+
+- Luigi Bellomarini, Ruslan R. Fayzrakhmanov, Georg Gottlob, Andrey Kravchenko, Eleonora Laurenza, Yavor Nenov, Stéphane Reissfelder, Emanuel Sallinger, Evgeny Sherkhonov, Sahar Vahdati, Lianlong Wu. "**Data science with Vadalog: Knowledge Graphs with machine learning and reasoning in practice**". **Future Generation Computer Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X21004179?via%3Dihub) 
+
+- Mehwish Alam, Anna Fensel, Jorge Martínez Gil, Bernhard Moser, Diego Reforgiato Recupero, Harald Sack. "**Special Issue on Machine Learning and Knowledge Graphs**". **Future Generation Computer Systems 2022**. **Impact 2.713**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X21004660?via%3Dihub)
+
+- Shaoxiong Ji, Shirui Pan, Erik Cambria, Pekka Marttinen, Philip S. Yu. "**A Survey on Knowledge Graphs: Representation, Acquisition, and Applications**". **IEEE Transactions on Neural Networks and Learning Systems 2022**. **Impact 10.450**. [paper](https://ieeexplore.ieee.org/document/9416312)
+
 ### 2011
 
 #### Conference
@@ -1716,9 +1724,57 @@ Thanks for your attention and kind words! We will update KGE later.
 
 #### Journal
 
+##### Knowledge Based Systems
+
+- Panfeng Chen, Yisong Wang, Xiaomin Yu, Renyan Feng. "**QLogicE: Quantum Logic Empowered Embedding for Knowledge Graph Completion**". **Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010911?via%3Dihub)
+
+- Hongren Huang, Chen Li, Xutan Peng, Lifang He, Shu Guo, Hao Peng, Lihong Wang, Jianxin Li. "**Cross-knowledge-graph entity alignment via relation prediction**".**Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512101011X?via%3Dihub)
+
+- Hao Liu, Shu-wang Zhou, Changfang Chen, Tianlei Gao, Jiyong Xu, Minglei Shu. "**Dynamic knowledge graph reasoning based on deep reinforcement learning**". **Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122000697?via%3Dihub)
+
+- Pengpeng Shao, Dawei Zhang, Guohua Yang, Jianhua Tao, Feihu Che, Tong Liu. "**Tucker decomposition-based temporal knowledge graph completion**". **Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010303?via%3Dihub)
+
+- Qianjin Zhang, Ronggui Wang, Juan Yang, Lixia Xue. "**Knowledge graph embedding by reflection transformation**". **Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010418?via%3Dihub)
+
+- Zhehui Zhou, Can Wang, Yan Feng, Defang Chen. "**JointE: Jointly utilizing 1D and 2D convolution for knowledge graph embedding**". **Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121011643?via%3Dihub)
+
+##### Information Sciences
+
+- Luigi Bellomarini, Davide Benedetto, Georg Gottlob, Emanuel Sallinger. "**Vadalog: A modern architecture for automated reasoning with large knowledge graphs**". **Information Sciences 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306437920300351?via%3Dihub)
+
+- Byungkook Oh, Seungmin Seo, Jimin Hwang, Dongho Lee, Kyong-Ho Lee. "**Open-world knowledge graph completion for unseen entities and relations via attentive feature aggregation**". **Information Sciences 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552101207X?via%3Dihub)
+
+- Jiarui Zhang, Jian Huang, Jialong Gao, Runhai Han, Cong Zhou. "**Knowledge graph embedding by logical-default attention graph convolution neural network for link prediction**". **Information Sciences 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522001153?via%3Dihub)
+
+##### Information Processing and Management
+
+- Weishan Cai, Yizhao Wang, Shun Mao, Jieyu Zhan, Yuncheng Jiang. "**Multi-heterogeneous neighborhood-aware for Knowledge Graphs alignment**". **Information Processing and Management 2022**. **Impact 6.222**. [paper](https://www.sciencedirect.com/science/article/pii/S0306457321002685?via%3Dihub)
+
 ##### Neurocomputing 
 
 - <a name="StructurE"></a> **(StructurE)** Qianjin Zhang, Ronggui Wang, Juan Yang, Lixia Xue. "**Structural context-based knowledge graph embedding for link prediction**". **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221016192?via%3Dihub)
+
+- Bojing Hu, Yaqin Ye, Yingqiang Zhong, Jiao Pan, Maosheng Hu. "**TransMKR: Translation-based knowledge graph enhanced multi-task point-of-interest recommendation**". **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221017239?via%3Dihub)
+
+- Haonan Lu, Hailin Hu, Xiaodong Lin. "**DensE: An enhanced non-commutative representation for knowledge graph embedding with adaptive semantic hierarchy**". **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221019342?via%3Dihub)
+
+- Guanglin Niu, Bo Li, Yongfei Zhang, Yongpan Sheng, Chuan Shi, Jingyang Li, Shiliang Pu. "**Joint semantics and data-driven path representation for knowledge graph reasoning**".  **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001515?via%3Dihub)
+
+- Shuanglong Yao, Dechang Pi, Junfu Chen. "**Knowledge embedding via hyperbolic skipped graph convolutional networks**". **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222000546?via%3Dihub)
+
+- Qianjin Zhang, Ronggui Wang, Juan Yang, Lixia Xue. "**Structural context-based knowledge graph embedding for link prediction**". **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221016192?via%3Dihub)
+
+##### Neural Computing and Applications
+
+- Ying Shen, Dagang Li, Du Nan. "**Modeling path information for knowledge graph completion**". **Neural Computing and Applications 2022**. **Impact 5.605**. [paper](https://link.springer.com/article/10.1007/s00521-021-06460-2)
+
+##### Applied Intelligence 
+
+- <a name="RLPath"></a> **(RLPath)** Ling Chen, Jun Cui, Xing Tang, Yuntao Qian, Yansheng Li, Yongjun Zhang. "**RLPath: a knowledge graph link prediction method using reinforcement learning based attentive relation path searching and representation learning**". **Applied Intelligence 2022**. **Impact 5.086**. [paper](https://link.springer.com/article/10.1007/s10489-021-02672-0)
+
+- Jianzhou Feng, Qikai Wei, Jinman Cui, Jing Chen. "**Novel translation knowledge graph completion model based on 2D convolution**". **Applied Intelligence 2022**. **Impact 5.086**. [paper](https://link.springer.com/article/10.1007/s10489-021-02438-8)
+
+- Phuc Do, Truong H. V. Phan. "**Developing a BERT based triple classification model using knowledge graph embedding for question answering system**". **Applied Intelligence 2022**. **Impact 5.086**. [paper](https://link.springer.com/article/10.1007/s10489-021-02460-w)
 		
 ## Datasets
 
