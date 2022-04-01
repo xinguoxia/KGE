@@ -1726,17 +1726,15 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### Knowledge Based Systems
 
-- Panfeng Chen, Yisong Wang, Xiaomin Yu, Renyan Feng. "**QLogicE: Quantum Logic Empowered Embedding for Knowledge Graph Completion**". **Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010911?via%3Dihub)
+- <a name="JointE"></a> **(JointE)** Zhehui Zhou, Can Wang, Yan Feng, Defang Chen. "**JointE: Jointly utilizing 1D and 2D convolution for knowledge graph embedding**". **Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121011643?via%3Dihub)
 
-- Hongren Huang, Chen Li, Xutan Peng, Lifang He, Shu Guo, Hao Peng, Lihong Wang, Jianxin Li. "**Cross-knowledge-graph entity alignment via relation prediction**".**Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512101011X?via%3Dihub)
+- <a name="QLogicE"></a> **(QLogicE)** Panfeng Chen, Yisong Wang, Xiaomin Yu, Renyan Feng. "**QLogicE: Quantum Logic Empowered Embedding for Knowledge Graph Completion**". **Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010911?via%3Dihub)
 
-- Hao Liu, Shu-wang Zhou, Changfang Chen, Tianlei Gao, Jiyong Xu, Minglei Shu. "**Dynamic knowledge graph reasoning based on deep reinforcement learning**". **Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122000697?via%3Dihub)
+- <a name="ReflectE"></a> **(ReflectE)** Qianjin Zhang, Ronggui Wang, Juan Yang, Lixia Xue. "**Knowledge graph embedding by reflection transformation**". **Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010418?via%3Dihub)
 
-- Pengpeng Shao, Dawei Zhang, Guohua Yang, Jianhua Tao, Feihu Che, Tong Liu. "**Tucker decomposition-based temporal knowledge graph completion**". **Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010303?via%3Dihub)
+- <a name="RF"></a> **(RF)** Hao Liu, Shu-wang Zhou, Changfang Chen, Tianlei Gao, Jiyong Xu, Minglei Shu. "**Dynamic knowledge graph reasoning based on deep reinforcement learning**". **Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122000697?via%3Dihub)
 
-- Qianjin Zhang, Ronggui Wang, Juan Yang, Lixia Xue. "**Knowledge graph embedding by reflection transformation**". **Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010418?via%3Dihub)
-
-- Zhehui Zhou, Can Wang, Yan Feng, Defang Chen. "**JointE: Jointly utilizing 1D and 2D convolution for knowledge graph embedding**". **Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121011643?via%3Dihub)
+- <a name="TuckERT"></a> **(TuckERT)** Pengpeng Shao, Dawei Zhang, Guohua Yang, Jianhua Tao, Feihu Che, Tong Liu. "**Tucker decomposition-based temporal knowledge graph completion**". **Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010303?via%3Dihub)
 
 ##### Information Sciences
 
