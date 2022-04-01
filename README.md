@@ -1746,19 +1746,17 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="MHNA"></a> **(MHNA)** Weishan Cai, Yizhao Wang, Shun Mao, Jieyu Zhan, Yuncheng Jiang. "**Multi-heterogeneous neighborhood-aware for Knowledge Graphs alignment**". **Information Processing and Management 2022**. **Impact 6.222**. [paper](https://www.sciencedirect.com/science/article/pii/S0306457321002685?via%3Dihub)
 
-##### Neurocomputing 
+##### Neurocomputing
+
+- <a name="DensE"></a> **(DensE)** Haonan Lu, Hailin Hu, Xiaodong Lin. "**DensE: An enhanced non-commutative representation for knowledge graph embedding with adaptive semantic hierarchy**". **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221019342?via%3Dihub)
+
+- <a name="EC"></a> **(EC)** Guanglin Niu, Bo Li, Yongfei Zhang, Yongpan Sheng, Chuan Shi, Jingyang Li, Shiliang Pu. "**Joint semantics and data-driven path representation for knowledge graph reasoning**".  **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001515?via%3Dihub)
+
+- <a name="HSKGCN"></a> **(HSKGCN)** Shuanglong Yao, Dechang Pi, Junfu Chen. "**Knowledge embedding via hyperbolic skipped graph convolutional networks**". **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222000546?via%3Dihub)
 
 - <a name="StructurE"></a> **(StructurE)** Qianjin Zhang, Ronggui Wang, Juan Yang, Lixia Xue. "**Structural context-based knowledge graph embedding for link prediction**". **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221016192?via%3Dihub)
 
-- Bojing Hu, Yaqin Ye, Yingqiang Zhong, Jiao Pan, Maosheng Hu. "**TransMKR: Translation-based knowledge graph enhanced multi-task point-of-interest recommendation**". **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221017239?via%3Dihub)
-
-- Haonan Lu, Hailin Hu, Xiaodong Lin. "**DensE: An enhanced non-commutative representation for knowledge graph embedding with adaptive semantic hierarchy**". **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221019342?via%3Dihub)
-
-- Guanglin Niu, Bo Li, Yongfei Zhang, Yongpan Sheng, Chuan Shi, Jingyang Li, Shiliang Pu. "**Joint semantics and data-driven path representation for knowledge graph reasoning**".  **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001515?via%3Dihub)
-
-- Shuanglong Yao, Dechang Pi, Junfu Chen. "**Knowledge embedding via hyperbolic skipped graph convolutional networks**". **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222000546?via%3Dihub)
-
-- Qianjin Zhang, Ronggui Wang, Juan Yang, Lixia Xue. "**Structural context-based knowledge graph embedding for link prediction**". **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221016192?via%3Dihub)
+- <a name="TransMKR"></a> **(TransMKR)** Bojing Hu, Yaqin Ye, Yingqiang Zhong, Jiao Pan, Maosheng Hu. "**TransMKR: Translation-based knowledge graph enhanced multi-task point-of-interest recommendation**". **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221017239?via%3Dihub)
 
 ##### Neural Computing and Applications
 
