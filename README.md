@@ -1760,15 +1760,13 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### Neural Computing and Applications
 
-- Ying Shen, Dagang Li, Du Nan. "**Modeling path information for knowledge graph completion**". **Neural Computing and Applications 2022**. **Impact 5.605**. [paper](https://link.springer.com/article/10.1007/s00521-021-06460-2)
+- <a name="ARPP"></a> **(ARPP)** Ying Shen, Dagang Li, Du Nan. "**Modeling path information for knowledge graph completion**". **Neural Computing and Applications 2022**. **Impact 5.605**. [paper](https://link.springer.com/article/10.1007/s00521-021-06460-2)
 
 ##### Applied Intelligence 
 
+- <a name="CTKGC"></a> **(CTKGC)** Jianzhou Feng, Qikai Wei, Jinman Cui, Jing Chen. "**Novel translation knowledge graph completion model based on 2D convolution**". **Applied Intelligence 2022**. **Impact 5.086**. [paper](https://link.springer.com/article/10.1007/s10489-021-02438-8)
+
 - <a name="RLPath"></a> **(RLPath)** Ling Chen, Jun Cui, Xing Tang, Yuntao Qian, Yansheng Li, Yongjun Zhang. "**RLPath: a knowledge graph link prediction method using reinforcement learning based attentive relation path searching and representation learning**". **Applied Intelligence 2022**. **Impact 5.086**. [paper](https://link.springer.com/article/10.1007/s10489-021-02672-0)
-
-- Jianzhou Feng, Qikai Wei, Jinman Cui, Jing Chen. "**Novel translation knowledge graph completion model based on 2D convolution**". **Applied Intelligence 2022**. **Impact 5.086**. [paper](https://link.springer.com/article/10.1007/s10489-021-02438-8)
-
-- Phuc Do, Truong H. V. Phan. "**Developing a BERT based triple classification model using knowledge graph embedding for question answering system**". **Applied Intelligence 2022**. **Impact 5.086**. [paper](https://link.springer.com/article/10.1007/s10489-021-02460-w)
 
 #### Conference
 
