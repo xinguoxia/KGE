@@ -1738,15 +1738,13 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### Information Sciences
 
-- Luigi Bellomarini, Davide Benedetto, Georg Gottlob, Emanuel Sallinger. "**Vadalog: A modern architecture for automated reasoning with large knowledge graphs**". **Information Sciences 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306437920300351?via%3Dihub)
+- <a name="DA-GCN"></a> **(DA-GCN)** Jiarui Zhang, Jian Huang, Jialong Gao, Runhai Han, Cong Zhou. "**Knowledge graph embedding by logical-default attention graph convolution neural network for link prediction**". **Information Sciences 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522001153?via%3Dihub)
 
-- Byungkook Oh, Seungmin Seo, Jimin Hwang, Dongho Lee, Kyong-Ho Lee. "**Open-world knowledge graph completion for unseen entities and relations via attentive feature aggregation**". **Information Sciences 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552101207X?via%3Dihub)
-
-- Jiarui Zhang, Jian Huang, Jialong Gao, Runhai Han, Cong Zhou. "**Knowledge graph embedding by logical-default attention graph convolution neural network for link prediction**". **Information Sciences 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522001153?via%3Dihub)
+- <a name="IKGE"></a> **(IKGE)** Byungkook Oh, Seungmin Seo, Jimin Hwang, Dongho Lee, Kyong-Ho Lee. "**Open-world knowledge graph completion for unseen entities and relations via attentive feature aggregation**". **Information Sciences 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552101207X?via%3Dihub)
 
 ##### Information Processing and Management
 
-- Weishan Cai, Yizhao Wang, Shun Mao, Jieyu Zhan, Yuncheng Jiang. "**Multi-heterogeneous neighborhood-aware for Knowledge Graphs alignment**". **Information Processing and Management 2022**. **Impact 6.222**. [paper](https://www.sciencedirect.com/science/article/pii/S0306457321002685?via%3Dihub)
+- <a name="MHNA"></a> **(MHNA)** Weishan Cai, Yizhao Wang, Shun Mao, Jieyu Zhan, Yuncheng Jiang. "**Multi-heterogeneous neighborhood-aware for Knowledge Graphs alignment**". **Information Processing and Management 2022**. **Impact 6.222**. [paper](https://www.sciencedirect.com/science/article/pii/S0306457321002685?via%3Dihub)
 
 ##### Neurocomputing 
 
