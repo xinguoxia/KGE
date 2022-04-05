@@ -825,7 +825,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="TransAt"></a> **(TransAt)** Wei Qian, Cong Fu, Yu Zhu, Deng Cai, Xiaofei He. "**Translating Embeddings for Knowledge Graph Completion with Relation Attention Mechanism**". **IJCAI 2018**. [paper](https://www.ijcai.org/proceedings/2018/596) [code](https://github.com/ZJULearning/TransAt)
 
-- <a name="RLvLR"></a> **(RLvLR)** Pouya Ghiasnezhad Omran, Kewen Wang, Zhe Wang. Scalable Rule Learning via Learning Representation. **IJCAI 2018**. [paper](https://www.ijcai.org/proceedings/2018/297)
+- <a name="RLvLR"></a> **(RLvLR)** Pouya Ghiasnezhad Omran, Kewen Wang, Zhe Wang. "**Scalable Rule Learning via Learning Representation**". **IJCAI 2018**. [paper](https://www.ijcai.org/proceedings/2018/297)
 
 ##### EMNLP
 
