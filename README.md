@@ -891,9 +891,9 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### WWW
 
-- Kaja Zupanc, Jesse Davis. "**Estimating Rule Quality for Knowledge Base Completion with the Relationship between Coverage Assumption**". **WWW 2018**. [paper](https://dl.acm.org/doi/10.1145/3178876.3186006)
-
 - <a name="RAE"></a> **(RAE)** Richong Zhang, Junpeng Li, Jiajie Mei, Yongyi Mao. "**Scalable Instance Reconstruction in Knowledge Bases via Relatedness Affiliated Embedding**". **WWW 2018**. [paper](https://dl.acm.org/doi/10.1145/3178876.3186017)
+
+- <a name="RuleQuality"></a> **(RuleQuality)** Kaja Zupanc, Jesse Davis. "**Estimating Rule Quality for Knowledge Base Completion with the Relationship between Coverage Assumption**". **WWW 2018**. [paper](https://dl.acm.org/doi/10.1145/3178876.3186006)
 
 - <a name="TTransE"></a> **(TTransE)** Julien Leblay, Melisachew Wudage Chekol. "**Deriving Validity Time in Knowledge Graph**". **WWW 2018**. [paper](https://dl.acm.org/doi/10.1145/3184558.3191639)
 
