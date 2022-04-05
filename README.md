@@ -879,9 +879,10 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="SENN"></a> **(SENN)** Saiping Guan, Xiaolong Jin, Yuanzhuo Wang, Xueqi Cheng. "**Shared Embedding Based Neural Networks for Knowledge Graph Completion**". **CIKM 2018**. [paper](https://dl.acm.org/doi/10.1145/3269206.3271704)
 
-##### ESWC
+##### ISWC
 
-- <a name="RuleN "></a> **(RuleN )** Christian Meilicke, Manuel Fink, Yanjie Wang, Daniel Ruffinelli, Rainer Gemulla, Heiner Stuckenschmidt. "**Fine-Grained Evaluation of Rule- and Embedding-Based Systems for Knowledge Graph Completion**". **ISWC 2018**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-00671-6_1)
+- <a name="RuleN "></a> **(RuleN)** Christian Meilicke, Manuel Fink, Yanjie Wang, Daniel Ruffinelli, Rainer Gemulla, Heiner Stuckenschmidt. "**Fine-Grained Evaluation of Rule- and Embedding-Based Systems for Knowledge Graph Completion**". **ISWC 2018**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-00671-6_1)
+
 ##### ESWC
 
 - <a name="R-GCN"></a> **(R-GCN)** Michael Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne van den Berg, Ivan Titov, Max Welling. "**Modeling Relational Data with Graph Convolutional Networks**". **ESWC 2018**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-93417-4_38) [code](https://github.com/tkipf/relational-gcn) :fire:
