@@ -83,7 +83,6 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2021 | AAAI | **[5E](#5E)** |
 | 2021 | AAAI | **[DualE](#DualE)** |
 
-
 #### Multiplication
 
 | Year | Source | Methods |
@@ -126,6 +125,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | AAAI | **[InteractE](#InteractE)** |
 | 2020 | AAAI | **[ParamE](#ParamE)** |
 | 2020 | ACL | **[ReInceptionE](#ReInceptionE)** |
+| 2020 | IJCAI | **[HypE](#HypE)** |
 | 2020 | COLING | **[ArcE](#ArcE)** |
 | 2021 | NAACL | **[EDGE](#EDGE)** |
 | 2021 | ESWC | **[ConEx](#ConEx)** |
