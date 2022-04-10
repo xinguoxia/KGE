@@ -334,12 +334,17 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | CIKM | **[ToKE](#ToKE)** |
 | 2020 | ISWC | **[ATiSE](#ATiSE)** |
 | 2020 | WWW | **[TDGNN](#TDGNN)** |
+| 2021 | ICLR | **[xERTE](#xERTE)** |
 | 2021 | AAAI | **[ChronoR](#ChronoR)** |
 | 2021 | AAAI | **[CyGNet](#CyGNet)** |
 | 2021 | AAAI | **[NLSM](#NLSM)** |
 | 2021 | ACL | **[CluSTeR](#CluSTeR)** |
 | 2021 | ACL | **[HERCULES](#HERCULES)** |
 | 2021 | IJCAI | **[HIPNet](#HIPNet)** |
+| 2021 | EMNLP | **[TANGO](#TANGO)** |
+| 2021 | EMNLP | **[TEA-GNN](#TEA-GNN)** |
+| 2021 | EMNLP | **[TEE](#TEE)** |
+| 2021 | EMNLP | **[TITer](#TITer)** |
 | 2021 | NAACL-HLT | **[KRE](#KRE)** |
 | 2021 | NAACL-HLT | **[RTFE](#RTFE)** |
 | 2021 | NAACL-HLT | **[TeLM](#TeLM)** |
@@ -349,6 +354,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2021 | WSDM | **[DBKGE](#DBKGE)** |
 | 2021 | DASFAA | **[ST-ConvKB](#ST-ConvKB)** |
 | 2021 | ESWC | **[RETRA](#RETRA)** |
+| 2022 | WSDM | **[EvoKG](#EvoKG)** |
 
 #### Uncertain
 
