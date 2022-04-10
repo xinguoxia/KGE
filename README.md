@@ -331,6 +331,8 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | CIKM | **[ToKE](#ToKE)** |
 | 2020 | ISWC | **[ATiSE](#ATiSE)** |
 | 2020 | WWW | **[TDGNN](#TDGNN)** |
+| 2021 | KBS* | **[TimE](#TimE)** |
+| 2021 | ASC* | **[TPath](#TPath)** |
 | 2021 | ICLR | **[xERTE](#xERTE)** |
 | 2021 | AAAI | **[ChronoR](#ChronoR)** |
 | 2021 | AAAI | **[CyGNet](#CyGNet)** |
@@ -351,6 +353,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2021 | WSDM | **[DBKGE](#DBKGE)** |
 | 2021 | DASFAA | **[ST-ConvKB](#ST-ConvKB)** |
 | 2021 | ESWC | **[RETRA](#RETRA)** |
+| 2022 | KBS* | **[TuckERT](#TuckERT)** |
 | 2022 | WSDM | **[EvoKG](#EvoKG)** |
 
 #### Uncertain
