@@ -52,26 +52,37 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2018 | EMNLP | **[TransC](#TransC)** |
 | 2019 | ICLR | **[RotatE](#RotatE)** |
 | 2019 | AAAI | **[TransGate](#TransGate)** |
-| 2019 | NeurIPS | **[MuRP](#MuRP)** |
 | 2019 | IJCAI | **[TransMS](#TransMS)** |
 | 2020 | AAAI | **[HAKE](#HAKE)** |
 | 2020 | NeurIPS | **[BoxE](#BoxE)** |
 | 2020 | ACL | **[OTE](#OTE)** |
-| 2020 | ACL | **[ATTH](#ATTH)** |
 | 2020 | IJCAI | **[TransRHS](#TransRHS)** |
 | 2020 | ECAI | **[MDE](#MDE)** |
 | 2020 | COLING | **[AprilE](#AprilE)** |
 | 2020 | COLING | **[RatE](#RatE)** |
-| 2020 | AAMAS | **[TransL](#TransL)** |
-| 2020 | CIKM | **[NagE](#NagE)** |
 | 2020 | CIKM | **[Rotate3D](#Rotate3D)** |
-| 2020 | ISWC | **[SpacE](#SpacE)** |
 | 2020 | ICDM | **[LineaRE](#LineaRE)** |
 | 2020 | ESWC | **[HyperKG](#HyperKG)** |
 | 2021 | ACL | **[PairRE](#PairRE)** |
-| 2021 | NAACL-HLT | **[ProcrustEs](#ProcrustEs)** |
-| 2021 | ESWC | **[TransROWL](#TransROWL)** |
+| 2021 | CIKM | **[CyclE](#CyclE)** |
 | 2021 | WWW | **[MQuatE](#MQuatE)** |
+
+#### Geometry
+
+| Year | Source | Methods |
+|:----:|:------:|:-------:|
+| 2018 | AAAI | **[TorusE](#TorusE)** |
+| 2019 | ICLR | **[RotatE](#RotatE)** |
+| 2019 | NeurIPS | **[MuRP](#MuRP)** |
+| 2019 | NeurIPS | **[QuatE](#QuatE)** |
+| 2020 | AAAI | **[HAKE](#HAKE)** |
+| 2020 | ACL | **[ATTH](#ATTH)** |
+| 2020 | COLING | **[GeomE](#GeomE)** |
+| 2020 | CIKM | **[Rotate3D](#Rotate3D)** |
+| 2020 | ISWC | **[SpacE](#SpacE)** |
+| 2021 | AAAI | **[5E](#5E)** |
+| 2021 | AAAI | **[DualE](#DualE)** |
+
 
 #### Multiplication
 
@@ -93,12 +104,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | EMNLP | **[B-CP](#B-CP)** |
 | 2020 | ECAI | **[BTDE](#BTDE)** |
 | 2020 | ECAI | **[MEI](#MEI)** |
-| 2020 | COLING | **[GeomE](#GeomE)** |
 | 2020 | ICDE | **[AutoSF](#AutoSF)** |
-| 2021 | AAAI | **[5E](#5E)** |
-| 2021 | AAAI | **[DualE](#DualE)** |
-| 2021 | NAACL-HLT | **[KRE](#KRE)** |
-| 2021 | ESWC | **[ConEx](#ConEx)** |
 
 #### Neural Networks
 
@@ -119,8 +125,10 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | AAAI | **[CoPER](#CoPER)** |
 | 2020 | AAAI | **[InteractE](#InteractE)** |
 | 2020 | AAAI | **[ParamE](#ParamE)** |
+| 2020 | ACL | **[ReInceptionE](#ReInceptionE)** |
 | 2020 | COLING | **[ArcE](#ArcE)** |
 | 2021 | NAACL | **[EDGE](#EDGE)** |
+| 2021 | ESWC | **[ConEx](#ConEx)** |
 
 #### Graph Networks
 
@@ -141,17 +149,6 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2021 | ACL | **[EIGAT](#EIGAT)** |
 | 2021 | WWW | **[KE-GCN](#KE-GCN)** |
 | 2021 | WWW | **[M2GNN](#M2GNN)** |
-
-#### Hyper Planes
-
-| Year | Source | Methods |
-|:----:|:------:|:-------:|
-| 2016 | ICML | **[ComplEx](#ComplEx)** |
-| 2018 | AAAI | **[TorusE](#TorusE)** |
-| 2019 | ICLR | **[RotatE](#RotatE)** |
-| 2019 | NeurIPS | **[QuatE](#QuatE)** |
-| 2019 | NeurIPS | **[MuRP](#MuRP)** |
-| 2020 | AAAI | **[HAKE](#HAKE)** |
 
 ### Informations
 
