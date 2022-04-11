@@ -88,6 +88,9 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | CIKM | **[Rotate3D](#Rotate3D)** |
 | 2020 | ISWC | **[SpacE](#SpacE)** |
 | 2020 | ESWC | **[HyperKG](#HyperKG)** |
+| 2021 | KBS* | **[MRotatE](#MRotatE)** |
+| 2021 | KBS* | **[MöbiusE](#MöbiusE)** |
+| 2021 | NC* | **[HA-RotatE](#HA-RotatE)** |
 | 2021 | AAAI | **[5E](#5E)** |
 | 2021 | AAAI | **[DualE](#DualE)** |
 | 2021 | EMNLP | **[BiQUE](#BiQUE)** |
@@ -97,6 +100,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2021 | CIKM | **[GrpKG](#GrpKG)** |
 | 2021 | CIKM | **[HopfE](#HopfE)** |
 | 2021 | WWW | **[MQuadE](#MQuadE)** |
+| 2022 | NC* | **[DensE](#DensE)** |
 
 #### Multiplication
 
