@@ -155,8 +155,10 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | AAAI | **[RGHAT](#RGHAT)** |
 | 2020 | CIKM | **[GAEAT](#GAEAT)** |
 | 2021 | ACL | **[EIGAT](#EIGAT)** |
+| 2021 | CIKM | **[DisenKGAT](#DisenKGAT)** |
 | 2021 | WWW | **[KE-GCN](#KE-GCN)** |
 | 2021 | WWW | **[M2GNN](#M2GNN)** |
+| 2022 | WSDM | **[NoGE](#NoGE)** |
 
 ### Informations
 
