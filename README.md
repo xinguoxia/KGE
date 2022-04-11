@@ -50,9 +50,12 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2018 | AAAI | **[TorusE](#TorusE)** |
 | 2018 | AAAI | **[TransAt](#TransAt)** |
 | 2018 | EMNLP | **[TransC](#TransC)** |
+| 2019 | KBS* | **[KEC](#KEC)** |
 | 2019 | ICLR | **[RotatE](#RotatE)** |
 | 2019 | AAAI | **[TransGate](#TransGate)** |
 | 2019 | IJCAI | **[TransMS](#TransMS)** |
+| 2020 | KBS* | **[ConnectE](#ConnectE)** |
+| 2020 | IS* | **[MAKR](#MAKR)** |
 | 2020 | AAAI | **[HAKE](#HAKE)** |
 | 2020 | NeurIPS | **[BoxE](#BoxE)** |
 | 2020 | ACL | **[OTE](#OTE)** |
@@ -63,9 +66,13 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | CIKM | **[Rotate3D](#Rotate3D)** |
 | 2020 | ICDM | **[LineaRE](#LineaRE)** |
 | 2020 | ESWC | **[HyperKG](#HyperKG)** |
+| 2021 | KBS* | **[MRotatE](#MRotatE)** |
+| 2021 | NC* | **[HA-RotatE](#HA-RotatE)** |
 | 2021 | ACL | **[PairRE](#PairRE)** |
 | 2021 | CIKM | **[CyclE](#CyclE)** |
-| 2021 | WWW | **[MQuatE](#MQuatE)** |
+| 2022 | KBS* | **[ReflectE](#ReflectE)** |
+| 2022 | NC* | **[DensE](#DensE)** |
+| 2022 | NC* | **[StructurE](#StructurE)** |
 
 #### Geometry
 
@@ -135,8 +142,12 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | ACL | **[ReInceptionE](#ReInceptionE)** |
 | 2020 | IJCAI | **[HypE](#HypE)** |
 | 2020 | COLING | **[ArcE](#ArcE)** |
+| 2021 | KBS* | **[KMAE](#KMAE)** |
+| 2021 | NCA* | **[DMACM](#DMACM)** |
 | 2021 | NAACL | **[EDGE](#EDGE)** |
 | 2021 | ESWC | **[ConEx](#ConEx)** |
+| 2022 | KBS* | **[JointE](#JointE)** |
+| 2022 | AI* | **[CTKGC](#CTKGC)** |
 
 #### Graph Networks
 
@@ -154,10 +165,20 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | ICLR | **[DPMPN](#DPMPN)** |
 | 2020 | AAAI | **[RGHAT](#RGHAT)** |
 | 2020 | CIKM | **[GAEAT](#GAEAT)** |
+| 2021 | KBS* | **[CoRelatE](#CoRelatE)** |
+| 2021 | KBS* | **[RHGNN](#RHGNN)** |
+| 2021 | KBS* | **[TAGAT](#TAGAT)** |
+| 2021 | ESA* | **[KGEL](#KGEL)** |
+| 2021 | IS* | **[DA-GCN](#DA-GCN)** |
+| 2021 | NC* | **[TRAR](#TRAR)** |
+| 2021 | NC* | **[SRGCN](#SRGCN)** |
+| 2021 | NCA* | **[SD-GAT](#SD-GAT)** |
+| 2021 | AHN* | **[TRFR](#TRFR)** |
 | 2021 | ACL | **[EIGAT](#EIGAT)** |
 | 2021 | CIKM | **[DisenKGAT](#DisenKGAT)** |
 | 2021 | WWW | **[KE-GCN](#KE-GCN)** |
 | 2021 | WWW | **[M2GNN](#M2GNN)** |
+| 2022 | NC* | **[HSKGCN](#HSKGCN)** |
 | 2022 | WSDM | **[NoGE](#NoGE)** |
 
 ### Informations
