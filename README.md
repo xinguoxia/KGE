@@ -1836,6 +1836,20 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="TRHyTE"></a> **(TRHyTE)** Lin Yuan, Zhixu Li, Jianfeng Qu, Tingyi Zhang, An Liu, Lei Zhao, Zhigang Chen. "**TRHyTE: Temporal Knowledge Graph Embedding Based on Temporal-Relational Hyperplanes**". **DASFAA 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_10)
 
+##### WWW
+
+- <a name="CompGCN+ "></a> **(CompGCN+)** Zhanqiu Zhang, Jie Wang, Jieping Ye, Feng Wu. "**Rethinking Graph Convolutional Networks in Knowledge Graph Completion**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3511923)
+
+- <a name="DiriE"></a> **(DiriE)** Feiyang Wang, Zhongbao Zhang, Li Sun, Junda Ye, Yang Yan. "**DiriE: Knowledge Graph Embedding with Dirichlet Distribution**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3512028)
+
+- <a name="HaLE"></a> **(HaLE)** Kai Wang, Yu Liu, Quan Z. Sheng. "**Swift and Sure: Hardness-aware Contrastive Learning for Low-dimensional Knowledge Graph Embeddings**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3511927)
+
+- <a name="RED-GNN"></a> **(RED-GNN)** Yongqi Zhang, Quanming Yao. "**Knowledge Graph Reasoning with Relational Digraph**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3512008)
+
+- <a name="SelfKG"></a> **(SelfKG)** Xiao Liu, Haoyun Hong, Xinghao Wang, Zeyi Chen, Evgeny Kharlamov, Yuxiao Dong, Jie Tang. "**SelfKG: Self-Supervised Entity Alignment in Knowledge Graphs**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3511945)
+
+- <a name="TKGC"></a> **(TKGC)** Jiacheng Huang, Yao Zhao, Wei Hu, Zhen Ning, Qijin Chen, Xiaoxia Qiu, Chengfu Huo, Weijun Ren. "**Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Datas**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3511938)
+
 ## Datasets
 
 ### Standard
