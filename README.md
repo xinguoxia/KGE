@@ -1822,6 +1822,20 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="NoGE"></a> **(NoGE)** Dai Quoc Nguyen, Vinh Tong, Dinh Q. Phung, Dat Quoc Nguyen. "**Node Co-occurrence based Graph Neural Networks for Knowledge Graph Link Prediction**". **WSDM 2022**. [paper](https://dl.acm.org/doi/10.1145/3488560.3502183)
 
+##### DASFAA
+
+- <a name="ARIM-TE"></a> **(ARIM-TE)** Tingyi Zhang, Zhixu Li, Jiaan Wang, Jianfeng Qu, Lin Yuan, An Liu, Lei Zhao, Zhigang Chen. "**Aligning Internal Regularity and External Influence of Multi-granularity for Temporal Knowledge Graph Embedding**". **DASFAA 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_10)
+
+- <a name="CoCuKGR"></a> **(CoCuKGR)** Dan Shi, Anchen Li, Bo Yang. "**Counterfactual-Guided and Curiosity-Driven Multi-hop Reasoning over Knowledge Graph**". **DASFAA 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_13)
+
+- <a name="ExKGR"></a> **(ExKGR)** Cheng Yan, Feng Zhao, Hai Jin. "**ExKGR: Explainable Multi-hop Reasoning for Evolving Knowledge Graph**". **DASFAA 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_11)
+
+- <a name="FactE"></a> **(FactE)** Xin Lv, Jiaxin Shi, Shulin Cao, Lei Hou, Juanzi Li. "**Triple-as-Node Knowledge Graph and Its Embeddings**". **DASFAA 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_8)
+
+- <a name="Sensitivity"></a> **(Sensitivity)** Han Yang, Leilei Zhang, Fenglong Su, Jinhui Pang. "**What Affects the Performance of Models? Sensitivity Analysis of Knowledge Graph Embedding**". **DASFAA 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_55)
+
+- <a name="TRHyTE"></a> **(TRHyTE)** Lin Yuan, Zhixu Li, Jianfeng Qu, Tingyi Zhang, An Liu, Lei Zhao, Zhigang Chen. "**TRHyTE: Temporal Knowledge Graph Embedding Based on Temporal-Relational Hyperplanes**". **DASFAA 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_10)
+
 ## Datasets
 
 ### Standard
