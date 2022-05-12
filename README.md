@@ -758,7 +758,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### UAI
 
-- <a name="ASR-ComplEx"></a> **ASR-ComplEx** Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel. "**Adversarial Sets for Regularising Neural Link Predictors**". **UAI 2017**. [paper](http://auai.org/uai2017/proceedings/papers/306.pdf)
+- <a name="ASR-ComplEx"></a> **(ASR-ComplEx)** Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel. "**Adversarial Sets for Regularising Neural Link Predictors**". **UAI 2017**. [paper](http://auai.org/uai2017/proceedings/papers/306.pdf)
 
 ##### EMNLP
 
