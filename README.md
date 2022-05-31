@@ -1846,9 +1846,9 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### WWW
 
-- <a name="CompGCN+ "></a> **(CompGCN+)** Zhanqiu Zhang, Jie Wang, Jieping Ye, Feng Wu. "**Rethinking Graph Convolutional Networks in Knowledge Graph Completion**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3511923)
-
 - <a name="DiriE"></a> **(DiriE)** Feiyang Wang, Zhongbao Zhang, Li Sun, Junda Ye, Yang Yan. "**DiriE: Knowledge Graph Embedding with Dirichlet Distribution**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3512028)
+
+- <a name="CompGCN+ "></a> **(GCN4KGC)** Zhanqiu Zhang, Jie Wang, Jieping Ye, Feng Wu. "**Rethinking Graph Convolutional Networks in Knowledge Graph Completion**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3511923)
 
 - <a name="HaLE"></a> **(HaLE)** Kai Wang, Yu Liu, Quan Z. Sheng. "**Swift and Sure: Hardness-aware Contrastive Learning for Low-dimensional Knowledge Graph Embeddings**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3511927)
 
