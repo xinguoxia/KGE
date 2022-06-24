@@ -1582,7 +1582,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="HERCULES"></a> **(HERCULES)** Sebastien Montella, Lina Maria Rojas-Barahona, Johannes Heinecke. "**Hyperbolic Temporal Knowledge Graph Embeddings with Relational and Time Curvatures**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.292/)
 
-- <a name="InferenceAttack"></a> **(InferenceAttack)** Peru Bhardwaj, John D. Kelleher, Luca Costabello, Declan O'Sullivan. "**Poisoning Knowledge Graph Embeddings via Relation Inference Patterns**". **ACL/IJCNLP 2021**. [paper](https://aclanthology.org/2021.acl-long.147/)
+- <a name="InferenceAttack"></a> **(InferenceAttack)** Peru Bhardwaj, John D. Kelleher, Luca Costabello, Declan O'Sullivan. "**Poisoning Knowledge Graph Embeddings via Relation Inference Patterns**". **ACL/IJCNLP 2021**. [paper](https://aclanthology.org/2021.acl-long.147/) [code](https://github.com/PeruBhardwaj/InferenceAttack)
 
 - <a name="InferWiki"></a> **(InferWiki)** Yixin Cao, Xiang Ji, Xin Lv, Juanzi Li, Yonggang Wen, Hanwang Zhang. "**Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion**". **ACL/IJCNLP 2021**. [paper](https://aclanthology.org/2021.acl-long.534/)
 
