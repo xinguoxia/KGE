@@ -1584,11 +1584,11 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="InferenceAttack"></a> **(InferenceAttack)** Peru Bhardwaj, John D. Kelleher, Luca Costabello, Declan O'Sullivan. "**Poisoning Knowledge Graph Embeddings via Relation Inference Patterns**". **ACL/IJCNLP 2021**. [paper](https://aclanthology.org/2021.acl-long.147/) [code](https://github.com/PeruBhardwaj/InferenceAttack)
 
-- <a name="InferWiki"></a> **(InferWiki)** Yixin Cao, Xiang Ji, Xin Lv, Juanzi Li, Yonggang Wen, Hanwang Zhang. "**Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion**". **ACL/IJCNLP 2021**. [paper](https://aclanthology.org/2021.acl-long.534/)
+- <a name="InferWiki"></a> **(InferWiki)** Yixin Cao, Xiang Ji, Xin Lv, Juanzi Li, Yonggang Wen, Hanwang Zhang. "**Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion**". **ACL/IJCNLP 2021**. [paper](https://aclanthology.org/2021.acl-long.534/) [code](https://github.com/TaoMiner/inferwiki)
 
-- <a name="MLMLM"></a> **(MLMLM)** Louis Clouâtre, Philippe Trempe, Amal Zouaq, Sarath Chandar. "**MLMLM: Link Prediction with Mean Likelihood Masked Language Model**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.378/)
+- <a name="MLMLM"></a> **(MLMLM)** Louis Clouâtre, Philippe Trempe, Amal Zouaq, Sarath Chandar. "**MLMLM: Link Prediction with Mean Likelihood Masked Language Model**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.378/) [code](https://github.com/763337092/MLMLM)
 
-- <a name="OKGIT"></a> **(OKGIT)** Chandrahas, Partha P. Talukdar. "**OKGIT: Open Knowledge Graph Link Prediction with Implicit Types**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.225/)
+- <a name="OKGIT"></a> **(OKGIT)** Chandrahas, Partha P. Talukdar. "**OKGIT: Open Knowledge Graph Link Prediction with Implicit Types**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.225/) [code](https://github.com/Chandrahasd/OKGIT)
 
 - <a name="PairRE"></a> **(PairRE)** Linlin Chao, Jianshan He, Taifeng Wang, Wei Chu. "**PairRE: Knowledge Graph Embeddings via Paired Relation Vectors**". **ACL/IJCNLP  2021**. [paper](https://aclanthology.org/2021.acl-long.336/) [code](https://github.com/alipay/KnowledgeGraphEmbeddingsViaPairedRelationVectors_PairRE)
 
