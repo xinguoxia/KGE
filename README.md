@@ -1854,7 +1854,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="RED-GNN"></a> **(RED-GNN)** Yongqi Zhang, Quanming Yao. "**Knowledge Graph Reasoning with Relational Digraph**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3512008)
 
-- <a name="SelfKG"></a> **(SelfKG)** Xiao Liu, Haoyun Hong, Xinghao Wang, Zeyi Chen, Evgeny Kharlamov, Yuxiao Dong, Jie Tang. "**SelfKG: Self-Supervised Entity Alignment in Knowledge Graphs**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3511945)
+- <a name="SelfKG"></a> **(SelfKG)** Xiao Liu, Haoyun Hong, Xinghao Wang, Zeyi Chen, Evgeny Kharlamov, Yuxiao Dong, Jie Tang. "**SelfKG: Self-Supervised Entity Alignment in Knowledge Graphs**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3511945) [code](https://github.com/THUDM/SelfKG)
 
 - <a name="TKGC"></a> **(TKGC)** Jiacheng Huang, Yao Zhao, Wei Hu, Zhen Ning, Qijin Chen, Xiaoxia Qiu, Chengfu Huo, Weijun Ren. "**Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Datas**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3511938) [code](https://github.com/nju-websoft/TKGC)
 
