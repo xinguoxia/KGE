@@ -1568,7 +1568,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="PASSLEAF"></a> **(PASSLEAF)** Zhu-Mu Chen, Mi-Yen Yeh, Tei-Wei Kuo. "**PASSLEAF: A Pool-based Semi-Supervised LEArning Framework for Uncertain Knowledge Graph Embedding**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16522)
 
-- <a name="TACT"></a> **(TACT)** Jiajun Chen, Huarui He, Feng Wu, Jie Wang. "**Topology-Aware Correlations Between Relations for Inductive Link Prediction in Knowledge Graphs**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16779)
+- <a name="TACT"></a> **(TACT)** Jiajun Chen, Huarui He, Feng Wu, Jie Wang. "**Topology-Aware Correlations Between Relations for Inductive Link Prediction in Knowledge Graphs**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16779) [code](https://github.com/MIRALab-USTC/KG-TACT)
 
 - <a name="TaRP"></a> **(TaRP)** Zijun Cui, Pavan Kapanipathi, Kartik Talamadupula, Tian Gao, Qiang Ji. "**Type-augmented Relation Prediction in Knowledge Graphs**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16879)
 
