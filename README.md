@@ -1494,7 +1494,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### Engineering Applications of Artificial Intelligence
 
-- <a name="CAFE"></a> **(CAFE)** Agustín Borrego, Daniel Ayala, Inma Hernández, Carlos R. Rivero, David Ruiz. "**CAFE: Knowledge graph completion using neighborhood-aware features**. **Eng. Appl. Artif. Intell. 2021**". **Impact 6.212**. [paper](https://www.sciencedirect.com/science/article/pii/S0952197621001500?via%3Dihub) [code](https://github.com/DEAL-US/CAFE)
+- <a name="CAFE"></a> **(CAFE)** Agustín Borrego, Daniel Ayala, Inma Hernández, Carlos R. Rivero, David Ruiz. "**CAFE: Knowledge graph completion using neighborhood-aware features**". **Eng. Appl. Artif. Intell. 2021**". **Impact 6.212**. [paper](https://www.sciencedirect.com/science/article/pii/S0952197621001500?via%3Dihub) [code](https://github.com/DEAL-US/CAFE)
 
 ##### Neurocomputing 
 
