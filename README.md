@@ -1770,7 +1770,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="KGGen"></a> **(KGGen)** Hao Chen, Chenwei Zhang, Jun Li, Philip S. Yu, Ning Jing. "**KGGen: A Generative Approach for Incipient Knowledge Graph Population**". **IEEE Transactions on Knowledge and Data Engineering 2022**. **Impact 6.976**. [paper](https://ieeexplore.ieee.org/document/9158381)
 
-- <a name="M-DCN"></a> **(M-DCN)** Zhaoli Zhang, Zhifei Li, Hai Liu, Neal N. Xiong. "**Multi-Scale Dynamic Convolutional Network for Knowledge Graph Embedding**". **IEEE Transactions on Knowledge and Data Engineering 2022**. **Impact 6.976**. [paper](https://ieeexplore.ieee.org/document/9130149)
+- <a name="M-DCN"></a> **(M-DCN)** Zhaoli Zhang, Zhifei Li, Hai Liu, Neal N. Xiong. "**Multi-Scale Dynamic Convolutional Network for Knowledge Graph Embedding**". **IEEE Transactions on Knowledge and Data Engineering 2022**. **Impact 6.976**. [paper](https://ieeexplore.ieee.org/document/9130149) [code](https://github.com/zhifei1993/M_DCN)
 
 ##### Knowledge Based Systems
 
@@ -1794,7 +1794,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### Information Processing and Management
 
-- <a name="MHNA"></a> **(MHNA)** Weishan Cai, Yizhao Wang, Shun Mao, Jieyu Zhan, Yuncheng Jiang. "**Multi-heterogeneous neighborhood-aware for Knowledge Graphs alignment**". **Information Processing and Management 2022**. **Impact 6.222**. [paper](https://www.sciencedirect.com/science/article/pii/S0306457321002685?via%3Dihub)
+- <a name="MHNA"></a> **(MHNA)** Weishan Cai, Yizhao Wang, Shun Mao, Jieyu Zhan, Yuncheng Jiang. "**Multi-heterogeneous neighborhood-aware for Knowledge Graphs alignment**". **Information Processing and Management 2022**. **Impact 6.222**. [paper](https://www.sciencedirect.com/science/article/pii/S0306457321002685?via%3Dihub) [code](https://github.com/cwswork/MHNA)
 
 ##### Neurocomputing
 
@@ -1814,7 +1814,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### Applied Intelligence 
 
-- <a name="CTKGC"></a> **(CTKGC)** Jianzhou Feng, Qikai Wei, Jinman Cui, Jing Chen. "**Novel translation knowledge graph completion model based on 2D convolution**". **Applied Intelligence 2022**. **Impact 5.086**. [paper](https://link.springer.com/article/10.1007/s10489-021-02438-8)
+- <a name="CTKGC"></a> **(CTKGC)** Jianzhou Feng, Qikai Wei, Jinman Cui, Jing Chen. "**Novel translation knowledge graph completion model based on 2D convolution**". **Applied Intelligence 2022**. **Impact 5.086**. [paper](https://link.springer.com/article/10.1007/s10489-021-02438-8) [code](https://github.com/mrweiqk/CTKGC)
 
 - <a name="RLPath"></a> **(RLPath)** Ling Chen, Jun Cui, Xing Tang, Yuntao Qian, Yansheng Li, Yongjun Zhang. "**RLPath: a knowledge graph link prediction method using reinforcement learning based attentive relation path searching and representation learning**". **Applied Intelligence 2022**. **Impact 5.086**. [paper](https://link.springer.com/article/10.1007/s10489-021-02672-0)
 
@@ -1824,9 +1824,9 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="AttEt"></a> **(AttEt)** Jianhuan Zhuo, Qiannan Zhu, Yinliang Yue, Yuhong Zhao, Weisi Han. "**A Neighborhood-Attention Fine-grained Entity Typing for Knowledge Graph Completion**". **WSDM 2022**. [paper](https://dl.acm.org/doi/10.1145/3488560.3498395)
 
-- <a name="DualDE"></a> **(DualDE)** Yushan Zhu, Wen Zhang, Mingyang Chen, Hui Chen, Xu Cheng, Wei Zhang, Huajun Chen. "**DualDE: Dually Distilling Knowledge Graph Embedding for Faster and Cheaper Reasoning**". **WSDM 2022**. [paper](https://dl.acm.org/doi/10.1145/3488560.3498437)
+- <a name="DualDE"></a> **(DualDE)** Yushan Zhu, Wen Zhang, Mingyang Chen, Hui Chen, Xu Cheng, Wei Zhang, Huajun Chen. "**DualDE: Dually Distilling Knowledge Graph Embedding for Faster and Cheaper Reasoning**". **WSDM 2022**. [paper](https://dl.acm.org/doi/10.1145/3488560.3498437) [code](https://github.com/YushanZhu/DistilE)
 
-- <a name="EvoKG"></a> **(EvoKG)** Namyong Park, Fuchen Liu, Purvanshi Mehta, Dana Cristofor, Christos Faloutsos, Yuxiao Dong. "**EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs**". **WSDM 2022**. [paper](https://dl.acm.org/doi/10.1145/3488560.3498451)
+- <a name="EvoKG"></a> **(EvoKG)** Namyong Park, Fuchen Liu, Purvanshi Mehta, Dana Cristofor, Christos Faloutsos, Yuxiao Dong. "**EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs**". **WSDM 2022**. [paper](https://dl.acm.org/doi/10.1145/3488560.3498451) [code](https://github.com/NamyongPark/EvoKG)
 
 - <a name="NoGE"></a> **(NoGE)** Dai Quoc Nguyen, Vinh Tong, Dinh Q. Phung, Dat Quoc Nguyen. "**Node Co-occurrence based Graph Neural Networks for Knowledge Graph Link Prediction**". **WSDM 2022**. [paper](https://dl.acm.org/doi/10.1145/3488560.3502183) [code](https://github.com/daiquocnguyen/GNN-NoGE)
 
