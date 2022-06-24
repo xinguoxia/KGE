@@ -1828,7 +1828,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="EvoKG"></a> **(EvoKG)** Namyong Park, Fuchen Liu, Purvanshi Mehta, Dana Cristofor, Christos Faloutsos, Yuxiao Dong. "**EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs**". **WSDM 2022**. [paper](https://dl.acm.org/doi/10.1145/3488560.3498451)
 
-- <a name="NoGE"></a> **(NoGE)** Dai Quoc Nguyen, Vinh Tong, Dinh Q. Phung, Dat Quoc Nguyen. "**Node Co-occurrence based Graph Neural Networks for Knowledge Graph Link Prediction**". **WSDM 2022**. [paper](https://dl.acm.org/doi/10.1145/3488560.3502183)
+- <a name="NoGE"></a> **(NoGE)** Dai Quoc Nguyen, Vinh Tong, Dinh Q. Phung, Dat Quoc Nguyen. "**Node Co-occurrence based Graph Neural Networks for Knowledge Graph Link Prediction**". **WSDM 2022**. [paper](https://dl.acm.org/doi/10.1145/3488560.3502183) [code](https://github.com/daiquocnguyen/GNN-NoGE)
 
 ##### DASFAA
 
