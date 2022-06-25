@@ -1672,7 +1672,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="PathCon"></a> **(PathCon)** Hongwei Wang, Hongyu Ren, Jure Leskovec. "**Relational Message Passing for Knowledge Graph Completion**". **KDD 2021**. [paper](https://dl.acm.org/doi/10.1145/3447548.3467247)
 
-- <a name="RGTN"></a> **(RGTN)** Han Huang, Leilei Sun, Bowen Du, Chuanren Liu, Weifeng Lv, Hui Xiong. "**Representation Learning on Knowledge Graphs for Node Importance Estimation**". **KDD 2021**. [paper](https://dl.acm.org/doi/10.1145/3447548.3467342)
+- <a name="RGTN"></a> **(RGTN)** Han Huang, Leilei Sun, Bowen Du, Chuanren Liu, Weifeng Lv, Hui Xiong. "**Representation Learning on Knowledge Graphs for Node Importance Estimation**". **KDD 2021**. [paper](https://dl.acm.org/doi/10.1145/3447548.3467342) [code](https://github.com/GRAPH-0/RGTN-NIE)
 
 - <a name="T-GAP"></a> **(T-GAP)** Jaehun Jung, Jinhong Jung, U. Kang. "**Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion**". **KDD 2021**. [paper](https://dl.acm.org/doi/10.1145/3447548.3467292) [code](https://github.com/anonymoususer99/T-GAP)
 
