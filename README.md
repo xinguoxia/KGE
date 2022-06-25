@@ -1726,21 +1726,21 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="ST-ConvKB"></a> **(ST-ConvKB)** Jiasheng Zhang, Shuang Liang, Zhiyi Deng, Jie Shao. "**Spatial-Temporal Attention Network for Temporal Knowledge Graph Completion**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_15)
 
-- <a name="TransMTL"></a> **(TransMTL)** Jiaheng Dou, Bing Tian, Yong Zhang, Chunxiao Xing. "**A Novel Embedding Model for Knowledge Graph Completion Based on Multi-Task Learning**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_17)
+- <a name="TransMTL"></a> **(TransMTL)** Jiaheng Dou, Bing Tian, Yong Zhang, Chunxiao Xing. "**A Novel Embedding Model for Knowledge Graph Completion Based on Multi-Task Learning**". **DASFAA 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-73194-6_17) [code](https://github.com/thu-west/MTL-gat)
 
 ##### ECML-PKDD
 
 - <a name="PaGNN"></a> **(PaGNN)** Shuo Yang, Binbin Hu, Zhiqiang Zhang, Wang Sun, Yang Wang, Jun Zhou, Hongyu Shan, Yuetian Cao, Borui Ye, Yanming Fang, Quan Yu. "**Inductive Link Prediction with Interactive Structure Learning on Attributed Graph**". **ECML/PKDD 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-86520-7_24)
 
-- <a name="WD/MMD"></a> **(WD/MMD)** Luu Huu Phuc, Koh Takeuchi, Seiji Okajima, Arseny Tolmachev, Tomoyoshi Takebayashi, Koji Maruhashi, Hisashi Kashima. "**Inter-domain Multi-relational Link Prediction**". **ECML/PKDD 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-86520-7_18)
+- <a name="WD/MMD"></a> **(WD/MMD)** Luu Huu Phuc, Koh Takeuchi, Seiji Okajima, Arseny Tolmachev, Tomoyoshi Takebayashi, Koji Maruhashi, Hisashi Kashima. "**Inter-domain Multi-relational Link Prediction**". **ECML/PKDD 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-86520-7_18) [code](https://github.com/phucdoitoan/inter-domain_lp)
 
 ##### ESWC
 
-- <a name="ConEx"></a> **(ConEx)** Caglar Demir, Axel-Cyrille Ngonga Ngomo. "**Convolutional Complex Knowledge Graph Embeddings**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_24)
+- <a name="ConEx"></a> **(ConEx)** Caglar Demir, Axel-Cyrille Ngonga Ngomo. "**Convolutional Complex Knowledge Graph Embeddings**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_24) [code](https://github.com/dice-group/Convolutional-Complex-Knowledge-Graph-Embeddings) [code](https://github.com/Jean-KOUAGOU/ConEx)
 
-- <a name="RETRA"></a> **(RETRA)** Simon Werner, Achim Rettinger, Lavdim Halilaj, Jürgen Lüttin. "**RETRA: Recurrent Transformers for Learning Temporally Contextualized Knowledge Graph Embeddings**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_25)
+- <a name="RETRA"></a> **(RETRA)** Simon Werner, Achim Rettinger, Lavdim Halilaj, Jürgen Lüttin. "**RETRA: Recurrent Transformers for Learning Temporally Contextualized Knowledge Graph Embeddings**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_25) [code](https://github.com/siwer/Retra)
 
-- <a name="Semantic"></a> **(Semantic)** Nitisha Jain, Jan-Christoph Kalo, Wolf-Tilo Balke, Ralf Krestel. "**Do Embeddings Actually Capture Knowledge Graph Semantics?**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_9)
+- <a name="Semantic"></a> **(Semantic)** Nitisha Jain, Jan-Christoph Kalo, Wolf-Tilo Balke, Ralf Krestel. "**Do Embeddings Actually Capture Knowledge Graph Semantics?**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_9) [code](https://github.com/nitishajain/KGESemanticAnalysis)
 
 - <a name="TransROWL"></a> **(TransROWL)** Claudia d'Amato, Nicola Flavio Quatraro, Nicola Fanizzi. "**Injecting Background Knowledge into Embedding Models for Predictive Tasks on Knowledge Graphs**". **ESWC 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-77385-4_26)
 
