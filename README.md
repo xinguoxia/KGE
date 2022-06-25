@@ -1712,7 +1712,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="REFORM"></a> **(REFORM)** Song Wang, Xiao Huang, Chen Chen, Liang Wu, Jundong Li. "**REFORM: Error-Aware Few-Shot Knowledge Graph Completion**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482470)
 
-- <a name="THML"></a> **(THML)** Shangfei Zheng, Wei Chen, Pengpeng Zhao, An Liu, Junhua Fang, Lei Zhao. "**When Hardness Makes a Difference: Multi-Hop Knowledge Graph Reasoning over Few-Shot Relations**. **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482402)
+- <a name="THML"></a> **(THML)** Shangfei Zheng, Wei Chen, Pengpeng Zhao, An Liu, Junhua Fang, Lei Zhao. "**When Hardness Makes a Difference: Multi-Hop Knowledge Graph Reasoning over Few-Shot Relations**". **CIKM 2021**. [paper](https://dl.acm.org/doi/10.1145/3459637.3482402)
 
 ##### WSDM
 
