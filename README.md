@@ -1762,7 +1762,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="RAW"></a> **(RAW)** Yu Liu, Quanming Yao, Yong Li. "**Role-Aware Modeling for N-ary Relational Knowledge Bases**". **WWW 2021**. [paper](https://dl.acm.org/doi/10.1145/3442381.3449874) [code](https://github.com/liuyuaa/RAM)
 
-- <a name="RETA-Grader"></a> **(RETA-Grader)** Paolo Rosso, Dingqi Yang, Natalia Ostapuk, Philippe Cudré-Mauroux. "**RETA: A Schema-Aware, End-to-End Solution for Instance Completion in Knowledge Graphs**". **WWW 2021**. [paper](https://dl.acm.org/doi/10.1145/3442381.3449883)
+- <a name="RETA-Grader"></a> **(RETA-Grader)** Paolo Rosso, Dingqi Yang, Natalia Ostapuk, Philippe Cudré-Mauroux. "**RETA: A Schema-Aware, End-to-End Solution for Instance Completion in Knowledge Graphs**". **WWW 2021**. [paper](https://dl.acm.org/doi/10.1145/3442381.3449883) [code](https://github.com/eXascaleInfolab/RETA_code)
 		
 - <a name="StAR"></a> **(StAR)** Bo Wang, Tao Shen, Guodong Long, Tianyi Zhou, Ying Wang, Yi Chang. "**Structure-Augmented Text Representation Learning for Efficient Knowledge Graph Completion**". **WWW 2021**. [paper](https://dl.acm.org/doi/10.1145/3442381.3450043) [code](https://github.com/wangbo9719/StAR_KGC)
 
