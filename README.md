@@ -1770,6 +1770,10 @@ Thanks for your attention and kind words! We will update KGE later.
 
 #### Journal
 
+##### Pattern Recognition Letters
+
+- <a name="CORE"></a> **(CORE)** Xiou Ge, Yuncheng Wang, Bin Wang, C.-C. Jay Kuo. "**CORE: A knowledge graph entity type prediction method via complex space regression and embedding**". **PPattern Recognition Letters 2022**. **Impact 8.600**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865522000897?via%3Dihub)
+
 ##### IEEE Transactions on Knowledge and Data Engineering
 
 - <a name="KGGen"></a> **(KGGen)** Hao Chen, Chenwei Zhang, Jun Li, Philip S. Yu, Ning Jing. "**KGGen: A Generative Approach for Incipient Knowledge Graph Population**". **IEEE Transactions on Knowledge and Data Engineering 2022**. **Impact 6.976**. [paper](https://ieeexplore.ieee.org/document/9158381)
