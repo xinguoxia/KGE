@@ -1844,6 +1844,12 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="SS-AGA"></a> **(SS-AGA)** Zijie Huang, Zheng Li, Haoming Jiang, Tianyu Cao, Hanqing Lu, Bing Yin, Karthik Subbian, Yizhou Sun, Wei Wang. "**Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.36/)
 
+##### SIGMOD
+
+- <a name="CompactWalks"></a> **(CompactWalks)** Pei-Yu Hou, Daniel Robert Korn, Cleber C. Melo-Filho, David R. Wright, Alexander Tropsha, Rada Chirkova. "**Compact Walks: Taming Knowledge-Graph Embeddings with Domain- and Task-Specific Pathways**". **SIGMOD 2022**. [paper](https://dl.acm.org/doi/10.1145/3514221.3517903)
+
+- <a name="Kelpie"></a> **(Kelpie)** Andrea Rossi, Donatella Firmani, Paolo Merialdo, Tommaso Teofili. "**Explaining Link Prediction Systems based on Knowledge Graph Embeddings**". **SIGMOD 2022**. [paper](https://dl.acm.org/doi/10.1145/3514221.3517887)
+
 ##### WSDM
 
 - <a name="AttEt"></a> **(AttEt)** Jianhuan Zhuo, Qiannan Zhu, Yinliang Yue, Yuhong Zhao, Weisi Han. "**A Neighborhood-Attention Fine-grained Entity Typing for Knowledge Graph Completion**". **WSDM 2022**. [paper](https://dl.acm.org/doi/10.1145/3488560.3498395)
@@ -1889,6 +1895,10 @@ Thanks for your attention and kind words! We will update KGE later.
 - <a name="SelfKG"></a> **(SelfKG)** Xiao Liu, Haoyun Hong, Xinghao Wang, Zeyi Chen, Evgeny Kharlamov, Yuxiao Dong, Jie Tang. "**SelfKG: Self-Supervised Entity Alignment in Knowledge Graphs**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3511945) [code](https://github.com/THUDM/SelfKG)
 
 - <a name="TKGC"></a> **(TKGC)** Jiacheng Huang, Yao Zhao, Wei Hu, Zhen Ning, Qijin Chen, Xiaoxia Qiu, Chengfu Huo, Weijun Ren. "**Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Datas**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3511938) [code](https://github.com/nju-websoft/TKGC)
+
+##### ICASSP
+
+- <a name="SGI"></a> **(SGI)** Heeyoung Kwak, Hyunkyung Bae, Kyomin Jung. "**Subgraph Representation Learning with Hard Negative Samples for Inductive Link Prediction**". **ICASSP 2022**. [paper](https://ieeexplore.ieee.org/document/9747485)
 
 ## Datasets
 
