@@ -1830,6 +1830,20 @@ Thanks for your attention and kind words! We will update KGE later.
 
 #### Conference
 
+##### ACL
+
+- <a name="CAKE"></a> **(CAKE)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu. "**CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.205/)
+
+- <a name="GenderBias"></a> **(GenderBias)** Yupei Du, Qi Zheng, Yuanbin Wu, Man Lan, Yan Yang, Meirong Ma. "**Understanding Gender Bias in Knowledge Base Embeddings**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.98/)
+
+- <a name="KGT5"></a> **(KGT5)** Apoorv Saxena, Adrian Kochsiek, Rainer Gemulla. "**Sequence-to-Sequence Knowledge Graph Completion and Question Answering**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.201/)
+
+- <a name="RotateQVS"></a> **(RotateQVS)** Kai Chen, Ye Wang, Yitong Li, Aiping Li. "**RotateQVS: Representing Temporal Information as Rotations in Quaternion Vector Space for Temporal Knowledge Graph Completion**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.402/)
+
+- <a name="SimKGC"></a> **(SimKGC)** Liang Wang, Wei Zhao, Zhuoyu Wei, Jingming Liu. "**SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.295/)
+
+- <a name="SS-AGA"></a> **(SS-AGA)** Zijie Huang, Zheng Li, Haoming Jiang, Tianyu Cao, Hanqing Lu, Bing Yin, Karthik Subbian, Yizhou Sun, Wei Wang. "**Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.36/)
+
 ##### WSDM
 
 - <a name="AttEt"></a> **(AttEt)** Jianhuan Zhuo, Qiannan Zhu, Yinliang Yue, Yuhong Zhao, Weisi Han. "**A Neighborhood-Attention Fine-grained Entity Typing for Knowledge Graph Completion**". **WSDM 2022**. [paper](https://dl.acm.org/doi/10.1145/3488560.3498395)
