@@ -1776,7 +1776,13 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="M-DCN"></a> **(M-DCN)** Zhaoli Zhang, Zhifei Li, Hai Liu, Neal N. Xiong. "**Multi-Scale Dynamic Convolutional Network for Knowledge Graph Embedding**". **IEEE Transactions on Knowledge and Data Engineering 2022**. **Impact 6.976**. [paper](https://ieeexplore.ieee.org/document/9130149) [code](https://github.com/zhifei1993/M_DCN)
 
+##### Expert Systems with Applications
+
+- <a name="ComplexGCN"></a> **(ComplexGCN)** Adnan Zeb, Summaya Saif, Junde Chen, Anwar Ul Haq, Zhiguo Gong, Defu Zhang. "**Complex graph convolutional network for link prediction in knowledge graphs**". **Expert Systems with Applications 2022**. **Impact 6.976**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422002548?via%3Dihub)
+
 ##### Knowledge Based Systems
+
+- <a name="HRL"></a> **(HRL)** Anjie Zhu, Deqiang Ouyang, Shuang Liang, Jie Shao. "**Step by step: A hierarchical framework for multi-hop knowledge graph reasoning with reinforcement learning**". **Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122004026?via%3Dihub)
 
 - <a name="JointE"></a> **(JointE)** Zhehui Zhou, Can Wang, Yan Feng, Defang Chen. "**JointE: Jointly utilizing 1D and 2D convolution for knowledge graph embedding**". **Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121011643?via%3Dihub)
 
@@ -1795,6 +1801,8 @@ Thanks for your attention and kind words! We will update KGE later.
 - <a name="DA-GCN"></a> **(DA-GCN)** Jiarui Zhang, Jian Huang, Jialong Gao, Runhai Han, Cong Zhou. "**Knowledge graph embedding by logical-default attention graph convolution neural network for link prediction**". **Information Sciences 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522001153?via%3Dihub)
 
 - <a name="IKGE"></a> **(IKGE)** Byungkook Oh, Seungmin Seo, Jimin Hwang, Dongho Lee, Kyong-Ho Lee. "**Open-world knowledge graph completion for unseen entities and relations via attentive feature aggregation**". **Information Sciences 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552101207X?via%3Dihub)
+
+- <a name="OPRL"></a> **(OPRL)** Pouya Ghiasnezhad Omran, Kerry Taylor, Sergio José Rodríguez Méndez, Armin Haller. "**Active knowledge graph completion**". **Information Sciences 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/pii/S0020025522004479?via%3Dihub)
 
 ##### Information Processing and Management
 
