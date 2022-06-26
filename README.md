@@ -1772,7 +1772,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### Pattern Recognition Letters
 
-- <a name="CORE"></a> **(CORE)** Xiou Ge, Yuncheng Wang, Bin Wang, C.-C. Jay Kuo. "**CORE: A knowledge graph entity type prediction method via complex space regression and embedding**". **PPattern Recognition Letters 2022**. **Impact 8.600**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865522000897?via%3Dihub)
+- <a name="CORE"></a> **(CORE)** Xiou Ge, Yuncheng Wang, Bin Wang, C.-C. Jay Kuo. "**CORE: A knowledge graph entity type prediction method via complex space regression and embedding**". **Pattern Recognition Letters 2022**. **Impact 8.600**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865522000897?via%3Dihub)
 
 ##### IEEE Transactions on Knowledge and Data Engineering
 
@@ -1844,21 +1844,21 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### ACL
 
-- <a name="CAKE"></a> **(CAKE)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu. "**CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.205/)
+- <a name="CAKE"></a> **(CAKE)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu. "**CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.205/) [code](https://github.com/ngl567/CAKE)
 
 - <a name="GenderBias"></a> **(GenderBias)** Yupei Du, Qi Zheng, Yuanbin Wu, Man Lan, Yan Yang, Meirong Ma. "**Understanding Gender Bias in Knowledge Base Embeddings**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.98/)
 
-- <a name="KGT5"></a> **(KGT5)** Apoorv Saxena, Adrian Kochsiek, Rainer Gemulla. "**Sequence-to-Sequence Knowledge Graph Completion and Question Answering**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.201/)
+- <a name="KGT5"></a> **(KGT5)** Apoorv Saxena, Adrian Kochsiek, Rainer Gemulla. "**Sequence-to-Sequence Knowledge Graph Completion and Question Answering**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.201/) [code](https://github.com/apoorvumang/kgt5)
 
 - <a name="RotateQVS"></a> **(RotateQVS)** Kai Chen, Ye Wang, Yitong Li, Aiping Li. "**RotateQVS: Representing Temporal Information as Rotations in Quaternion Vector Space for Temporal Knowledge Graph Completion**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.402/)
 
-- <a name="SimKGC"></a> **(SimKGC)** Liang Wang, Wei Zhao, Zhuoyu Wei, Jingming Liu. "**SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.295/)
+- <a name="SimKGC"></a> **(SimKGC)** Liang Wang, Wei Zhao, Zhuoyu Wei, Jingming Liu. "**SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.295/) [code](https://github.com/intfloat/SimKGC)
 
-- <a name="SS-AGA"></a> **(SS-AGA)** Zijie Huang, Zheng Li, Haoming Jiang, Tianyu Cao, Hanqing Lu, Bing Yin, Karthik Subbian, Yizhou Sun, Wei Wang. "**Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.36/)
+- <a name="SS-AGA"></a> **(SS-AGA)** Zijie Huang, Zheng Li, Haoming Jiang, Tianyu Cao, Hanqing Lu, Bing Yin, Karthik Subbian, Yizhou Sun, Wei Wang. "**Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.36/) [code](https://github.com/amzn/ss-aga-kgc)
 
 ##### SIGMOD
 
-- <a name="CompactWalks"></a> **(CompactWalks)** Pei-Yu Hou, Daniel Robert Korn, Cleber C. Melo-Filho, David R. Wright, Alexander Tropsha, Rada Chirkova. "**Compact Walks: Taming Knowledge-Graph Embeddings with Domain- and Task-Specific Pathways**". **SIGMOD 2022**. [paper](https://dl.acm.org/doi/10.1145/3514221.3517903)
+- <a name="CompactWalks"></a> **(CompactWalks)** Pei-Yu Hou, Daniel Robert Korn, Cleber C. Melo-Filho, David R. Wright, Alexander Tropsha, Rada Chirkova. "**Compact Walks: Taming Knowledge-Graph Embeddings with Domain- and Task-Specific Pathways**". **SIGMOD 2022**. [paper](https://dl.acm.org/doi/10.1145/3514221.3517903) [code](https://github.com/DnlRKorn/sg_regex)
 
 - <a name="Kelpie"></a> **(Kelpie)** Andrea Rossi, Donatella Firmani, Paolo Merialdo, Tommaso Teofili. "**Explaining Link Prediction Systems based on Knowledge Graph Embeddings**". **SIGMOD 2022**. [paper](https://dl.acm.org/doi/10.1145/3514221.3517887)
 
