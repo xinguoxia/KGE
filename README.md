@@ -1868,6 +1868,14 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="TRHyTE"></a> **(TRHyTE)** Lin Yuan, Zhixu Li, Jianfeng Qu, Tingyi Zhang, An Liu, Lei Zhao, Zhigang Chen. "**TRHyTE: Temporal Knowledge Graph Embedding Based on Temporal-Relational Hyperplanes**". **DASFAA 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_10)
 
+##### ESWC
+
+- <a name="Aggregation"></a> **(Aggregation)** Patrick Betz, Christian Meilicke, Heiner Stuckenschmidt. "**Supervised Knowledge Aggregation for Knowledge Graph Completion**". **ESWC 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-06981-9_5)
+
+- <a name="RACE2T"></a> **(RACE2T)** Changlong Zou, Jingmin An, Guanyu Li. "**Knowledge Graph Entity Type Prediction with Relational Aggregation Graph Attention Network**". **ESWC 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-06981-9_3)
+
+- <a name="ST-KGE"></a> **(ST-KGE)** Mojtaba Nayyeri, Sahar Vahdati, Md Tansen Khan, Mirza Mohtashim Alam, Lisa Wenige, Andreas Behrend, Jens Lehmann. "**Dihedron Algebraic Embeddings for Spatio-Temporal Knowledge Graph Completion**". **ESWC 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-06981-9_15)
+
 ##### WWW
 
 - <a name="DiriE"></a> **(DiriE)** Feiyang Wang, Zhongbao Zhang, Li Sun, Junda Ye, Yang Yan. "**DiriE: Knowledge Graph Embedding with Dirichlet Distribution**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3512028)
