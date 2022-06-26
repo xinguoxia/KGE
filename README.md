@@ -1820,6 +1820,8 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="CTKGC"></a> **(CTKGC)** Jianzhou Feng, Qikai Wei, Jinman Cui, Jing Chen. "**Novel translation knowledge graph completion model based on 2D convolution**". **Applied Intelligence 2022**. **Impact 5.086**. [paper](https://link.springer.com/article/10.1007/s10489-021-02438-8) [code](https://github.com/mrweiqk/CTKGC)
 
+- <a name="InterERP"></a> **(InterERP)** Weidong Li, Rong Peng, Zhi Li. "**Improving knowledge graph completion via increasing embedding interactions**". **Applied Intelligence 2022**. **Impact 5.086**. [paper](https://link.springer.com/article/10.1007/s10489-021-02947-6)
+
 - <a name="MMKRL"></a> **(MMKRL)** Xinyu Lu, Lifang Wang, Zejun Jiang, Shichang He, Shizhong Liu. "**MMKRL: A robust embedding approach for multi-modal knowledge graph representation learning**". **Applied Intelligence 2022**. **Impact 5.086**. [paper](https://link.springer.com/article/10.1007/s10489-021-02693-9)
 
 - <a name="RLPath"></a> **(RLPath)** Ling Chen, Jun Cui, Xing Tang, Yuntao Qian, Yansheng Li, Yongjun Zhang. "**RLPath: a knowledge graph link prediction method using reinforcement learning based attentive relation path searching and representation learning**". **Applied Intelligence 2022**. **Impact 5.086**. [paper](https://link.springer.com/article/10.1007/s10489-021-02672-0)
