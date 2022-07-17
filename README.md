@@ -1846,6 +1846,12 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="BoxTE"></a> **(BoxTE)** Johannes Messner, Ralph Abboud, Ismail Ilkan Ceylan. "**Temporal Knowledge Graph Completion Using Box Embeddings**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20746)
 
+- <a name="CFAG"></a> **(CFAG)** Changjian Wang, Xiaofei Zhou, Shirui Pan, Linhua Dong, Zeliang Song, Ying Sha. "**Exploring Relational Semantics for Inductive Knowledge Graph Completion**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20337)
+
+- <a name="CURL"></a> **(CURL)** Denghui Zhang, Zixuan Yuan, Hao Liu, Xiaodong Lin, Hui Xiong. "**Learning to Walk with Dual Agents for Knowledge Graph Reasoning**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20538) [code](https://github.com/RutgersDM/DKGR)
+
+- <a name="ER"></a> **(ER)** Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Qingming Huang. "**ER: Equivariance Regularizer for Knowledge Graph Completion**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20490) [code](https://github.com/Lion-ZS/ER)
+
 ##### ACL
 
 - <a name="CAKE"></a> **(CAKE)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu. "**CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.205/) [code](https://github.com/ngl567/CAKE)
