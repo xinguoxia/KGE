@@ -1842,6 +1842,10 @@ Thanks for your attention and kind words! We will update KGE later.
 
 #### Conference
 
+##### AAAI
+
+- <a name="BoxTE"></a> **(BoxTE)** Johannes Messner, Ralph Abboud, Ismail Ilkan Ceylan. "**Temporal Knowledge Graph Completion Using Box Embeddings**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20746)
+
 ##### ACL
 
 - <a name="CAKE"></a> **(CAKE)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu. "**CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.205/) [code](https://github.com/ngl567/CAKE)
