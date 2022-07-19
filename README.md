@@ -1852,6 +1852,12 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="ER"></a> **(ER)** Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Qingming Huang. "**ER: Equivariance Regularizer for Knowledge Graph Completion**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20490) [code](https://github.com/Lion-ZS/ER)
 
+- <a name="GIE"></a> **(GIE)** Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Xiaochun Cao, Qingming Huang. "**Geometry Interaction Knowledge Graph Embeddings**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20491)
+
+- <a name="PU Learning"></a> **(PU Learning)** Jonas Schouterden, Jessa Bekker, Jesse Davis, Hendrik Blockeel. "**Unifying Knowledge Base Completion with PU Learning to Mitigate the Observation Bias**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20332) [code](https://github.com/ML-KULeuven/KBC-as-PU-Learning)
+
+- <a name="SE-GNN"></a> **(SE-GNN)** Ren Li, Yanan Cao, Qiannan Zhu, Guanqun Bi, Fang Fang, Yi Liu, Qian Li. "**How Does Knowledge Graph Embedding Extrapolate to Unseen Data: A Semantic Evidence View**". **AAAI 2022**. [code](https://github.com/renli1024/SE-GNN)
+
 ##### ACL
 
 - <a name="CAKE"></a> **(CAKE)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu. "**CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.205/) [code](https://github.com/ngl567/CAKE)
