@@ -1858,6 +1858,10 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="SE-GNN"></a> **(SE-GNN)** Ren Li, Yanan Cao, Qiannan Zhu, Guanqun Bi, Fang Fang, Yi Liu, Qian Li. "**How Does Knowledge Graph Embedding Extrapolate to Unseen Data: A Semantic Evidence View**". **AAAI 2022**. [code](https://github.com/renli1024/SE-GNN)
 
+- <a name="TempoQR"></a> **(TempoQR)** Costas Mavromatis, Prasanna Lakkur Subramanyam, Vassilis N. Ioannidis, Adesoji Adeshina, Phillip R. Howard, Tetiana Grinberg, Nagib Hakim, George Karypis. "**TempoQR: Temporal Question Reasoning over Knowledge Graphs**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20526) [code](https://github.com/cmavro/TempoQR)
+
+- <a name="TLogic"></a> **(TLogic)** Yushan Liu, Yunpu Ma, Marcel Hildebrandt, Mitchell Joblin, Volker Tresp. "**TLogic: Temporal Logical Rules for Explainable Link Forecasting on Temporal Knowledge Graphs**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20330) [code](https://github.com/liu-yushan/TLogic)
+
 ##### ACL
 
 - <a name="CAKE"></a> **(CAKE)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu. "**CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.205/) [code](https://github.com/ngl567/CAKE)
