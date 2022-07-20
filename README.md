@@ -1876,6 +1876,14 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="SS-AGA"></a> **(SS-AGA)** Zijie Huang, Zheng Li, Haoming Jiang, Tianyu Cao, Hanqing Lu, Bing Yin, Karthik Subbian, Yizhou Sun, Wei Wang. "**Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.36/) [code](https://github.com/amzn/ss-aga-kgc)
 
+##### ICML
+
+- <a name="NSloss"></a> **(NSloss)** Hidetaka Kamigaito, Katsuhiko Hayashiu. "**Comprehensive Analysis of Negative Sampling in Knowledge Graph Representation Learning**". **ICML 2022**. [paper](https://proceedings.mlr.press/v162/kamigaito22a.html)
+
+- <a name="GNN-QE"></a> **(GNN-QE)** Zhaocheng Zhu, Mikhail Galkin, Zuobai Zhang, Jian Tang. "**Neural-Symbolic Models for Logical Queries on Knowledge Graphs**". **ICML 2022**. [paper](https://proceedings.mlr.press/v162/zhu22c.html)
+
+- <a name="HousE"></a> **(HousE)** Rui Li, Jianan Zhao, Chaozhuo Li, Di He, Yiqi Wang, Yuming Liu, Hao Sun, Senzhang Wang, Weiwei Deng, Yanming Shen, Xing Xie, Qi Zhang. "**HousE: Knowledge Graph Embedding with Householder Parameterization**". **ICML 2022**. [paper](https://proceedings.mlr.press/v162/li22ab.html) [code](https://github.com/rui9812/HousE)
+
 ##### SIGMOD
 
 - <a name="CompactWalks"></a> **(CompactWalks)** Pei-Yu Hou, Daniel Robert Korn, Cleber C. Melo-Filho, David R. Wright, Alexander Tropsha, Rada Chirkova. "**Compact Walks: Taming Knowledge-Graph Embeddings with Domain- and Task-Specific Pathways**". **SIGMOD 2022**. [paper](https://dl.acm.org/doi/10.1145/3514221.3517903) [code](https://github.com/DnlRKorn/sg_regex)
