@@ -1864,11 +1864,21 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### ACL
 
+- <a name="AS"></a> **(AS)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu. "**Knowledge Graph Embedding by Adaptive Limit Scoring Loss Using Dynamic Weighting Strategy**". **ACL (Findings) 2022**. [paper](https://aclanthology.org/2022.findings-acl.91/)
+
 - <a name="CAKE"></a> **(CAKE)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu. "**CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.205/) [code](https://github.com/ngl567/CAKE)
+
+- <a name="CEN"></a> **(CEN)** Zixuan Li, Saiping Guan, Xiaolong Jin, Weihua Peng, Yajuan Lyu, Yong Zhu, Long Bai, Wei Li, Jiafeng Guo, Xueqi Cheng. "**Complex Evolutional Pattern Learning for Temporal Knowledge Graph Reasoning**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-short.32/) [code](https://github.com/lee-zix/cen)
+
+- <a name="CogKGE"></a> **(CogKGE)** Zhuoran Jin, Tianyi Men, Hongbang Yuan, Zhitao He, Dianbo Sui, Chenhao Wang, Zhipeng Xue, Yubo Chen, Jun Zhao. "**CogKGE: A Knowledge Graph Embedding Toolkit and Benchmark for Representing Multi-source and Heterogeneous Knowledge**". **ACL (demo) 2022**. [paper](https://aclanthology.org/2022.acl-demo.16/) [code](https://github.com/jinzhuoran/cogkge)
 
 - <a name="GenderBias"></a> **(GenderBias)** Yupei Du, Qi Zheng, Yuanbin Wu, Man Lan, Yan Yang, Meirong Ma. "**Understanding Gender Bias in Knowledge Base Embeddings**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.98/)
 
 - <a name="KGT5"></a> **(KGT5)** Apoorv Saxena, Adrian Kochsiek, Rainer Gemulla. "**Sequence-to-Sequence Knowledge Graph Completion and Question Answering**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.201/) [code](https://github.com/apoorvumang/kgt5)
+
+- <a name="MEKER"></a> **(MEKER)** Viktoria Chekalina, Anton Razzhigaev, Albert Sayapin, Evgeny Frolov, Alexander Panchenko. "**MEKER: Memory Efficient Knowledge Embedding Representation for Link Prediction and Question Answering**". **ACL (student) 2022**. [paper](https://aclanthology.org/2022.acl-srw.27/)
+
+- <a name="PKGC"></a> **(PKGC)** Xin Lv, Yankai Lin, Yixin Cao, Lei Hou, Juanzi Li, Zhiyuan Liu, Peng Li, Jie Zhou. "**Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach**". **ACL (Findings) 2022**. [paper](https://aclanthology.org/2022.findings-acl.282/) [code](https://github.com/thu-keg/pkgc)
 
 - <a name="RotateQVS"></a> **(RotateQVS)** Kai Chen, Ye Wang, Yitong Li, Aiping Li. "**RotateQVS: Representing Temporal Information as Rotations in Quaternion Vector Space for Temporal Knowledge Graph Completion**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.402/)
 
