@@ -1904,13 +1904,13 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="ConGLR"></a> **(ConGLR)** Qika Lin, Jun Liu, Fangzhi Xu, Yudai Pan, Yifan Zhu, Lingling Zhang, Tianzhe Zhao. "**Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction**". **SIGIR 2022**. [paper](https://dl.acm.org/doi/10.1145/3477495.3531996)
 
+- <a name="KGC Sparsity"></a> **(KGC Sparsity)** Ying Zhou, Xuanang Chen, Ben He, Zheng Ye, Le Sun. "**Re-thinking Knowledge Graph Completion Evaluation from an Information Retrieval Perspective**". **SIGIR 2022**. [paper](https://dl.acm.org/doi/10.1145/3477495.3532052) [code](https://github.com/zhouying20/kgc-sparsity)
+
 - <a name="MKGformer"></a> **(MKGformer)** Xiang Chen, Ningyu Zhang, Lei Li, Shumin Deng, Chuanqi Tan, Changliang Xu, Fei Huang, Luo Si, Huajun Chen. "**Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion**". **SIGIR 2022**. [paper](https://dl.acm.org/doi/10.1145/3477495.3531992) [code](https://github.com/zjunlp/MKGformer)
 
 - <a name="MorsE"></a> **(MorsE)** Mingyang Chen, Wen Zhang, Yushan Zhu, Hongting Zhou, Zonggang Yuan, Changliang Xu, Huajun Chen. "**Meta-Knowledge Transfer for Inductive Knowledge Graph Embedding**". **SIGIR 2022**. [paper](https://dl.acm.org/doi/10.1145/3477495.3531757) [code](https://github.com/zjukg/MorsE)
 
 - <a name="NeuralKG"></a> **(NeuralKG)** Wen Zhang, Xiangnan Chen, Zhen Yao, Mingyang Chen, Yushan Zhu, Hongtao Yu, Yufeng Huang, Yajing Xu, Ningyu Zhang, Zezhong Xu, Zonggang Yuan, Feiyu Xiong, Huajun Chen. "**NeuralKG: An Open Source Library for Diverse Representation Learning of Knowledge Graphs**". **SIGIR 2022**. [paper](https://dl.acm.org/doi/10.1145/3477495.3531669) [code](https://github.com/zjukg/NeuralKG)
-
-- <a name="KGC Sparsity"></a> **(KGC Sparsity)** Ying Zhou, Xuanang Chen, Ben He, Zheng Ye, Le Sun. "**Re-thinking Knowledge Graph Completion Evaluation from an Information Retrieval Perspective**". **SIGIR 2022**. [paper](https://dl.acm.org/doi/10.1145/3477495.3532052) [code](https://github.com/zhouying20/kgc-sparsity)
 
 ##### WSDM
 
