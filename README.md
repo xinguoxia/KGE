@@ -1900,6 +1900,10 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="Kelpie"></a> **(Kelpie)** Andrea Rossi, Donatella Firmani, Paolo Merialdo, Tommaso Teofili. "**Explaining Link Prediction Systems based on Knowledge Graph Embeddings**". **SIGMOD 2022**. [paper](https://dl.acm.org/doi/10.1145/3514221.3517887)
 
+##### SIGIR
+
+- <a name="ConGLR"></a> **(ConGLR)** Qika Lin, Jun Liu, Fangzhi Xu, Yudai Pan, Yifan Zhu, Lingling Zhang, Tianzhe Zhao. "**Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction**". **SIGIR 2022**. [paper](https://dl.acm.org/doi/10.1145/3477495.3531996)
+
 ##### WSDM
 
 - <a name="AttEt"></a> **(AttEt)** Jianhuan Zhuo, Qiannan Zhu, Yinliang Yue, Yuhong Zhao, Weisi Han. "**A Neighborhood-Attention Fine-grained Entity Typing for Knowledge Graph Completion**". **WSDM 2022**. [paper](https://dl.acm.org/doi/10.1145/3488560.3498395)
