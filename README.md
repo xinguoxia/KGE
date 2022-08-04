@@ -618,6 +618,12 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ### 2016
 
+#### Journal
+
+##### Data Mining and Knowledge Discovery
+
+- <a name="ARIMA"></a> **(ARIMA)** Ismail Günes, Sule Gündüz Ögüdücü, Zehra Çataltepe. "**Link prediction using time series of neighborhood-based node similarity scores**". **Data Mining and Knowledge Discovery 2016**. **Impact 5.406**. [paper](https://link.springer.com/article/10.1007/s10618-015-0407-0)
+
 #### Conference
 
 ##### AAAI
@@ -1813,6 +1819,12 @@ Thanks for your attention and kind words! We will update KGE later.
 - <a name="MHNA"></a> **(MHNA)** Weishan Cai, Yizhao Wang, Shun Mao, Jieyu Zhan, Yuncheng Jiang. "**Multi-heterogeneous neighborhood-aware for Knowledge Graphs alignment**". **Information Processing and Management 2022**. **Impact 6.222**. [paper](https://www.sciencedirect.com/science/article/pii/S0306457321002685?via%3Dihub) [code](https://github.com/cwswork/MHNA)
 
 ##### Neurocomputing
+
+- <a name="KCGAN"></a> **(KCGAN)** Tehseen Zia, David Windridge. "**A generative adversarial network for single and multi-hop distributional knowledge base completion**". **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221009577?via%3Dihub)
+
+- <a name="HYPER2"></a> **(HYPER2)** Shiyao Yan, Zequn Zhang, Xian Sun, Guangluan Xu, Li Jin, Shuchao Li. "**HYPER2: Hyperbolic embedding for hyper-relational link prediction**". **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003940?via%3Dihub)
+
+- <a name="PEKGE"></a> **(PEKGE)** Yinquan Wang, Yao Chen, Zhe Zhang, Tian Wang. "**A probabilistic ensemble approach for knowledge graph embedding**". **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222007494?via%3Dihub)
 
 - <a name="DensE"></a> **(DensE)** Haonan Lu, Hailin Hu, Xiaodong Lin. "**DensE: An enhanced non-commutative representation for knowledge graph embedding with adaptive semantic hierarchy**". **Neurocomputing 2022**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221019342?via%3Dihub)
 
