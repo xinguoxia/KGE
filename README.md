@@ -1842,7 +1842,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="DensE"></a> **(DensE)** Haonan Lu, Hailin Hu, Xiaodong Lin. "**DensE: An enhanced non-commutative representation for knowledge graph embedding with adaptive semantic hierarchy**". **Neurocomputing 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221019342?via%3Dihub)
 
- <a name="EC"></a> **(EC)** Guanglin Niu, Bo Li, Yongfei Zhang, Yongpan Sheng, Chuan Shi, Jingyang Li, Shiliang Pu. "**Joint semantics and data-driven path representation for knowledge graph reasoning**".  **Neurocomputing 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001515?via%3Dihub)
+- <a name="EC"></a> **(EC)** Guanglin Niu, Bo Li, Yongfei Zhang, Yongpan Sheng, Chuan Shi, Jingyang Li, Shiliang Pu. "**Joint semantics and data-driven path representation for knowledge graph reasoning**".  **Neurocomputing 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001515?via%3Dihub)
 
 - <a name="HSKGCN"></a> **(HSKGCN)** Shuanglong Yao, Dechang Pi, Junfu Chen. "**Knowledge embedding via hyperbolic skipped graph convolutional networks**". **Neurocomputing 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222000546?via%3Dihub)
 
