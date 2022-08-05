@@ -1820,6 +1820,8 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="JointE"></a> **(JointE)** Zhehui Zhou, Can Wang, Yan Feng, Defang Chen. "**JointE: Jointly utilizing 1D and 2D convolution for knowledge graph embedding**". **Knowledge Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121011643?via%3Dihub)
 
+- <a name="KANE"></a> **(KANE)** Wenqiang Liu, Hongyun Cai, Xu Cheng, Sifa Xie, Yipeng Yu, dukehyzhang. "**Learning high-order structural and attribute information by knowledge graph attention networks for enhancing knowledge graph embedding**". **Knowledge Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122004853?via%3Dihub)
+
 - <a name="QLogicE"></a> **(QLogicE)** Panfeng Chen, Yisong Wang, Xiaomin Yu, Renyan Feng. "**QLogicE: Quantum Logic Empowered Embedding for Knowledge Graph Completion**". **Knowledge Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010911?via%3Dihub)
 
 - <a name="ReflectE"></a> **(ReflectE)** Qianjin Zhang, Ronggui Wang, Juan Yang, Lixia Xue. "**Knowledge graph embedding by reflection transformation**". **Knowledge Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010418?via%3Dihub)
