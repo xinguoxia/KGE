@@ -1808,6 +1808,8 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="ComplexGCN"></a> **(ComplexGCN)** Adnan Zeb, Summaya Saif, Junde Chen, Anwar Ul Haq, Zhiguo Gong, Defu Zhang. "**Complex graph convolutional network for link prediction in knowledge graphs**". **Expert Systems with Applications 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422002548?via%3Dihub)
 
+- <a name="GN+DN"></a> **(GN+DN)** Lu Liu, Jiehang Zeng, Xiaoqing Zheng. "**Learning structured embeddings of knowledge graphs with generative adversarial framework**". **Expert Systems with Applications 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422007138?via%3Dihub)
+
 ##### Knowledge Based Systems
 
 - <a name="DKGE"></a> **(DKGE)** Tianxing Wu, Arijit Khan, Melvin Yong, Guilin Qi, Meng Wang. "**Efficiently embedding dynamic knowledge graphs**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122005548?via%3Dihub)
