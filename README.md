@@ -574,6 +574,12 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ### 2015
 
+#### Journal
+
+##### Data Mining and Knowledge Discovery
+
+- <a name="GCTF"></a> **(GCTF)** Beyza Ermis, Evrim Acar, Ali Taylan Cemgil. "**Link prediction in heterogeneous data via generalized coupled tensor factorization**". **Data Mining and Knowledge Discovery 2015**. [paper](https://link.springer.com/article/10.1007/s10618-013-0341-y)
+
 #### Conference
 
 ##### ICLR
@@ -622,7 +628,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### Data Mining and Knowledge Discovery
 
-- <a name="ARIMA"></a> **(ARIMA)** Ismail Günes, Sule Gündüz Ögüdücü, Zehra Çataltepe. "**Link prediction using time series of neighborhood-based node similarity scores**". **Data Mining and Knowledge Discovery 2016**. **Impact 5.406**. [paper](https://link.springer.com/article/10.1007/s10618-015-0407-0)
+- <a name="ARIMA"></a> **(ARIMA)** Ismail Günes, Sule Gündüz Ögüdücü, Zehra Çataltepe. "**Link prediction using time series of neighborhood-based node similarity scores**". **Data Mining and Knowledge Discovery 2016**. [paper](https://link.springer.com/article/10.1007/s10618-015-0407-0)
 
 #### Conference
 
@@ -700,25 +706,25 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### Information Sciences
 
-- <a name="LPMR"></a> **(LPMR)** Caiyan Dai, Ling Chen, Bin Li, Yun Li. "**Link prediction in multi-relational networks based on relational similarity**". **Inf. Sci. 2017**. **Impact 5.910**. [paper](https://www.sciencedirect.com/science/article/pii/S0020025517304139?via%3Dihub) :fire:
-
-##### Knowledge-based Systems
-
-- <a name="searchWeb"></a> **(searchWeb)** Lidong Bing, Zhiming Zhang, Wai Lam, William W. Cohen. "**Towards a language-independent solution: Knowledge base completion by searching the Web and deriving language pattern**". **Knowl. Based Syst. 2017**. **Impact 5.921**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705116303859?via%3Dihub)
+- <a name="LPMR"></a> **(LPMR)** Caiyan Dai, Ling Chen, Bin Li, Yun Li. "**Link prediction in multi-relational networks based on relational similarity**". **Information Sciences 2017**.  [paper](https://www.sciencedirect.com/science/article/pii/S0020025517304139?via%3Dihub) :fire:
 
 ##### IEEE Transactions on Knowledge and Data Engineering
 
-- <a name="SSE"></a> **(SSE)** Shu Guo, Quan Wang, Bin Wang, Lihong Wang, Li Guo. "**SSE: Semantically Smooth Embedding for Knowledge Graphs**". **IEEE Trans. Knowl. Data Eng. 2017**. **Impact 4.935**. [paper](https://ieeexplore.ieee.org/document/7779046) :fire:
+- <a name="SSE"></a> **(SSE)** Shu Guo, Quan Wang, Bin Wang, Lihong Wang, Li Guo. "**SSE: Semantically Smooth Embedding for Knowledge Graphs**". **IEEE Transactions on Knowledge and Data Engineering 2017**. [paper](https://ieeexplore.ieee.org/document/7779046) :fire:
 
-- <a name="TRANSFER"></a> **(TRANSFER)** Xiaochi Wei, Heyan Huang, Liqiang Nie, Hanwang Zhang, Xianling Mao, Tat-Seng Chua. "**I Know What You Want to Express: Sentence Element Inference by Incorporating External Knowledge Base**". **IEEE Trans. Knowl. Data Eng. 2017**. **Impact 4.935**. [paper](https://ieeexplore.ieee.org/document/7723822) [code](https://datapublication.wixsite.com/transfer)
+- <a name="TRANSFER"></a> **(TRANSFER)** Xiaochi Wei, Heyan Huang, Liqiang Nie, Hanwang Zhang, Xianling Mao, Tat-Seng Chua. "**I Know What You Want to Express: Sentence Element Inference by Incorporating External Knowledge Base**". **IEEE Transactions on Knowledge and Data Engineering 2017**. [paper](https://ieeexplore.ieee.org/document/7723822) [code](https://datapublication.wixsite.com/transfer)
+
+##### Knowledge-based Systems
+
+- <a name="searchWeb"></a> **(searchWeb)** Lidong Bing, Zhiming Zhang, Wai Lam, William W. Cohen. "**Towards a language-independent solution: Knowledge base completion by searching the Web and deriving language pattern**". **Knowledge-based Systems 2017**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705116303859?via%3Dihub)
 
 ##### Neurocomputing
 
-- <a name="TransPES"></a> **(TransPES)** Yu Wu, Tingting Mu, John Yannis Goulermas. "**Translating on pairwise entity space for knowledge graph embedding**". **Neurocomputing 2017**. **Impact 4.438**. [paper](https://www.sciencedirect.com/science/article/pii/S0925231217307968?via%3Dihub) [code](https://github.com/while519/TranPES)
+- <a name="TransPES"></a> **(TransPES)** Yu Wu, Tingting Mu, John Yannis Goulermas. "**Translating on pairwise entity space for knowledge graph embedding**". **Neurocomputing 2017**. [paper](https://www.sciencedirect.com/science/article/pii/S0925231217307968?via%3Dihub) [code](https://github.com/while519/TranPES)
 
 ##### Journal of Machine Learning Research
 
-- <a name="ComplEx"></a> **(ComplEx)** Théo Trouillon, Christopher R. Dance, Éric Gaussier, Johannes Welbl, Sebastian Riedel, Guillaume Bouchard. "**Knowledge Graph Completion via Complex Tensor Factorization**". **J. Mach. Learn. Res. 2017**. **Impact 3.484**. [paper](http://jmlr.org/papers/v18/16-563.html) [code](https://github.com/ttrouill/complex) :fire:
+- <a name="ComplEx"></a> **(ComplEx)** Théo Trouillon, Christopher R. Dance, Éric Gaussier, Johannes Welbl, Sebastian Riedel, Guillaume Bouchard. "**Knowledge Graph Completion via Complex Tensor Factorization**". **Journal of Machine Learning Research 2017**. [paper](http://jmlr.org/papers/v18/16-563.html) [code](https://github.com/ttrouill/complex)
 
 #### Conference
 
@@ -808,11 +814,11 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### Knowledge-based Systems
 
-- <a name="PaSKoGE"></a> **(PaSKoGE)** Yantao Jia, Yuanzhuo Wang, Xiaolong Jin, Xueqi Cheng. "**Path-specific knowledge graph embedding**". **Knowl. Based Syst. 2018**. **Impact 5.921**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705118301448?via%3Dihub)
+- <a name="PaSKoGE"></a> **(PaSKoGE)** Yantao Jia, Yuanzhuo Wang, Xiaolong Jin, Xueqi Cheng. "**Path-specific knowledge graph embedding**". **Knowledge-based Systems 2018**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705118301448?via%3Dihub)
 
 ##### Cognitive Computation
 
-- <a name="VBNTD"></a> **(VBNTD)** Lirong He, Bin Liu, Guangxi Li, Yongpan Sheng, Yafang Wang, Zenglin Xu. "**Knowledge Base Completion by Variational Bayesian Neural Tensor Decomposition**". **Cogn. Comput. 2018**. **Impact 4.287**. [paper](https://link.springer.com/article/10.1007%2Fs12559-018-9565-x) :fire:
+- <a name="VBNTD"></a> **(VBNTD)** Lirong He, Bin Liu, Guangxi Li, Yongpan Sheng, Yafang Wang, Zenglin Xu. "**Knowledge Base Completion by Variational Bayesian Neural Tensor Decomposition**". **Cognitive Computation 2018**. [paper](https://link.springer.com/article/10.1007%2Fs12559-018-9565-x) :fire:
 
 #### Conference
 
@@ -948,29 +954,29 @@ Thanks for your attention and kind words! We will update KGE later.
 
 #### Journal
 
-##### Future Generation Computer Systems
+##### Applied Soft Computing
 
-- <a name="TKGE"></a> **(TKGE)** Binling Nie, Shouqian Sun. "**Knowledge graph embedding via reasoning over entities, relations, and text**". **Future Gener. Comput. Syst. 2019**. **Impact 6.125**. [paper](https://www.sciencedirect.com/science/article/pii/S0167739X17321593?via%3Dihub) :fire:
+- <a name="ProjFE"></a> **(ProjFE)** Huajing Liu, Luyi Bai, Xiangnan Ma, Wenting Yu, Changming Xu. "**ProjFE: Prediction of fuzzy entity and relation for knowledge graph completion**". **Applied Soft Computing 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S1568494619302959?via%3Dihub)
 
 ##### Knowledge-based Systems
 
-- <a name="KEC"></a> **(KEC)** Niannian Guan, Dandan Song, Lejian Liao. "**Knowledge graph embedding with concepts**". **Knowl. Based Syst. 2019**. **Impact 5.921**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705118304945?via%3Dihub) :fire: :boom:
+- <a name="KEC"></a> **(KEC)** Niannian Guan, Dandan Song, Lejian Liao. "**Knowledge graph embedding with concepts**". **Knowledge-based Systems 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705118304945?via%3Dihub) :fire: :boom:
 
-##### Applied Soft Computing
+##### Future Generation Computer Systems
 
-- <a name="ProjFE"></a> **(ProjFE)** Huajing Liu, Luyi Bai, Xiangnan Ma, Wenting Yu, Changming Xu. "**ProjFE: Prediction of fuzzy entity and relation for knowledge graph completion**". **Appl. Soft Comput. 2019**. **Impact 5.472**. [paper](https://www.sciencedirect.com/science/article/pii/S1568494619302959?via%3Dihub)
+- <a name="TKGE"></a> **(TKGE)** Binling Nie, Shouqian Sun. "**Knowledge graph embedding via reasoning over entities, relations, and text**". **Future Generation Computer Systems 2019**. [paper](https://www.sciencedirect.com/science/article/pii/S0167739X17321593?via%3Dihub) :fire:
 
 ##### Information Processing and Management
 
-- <a name="MKRL"></a> **(MKRL)** Xing Tang, Ling Chen, Jun Cui, Baogang Wei. "**Knowledge representation learning with entity descriptions, hierarchical types, and textual relations**". **Inf. Process. Manag. 2019**. **Impact 4.787**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457318303698?via%3Dihub)
-
-##### Neural Computing and Applications
-
-- <a name="RPE"></a> **(RPE)** Xixun Lin, Yanchun Liang, Fausto Giunchiglia, Xiaoyue Feng, Renchu Guan. "**Relation path embedding in knowledge graphs**". **Neural Comput. Appl. 2019**. **Impact 4.774**. [paper](https://link.springer.com/article/10.1007%2Fs00521-018-3384-6)
+- <a name="MKRL"></a> **(MKRL)** Xing Tang, Ling Chen, Jun Cui, Baogang Wei. "**Knowledge representation learning with entity descriptions, hierarchical types, and textual relations**". **Information Processing and Management 2019**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457318303698?via%3Dihub)
 
 ##### Journal of Machine Learning Research
 
-- Chengchun Shi, Wenbin Lu, Rui Song. "**Determining the Number of Latent Factors in Statistical Multi-Relational Learning**". **J. Mach. Learn. Res. 2019**. **Impact 3.484**. [paper](http://jmlr.org/papers/v20/18-037.html)
+- Chengchun Shi, Wenbin Lu, Rui Song. "**Determining the Number of Latent Factors in Statistical Multi-Relational Learning**". **Journal of Machine Learning Research 2019**. [paper](http://jmlr.org/papers/v20/18-037.html)
+
+##### Neural Computing and Applications
+
+- <a name="RPE"></a> **(RPE)** Xixun Lin, Yanchun Liang, Fausto Giunchiglia, Xiaoyue Feng, Renchu Guan. "**Relation path embedding in knowledge graphs**". **Neural Computing and Applications 2019**. [paper](https://link.springer.com/article/10.1007%2Fs00521-018-3384-6)
 
 #### Conference
 
