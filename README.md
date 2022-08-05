@@ -1776,11 +1776,17 @@ Thanks for your attention and kind words! We will update KGE later.
 
 #### Journal
 
+##### IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+- <a name="HeteHG-VAE"></a> **(HeteHG-VAE)** Haoyi Fan, Fengbin Zhang, Yuxuan Wei, Zuoyong Li, Changqing Zou, Yue Gao, Qionghai Dai. "**Heterogeneous Hypergraph Variational Autoencoder for Link Prediction**". **IIEEE Transactions on Pattern Analysis and Machine Intelligence 2022**. **Impact 24.316**. [paper](https://ieeexplore.ieee.org/document/9354594) [code](https://github.com/haoyfan/HeteHG-VAE)
+
 ##### Pattern Recognition Letters
 
 - <a name="CORE"></a> **(CORE)** Xiou Ge, Yuncheng Wang, Bin Wang, C.-C. Jay Kuo. "**CORE: A knowledge graph entity type prediction method via complex space regression and embedding**". **Pattern Recognition Letters 2022**. **Impact 8.600**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865522000897?via%3Dihub)
 
 ##### IEEE Transactions on Knowledge and Data Engineering
+
+- <a name="C-RNN"></a> **(C-RNN)** Qiannan Zhu, Xiaofei Zhou, Jianlong Tan, Li Guo. "**Knowledge Base Reasoning with Convolutional-Based Recurrent Neural Networks**". **IEEE Transactions on Knowledge and Data Engineering 2022**. **Impact 9.235**. [paper](https://ieeexplore.ieee.org/document/8890615)
 
 - <a name="KGGen"></a> **(KGGen)** Hao Chen, Chenwei Zhang, Jun Li, Philip S. Yu, Ning Jing. "**KGGen: A Generative Approach for Incipient Knowledge Graph Population**". **IEEE Transactions on Knowledge and Data Engineering 2022**. **Impact 6.976**. [paper](https://ieeexplore.ieee.org/document/9158381)
 
@@ -1789,6 +1795,8 @@ Thanks for your attention and kind words! We will update KGE later.
 ##### Expert Systems with Applications
 
 - <a name="ComplexGCN"></a> **(ComplexGCN)** Adnan Zeb, Summaya Saif, Junde Chen, Anwar Ul Haq, Zhiguo Gong, Defu Zhang. "**Complex graph convolutional network for link prediction in knowledge graphs**". **Expert Systems with Applications 2022**. **Impact 6.976**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422002548?via%3Dihub)
+
+- <a name="BTDG"></a> **(BTDG)** Yujing Lai, Chuan Chen, Zibin Zheng, Yangqing Zhang. "**Block term decomposition with distinct time granularities for temporal knowledge graph completion**". **Expert Systems with Applications 2022**. **Impact 8.665**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422004511?via%3Dihub)
 
 ##### Knowledge Based Systems
 
@@ -1806,6 +1814,12 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="TuckERT"></a> **(TuckERT)** Pengpeng Shao, Dawei Zhang, Guohua Yang, Jianhua Tao, Feihu Che, Tong Liu. "**Tucker decomposition-based temporal knowledge graph completion**". **Knowledge Based Systems 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010303?via%3Dihub)
 
+- <a name="SNS"></a> **(SNS)** Md. Kamrul Islam, Sabeur Aridhi, Malika Smaïl-Tabbone. "**Negative sampling and rule mining for explainable link prediction in knowledge graphs**". **Knowledge-Based Systems 2022**. **Impact 8.139**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122005342?via%3Dihub)
+
+- <a name="EIGAT"></a> **(EIGAT)** Yu Zhao, Huali Feng, Han Zhou, Yanruo Yang, Xingyan Chen, Ruobing Xie, Fuzhen Zhuang, Qing Li. "**EIGAT: Incorporating global information in local attention for knowledge representation learning**". **Knowledge-Based Systems 2022**. **Impact 8.139**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010649?via%3Dihub) 
+
+- <a name="DKGE"></a> **(DKGE)** Tianxing Wu, Arijit Khan, Melvin Yong, Guilin Qi, Meng Wang. "**Efficiently embedding dynamic knowledge graphs**". **Knowledge-Based Systems 2022**. **Impact 8.139**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122005548?via%3Dihub)
+
 ##### Information Sciences
 
 - <a name="DA-GCN"></a> **(DA-GCN)** Jiarui Zhang, Jian Huang, Jialong Gao, Runhai Han, Cong Zhou. "**Knowledge graph embedding by logical-default attention graph convolution neural network for link prediction**". **Information Sciences 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522001153?via%3Dihub)
@@ -1813,6 +1827,10 @@ Thanks for your attention and kind words! We will update KGE later.
 - <a name="IKGE"></a> **(IKGE)** Byungkook Oh, Seungmin Seo, Jimin Hwang, Dongho Lee, Kyong-Ho Lee. "**Open-world knowledge graph completion for unseen entities and relations via attentive feature aggregation**". **Information Sciences 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552101207X?via%3Dihub)
 
 - <a name="OPRL"></a> **(OPRL)** Pouya Ghiasnezhad Omran, Kerry Taylor, Sergio José Rodríguez Méndez, Armin Haller. "**Active knowledge graph completion**". **Information Sciences 2022**. **Impact 6.795**. [paper](https://www.sciencedirect.com/science/article/pii/S0020025522004479?via%3Dihub)
+
+##### IEEE Intelligent Systems
+
+- <a name="HRL"></a> **(HRL)** Zikang Wang, Linjing Li, Daniel Dajun Zeng. "**Hierarchical Multihop Reasoning on Knowledge Graphs**". **IEEE Intelligent Systems 2022**. **Impact 6.744**. [paper](https://ieeexplore.ieee.org/document/9478191)
 
 ##### Information Processing and Management
 
@@ -1851,6 +1869,10 @@ Thanks for your attention and kind words! We will update KGE later.
 - <a name="MMKRL"></a> **(MMKRL)** Xinyu Lu, Lifang Wang, Zejun Jiang, Shichang He, Shizhong Liu. "**MMKRL: A robust embedding approach for multi-modal knowledge graph representation learning**". **Applied Intelligence 2022**. **Impact 5.086**. [paper](https://link.springer.com/article/10.1007/s10489-021-02693-9)
 
 - <a name="RLPath"></a> **(RLPath)** Ling Chen, Jun Cui, Xing Tang, Yuntao Qian, Yansheng Li, Yongjun Zhang. "**RLPath: a knowledge graph link prediction method using reinforcement learning based attentive relation path searching and representation learning**". **Applied Intelligence 2022**. **Impact 5.086**. [paper](https://link.springer.com/article/10.1007/s10489-021-02672-0)
+
+##### Pattern Recognition Letters
+
+- <a name=" KGBoost"></a> **( KGBoost)** Yuncheng Wang, Xiou Ge, Bin Wang, C.-C. Jay Kuo. "**KGBoost: A classification-based knowledge base completion method with negative sampling**". **Pattern Recognition Letters 2022**. **Impact 4.757**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865522000939?via%3Dihub)
 
 #### Conference
 
