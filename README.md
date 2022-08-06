@@ -1170,6 +1170,10 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="PRCTA"></a> **(PRCTA)** Kai Lei, Jin Zhang, Yuexiang Xie, Desi Wen, Daoyuan Chen, Min Yang, Ying Shen. "**Path-based reasoning with constrained type attention for knowledge graph completion**". **Neural Computing and Applications 2020**. [paper](https://link.springer.com/article/10.1007%2Fs00521-019-04181-1)
 
+##### Applied Intelligence 
+
+- <a name="CILKBC"></a> **(CILKBC)** Hongbin Wang, Shengchen Jiang, Zhengtao Yu. "**Modeling of complex internal logic for knowledge base completion**". **Applied Intelligence 2020**. [paper](https://link.springer.com/article/10.1007/s10489-020-01734-z)
+
 #### Conference
 
 ##### ICLR
