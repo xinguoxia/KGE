@@ -1884,6 +1884,8 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="KGBoost"></a> **(KGBoost)** Yuncheng Wang, Xiou Ge, Bin Wang, C.-C. Jay Kuo. "**KGBoost: A classification-based knowledge base completion method with negative sampling**". **Pattern Recognition Letters 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865522000939?via%3Dihub)
 
+- <a name="RLKB"></a> **(RLKB)** Miao Fan, Qiang Zhou, Thomas Fang Zheng, Ralph Grishman. "**Distributed representation learning for knowledge graphs with entity descriptions**". **Pattern Recognition Letters 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865516302380?via%3Dihub)
+
 #### Conference
 
 ##### AAAI
