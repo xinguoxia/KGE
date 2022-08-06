@@ -580,6 +580,8 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="GCTF"></a> **(GCTF)** Beyza Ermis, Evrim Acar, Ali Taylan Cemgil. "**Link prediction in heterogeneous data via generalized coupled tensor factorization**". **Data Mining and Knowledge Discovery 2015**. [paper](https://link.springer.com/article/10.1007/s10618-013-0341-y)
 
+- <a name="PIDE"></a> **(PIDE)** Yu Zhao, Sheng Gao, Patrick Gallinari, Jun Guo. "**Knowledge base completion by learning pairwise-interaction differentiated embeddings**". **Data Mining and Knowledge Discovery 2015**. [paper](https://link.springer.com/article/10.1007/s10618-015-0430-1)
+
 #### Conference
 
 ##### ICLR
