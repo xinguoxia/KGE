@@ -1828,6 +1828,8 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="RF"></a> **(RF)** Hao Liu, Shu-wang Zhou, Changfang Chen, Tianlei Gao, Jiyong Xu, Minglei Shu. "**Dynamic knowledge graph reasoning based on deep reinforcement learning**". **Knowledge Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122000697?via%3Dihub)
 
+- <a name="RKG"></a> **(RKG)** David Hilman, Ovidiu Serban. "**A unified Link Prediction architecture applied on a novel heterogenous Knowledge Base**". **Knowledge Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/pii/S0950705122000661?via%3Dihub)
+
 - <a name="RLKGE"></a> **(RLKGE)** Lihan Chen, Sihang Jiang, Jingping Liu, Chao Wang, Sheng Zhang, Chenhao Xie, Jiaqing Liang, Yanghua Xiao, Rui Song. "**Rule mining over knowledge graphs via reinforcement learning**". **Knowledge Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512200140X?via%3Dihub)
 
 - <a name="SNS"></a> **(SNS)** Md. Kamrul Islam, Sabeur Aridhi, Malika Smaïl-Tabbone. "**Negative sampling and rule mining for explainable link prediction in knowledge graphs**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122005342?via%3Dihub)
