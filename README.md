@@ -1558,6 +1558,8 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="SD-GAT"></a> **(SD-GAT)** Xue Zhou, Bei Hui, Lizong Zhang, Kexi Ji. "**A structure distinguishable graph attention network for knowledge base completion**". **Neural Computing and Applications 2021**. [paper](https://link.springer.com/article/10.1007%2Fs00521-021-06221-1)
 
+- <a name="W-KG2Vec"></a> **(W-KG2Vec)** Phuc Do, Phu Pham. "**W-KG2Vec: a weighted text-enhanced meta-path-based knowledge graph embedding for similarity search**". **Neural Computing and Applications 2021**. [paper](https://link.springer.com/article/10.1007/s00521-021-06252-8)
+
 ##### Ad Hoc Networks
 
 - <a name="TRFR"></a> **(TRFR)** Yao Zhang, Hengpeng Xu, Xu Zhang, Xingxing Wu, Zhenglu Yang. "**TRFR: A ternary relation link prediction framework on Knowledge graphs**". **Ad Hoc Networks 2021**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1570870520307319?via%3Dihub) 
