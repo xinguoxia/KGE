@@ -1542,6 +1542,12 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="TRAR"></a> **(TRAR)** Xiaojuan Zhao, Yan Jia, Aiping Li, Rong Jiang, Kai Chen, Ye Wang. "**Target relational attention-oriented knowledge graph reasoning**". **Neurocomputing 2021**.  [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221009668?via%3Dihub) 
 
+##### Journal of Machine Learning Research
+
+- <a name="PyKEEN"></a> **(PyKEEN)** Mehdi Ali, Max Berrendorf, Charles Tapley Hoyt, Laurent Vermue, Sahand Sharifzadeh, Volker Tresp, Jens Lehmann. "**PyKEEN 1.0: A Python Library for Training and Evaluating Knowledge Graph Embeddings**". **Journal of Machine Learning Research 2021**.  [paper](https://jmlr.org/papers/v22/20-825.html) [code](https://github.com/pykeen/pykeen)
+
+- <a name="Pykg2vec"></a> **(Pykg2vec)** Shih-Yuan Yu, Sujit Rokka Chhetri, Arquimedes Canedo, Palash Goyal, Mohammad Abdullah Al Faruque. "**Pykg2vec: A Python Library for Knowledge Graph Embedding**". **Journal of Machine Learning Research 2021**.  [paper](https://jmlr.org/papers/v22/19-433.html) [code](https://github.com/Sujit-O/pykg2vec)
+
 ##### Neural Computing and Applications
 
 - <a name="BDR+CA"></a> **(BDR+CA)** Kairong Hu, Hai Liu, Choujun Zhan, Yong Tang, Tianyong Hao. "**Learning knowledge graph embedding with a bi-directional relation encoding network and a convolutional autoencoder decoding network**". **Neural Computing and Applications 2021**.  [paper](https://link.springer.com/article/10.1007%2Fs00521-020-05654-4)
@@ -2017,6 +2023,12 @@ Thanks for your attention and kind words! We will update KGE later.
 ##### ICASSP
 
 - <a name="SGI"></a> **(SGI)** Heeyoung Kwak, Hyunkyung Bae, Kyomin Jung. "**Subgraph Representation Learning with Hard Negative Samples for Inductive Link Prediction**". **ICASSP 2022**. [paper](https://ieeexplore.ieee.org/document/9747485)
+
+#### Focus
+
+##### IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+- <a name="PyKEEN"></a> **(PyKEEN)** Mehdi Ali, Max Berrendorf, Charles Tapley Hoyt, Laurent Vermue, Mikhail Galkin, Sahand Sharifzadeh, Asja Fischer, Volker Tresp, Jens Lehmann. "**Bringing Light Into the Dark: A Large-scale Evaluation of Knowledge Graph Embedding Models Under a Unified Framework**". **IEEE Transactions on Pattern Analysis and Machine Intelligence**. [paper](https://arxiv.org/abs/2006.13365) [code](https://github.com/pykeen/pykeen) [benchmark](https://github.com/pykeen/benchmarking)
 
 ## Datasets
 
