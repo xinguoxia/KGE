@@ -1164,6 +1164,10 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="ALSTM"></a> **(ALSTM)** Qi Wang , Yongsheng Hao. "**ALSTM: An attention-based long short-term memory framework for knowledge base reasoning**". **Neurocomputing 2020**. [paper](https://doi.org/10.1016/j.neucom.2020.02.065)
 
+##### Data Mining and Knowledge Discovery
+
+- <a name="Semi-supervised"></a> **(Semi-supervised)** Jia Zhu, Zetao Zheng, Min Yang, Gabriel Pui Cheong Fung, Yong Tang. "**A semi-supervised model for knowledge graph embedding**". **Data Mining and Knowledge Discovery 2020**. [paper](https://link.springer.com/article/10.1007/s10618-019-00653-z)
+
 ##### Neural Computing and Applications
 
 - <a name="NKSGAN"></a> **(NKSGAN)** Hai Liu, Kairong Hu, Fu Lee Wang, Tianyong Hao. "**Aggregating neighborhood information for negative sampling for knowledge graph embedding**". **Neural Computing and Applications 2020**. [paper](https://link.springer.com/article/10.1007%2Fs00521-020-04940-5)
