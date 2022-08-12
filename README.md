@@ -1958,6 +1958,22 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="HousE"></a> **(HousE)** Rui Li, Jianan Zhao, Chaozhuo Li, Di He, Yiqi Wang, Yuming Liu, Hao Sun, Senzhang Wang, Weiwei Deng, Yanming Shen, Xing Xie, Qi Zhang. "**HousE: Knowledge Graph Embedding with Householder Parameterization**". **ICML 2022**. [paper](https://proceedings.mlr.press/v162/li22ab.html) [code](https://github.com/rui9812/HousE)
 
+##### IJCAI
+
+- <a name="Adversarial Explanations"></a> **(Adversarial Explanations)** Patrick Betz, Christian Meilicke, Heiner Stuckenschmidt. "**Adversarial Explanations for Knowledge Graph Embeddings**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/391)
+
+- <a name="KGA"></a> **(KGA)** Jiang Wang, Filip Ilievski, Pedro A. Szekely, Ke-Thia Yao. "**Augmenting Knowledge Graphs for Better Link Prediction**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/316)
+
+- <a name="MEIM"></a> **(MEIM)** Hung Nghiep Tran, Atsuhiro Takasu. "**MEIM: Multi-partition Embedding Interaction Beyond Block Term Format for Efficient and Expressive Link Prediction**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/314) [code](https://github.com/tranhungnghiep/MEIM-KGE)
+
+- <a name="PUDA"></a> **(PUDA)** Zhenwei Tang, Shichao Pei, Zhao Zhang, Yongchun Zhu, Fuzhen Zhuang, Robert Hoehndorf, Xiangliang Zhang. "**Positive-Unlabeled Learning with Adversarial Data Augmentation for Knowledge Graph Completion**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/312) [code](https://github.com/lilv98/PUDA-IJCAI22)
+
+- <a name="REP"></a> **(REP)** Huijuan Wang, Siming Dai, Weiyue Su, Hui Zhong, Zeyang Fang, Zhengjie Huang, Shikun Feng, Zeyu Chen, Yu Sun, Dianhai Yu. "**Simple and Effective Relation-based Embedding Propagation for Knowledge Representation Learning**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/382) [code](https://github.com/PaddlePaddle/PGL/tree/d5f31784b1b6f2d5117537908acde6625b9abeef/apps/Graph4KG/examples/REP)
+
+- <a name="rGalT"></a> **(rGalT)** Yifu Gao, Linhui Feng, Zhigang Kan, Yi Han, Linbo Qiao, Dongsheng Li. "**Modeling Precursors for Temporal Knowledge Graph Reasoning via Auto-encoder Structure**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/284)
+
+- <a name="SNRI"></a> **(SNRI)** Xiaohan Xu, Peng Zhang, Yongquan He, Chengpeng Chao, Chaoyang Yan. "**Subgraph Neighboring Relations Infomax for Inductive Link Prediction on Knowledge Graphs**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/325)
+
 ##### SIGMOD
 
 - <a name="CompactWalks"></a> **(CompactWalks)** Pei-Yu Hou, Daniel Robert Korn, Cleber C. Melo-Filho, David R. Wright, Alexander Tropsha, Rada Chirkova. "**Compact Walks: Taming Knowledge-Graph Embeddings with Domain- and Task-Specific Pathways**". **SIGMOD 2022**. [paper](https://dl.acm.org/doi/10.1145/3514221.3517903) [code](https://github.com/DnlRKorn/sg_regex)
