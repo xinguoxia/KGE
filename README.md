@@ -1604,7 +1604,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### NeurIPS
 
-- <a name="ConE"></a> **(ConE)** Zhanqiu Zhang, Jie Wang, Jiajun Chen, Shuiwang Ji, Feng Wu. "**ConE: Cone Embeddings for Multi-Hop Reasoning over Knowledge Graphs**". **NeurIPS 2021**. [paper](https://proceedings.neurips.cc/paper/2021/hash/a0160709701140704575d499c997b6ca-Abstract.html)
+- <a name="ConE"></a> **(ConE)** Zhanqiu Zhang, Jie Wang, Jiajun Chen, Shuiwang Ji, Feng Wu. "**ConE: Cone Embeddings for Multi-Hop Reasoning over Knowledge Graphs**". **NeurIPS 2021**. [paper](https://proceedings.neurips.cc/paper/2021/hash/a0160709701140704575d499c997b6ca-Abstract.html) [code](https://github.com/MIRALab-USTC/QE-ConE)
 
 ##### ACL
 
@@ -1973,6 +1973,8 @@ Thanks for your attention and kind words! We will update KGE later.
 - <a name="rGalT"></a> **(rGalT)** Yifu Gao, Linhui Feng, Zhigang Kan, Yi Han, Linbo Qiao, Dongsheng Li. "**Modeling Precursors for Temporal Knowledge Graph Reasoning via Auto-encoder Structure**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/284)
 
 - <a name="SNRI"></a> **(SNRI)** Xiaohan Xu, Peng Zhang, Yongquan He, Chengpeng Chao, Chaoyang Yan. "**Subgraph Neighboring Relations Infomax for Inductive Link Prediction on Knowledge Graphs**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/325)
+
+- <a name="TEMP"></a> **(TEMP)** Zhiwei Hu, Victor Gutiérrez-Basulto, Zhiliang Xiang, Xiaoli Li, Ru Li, Jeff Z. Pan. "**Type-aware Embeddings for Multi-Hop Reasoning over Knowledge Graphs**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/427) [code](https://github.com/zhiweihu1103/QE-TEMP) [code](https://github.com/SXUNLP/QE-TEMP)
 
 ##### SIGMOD
 
