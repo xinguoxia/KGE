@@ -1180,6 +1180,10 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="CILKBC"></a> **(CILKBC)** Hongbin Wang, Shengchen Jiang, Zhengtao Yu. "**Modeling of complex internal logic for knowledge base completion**". **Applied Intelligence 2020**. [paper](https://link.springer.com/article/10.1007/s10489-020-01734-z)
 
+##### Physics Conference Series
+
+- <a name="UKGsE"></a> **(UKGsE)** Shihan Yang, Rui Tang, Zhiwei Zhang, and Guozhong Li "**Uncertain Knowledge Graph Embedding: a Natural and Effective Approach**". **Physics Conference Series 2020**. [paper](https://iopscience.iop.org/article/10.1088/1742-6596/1824/1/012002)
+
 #### Conference
 
 ##### ICLR
