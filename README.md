@@ -1976,6 +1976,8 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="TEMP"></a> **(TEMP)** Zhiwei Hu, Victor Gutiérrez-Basulto, Zhiliang Xiang, Xiaoli Li, Ru Li, Jeff Z. Pan. "**Type-aware Embeddings for Multi-Hop Reasoning over Knowledge Graphs**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/427) [code](https://github.com/zhiweihu1103/QE-TEMP) [code](https://github.com/SXUNLP/QE-TEMP)
 
+- <a name="TiRGN"></a> **(TiRGN)** Yujia Li, Shiliang Sun, Jing Zhao. "**TiRGN: Time-Guided Recurrent Graph Network with Local-Global Historical Patterns for Temporal Knowledge Graph Reasoning **". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/299)
+
 ##### SIGMOD
 
 - <a name="CompactWalks"></a> **(CompactWalks)** Pei-Yu Hou, Daniel Robert Korn, Cleber C. Melo-Filho, David R. Wright, Alexander Tropsha, Rada Chirkova. "**Compact Walks: Taming Knowledge-Graph Embeddings with Domain- and Task-Specific Pathways**". **SIGMOD 2022**. [paper](https://dl.acm.org/doi/10.1145/3514221.3517903) [code](https://github.com/DnlRKorn/sg_regex)
