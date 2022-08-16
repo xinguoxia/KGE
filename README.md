@@ -1992,6 +1992,12 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="Kelpie"></a> **(Kelpie)** Andrea Rossi, Donatella Firmani, Paolo Merialdo, Tommaso Teofili. "**Explaining Link Prediction Systems based on Knowledge Graph Embeddings**". **SIGMOD 2022**. [paper](https://dl.acm.org/doi/10.1145/3514221.3517887)
 
+##### ICDE
+
+- <a name="Evoda"></a> **(Evoda)** Lianlong Wu, Emanuel Sallinger, Evgeny Sherkhonov, Sahar Vahdati, Georg Gottlob. "**Rule Learning over Knowledge Graphs with Genetic Logic Programming**". **ICDE 2022**. [paper](https://ieeexplore.ieee.org/document/9835403)
+
+- <a name="HET-KG"></a> **(HET-KG)** Sicong Dong, Xupeng Miao, Pengkai Liu, Xin Wang, Bin Cui, Jianxin Li. "**HET-KG: Communication-Efficient Knowledge Graph Embedding Training via Hotness-Aware Cache**". **ICDE 2022**. [paper](https://ieeexplore.ieee.org/document/9835364)
+
 ##### SIGIR
 
 - <a name="ConGLR"></a> **(ConGLR)** Qika Lin, Jun Liu, Fangzhi Xu, Yudai Pan, Yifan Zhu, Lingling Zhang, Tianzhe Zhao. "**Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction**". **SIGIR 2022**. [paper](https://dl.acm.org/doi/10.1145/3477495.3531996)
