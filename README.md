@@ -1976,7 +1976,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="TEMP"></a> **(TEMP)** Zhiwei Hu, Victor Gutiérrez-Basulto, Zhiliang Xiang, Xiaoli Li, Ru Li, Jeff Z. Pan. "**Type-aware Embeddings for Multi-Hop Reasoning over Knowledge Graphs**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/427) [code](https://github.com/zhiweihu1103/QE-TEMP) [code](https://github.com/SXUNLP/QE-TEMP)
 
-- <a name="TiRGN"></a> **(TiRGN)** Yujia Li, Shiliang Sun, Jing Zhao. "**TiRGN: Time-Guided Recurrent Graph Network with Local-Global Historical Patterns for Temporal Knowledge Graph Reasoning **". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/299)
+- <a name="TiRGN"></a> **(TiRGN)** Yujia Li, Shiliang Sun, Jing Zhao. "**TiRGN: Time-Guided Recurrent Graph Network with Local-Global Historical Patterns for Temporal Knowledge Graph Reasoning**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/299) [code](https://github.com/Liyyy2122/TiRGN)
 
 ##### NAACL-HLT
 
