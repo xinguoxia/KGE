@@ -1996,7 +1996,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="Evoda"></a> **(Evoda)** Lianlong Wu, Emanuel Sallinger, Evgeny Sherkhonov, Sahar Vahdati, Georg Gottlob. "**Rule Learning over Knowledge Graphs with Genetic Logic Programming**". **ICDE 2022**. [paper](https://ieeexplore.ieee.org/document/9835403)
 
-- <a name="HET-KG"></a> **(HET-KG)** Sicong Dong, Xupeng Miao, Pengkai Liu, Xin Wang, Bin Cui, Jianxin Li. "**HET-KG: Communication-Efficient Knowledge Graph Embedding Training via Hotness-Aware Cache**". **ICDE 2022**. [paper](https://ieeexplore.ieee.org/document/9835364)
+- <a name="HET-KG"></a> **(HET-KG)** Sicong Dong, Xupeng Miao, Pengkai Liu, Xin Wang, Bin Cui, Jianxin Li. "**HET-KG: Communication-Efficient Knowledge Graph Embedding Training via Hotness-Aware Cache**". **ICDE 2022**. [paper](https://ieeexplore.ieee.org/document/9835364) [code](https://github.com/RweBs/HotKE)
 
 ##### SIGIR
 
