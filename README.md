@@ -1978,6 +1978,14 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="TiRGN"></a> **(TiRGN)** Yujia Li, Shiliang Sun, Jing Zhao. "**TiRGN: Time-Guided Recurrent Graph Network with Local-Global Historical Patterns for Temporal Knowledge Graph Reasoning **". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/299)
 
+##### NAACL-HLT
+
+- <a name="LDP"></a> **(LDP)** Huda Hakami, Mona Hakami, Angrosh Mandya, Danushka Bollegala. "**Learning to Borrow- Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion**". **NAACL-HLT 2022**. [paper](https://aclanthology.org/2022.naacl-main.209/) [code](https://github.com/huda-hakami/learning-to-borrow-for-kgs)
+
+- <a name="Query2Particles"></a> **(Query2Particles)** Jiaxin Bai, Zihao Wang, Hongming Zhang, Yangqiu Song. "**Query2Particles: Knowledge Graph Reasoning with Particle Embeddings**". **NAACL-HLT (Findings) 2022**. [paper](https://aclanthology.org/2022.findings-naacl.207/) [code](https://github.com/hkust-knowcomp/query2particles)
+
+- <a name="StATIK"></a> **(StATIK)** Elan Markowitz, Keshav Balasubramanian, Mehrnoosh Mirtaheri, Murali Annavaram, Aram Galstyan, Greg Ver Steeg. "*StATIK: Structure and Text for Inductive Knowledge Graph Completion**". **NAACL-HLT (Findings) 2022**. [paper](https://aclanthology.org/2022.findings-naacl.46/)
+
 ##### SIGMOD
 
 - <a name="CompactWalks"></a> **(CompactWalks)** Pei-Yu Hou, Daniel Robert Korn, Cleber C. Melo-Filho, David R. Wright, Alexander Tropsha, Rada Chirkova. "**Compact Walks: Taming Knowledge-Graph Embeddings with Domain- and Task-Specific Pathways**". **SIGMOD 2022**. [paper](https://dl.acm.org/doi/10.1145/3514221.3517903) [code](https://github.com/DnlRKorn/sg_regex)
