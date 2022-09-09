@@ -1910,6 +1910,12 @@ Thanks for your attention and kind words! We will update KGE later.
 
 #### Conference
 
+##### ICLR
+
+- <a name="MGNN"></a> **(MGNN)** David Jaime Tena Cucala, Bernardo Cuenca Grau, Egor V. Kostylev, Boris Motik. "**Explainable GNN-Based Models over Knowledge Graphs**". **ICLR 2022**. [paper](https://openreview.net/forum?id=CrCvGNHAIrz)
+
+- <a name="NodePiece"></a> **(NodePiece)** Mikhail Galkin, Etienne G. Denis, Jiapeng Wu, William L. Hamilton. "**NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs**". **ICLR 2022**. [paper](https://openreview.net/forum?id=xMJWUKJnFSw)
+
 ##### AAAI
 
 - <a name="BoxTE"></a> **(BoxTE)** Johannes Messner, Ralph Abboud, Ismail Ilkan Ceylan. "**Temporal Knowledge Graph Completion Using Box Embeddings**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20746)
