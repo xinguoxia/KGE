@@ -2006,9 +2006,9 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### KDD
 
-- <a name="DGS"></a> **(DGS)** Roshni G. Iyer, Yunsheng Bai, Wei Wang, Yizhou Sun. "**Dual-Geometric Space Embedding Model for Two-View Knowledge Graphs**". **KDD 2022**. [paper]()
+- <a name="DGS"></a> **(DGS)** Roshni G. Iyer, Yunsheng Bai, Wei Wang, Yizhou Sun. "**Dual-Geometric Space Embedding Model for Two-View Knowledge Graphs**". **KDD 2022**.
 
-- <a name="RLogic"></a> **(RLogic)** Kewei Cheng, Jiahao Liu, Wei Wang, Yizhou Sun. "**RLogic: Recursive Logical Rule Learning from Knowledge Graphs**". **KDD 2022**. [paper]()
+- <a name="RLogic"></a> **(RLogic)** Kewei Cheng, Jiahao Liu, Wei Wang, Yizhou Sun. "**RLogic: Recursive Logical Rule Learning from Knowledge Graphs**". **KDD 2022**.
 
 ##### ICDE
 
