@@ -2010,8 +2010,6 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="RLogic"></a> **(RLogic)** Kewei Cheng, Jiahao Liu, Wei Wang, Yizhou Sun. "**RLogic: Recursive Logical Rule Learning from Knowledge Graphs**". **KDD 2022**. [paper]()
 
-- <a name="RLogic"></a> **(RLogic)** Kewei Cheng, Jiahao Liu, Wei Wang, Yizhou Sun. "**RLogic: Recursive Logical Rule Learning from Knowledge Graphs**". **KDD 2022**. [paper]()
-
 ##### ICDE
 
 - <a name="Evoda"></a> **(Evoda)** Lianlong Wu, Emanuel Sallinger, Evgeny Sherkhonov, Sahar Vahdati, Georg Gottlob. "**Rule Learning over Knowledge Graphs with Genetic Logic Programming**". **ICDE 2022**. [paper](https://ieeexplore.ieee.org/document/9835403)
