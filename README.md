@@ -1994,6 +1994,22 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="TiRGN"></a> **(TiRGN)** Yujia Li, Shiliang Sun, Jing Zhao. "**TiRGN: Time-Guided Recurrent Graph Network with Local-Global Historical Patterns for Temporal Knowledge Graph Reasoning**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/299) [code](https://github.com/Liyyy2122/TiRGN)
 
+##### COLING
+
+- <a name="DMoG"></a> **(DMoG)** Ran Song, Shizhu He, Suncong Zheng, Shengxiang Gao, Kang Liu, Zhengtao Yu, Jun Zhao. "**Decoupling Mixture-of-Graphs: Unseen Relational Learning for Knowledge Graph Completion by Fusing Ontology and Textual Experts**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.196/)
+
+- <a name="EngineKG"></a> **(EngineKG)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu. "**Perform like an Engine: A Closed-Loop Neural-Symbolic Learning Framework for Knowledge Graph Inference**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.119/)
+
+- <a name="Eureka"></a> **(Eureka)** Alex X. Zhang, Xun Liang, Bo Wu, Xiangping Zheng, Sensen Zhang, Yuhui Guo, Jun Wang, Xinyao Liu. "**Eureka: Neural Insight Learning for Knowledge Graph Reasoning**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.398/)
+
+- <a name="FKGC+DA"></a> **(FKGC+DA)** Yuanzhou Yao, Zhao Zhang, Yongjun Xu, Chao Li. "**Data Augmentation for Few-Shot Knowledge Graph Completion from Hierarchical Perspective**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.220/)
+
+- <a name="HRQE"></a> **(HRQE)** Jinfa Yang, Xianghua Ying, Yongjie Shi, Xin Tong, Ruibin Wang, Taiyan Chen, Bowei Xing. "**Learning Hierarchy-Aware Quaternion Knowledge Graph Embeddings with Representing Relations as 3D Rotations**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.175/)
+
+- <a name="KGE-CL"></a> **(KGE-CL)** Zhiping Luo, Wentao Xu, Weiqing Liu, Jiang Bian, Jian Yin, Tie-Yan Liu. "**KGE-CL: Contrastive Learning of Tensor Decomposition Based Knowledge Graph Embeddings**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.229/)
+
+- <a name="KG-S2S"></a> **(KG-S2S)** Chen Chen, Yufei Wang, Bing Li, Kwok-Yan Lam. "**Knowledge Is Flat: A Seq2Seq Generative Framework for Various Knowledge Graph Completion**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.352/)
+
 ##### NAACL-HLT
 
 - <a name="LDP"></a> **(LDP)** Huda Hakami, Mona Hakami, Angrosh Mandya, Danushka Bollegala. "**Learning to Borrow- Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion**". **NAACL-HLT 2022**. [paper](https://aclanthology.org/2022.naacl-main.209/) [code](https://github.com/huda-hakami/learning-to-borrow-for-kgs)
