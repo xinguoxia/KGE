@@ -2010,6 +2010,16 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="KG-S2S"></a> **(KG-S2S)** Chen Chen, Yufei Wang, Bing Li, Kwok-Yan Lam. "**Knowledge Is Flat: A Seq2Seq Generative Framework for Various Knowledge Graph Completion**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.352/)
 
+- <a name="LASSS"></a> **(LASS)** Jianhao Shen, Chenguang Wang, Linyuan Gong, Dawn Song. "**Joint Language Semantic and Structure Embedding for Knowledge Graph Completion**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.171/)
+
+- <a name="OpticE"></a> **(OpticE)** Xiangyu Gui, Feng Zhao, Langjunqing Jin, Hai Jin. "**OpticE: A Coherence Theory-Based Model for Link Prediction**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.433/)
+
+- <a name="RotateCT"></a> **(RotateCT)** Yao Dong, Lei Wang, Ji Xiang, Xiaobo Guo, Yuqiang Xie. "**RotateCT: Knowledge Graph Embedding by Rotation and Coordinate Transformation in Complex Space**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.436/)
+
+- <a name="Ruleformer"></a> **(Ruleformer)** Zezhong Xu, Peng Ye, Hui Chen, Meng Zhao, Huajun Chen, Wen Zhang. "**Ruleformer: Context-aware Rule Mining over Knowledge Graph**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.225/)
+
+- <a name="TKGC-AGP"></a> **(TKGC-AGP)** Linhai Zhang, Deyu Zhou. "**Temporal Knowledge Graph Completion with Approximated Gaussian Process Embedding**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.416/)
+
 ##### NAACL-HLT
 
 - <a name="LDP"></a> **(LDP)** Huda Hakami, Mona Hakami, Angrosh Mandya, Danushka Bollegala. "**Learning to Borrow- Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion**". **NAACL-HLT 2022**. [paper](https://aclanthology.org/2022.naacl-main.209/) [code](https://github.com/huda-hakami/learning-to-borrow-for-kgs)
