@@ -2064,6 +2064,22 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="HET-KG"></a> **(HET-KG)** Sicong Dong, Xupeng Miao, Pengkai Liu, Xin Wang, Bin Cui, Jianxin Li. "**HET-KG: Communication-Efficient Knowledge Graph Embedding Training via Hotness-Aware Cache**". **ICDE 2022**. [paper](https://ieeexplore.ieee.org/document/9835364) [code](https://github.com/RweBs/HotKE)
 
+##### CIKM
+
+- <a name="BKENE"></a> **(BKENE)** Jun Seon Kim, Seong-Jin Ahn, Myoung Ho Kim. "**Bootstrapped Knowledge Graph Embedding based on Neighbor Expansion**". **CIKM 2022**. [paper](https://dl.acm.org/doi/10.1145/3511808.3557555)
+
+- <a name="CKBC"></a> **(CKBC)** Jinhao Ju, Deqing Yang, Jingping Liu. "**Commonsense Knowledge Base Completion with Relational Graph Attention Network and Pre-trained Language Model**". **CIKM 2022**. [paper](https://dl.acm.org/doi/10.1145/3511808.3557564)
+
+- <a name="CoLE"></a> **(CoLE)** Yang Liu, Zequn Sun, Guangyao Li, Wei Hu. "**I Know What You Do Not Know: Knowledge Graph Embedding via Co-distillation Learning**". **CIKM 2022**. [paper](https://dl.acm.org/doi/10.1145/3511808.3557355)
+
+- <a name="DA-Net"></a> **(DA-Net)** Kangzheng Liu, Feng Zhao, Hongxu Chen, Yicong Li, Guandong Xu, Hai Jin. "**DA-Net: Distributed Attention Network for Temporal Knowledge Graph Reasoning**". **CIKM 2022**. [paper](https://dl.acm.org/doi/10.1145/3511808.3557280)
+
+- <a name="HyperMLN"></a> **(HyperMLN)** Zirui Chen, Xin Wang, Chenxu Wang, Jianxin Li. "**Explainable Link Prediction in Knowledge Hypergraphs**". **CIKM 2022**. [paper](https://dl.acm.org/doi/10.1145/3511808.3557316)
+
+- <a name="MBE"></a> **(MBE)** Yuanning Cui, Yuxin Wang, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu. "**Inductive Knowledge Graph Reasoning for Multi-batch Emerging Entities**". **CIKM 2022**. [paper](https://dl.acm.org/doi/10.1145/3511808.3557361)
+
+- <a name="TLT-KGE"></a> **(TLT-KGE)** Fuwei Zhang, Zhao Zhang, Xiang Ao, Fuzhen Zhuang, Yongjun Xu, Qing He. "**Along the Time: Timeline-traced Embedding for Temporal Knowledge Graph Completion**". **CIKM 2022**. [paper](https://dl.acm.org/doi/10.1145/3511808.3557233)
+
 ##### SIGIR
 
 - <a name="ConGLR"></a> **(ConGLR)** Qika Lin, Jun Liu, Fangzhi Xu, Yudai Pan, Yifan Zhu, Lingling Zhang, Tianzhe Zhao. "**Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction**". **SIGIR 2022**. [paper](https://dl.acm.org/doi/10.1145/3477495.3531996)
