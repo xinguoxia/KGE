@@ -1970,6 +1970,8 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="KGT5"></a> **(KGT5)** Apoorv Saxena, Adrian Kochsiek, Rainer Gemulla. "**Sequence-to-Sequence Knowledge Graph Completion and Question Answering**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.201/) [code](https://github.com/apoorvumang/kgt5)
 
+- <a name="KGTuner"></a> **(KGTuner)** Yongqi Zhang, Zhanke Zhou, Quanming Yao, Yong Li. "**Efficient Hyper-parameter Search for Knowledge Graph Embedding**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.194/) [code](https://github.com/AutoML-Research/KGTuner)
+
 - <a name="MEKER"></a> **(MEKER)** Viktoria Chekalina, Anton Razzhigaev, Albert Sayapin, Evgeny Frolov, Alexander Panchenko. "**MEKER: Memory Efficient Knowledge Embedding Representation for Link Prediction and Question Answering**". **ACL (student) 2022**. [paper](https://aclanthology.org/2022.acl-srw.27/)
 
 - <a name="PKGC"></a> **(PKGC)** Xin Lv, Yankai Lin, Yixin Cao, Lei Hou, Juanzi Li, Zhiyuan Liu, Peng Li, Jie Zhou. "**Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach**". **ACL (Findings) 2022**. [paper](https://aclanthology.org/2022.findings-acl.282/) [code](https://github.com/thu-keg/pkgc)
@@ -1979,8 +1981,6 @@ Thanks for your attention and kind words! We will update KGE later.
 - <a name="SimKGC"></a> **(SimKGC)** Liang Wang, Wei Zhao, Zhuoyu Wei, Jingming Liu. "**SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.295/) [code](https://github.com/intfloat/SimKGC)
 
 - <a name="SS-AGA"></a> **(SS-AGA)** Zijie Huang, Zheng Li, Haoming Jiang, Tianyu Cao, Hanqing Lu, Bing Yin, Karthik Subbian, Yizhou Sun, Wei Wang. "**Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.36/) [code](https://github.com/amzn/ss-aga-kgc)
-
-- <a name="KGTuner"></a> **(KGTuner)** Yongqi Zhang, Zhanke Zhou, Quanming Yao, Yong Li. "**Efficient Hyper-parameter Search for Knowledge Graph Embedding**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.194/) [code](https://github.com/AutoML-Research/KGTuner)
 
 ##### ICML
 
