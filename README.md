@@ -1984,13 +1984,13 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### ICML
 
-- <a name="NSloss"></a> **(NSloss)** Hidetaka Kamigaito, Katsuhiko Hayashiu. "**Comprehensive Analysis of Negative Sampling in Knowledge Graph Representation Learning**". **ICML 2022**. [paper](https://proceedings.mlr.press/v162/kamigaito22a.html)
+- <a name="CBR-SUBG"></a> **(CBR-SUBG)** Rajarshi Das, Ameya Godbole, Ankita Naik, Elliot Tower, Manzil Zaheer, Robin Jia, Hannaneh Hajishirzi, Andrew McCallum. "**Knowledge Base Question Answering by Case-based Reasoning over Subgraphs**". **ICML 2022**. [paper](https://proceedings.mlr.press/v162/das22a.html)
 
 - <a name="GNN-QE"></a> **(GNN-QE)** Zhaocheng Zhu, Mikhail Galkin, Zuobai Zhang, Jian Tang. "**Neural-Symbolic Models for Logical Queries on Knowledge Graphs**". **ICML 2022**. [paper](https://proceedings.mlr.press/v162/zhu22c.html)
 
 - <a name="HousE"></a> **(HousE)** Rui Li, Jianan Zhao, Chaozhuo Li, Di He, Yiqi Wang, Yuming Liu, Hao Sun, Senzhang Wang, Weiwei Deng, Yanming Shen, Xing Xie, Qi Zhang. "**HousE: Knowledge Graph Embedding with Householder Parameterization**". **ICML 2022**. [paper](https://proceedings.mlr.press/v162/li22ab.html) [code](https://github.com/rui9812/HousE)
-- <a name="CBR-SUBG"></a> **CBR-SUBG** Rajarshi Das, Ameya Godbole, Ankita Naik, Elliot Tower, Manzil Zaheer, Robin Jia, Hannaneh Hajishirzi, Andrew McCallum. "**Knowledge Base Question Answering by Case-based Reasoning over Subgraphs
-**". **ICML 2022**. [paper](https://proceedings.mlr.press/v162/das22a.html)
+
+- <a name="NSloss"></a> **(NSloss)** Hidetaka Kamigaito, Katsuhiko Hayashiu. "**Comprehensive Analysis of Negative Sampling in Knowledge Graph Representation Learning**". **ICML 2022**. [paper](https://proceedings.mlr.press/v162/kamigaito22a.html)
 
 ##### IJCAI
 
