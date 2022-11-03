@@ -2044,7 +2044,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="Query2Particles"></a> **(Query2Particles)** Jiaxin Bai, Zihao Wang, Hongming Zhang, Yangqiu Song. "**Query2Particles: Knowledge Graph Reasoning with Particle Embeddings**". **NAACL-HLT (Findings) 2022**. [paper](https://aclanthology.org/2022.findings-naacl.207/) [code](https://github.com/hkust-knowcomp/query2particles)
 
-- <a name="StATIK"></a> **(StATIK)** Elan Markowitz, Keshav Balasubramanian, Mehrnoosh Mirtaheri, Murali Annavaram, Aram Galstyan, Greg Ver Steeg. "*StATIK: Structure and Text for Inductive Knowledge Graph Completion**". **NAACL-HLT (Findings) 2022**. [paper](https://aclanthology.org/2022.findings-naacl.46/)
+- <a name="StATIK"></a> **(StATIK)** Elan Markowitz, Keshav Balasubramanian, Mehrnoosh Mirtaheri, Murali Annavaram, Aram Galstyan, Greg Ver Steeg. "**StATIK: Structure and Text for Inductive Knowledge Graph Completion**". **NAACL-HLT (Findings) 2022**. [paper](https://aclanthology.org/2022.findings-naacl.46/)
 
 ##### SIGMOD
 
