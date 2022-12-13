@@ -1972,8 +1972,6 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="KGTuner"></a> **(KGTuner)** Yongqi Zhang, Zhanke Zhou, Quanming Yao, Yong Li. "**Efficient Hyper-parameter Search for Knowledge Graph Embedding**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.194/) [code](https://github.com/AutoML-Research/KGTuner)
 
-- <a name="MEKER"></a> **(MEKER)** Viktoria Chekalina, Anton Razzhigaev, Albert Sayapin, Evgeny Frolov, Alexander Panchenko. "**MEKER: Memory Efficient Knowledge Embedding Representation for Link Prediction and Question Answering**". **ACL (student) 2022**. [paper](https://aclanthology.org/2022.acl-srw.27/)
-
 - <a name="PKGC"></a> **(PKGC)** Xin Lv, Yankai Lin, Yixin Cao, Lei Hou, Juanzi Li, Zhiyuan Liu, Peng Li, Jie Zhou. "**Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach**". **ACL (Findings) 2022**. [paper](https://aclanthology.org/2022.findings-acl.282/) [code](https://github.com/thu-keg/pkgc)
 
 - <a name="RotateQVS"></a> **(RotateQVS)** Kai Chen, Ye Wang, Yitong Li, Aiping Li. "**RotateQVS: Representing Temporal Information as Rotations in Quaternion Vector Space for Temporal Knowledge Graph Completion**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.402/)
