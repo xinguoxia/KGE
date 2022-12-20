@@ -768,7 +768,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="Jointly(A-LSTM)"></a> **(Jointly(A-LSTM))** Jiacheng Xu, Xipeng Qiu, Kan Chen, Xuanjing Huang. "**Knowledge Graph Representation with Jointly Structural and Textual Encoding**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/183) [code](https://github.com/jiacheng-xu/Attn-KGE) :fire:
 
-- <a name="MEAN"></a> **MEAN** Takuo Hamaguchi, Hidekazu Oiwa, Masashi Shimbo, Yuji Matsumoto. "**Knowledge Transfer for Out-of-Knowledge-Base Entities : A Graph Neural Network Approach**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/250)
+- <a name="MEAN"></a> **(MEAN)** Takuo Hamaguchi, Hidekazu Oiwa, Masashi Shimbo, Yuji Matsumoto. "**Knowledge Transfer for Out-of-Knowledge-Base Entities : A Graph Neural Network Approach**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/250)
 
 - <a name="IPTransE"></a> **IPTransE** Hao Zhu, Ruobing Xie, Zhiyuan Liu, Maosong Sun. "**Iterative Entity Alignment via Joint Knowledge Embeddings**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/595)
 
