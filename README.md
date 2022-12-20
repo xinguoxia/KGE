@@ -770,7 +770,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="MEAN"></a> **(MEAN)** Takuo Hamaguchi, Hidekazu Oiwa, Masashi Shimbo, Yuji Matsumoto. "**Knowledge Transfer for Out-of-Knowledge-Base Entities : A Graph Neural Network Approach**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/250)
 
-- <a name="IPTransE"></a> **IPTransE** Hao Zhu, Ruobing Xie, Zhiyuan Liu, Maosong Sun. "**Iterative Entity Alignment via Joint Knowledge Embeddings**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/595)
+- <a name="IPTransE"></a> **(IPTransE)** Hao Zhu, Ruobing Xie, Zhiyuan Liu, Maosong Sun. "**Iterative Entity Alignment via Joint Knowledge Embeddings**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/595)
 
 ##### UAI
 
