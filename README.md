@@ -8,8 +8,6 @@ Thanks for your attention and kind words! We will update KGE later.
 * [Libraries](#Libraries)
 * [Methodologies](#methodologies)
 * [Papers](#papers)
-* [Datasets](#datasets)
-* [Performance](#performance)
 
 ## Libraries
 
@@ -2226,22 +2224,3 @@ Thanks for your attention and kind words! We will update KGE later.
 ##### IEEE Transactions on Pattern Analysis and Machine Intelligence
 
 - <a name="PyKEEN"></a> **(PyKEEN)** Mehdi Ali, Max Berrendorf, Charles Tapley Hoyt, Laurent Vermue, Mikhail Galkin, Sahand Sharifzadeh, Asja Fischer, Volker Tresp, Jens Lehmann. "**Bringing Light Into the Dark: A Large-scale Evaluation of Knowledge Graph Embedding Models Under a Unified Framework**". **IEEE Transactions on Pattern Analysis and Machine Intelligence**. [paper](https://arxiv.org/abs/2006.13365) [code](https://github.com/pykeen/pykeen) [benchmark](https://github.com/pykeen/benchmarking)
-
-## Datasets
-
-### Standard
-
-## Performance
-
-### Link Prediction
-
-#### ICEWS14
-
-| Year | Source | Methods     |  MR |  MRR  | Hits@1 | Hits@3 | Hits@10 |
-|:----:|:------:|:-----------:|:---:|:-----:|:------:|:------:|:-------:|
-| 2018 | EMNLP  | **[TA-DistMult](#TA-DistMult)** | 276 | 0.477 | 0.363  | -      | 0.686   |
-| 2018 | EMNLP  | **[HyTE](#HyTE)<sup>[DE-SinplE](#DE-SimplE)</sup>** | - | 0.297 | 0.108 | 0.416 | 0.655 |
-| 2020 | AAAI | **[DE-TransE](#DE-SimplE)** | - | 0.326 | 0.124 | 0.467 | 0.686 |
-| 2020 | AAAI | **[DE-DistMult](#DE-SimplE)** | - | 0.501 | 0.392 | 0.569 | 0.708 |
-| 2020 | AAAI   | **[DE-SimplE](#DE-SimplE)** | - | 0.526 | 0.418 | 0.592 | 0.725 |
-| 2020 | ICLR   | **[TNTComplEx](#TNTComplEx)**  | -   | 0.56  | 0.46   | 0.61   | 0.74    |
