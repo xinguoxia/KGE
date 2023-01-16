@@ -2008,6 +2008,10 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="MetaTKGR"></a> **(MetaTKGR)** Ruijie Wang, zheng li, Dachun Sun, Shengzhong Liu, Jinning Li, Bing Yin, Tarek Abdelzaher. "**Learning to Sample and Aggregate: Few-shot Reasoning over Temporal Knowledge Graphs**". **NeurIPS 2022**. [paper](https://openreview.net/forum?id=1LmgISIDZJ)
 
+- <a name="Open-World"></a> **(Open-World)** Haotong Yang, Zhouchen Lin, Muhan Zhang. "**Rethinking Knowledge Graph Evaluation Under the Open-World Assumption**". **NeurIPS 2022**. [paper](https://openreview.net/forum?id=5xiLuNutzJG)
+
+- <a name="OTKGE"></a> **(OTKGE)** Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, Qingming Huang. "**OTKGE: Multi-modal Knowledge Graph Embeddings via Optimal Transport**". **NeurIPS 2022**. [paper](https://openreview.net/forum?id=gbXqMdxsZIP)
+
 ##### ACL
 
 - <a name="AS"></a> **(AS)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu. "**Knowledge Graph Embedding by Adaptive Limit Scoring Loss Using Dynamic Weighting Strategy**". **ACL (Findings) 2022**. [paper](https://aclanthology.org/2022.findings-acl.91/)
