@@ -2066,6 +2066,22 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="TiRGN"></a> **(TiRGN)** Yujia Li, Shiliang Sun, Jing Zhao. "**TiRGN: Time-Guided Recurrent Graph Network with Local-Global Historical Patterns for Temporal Knowledge Graph Reasoning**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/299) [code](https://github.com/Liyyy2122/TiRGN)
 
+##### EMNLP
+
+- <a name="ALRE-IR"></a> **(ALRE-IR)** Xin Mei∗, Libin Yang∗, Zuowei Jiang, Xiaoyan Cai. "**An Adaptive Logical Rule Embedding Model for Inductive Reasoning over Temporal Knowledge Graphs**". **EMNLP 2022**. [paper](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.493/)
+
+- <a name="CIAN"></a> **(CIAN)** Yuling Li, Kui Yu, Xiaoling Huang, Yuhong Zhang. "**Learning Inter-Entity-Interaction for Few-Shot Knowledge Graph Completion**". **EMNLP 2022**. [paper](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.524/)
+
+- <a name="ComplexHyperbolicKGE"></a> **(ComplexHyperbolicKGE)** Huiru Xiao, Xin Liu, Yangqiu Song, Ginny Wong, Simon See. "**Complex Hyperbolic Knowledge Graph Embeddings with Fast Fourier Transform**". **EMNLP 2022**. [paper](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.349/)
+
+##### EMNLP
+
+- <a name="ALRE-IR"></a> **(ALRE-IR)** Xin Mei∗, Libin Yang∗, Zuowei Jiang, Xiaoyan Cai. "**An Adaptive Logical Rule Embedding Model for Inductive Reasoning over Temporal Knowledge Graphs**". **EMNLP 2022**. [paper](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.493/)
+
+- <a name="CIAN"></a> **(CIAN)** Yuling Li, Kui Yu, Xiaoling Huang, Yuhong Zhang. "**Learning Inter-Entity-Interaction for Few-Shot Knowledge Graph Completion**". **EMNLP 2022**. [paper](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.524/)
+
+- <a name="ComplexHyperbolicKGE"></a> **(ComplexHyperbolicKGE)** Huiru Xiao, Xin Liu, Yangqiu Song, Ginny Wong, Simon See. "**Complex Hyperbolic Knowledge Graph Embeddings with Fast Fourier Transform**". **EMNLP 2022**. [paper](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.349/)
+
 ##### COLING
 
 - <a name="DMoG"></a> **(DMoG)** Ran Song, Shizhu He, Suncong Zheng, Shengxiang Gao, Kang Liu, Zhengtao Yu, Jun Zhao. "**Decoupling Mixture-of-Graphs: Unseen Relational Learning for Knowledge Graph Completion by Fusing Ontology and Textual Experts**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.196/)
