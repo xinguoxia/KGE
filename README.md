@@ -2000,6 +2000,14 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="TLogic"></a> **(TLogic)** Yushan Liu, Yunpu Ma, Marcel Hildebrandt, Mitchell Joblin, Volker Tresp. "**TLogic: Temporal Logical Rules for Explainable Link Forecasting on Temporal Knowledge Graphs**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20330) [code](https://github.com/liu-yushan/TLogic)
 
+##### NeurIPS
+
+- <a name="IBL"></a> **(IBL)** Wanyun Cui, Xingran Chen. "**Instance-based Learning for Knowledge Base Completion**". **NeurIPS 2022**. [paper](https://openreview.net/forum?id=1-F7HbLInPy)
+
+- <a name="InductiveQE"></a> **(InductiveQE)** Mikhail Galkin, Zhaocheng Zhu, Hongyu Ren, Jian Tang. "**Inductive Logical Query Answering in Knowledge Graphs**". **NeurIPS 2022**. [paper](https://openreview.net/forum?id=-vXEN5rIABY)
+
+- <a name="MetaTKGR"></a> **(MetaTKGR)** Ruijie Wang, zheng li, Dachun Sun, Shengzhong Liu, Jinning Li, Bing Yin, Tarek Abdelzaher. "**Learning to Sample and Aggregate: Few-shot Reasoning over Temporal Knowledge Graphs**". **NeurIPS 2022**. [paper](https://openreview.net/forum?id=1LmgISIDZJ)
+
 ##### ACL
 
 - <a name="AS"></a> **(AS)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu. "**Knowledge Graph Embedding by Adaptive Limit Scoring Loss Using Dynamic Weighting Strategy**". **ACL (Findings) 2022**. [paper](https://aclanthology.org/2022.findings-acl.91/)
