@@ -21,6 +21,7 @@ Thanks for your attention and kind words! We will update KGE later.
 - DGL-KE [code](https://github.com/awslabs/dgl-ke)
 - TorchKGE [code](https://github.com/torchkge-team/torchkge)
 - NeuralKG [code](https://github.com/zjukg/NeuralKG)
+- µKG [code](https://github.com/nju-websoft/muKG)
 
 ## Methodologies
 
