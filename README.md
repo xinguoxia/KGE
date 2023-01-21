@@ -18,6 +18,9 @@ Thanks for your attention and kind words! We will update KGE later.
 - GraphVite [code](https://github.com/DeepGraphLearning/graphvite)
 - Scikit-KGE [code](https://github.com/mnick/scikit-kge)
 - AmpliGraph [code](https://github.com/Accenture/AmpliGraph)
+- DGL-KE [code](https://github.com/awslabs/dgl-ke)
+- TorchKGE [code](https://github.com/torchkge-team/torchkge)
+- NeuralKG [code](https://github.com/zjukg/NeuralKG)
 
 ## Methodologies
 
