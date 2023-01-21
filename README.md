@@ -22,6 +22,9 @@ Thanks for your attention and kind words! We will update KGE later.
 - TorchKGE [code](https://github.com/torchkge-team/torchkge)
 - NeuralKG [code](https://github.com/zjukg/NeuralKG)
 - µKG [code](https://github.com/nju-websoft/muKG)
+- StellerGraph [code](https://github.com/stellargraph/stellargraph)
+- PyTorch-BigGraph [code](https://github.com/facebookresearch/PyTorch-BigGraph)
+- Graphvite [code](https://github.com/DeepGraphLearning/graphvite)
 
 ## Methodologies
 
