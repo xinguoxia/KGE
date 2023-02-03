@@ -459,18 +459,6 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | WWW | **[wRAN](#wRAN)** |
 | 2021 | DASFAA | **[SEwA](#SEwA)** |
 
-#### Complex Query
-
-| Year | Source | Methods |
-|:----:|:------:|:-------:|
-| 2018 | NeurIPS | **[GQE](#GQE)** |
-| 2020 | ICLR | **[Q2B](#Q2B)** |
-| 2020 | NeurIPS | **[BETAE](#BETAE)** |
-| 2020 | NeurIPS | **[EmQL](#EmQL)** |
-| 2020 | UAI | **[TRACTOR](#TRACTOR)** |
-| 2021 | AAAI | **[BiQE](#BiQE)** |
-| 2021 | KDD | **[NewLook](#NewLook)** |
-
 #### Reinforcement Learning
 
 | Year | Source | Methods |
@@ -858,8 +846,6 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### NeurIPS
 
-- <a name="GQE"></a> **(GQE)** William L. Hamilton, Payal Bajaj, Marinka Zitnik, Dan Jurafsky, Jure Leskovec. "**Embedding Logical Queries on Knowledge Graphs**". **NeurIPS 2018**. [paper](http://papers.nips.cc/paper/7473-embedding-logical-queries-on-knowledge-graphs) [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips31/reviews/1018.html) [code](https://github.com/williamleif/graphqembed) :fire:
-
 - <a name="HolEX"></a> **(HolEX)** Yexiang Xue, Yang Yuan, Zhitian Xu, Ashish Sabharwal. "**Expanding Holographic Embeddings for Knowledge Completion**". **NeurIPS 2018**. [paper](https://proceedings.neurips.cc/paper/2018/hash/dd28e50635038e9cf3a648c2dd17ad0a-Abstract.html)
 
 - <a name="SimplE"></a> **(SimplE)** Seyed Mehran Kazemi, David Poole. "**SimplE Embedding for Link Prediction in Knowledge Graphs**". **NeurIPS 2018**. [paper](http://papers.nips.cc/paper/7682-simple-embedding-for-link-prediction-in-knowledge-graphs) [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips31/reviews/2093.html) [code](https://github.com/Mehran-k/SimplE) :fire:
@@ -1204,8 +1190,6 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="Neural-LP-N"></a> **(Neural-LP-N)** Po-Wei Wang, Daria Stepanova, Csaba Domokos, J. Zico Kolter. "**Differentiable learning of numerical rules in knowledge graphs**". **ICLR 2020**. [paper](https://openreview.net/forum?id=rJleKgrKwS)
 
-- <a name="Q2B"></a> **(Q2B)** Hongyu Ren, Weihua Hu, Jure Leskovec. "**Query2box: Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings**". **ICLR 2020**. [paper](https://openreview.net/forum?id=BJgr4kSFDS) [code](https://github.com/hyren/query2box) :fire:
-
 - <a name="ReifKB"></a> **(ReifKB)**  William W. Cohen, Haitian Sun, R. Alex Hofer, Matthew Siegler. "**Scalable Neural Methods for Reasoning With a Symbolic Knowledge Base**". **ICLR 2020**. [paper](https://openreview.net/forum?id=BJlguT4YPr)
 
 - <a name="TComplEx"></a> **(TComplEx)** Timothée Lacroix, Guillaume Obozinski, Nicolas Usunier. "**Tensor Decompositions for Temporal Knowledge Base Completion**". **ICLR 2020**. [paper](https://openreview.net/forum?id=rke2P1BFwS) [code](https://github.com/facebookresearch/tkbc)
@@ -1247,8 +1231,6 @@ Thanks for your attention and kind words! We will update KGE later.
 - <a name="ZSGAN"></a> **(ZSGAN)** Pengda Qin, Xin Wang, Wenhu Chen, Chunyun Zhang, Weiran Xu, William Yang Wang. "**Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs**". **AAAI 2020**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/6392) [code](https://github.com/Panda0406/Zero-shot-knowledge-graph-relational-learning)
 
 ##### NeurIPS
-
-- <a name="BETAE"></a> **(BETAE)** Hongyu Ren, Jure Leskovec. "**Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs**". **NeurIPS 2020**. [paper](https://proceedings.neurips.cc/paper/2020/hash/e43739bba7cdb577e9e3e4e42447f5a5-Abstract.html) [code](http://snap.stanford.edu/betae/) 
 
 - <a name="BoxE"></a> **(BoxE)** Ralph Abboud, Ismail Ilkan Ceylan, Thomas Lukasiewicz, Tommaso Salvatori. "**BoxE: A Box Embedding Model for Knowledge Base Completion**". **NeurIPS 2020**. [paper](https://proceedings.neurips.cc/paper/2020/hash/6dbbe6abe5f14af882ff977fc3f35501-Abstract.html)
 
@@ -1375,8 +1357,6 @@ Thanks for your attention and kind words! We will update KGE later.
 ##### UAI
 
 - <a name="Strat-Hits"></a> **(Strat-Hits)** Aisha Mohamed, Shameem Puthiya Parambath, Zoi Kaoudi, Ashraf Aboulnaga. "**Popularity Agnostic Evaluation of Knowledge Graph Embeddings**". **UAI 2020**. [paper](http://proceedings.mlr.press/v124/mohamed20a.html)
-
-- <a name="TRACTOR"></a> **(TRACTOR)** Tal Friedman, Guy Van den Broeck. "**Symbolic Querying of Vector Spaces: Probabilistic Databases Meets Relational Embeddings**". **UAI 2020**. [paper](http://proceedings.mlr.press/v124/friedman20a.html)
 
 ##### AAMAS
 
@@ -1514,8 +1494,6 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="TimE"></a> **(TimE)** Qianjin Zhang, Ronggui Wang, Juan Yang, Lixia Xue. "**Knowledge graph embedding by translating in time domain space for link prediction**". **Knowledge Based Systems 2021**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120306936?via%3Dihub)
 
-- <a name="Top-k-Query"></a> **(Top-k-Query)** Yuxiang Wang, Xiaoliang Xu, Qifan Hong, Jiahui Jin, Tianxing Wu. "**Top-k star queries on knowledge graphs through semantic-aware bounding match scores**". **Knowledge Based Systems 2021**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512030784X?via%3Dihub)
-
 - <a name="TrustE"></a> **(TrustE)** Yu Zhao, Zhiquan Li, Wei Deng, Ruobing Xie, Qing Li. "**Learning entity type structured embeddings with trustworthiness on noisy knowledge graphs**". **Knowledge Based Systems 2021**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120307590?via%3Dihub)
 
 ##### Future Generation Computer Systems
@@ -1591,8 +1569,6 @@ Thanks for your attention and kind words! We will update KGE later.
 ##### AAAI
 
 - <a name="5E"></a> **(5E)** Mojtaba Nayyeri, Sahar Vahdati, Can Aykul, Jens Lehmann. "**5 Knowledge Graph Embeddings with Projective Transformations**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17095)
-
-- <a name="BiQE"></a> **(BiQE)** Bhushan Kotnis, Carolin Lawrence, Mathias Niepert. "**Answering Complex Queries in Knowledge Graphs with Bidirectional Sequence Encoders**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16630)
 
 - <a name="ChronoR"></a> **(ChronoR)** Ali Sadeghian, Mohammadreza Armandpour, Anthony Colas, Daisy Zhe Wang. "**ChronoR: Rotation Based Temporal Knowledge Graph Embedding**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16802)
 
@@ -1709,8 +1685,6 @@ Thanks for your attention and kind words! We will update KGE later.
 ##### KDD
 
 - <a name="KompaRe"></a> **(KompaRe)** Lihui Liu, Boxin Du, Yi Ren Fung, Heng Ji, Jiejun Xu, Hanghang Tong. "**KompaRe: A Knowledge Graph Comparative Reasoning System**". **KDD 2021**. [paper](https://dl.acm.org/doi/10.1145/3447548.3467128)
-
-- <a name="NewLook"></a> **(NewLook)** Lihui Liu, Boxin Du, Heng Ji, ChengXiang Zhai, Hanghang Tong. "**Neural-Answering Logical Queries on Knowledge Graphs**". **KDD 2021**. [paper](https://dl.acm.org/doi/10.1145/3447548.3467375)
 
 - <a name="PathCon"></a> **(PathCon)** Hongwei Wang, Hongyu Ren, Jure Leskovec. "**Relational Message Passing for Knowledge Graph Completion**". **KDD 2021**. [paper](https://dl.acm.org/doi/10.1145/3447548.3467247)
 
@@ -1978,11 +1952,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="MGNN"></a> **(MGNN)** David Jaime Tena Cucala, Bernardo Cuenca Grau, Egor V. Kostylev, Boris Motik. "**Explainable GNN-Based Models over Knowledge Graphs**". **ICLR 2022**. [paper](https://openreview.net/forum?id=CrCvGNHAIrz)
 
-- <a name="MLPMix"></a> **(MLPMix)** Alfonso Amayuelas, Shuai Zhang, Susie Xi Rao, Ce Zhang. "**Neural Methods for Logical Reasoning over Knowledge Graphs**". **ICLR 2022**. [paper](https://openreview.net/forum?id=tgcAoUVHRIB)
-
 - <a name="NodePiece"></a> **(NodePiece)** Mikhail Galkin, Etienne G. Denis, Jiapeng Wu, William L. Hamilton. "**NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs**". **ICLR 2022**. [paper](https://openreview.net/forum?id=xMJWUKJnFSw)
-
-- <a name="StarQE"></a> **(StarQE)** Dimitrios Alivanistos, Max Berrendorf, Michael Cochez, Mikhail Galkin. "**Query Embedding on Hyper-Relational Knowledge Graphs**". **ICLR 2022**. [paper](https://openreview.net/forum?id=4rLw09TgRw9)
 
 ##### AAAI
 
