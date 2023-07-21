@@ -2223,8 +2223,15 @@ Thanks for your attention and kind words! We will update KGE later.
 ##### ICASSP
 
 - <a name="SGI"></a> **(SGI)** Heeyoung Kwak, Hyunkyung Bae, Kyomin Jung. "**Subgraph Representation Learning with Hard Negative Samples for Inductive Link Prediction**". **ICASSP 2022**. [paper](https://ieeexplore.ieee.org/document/9747485)
-#### Focus
+
+### 2023
+
+#### Journal
 
 ##### IEEE Transactions on Pattern Analysis and Machine Intelligence
 
-- <a name="PyKEEN"></a> **(PyKEEN)** Mehdi Ali, Max Berrendorf, Charles Tapley Hoyt, Laurent Vermue, Mikhail Galkin, Sahand Sharifzadeh, Asja Fischer, Volker Tresp, Jens Lehmann. "**Bringing Light Into the Dark: A Large-scale Evaluation of Knowledge Graph Embedding Models Under a Unified Framework**". **IEEE Transactions on Pattern Analysis and Machine Intelligence**. [paper](https://arxiv.org/abs/2006.13365) [code](https://github.com/pykeen/pykeen) [benchmark](https://github.com/pykeen/benchmarking)
+- <a name="AutoML"></a> **(AutoML)** Yongqi Zhang, Quanming Yao, James T. Kwok. "**Bilinear Scoring Function Search for Knowledge Graph Learning**". **IEEE Transactions on Pattern Analysis and Machine Intelligence 2023**. [paper](https://ieeexplore.ieee.org/document/9729658)
+
+- <a name="DURA"></a> **(DURA)** Jie Wang, Zhanqiu Zhang, Zhihao Shi, Jianyu Cai, Shuiwang Ji, Feng Wu. "**Duality-Induced Regularizer for Semantic Matching Knowledge Graph Embeddings**". **IEEE Transactions on Pattern Analysis and Machine Intelligence 2023**. [paper](https://ieeexplore.ieee.org/document/9741534)
+
+- <a name="LogicENN"></a> **(LogicENN)** Mojtaba Nayyeri, Chengjin Xu, Mirza Mohtashim Alam, Jens Lehmann, Hamed Shariat Yazdi. "**LogicENN: A Neural Based Knowledge Graphs Embedding Model With Logical Rules**". **IEEE Transactions on Pattern Analysis and Machine Intelligence 2023**. [paper](https://ieeexplore.ieee.org/document/9582776)
