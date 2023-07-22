@@ -2228,6 +2228,10 @@ Thanks for your attention and kind words! We will update KGE later.
 
 #### Journal
 
+##### Applied Intelligence 
+
+- <a name="ETF"></a> **(ETF)** Wenjie Chen, Shuang Zhao, Xin Zhang. "**Enhancing knowledge graph embedding with type-constraint features**". **Applied Intelligence 2023**. [paper](https://link.springer.com/article/10.1007/s10489-022-03518-z)
+
 ##### IEEE Transactions on Pattern Analysis and Machine Intelligence
 
 - <a name="AutoML"></a> **(AutoML)** Yongqi Zhang, Quanming Yao, James T. Kwok. "**Bilinear Scoring Function Search for Knowledge Graph Learning**". **IEEE Transactions on Pattern Analysis and Machine Intelligence 2023**. [paper](https://ieeexplore.ieee.org/document/9729658)
