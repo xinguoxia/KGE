@@ -2232,6 +2232,16 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="ETF"></a> **(ETF)** Wenjie Chen, Shuang Zhao, Xin Zhang. "**Enhancing knowledge graph embedding with type-constraint features**". **Applied Intelligence 2023**. [paper](https://link.springer.com/article/10.1007/s10489-022-03518-z)
 
+- <a name="TBDRI"></a> **(TBDRI)** Mei Yu, Jiujiang Guo, Jian Yu, Tianyi Xu, Mankun Zhao, Hongwei Liu, Xuewei Li, Ruiguo Yu. "**TBDRI: block decomposition based on relational interaction for temporal knowledge graph completion**". **Applied Intelligence 2023**. [paper](https://link.springer.com/article/10.1007/s10489-022-03601-5)
+
+##### Data Mining and Knowledge Discovery
+
+- <a name="BDRI"></a> **(BDRI)** Mei Yu, Jiujiang Guo, Jian Yu, Tianyi Xu, Mankun Zhao, Hongwei Liu, Xuewei Li, Ruiguo Yu. "**BDRI: block decomposition based on relational interaction for knowledge graph completion**". **Data Mining and Knowledge Discovery 2023**. [paper](https://link.springer.com/article/10.1007/s10618-023-00918-8)
+
+- <a name="ContE"></a> **(ContE)** Ting Ma, Mingming Li, Shangwen Lv, Fuqing Zhu, Longtao Huang, Songlin Hu. "**ContE: contextualized knowledge graph embedding for circular relations**". **Data Mining and Knowledge Discovery 2023**. [paper](https://link.springer.com/article/10.1007/s10618-022-00851-2)
+
+- <a name="HARPA"></a> **(HARPA)** Naixin Zhang, Jinmeng Wang, Jieyue He. "**HARPA: hierarchical attention with relation paths for knowledge graph embedding adversarial learning**". **Data Mining and Knowledge Discovery 2023**. [paper](https://link.springer.com/article/10.1007/s10618-022-00888-3)
+
 ##### IEEE Transactions on Pattern Analysis and Machine Intelligence
 
 - <a name="AutoML"></a> **(AutoML)** Yongqi Zhang, Quanming Yao, James T. Kwok. "**Bilinear Scoring Function Search for Knowledge Graph Learning**". **IEEE Transactions on Pattern Analysis and Machine Intelligence 2023**. [paper](https://ieeexplore.ieee.org/document/9729658)
