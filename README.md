@@ -762,8 +762,6 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="MEAN"></a> **(MEAN)** Takuo Hamaguchi, Hidekazu Oiwa, Masashi Shimbo, Yuji Matsumoto. "**Knowledge Transfer for Out-of-Knowledge-Base Entities : A Graph Neural Network Approach**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/250)
 
-- <a name="IPTransE"></a> **(IPTransE)** Hao Zhu, Ruobing Xie, Zhiyuan Liu, Maosong Sun. "**Iterative Entity Alignment via Joint Knowledge Embeddings**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/595)
-
 ##### UAI
 
 - <a name="ASR-ComplEx"></a> **(ASR-ComplEx)** Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel. "**Adversarial Sets for Regularising Neural Link Predictors**". **UAI 2017**. [paper](http://auai.org/uai2017/proceedings/papers/306.pdf)
@@ -1025,8 +1023,6 @@ Thanks for your attention and kind words! We will update KGE later.
 - <a name="Attack"></a> **(Attack)** Hengtong Zhang, Tianhang Zheng, Jing Gao, Chenglin Miao, Lu Su, Yaliang Li, Kui Ren. "**Data Poisoning Attack against Knowledge Graph Embedding**". **IJCAI 2019**. [paper](https://www.ijcai.org/proceedings/2019/674)
 
 - <a name="M-GNN"></a> **(M-GNN)** Zihan Wang, Zhaochun Ren, Chunyu He, Peng Zhang, Yue Hu. "**Robust Embedding with Multi-Level Structures for Link Prediction**". **IJCAI 2019**. [paper](https://www.ijcai.org/proceedings/2019/728)
-
-- <a name="RDGCN"></a> **(RDGCN)** Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang, Rui Yan, Dongyan Zhao. "**Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs**". **IJCAI 2019**. [paper](https://www.ijcai.org/proceedings/2019/733)
 
 -  <a name="TransMS"></a> **(TransMS)** Shihui Yang, Jidong Tian, Honglun Zhang, Junchi Yan, Hao He, Yaohui Jin. "**TransMS: Knowledge Graph Embedding for Complex Relations by Multidirectional Semantics**". **IJCAI 2019**. [paper](https://www.ijcai.org/proceedings/2019/268)
 
@@ -1658,8 +1654,6 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="TANGO"></a> **(TANGO)** Zhen Han, Zifeng Ding, Yunpu Ma, Yujia Gu, Volker Tresp. "**Learning Neural Ordinary Equations for Forecasting Future Links on Temporal Knowledge Graphs**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.658/)
 
-- <a name="TEA-GNN"></a> **(TEA-GNN)** Chengjin Xu, Fenglong Su, Jens Lehmann. "**Time-aware Graph Neural Network for Entity Alignment between Temporal Knowledge Graphs**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.709/) [code](https://github.com/soledad921/TEA-GNN)
-
 - <a name="TEE"></a> **(TEE)** Zhen Han, Gengyuan Zhang, Yunpu Ma, Volker Tresp. "**Time-dependent Entity Embedding is not All You Need: A Re-evaluation of Temporal Knowledge Graph Completion Models under a Unified Framework**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.639/)
 
 - <a name="TITer"></a> **(TITer)** Haohai Sun, Jialun Zhong, Yunpu Ma, Zhen Han, Kun He. "**TimeTraveler: Reinforcement Learning for Temporal Knowledge Graph Forecasting**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.655/) [code](https://github.com/JHL-HUST/TITer)
@@ -2215,8 +2209,6 @@ Thanks for your attention and kind words! We will update KGE later.
 - <a name="HaLE"></a> **(HaLE)** Kai Wang, Yu Liu, Quan Z. Sheng. "**Swift and Sure: Hardness-aware Contrastive Learning for Low-dimensional Knowledge Graph Embeddings**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3511927)
 
 - <a name="RED-GNN"></a> **(RED-GNN)** Yongqi Zhang, Quanming Yao. "**Knowledge Graph Reasoning with Relational Digraph**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3512008) [code](https://github.com/AutoML-Research/RED-GNN)
-
-- <a name="SelfKG"></a> **(SelfKG)** Xiao Liu, Haoyun Hong, Xinghao Wang, Zeyi Chen, Evgeny Kharlamov, Yuxiao Dong, Jie Tang. "**SelfKG: Self-Supervised Entity Alignment in Knowledge Graphs**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3511945) [code](https://github.com/THUDM/SelfKG)
 
 - <a name="TKGC"></a> **(TKGC)** Jiacheng Huang, Yao Zhao, Wei Hu, Zhen Ning, Qijin Chen, Xiaoxia Qiu, Chengfu Huo, Weijun Ren. "**Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Datas**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3511938) [code](https://github.com/nju-websoft/TKGC)
 
