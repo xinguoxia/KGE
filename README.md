@@ -2260,6 +2260,6 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="MLP-ensemble"></a> **(MLP-ensemble)** Juanhui Li, Harry Shomer, Jiayuan Ding, Yiqi Wang, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin. "**Are Message Passing Neural Networks Really Helpful for Knowledge Graph Completion?**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-long.597/)
   
-- - <a name="NS-KGC"></a> **(NS-KGC)** Ananjan Nandi, Navdeep Kaur, Parag Singla, Mausam. "**Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-short.23/)
+- <a name="NS-KGC"></a> **(NS-KGC)** Ananjan Nandi, Navdeep Kaur, Parag Singla, Mausam. "**Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-short.23/)
 
 - <a name="TeAST"></a> **(TeAST)** Jiang Li, Xiangdong Su, Guanglai Gao. "**TeAST: Temporal Knowledge Graph Embedding via Archimedean Spiral Timeline**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-long.862/)
