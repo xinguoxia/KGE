@@ -2241,3 +2241,25 @@ Thanks for your attention and kind words! We will update KGE later.
 - <a name="DURA"></a> **(DURA)** Jie Wang, Zhanqiu Zhang, Zhihao Shi, Jianyu Cai, Shuiwang Ji, Feng Wu. "**Duality-Induced Regularizer for Semantic Matching Knowledge Graph Embeddings**". **IEEE Transactions on Pattern Analysis and Machine Intelligence 2023**. [paper](https://ieeexplore.ieee.org/document/9741534)
 
 - <a name="LogicENN"></a> **(LogicENN)** Mojtaba Nayyeri, Chengjin Xu, Mirza Mohtashim Alam, Jens Lehmann, Hamed Shariat Yazdi. "**LogicENN: A Neural Based Knowledge Graphs Embedding Model With Logical Rules**". **IEEE Transactions on Pattern Analysis and Machine Intelligence 2023**. [paper](https://ieeexplore.ieee.org/document/9582776)
+
+#### Conference
+
+##### ACL
+
+- <a name="ACTC"></a> **(ACTC)** Anastasiia Sedova, Benjamin Roth. "**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-short.158/)
+
+- <a name="CompoundE"></a> **(CompoundE)** Xiou Ge, Yun-Cheng Wang, Bin Wang, C.-C. Jay Kuo. "**Compounding Geometric Operations for Knowledge Graph Completion**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-long.384/)
+
+- <a name="GreenKGC"></a> **(GreenKGC)** Yuncheng Wang, Xiou Ge, Bin Wang, C.-C. Jay Kuo. "**GreenKGC: A Lightweight Knowledge Graph Completion Method**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-long.591/)
+
+- <a name="L2TKG"></a> **(L2TKG)** Mengqi Zhang, Yuwei Xia, Qiang Liu, Shu Wu, Liang Wang. "**Learning Latent Relations for Temporal Knowledge Graph Reasoning**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-long.705/)
+
+- <a name="LSMGA"></a> **(LSMGA)** Rongchuan Tang, Yang Zhao, Chengqing Zong, Yu Zhou. "**Multilingual Knowledge Graph Completion with Language-Sensitive Multi-Graph Attention**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-long.586/)
+
+- <a name="MA-GNN"></a> **(MA-GNN)** Hongcai Xu, Junpeng Bao, Wenbo Liu. "**Double-Branch Multi-Attention based Graph Neural Network for Knowledge Graph Completion**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-long.850/)
+
+- <a name="MLP-ensemble"></a> **(MLP-ensemble)** Juanhui Li, Harry Shomer, Jiayuan Ding, Yiqi Wang, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin. "**Are Message Passing Neural Networks Really Helpful for Knowledge Graph Completion?**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-long.597/)
+  
+- - <a name="NS-KGC"></a> **(NS-KGC)** Ananjan Nandi, Navdeep Kaur, Parag Singla, Mausam. "**Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-short.23/)
+
+- <a name="TeAST"></a> **(TeAST)** Jiang Li, Xiangdong Su, Guanglai Gao. "**TeAST: Temporal Knowledge Graph Embedding via Archimedean Spiral Timeline**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-long.862/)
