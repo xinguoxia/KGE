@@ -166,38 +166,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2022 | KBS* | **[JointE](#JointE)** |
 | 2022 | AI* | **[CTKGC](#CTKGC)** |
 
-#### Graph Networks
 
-| Year | Source | Methods |
-|:----:|:------:|:-------:|
-| 2018 | ESWC | **[R-GCN](#R-GCN)** |
-| 2019 | AAAI | **[SACN](#SACN)** |
-| 2019 | ACL | **[A2N](#A2N)** |
-| 2019 | ACL | **[KBGAT](#KBGAT)** |
-| 2019 | IJCAI | **[M-GNN](#M-GNN)** |
-| 2019 | IJCAI | **[RDGCN](#RDGCN)** |
-| 2019 | IJCAI | **[VR-GCN](#VR-GCN)** |
-| 2019 | ICASSP | **[GRNN](#GRNN)** |
-| 2020 | ICLR | **[CompGCN](#CompGCN)** |
-| 2020 | ICLR | **[DPMPN](#DPMPN)** |
-| 2020 | AAAI | **[RGHAT](#RGHAT)** |
-| 2020 | CIKM | **[GAEAT](#GAEAT)** |
-| 2021 | KBS* | **[CoRelatE](#CoRelatE)** |
-| 2021 | KBS* | **[RHGNN](#RHGNN)** |
-| 2021 | KBS* | **[TAGAT](#TAGAT)** |
-| 2021 | ESA* | **[KGEL](#KGEL)** |
-| 2021 | IS* | **[DA-GCN](#DA-GCN)** |
-| 2021 | NC* | **[TRAR](#TRAR)** |
-| 2021 | NC* | **[SRGCN](#SRGCN)** |
-| 2021 | NCA* | **[SD-GAT](#SD-GAT)** |
-| 2021 | AHN* | **[TRFR](#TRFR)** |
-| 2021 | ACL | **[EIGAT](#EIGAT)** |
-| 2021 | CIKM | **[DisenKGAT](#DisenKGAT)** |
-| 2021 | WWW | **[KE-GCN](#KE-GCN)** |
-| 2021 | WWW | **[M2GNN](#M2GNN)** |
-| 2022 | NC* | **[HSKGCN](#HSKGCN)** |
-| 2022 | WSDM | **[NoGE](#NoGE)** |
-| 2022 | ICML | **[CBR-SUBG](#CBR-SUBG)** |
 
 ### Informations
 
@@ -356,55 +325,7 @@ Thanks for your attention and kind words! We will update KGE later.
 | 2020 | WWW | **[HINGE](#HINGE)** |
 | 2021 | WWW | **[RAW](#RAW)** |
 
-#### Temporal
 
-| Year | Source | Methods |
-|:----:|:------:|:-------:|
-| 2014 | EMNLP | **[CTPs](#CTPs)** |
-| 2016 | EMNLP | **[t-TransE](#t-TransE)** |
-| 2016 | COLING | **[TransE-TAE](#TransE-TAE)** |
-| 2017 | AAAI | **[MLNs](#MLNs)** |
-| 2017 | ICML | **[Know-Evolve](#Know-Evolve)** |
-| 2018 | EMNLP | **[HyTE](#HyTE)** |
-| 2018 | EMNLP | **[TA-DistMult](#TA-DistMult)** |
-| 2018 | WWW | **[TTransE](#TTransE)** |
-| 2019 | ICLR | **[DyRep](#DyRep)** |
-| 2020 | ICLR | **[TComplEx](#TComplEx)** |
-| 2020 | AAAI | **[DE-SimplE](#DE-SimplE)** |
-| 2020 | AAAI | **[EvolveGCN](#EvolveGCN)** |
-| 2020 | IJCAI | **[DArtNet](#DArtNet)** |
-| 2020 | EMNLP | **[DyERNIE](#DyERNIE)** |
-| 2020 | EMNLP | **[RE-NET](#RE-NET)** |
-| 2020 | EMNLP | **[TeMP](#TeMP)** |
-| 2020 | EMNLP | **[TIMEPLEX](#TIMEPLEX)** |
-| 2020 | COLING | **[TeRo](#TeRo)** |
-| 2020 | CIKM | **[ToKE](#ToKE)** |
-| 2020 | ISWC | **[ATiSE](#ATiSE)** |
-| 2020 | WWW | **[TDGNN](#TDGNN)** |
-| 2021 | KBS* | **[TimE](#TimE)** |
-| 2021 | ASC* | **[TPath](#TPath)** |
-| 2021 | ICLR | **[xERTE](#xERTE)** |
-| 2021 | AAAI | **[ChronoR](#ChronoR)** |
-| 2021 | AAAI | **[CyGNet](#CyGNet)** |
-| 2021 | AAAI | **[NLSM](#NLSM)** |
-| 2021 | ACL | **[CluSTeR](#CluSTeR)** |
-| 2021 | ACL | **[HERCULES](#HERCULES)** |
-| 2021 | IJCAI | **[HIPNet](#HIPNet)** |
-| 2021 | EMNLP | **[TANGO](#TANGO)** |
-| 2021 | EMNLP | **[TEA-GNN](#TEA-GNN)** |
-| 2021 | EMNLP | **[TEE](#TEE)** |
-| 2021 | EMNLP | **[TITer](#TITer)** |
-| 2021 | NAACL-HLT | **[KRE](#KRE)** |
-| 2021 | NAACL-HLT | **[RTFE](#RTFE)** |
-| 2021 | NAACL-HLT | **[TeLM](#TeLM)** |
-| 2021 | KDD | **[T-GAP](#T-GAP)** |
-| 2021 | SIGIR | **[RE-GCN](#RE-GCN)** |
-| 2021 | SIGIR | **[TIE](#TIE)** |
-| 2021 | WSDM | **[DBKGE](#DBKGE)** |
-| 2021 | DASFAA | **[ST-ConvKB](#ST-ConvKB)** |
-| 2021 | ESWC | **[RETRA](#RETRA)** |
-| 2022 | KBS* | **[TuckERT](#TuckERT)** |
-| 2022 | WSDM | **[EvoKG](#EvoKG)** |
 
 #### Uncertain
 
@@ -497,35 +418,53 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ## Papers
 
-### Survey
+### 2023
 
-- Yoshua Bengio, Aaron C. Courville, Pascal Vincent. "**Representation Learning: A Review and New Perspectives**". **Transactions on Pattern Analysis and Machine Intelligence 2013**. **Impact 16.389**. [paper](https://ieeexplore.ieee.org/document/6472238)
+#### Journal
 
-- Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich. "**A Review of Relational Machine Learning for Knowledge Graphs**". **Proceedings of the IEEE 2016**. **Impact 10.960**. [paper](https://ieeexplore.ieee.org/document/7358050)
+##### Applied Intelligence 
 
-- Quan Wang, Zhendong Mao, Bin Wang, Li Guo. "**Knowledge Graph Embedding: A Survey of Approaches and Applications**". **IEEE Transactions on Knowledge and Data Engineering 2017**. **Impact 6.976**.  [paper](https://ieeexplore.ieee.org/document/8047276)
+- <a name="ETF"></a> **(ETF)** Wenjie Chen, Shuang Zhao, Xin Zhang. "**Enhancing knowledge graph embedding with type-constraint features**". [paper](https://link.springer.com/article/10.1007/s10489-022-03518-z)
 
-- HongYun Cai, Vincent W. Zheng, Kevin Chen-Chuan Chang. "**A Comprehensive Survey of Graph Embedding: Problems, Techniques, and Applications**". **IEEE Transactions on Knowledge and Data Engineering 2018**. **Impact 6.976**. [paper](https://ieeexplore.ieee.org/document/8294302)
+- <a name="TBDRI"></a> **(TBDRI)** Mei Yu, Jiujiang Guo, Jian Yu, Tianyi Xu, Mankun Zhao, Hongwei Liu, Xuewei Li, Ruiguo Yu. "**TBDRI: block decomposition based on relational interaction for temporal knowledge graph completion**". [paper](https://link.springer.com/article/10.1007/s10489-022-03601-5)
 
-- Xiaojun Chen, Shengbin Jia, Yang Xiang. "**A review: Knowledge reasoning over knowledge graph**". **Expert Systems with Applications 2020**. **Impact 6.953**. [paper](https://www.sciencedirect.com/science/article/pii/S0957417419306669?via%3Dihub)
+##### Data Mining and Knowledge Discovery
 
-- Aidan Hogan, Eva Blomqvist, Michael Cochez, Claudia D’amato, Gerard De Melo, Claudio Gutierrez, Sabrina Kirrane, José Emilio Labra Gayo, Roberto Navigli, Sebastian Neumaier, Axel-Cyrille Ngonga Ngomo, Axel Polleres, Sabbir M. Rashid,Anisa Rula, Lukas Schmelzeisen, Juan Sequeda, Steffen Staab, Antoine Zimmermann. "**Knowledge Graphs**". **ACM Computing Surveys 2021**. **Impact 10.282**. [paper](https://dl.acm.org/doi/10.1145/3447772)
+- <a name="BDRI"></a> **(BDRI)** Mei Yu, Jiujiang Guo, Jian Yu, Tianyi Xu, Mankun Zhao, Hongwei Liu, Xuewei Li, Ruiguo Yu. "**BDRI: block decomposition based on relational interaction for knowledge graph completion**". [paper](https://link.springer.com/article/10.1007/s10618-023-00918-8)
 
-- Erik Cambria, Shaoxiong Ji, Shirui Pan, Philip S. Yu. "**Knowledge graph representation and reasoning**". **Neurocomputing 2021**. **Impact 5.719**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122100953X?via%3Dihub)
+- <a name="ContE"></a> **(ContE)** Ting Ma, Mingming Li, Shangwen Lv, Fuqing Zhu, Longtao Huang, Songlin Hu. "**ContE: contextualized knowledge graph embedding for circular relations**". [paper](https://link.springer.com/article/10.1007/s10618-022-00851-2)
 
-- Xuejie Hao, Zheng Ji, Xiuhong Li, Lizeyan Yin, Lu Liu, Meiying Sun, Qiang Liu, Rongjin Yang. "**Construction and Application of a Knowledge Graph**". **Remote Sensing 2021**. **Impact 4.848**. [paper](https://www.mdpi.com/2072-4292/13/13/2511)
+- <a name="HARPA"></a> **(HARPA)** Naixin Zhang, Jinmeng Wang, Jieyue He. "**HARPA: hierarchical attention with relation paths for knowledge graph embedding adversarial learning**". [paper](https://link.springer.com/article/10.1007/s10618-022-00888-3)
 
-- Claudio Gutierrez, Juan F. Sequeda. "**Knowledge Graphs**". **Communications of the ACM 2021**. **Impact 4.654**. [paper](https://dl.acm.org/doi/10.1145/3418294)
+##### IEEE Transactions on Pattern Analysis and Machine Intelligence
 
-- Andrea Rossi, Donatella Firmani, Antonio Matinata, Paolo Merialdo, Denilson Barbosa. "**Knowledge Graph Embedding for Link Prediction: A Comparative Analysis**". **ACM Transactions on Knowledge Discovery from Data 2021**. **Impact 2.713**. [paper](https://dl.acm.org/doi/10.1145/3424672)
+- <a name="AutoML"></a> **(AutoML)** Yongqi Zhang, Quanming Yao, James T. Kwok. "**Bilinear Scoring Function Search for Knowledge Graph Learning**". [paper](https://ieeexplore.ieee.org/document/9729658)
 
-- Ilaria Tiddi, Stefan Schlobach. "**Knowledge graphs as tools for explainable machine learning: A survey**". **Artificial Intelligence 2022**. [paper](https://www.sciencedirect.com/science/article/pii/S0004370221001788?via%3Dihub)
+- <a name="DURA"></a> **(DURA)** Jie Wang, Zhanqiu Zhang, Zhihao Shi, Jianyu Cai, Shuiwang Ji, Feng Wu. "**Duality-Induced Regularizer for Semantic Matching Knowledge Graph Embeddings**". [paper](https://ieeexplore.ieee.org/document/9741534)
 
-- Luigi Bellomarini, Ruslan R. Fayzrakhmanov, Georg Gottlob, Andrey Kravchenko, Eleonora Laurenza, Yavor Nenov, Stéphane Reissfelder, Emanuel Sallinger, Evgeny Sherkhonov, Sahar Vahdati, Lianlong Wu. "**Data science with Vadalog: Knowledge Graphs with machine learning and reasoning in practice**". **Future Generation Computer Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X21004179?via%3Dihub) 
+- <a name="LogicENN"></a> **(LogicENN)** Mojtaba Nayyeri, Chengjin Xu, Mirza Mohtashim Alam, Jens Lehmann, Hamed Shariat Yazdi. "**LogicENN: A Neural Based Knowledge Graphs Embedding Model With Logical Rules**". [paper](https://ieeexplore.ieee.org/document/9582776)
 
-- Mehwish Alam, Anna Fensel, Jorge Martínez Gil, Bernhard Moser, Diego Reforgiato Recupero, Harald Sack. "**Special Issue on Machine Learning and Knowledge Graphs**". **Future Generation Computer Systems 2022**. **Impact 2.713**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X21004660?via%3Dihub)
+#### Conference
 
-- Shaoxiong Ji, Shirui Pan, Erik Cambria, Pekka Marttinen, Philip S. Yu. "**A Survey on Knowledge Graphs: Representation, Acquisition, and Applications**". **IEEE Transactions on Neural Networks and Learning Systems 2022**. **Impact 10.450**. [paper](https://ieeexplore.ieee.org/document/9416312)
+##### ACL
+
+- <a name="ACTC"></a> **(ACTC)** Anastasiia Sedova, Benjamin Roth. "**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**". [paper](https://aclanthology.org/2023.acl-short.158/)
+
+- <a name="CompoundE"></a> **(CompoundE)** Xiou Ge, Yun-Cheng Wang, Bin Wang, C.-C. Jay Kuo. "**Compounding Geometric Operations for Knowledge Graph Completion**". [paper](https://aclanthology.org/2023.acl-long.384/)
+
+- <a name="GreenKGC"></a> **(GreenKGC)** Yuncheng Wang, Xiou Ge, Bin Wang, C.-C. Jay Kuo. "**GreenKGC: A Lightweight Knowledge Graph Completion Method**". [paper](https://aclanthology.org/2023.acl-long.591/)
+
+- <a name="L2TKG"></a> **(L2TKG)** Mengqi Zhang, Yuwei Xia, Qiang Liu, Shu Wu, Liang Wang. "**Learning Latent Relations for Temporal Knowledge Graph Reasoning**". [paper](https://aclanthology.org/2023.acl-long.705/)
+
+- <a name="LSMGA"></a> **(LSMGA)** Rongchuan Tang, Yang Zhao, Chengqing Zong, Yu Zhou. "**Multilingual Knowledge Graph Completion with Language-Sensitive Multi-Graph Attention**". [paper](https://aclanthology.org/2023.acl-long.586/)
+
+- <a name="MA-GNN"></a> **(MA-GNN)** Hongcai Xu, Junpeng Bao, Wenbo Liu. "**Double-Branch Multi-Attention based Graph Neural Network for Knowledge Graph Completion**". [paper](https://aclanthology.org/2023.acl-long.850/)
+
+- <a name="MLP-ensemble"></a> **(MLP-ensemble)** Juanhui Li, Harry Shomer, Jiayuan Ding, Yiqi Wang, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin. "**Are Message Passing Neural Networks Really Helpful for Knowledge Graph Completion?**". [paper](https://aclanthology.org/2023.acl-long.597/)
+  
+- <a name="NS-KGC"></a> **(NS-KGC)** Ananjan Nandi, Navdeep Kaur, Parag Singla, Mausam. "**Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion**". [paper](https://aclanthology.org/2023.acl-short.23/)
+
+- <a name="TeAST"></a> **(TeAST)** Jiang Li, Xiangdong Su, Guanglai Gao. "**TeAST: Temporal Knowledge Graph Embedding via Archimedean Spiral Timeline**". [paper](https://aclanthology.org/2023.acl-long.862/)
 
 ### 2011
 
@@ -2224,51 +2163,3 @@ Thanks for your attention and kind words! We will update KGE later.
 ##### ICASSP
 
 - <a name="SGI"></a> **(SGI)** Heeyoung Kwak, Hyunkyung Bae, Kyomin Jung. "**Subgraph Representation Learning with Hard Negative Samples for Inductive Link Prediction**". **ICASSP 2022**. [paper](https://ieeexplore.ieee.org/document/9747485)
-
-### 2023
-
-#### Journal
-
-##### Applied Intelligence 
-
-- <a name="ETF"></a> **(ETF)** Wenjie Chen, Shuang Zhao, Xin Zhang. "**Enhancing knowledge graph embedding with type-constraint features**". **Applied Intelligence 2023**. [paper](https://link.springer.com/article/10.1007/s10489-022-03518-z)
-
-- <a name="TBDRI"></a> **(TBDRI)** Mei Yu, Jiujiang Guo, Jian Yu, Tianyi Xu, Mankun Zhao, Hongwei Liu, Xuewei Li, Ruiguo Yu. "**TBDRI: block decomposition based on relational interaction for temporal knowledge graph completion**". **Applied Intelligence 2023**. [paper](https://link.springer.com/article/10.1007/s10489-022-03601-5)
-
-##### Data Mining and Knowledge Discovery
-
-- <a name="BDRI"></a> **(BDRI)** Mei Yu, Jiujiang Guo, Jian Yu, Tianyi Xu, Mankun Zhao, Hongwei Liu, Xuewei Li, Ruiguo Yu. "**BDRI: block decomposition based on relational interaction for knowledge graph completion**". **Data Mining and Knowledge Discovery 2023**. [paper](https://link.springer.com/article/10.1007/s10618-023-00918-8)
-
-- <a name="ContE"></a> **(ContE)** Ting Ma, Mingming Li, Shangwen Lv, Fuqing Zhu, Longtao Huang, Songlin Hu. "**ContE: contextualized knowledge graph embedding for circular relations**". **Data Mining and Knowledge Discovery 2023**. [paper](https://link.springer.com/article/10.1007/s10618-022-00851-2)
-
-- <a name="HARPA"></a> **(HARPA)** Naixin Zhang, Jinmeng Wang, Jieyue He. "**HARPA: hierarchical attention with relation paths for knowledge graph embedding adversarial learning**". **Data Mining and Knowledge Discovery 2023**. [paper](https://link.springer.com/article/10.1007/s10618-022-00888-3)
-
-##### IEEE Transactions on Pattern Analysis and Machine Intelligence
-
-- <a name="AutoML"></a> **(AutoML)** Yongqi Zhang, Quanming Yao, James T. Kwok. "**Bilinear Scoring Function Search for Knowledge Graph Learning**". **IEEE Transactions on Pattern Analysis and Machine Intelligence 2023**. [paper](https://ieeexplore.ieee.org/document/9729658)
-
-- <a name="DURA"></a> **(DURA)** Jie Wang, Zhanqiu Zhang, Zhihao Shi, Jianyu Cai, Shuiwang Ji, Feng Wu. "**Duality-Induced Regularizer for Semantic Matching Knowledge Graph Embeddings**". **IEEE Transactions on Pattern Analysis and Machine Intelligence 2023**. [paper](https://ieeexplore.ieee.org/document/9741534)
-
-- <a name="LogicENN"></a> **(LogicENN)** Mojtaba Nayyeri, Chengjin Xu, Mirza Mohtashim Alam, Jens Lehmann, Hamed Shariat Yazdi. "**LogicENN: A Neural Based Knowledge Graphs Embedding Model With Logical Rules**". **IEEE Transactions on Pattern Analysis and Machine Intelligence 2023**. [paper](https://ieeexplore.ieee.org/document/9582776)
-
-#### Conference
-
-##### ACL
-
-- <a name="ACTC"></a> **(ACTC)** Anastasiia Sedova, Benjamin Roth. "**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-short.158/)
-
-- <a name="CompoundE"></a> **(CompoundE)** Xiou Ge, Yun-Cheng Wang, Bin Wang, C.-C. Jay Kuo. "**Compounding Geometric Operations for Knowledge Graph Completion**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-long.384/)
-
-- <a name="GreenKGC"></a> **(GreenKGC)** Yuncheng Wang, Xiou Ge, Bin Wang, C.-C. Jay Kuo. "**GreenKGC: A Lightweight Knowledge Graph Completion Method**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-long.591/)
-
-- <a name="L2TKG"></a> **(L2TKG)** Mengqi Zhang, Yuwei Xia, Qiang Liu, Shu Wu, Liang Wang. "**Learning Latent Relations for Temporal Knowledge Graph Reasoning**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-long.705/)
-
-- <a name="LSMGA"></a> **(LSMGA)** Rongchuan Tang, Yang Zhao, Chengqing Zong, Yu Zhou. "**Multilingual Knowledge Graph Completion with Language-Sensitive Multi-Graph Attention**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-long.586/)
-
-- <a name="MA-GNN"></a> **(MA-GNN)** Hongcai Xu, Junpeng Bao, Wenbo Liu. "**Double-Branch Multi-Attention based Graph Neural Network for Knowledge Graph Completion**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-long.850/)
-
-- <a name="MLP-ensemble"></a> **(MLP-ensemble)** Juanhui Li, Harry Shomer, Jiayuan Ding, Yiqi Wang, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin. "**Are Message Passing Neural Networks Really Helpful for Knowledge Graph Completion?**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-long.597/)
-  
-- <a name="NS-KGC"></a> **(NS-KGC)** Ananjan Nandi, Navdeep Kaur, Parag Singla, Mausam. "**Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-short.23/)
-
-- <a name="TeAST"></a> **(TeAST)** Jiang Li, Xiangdong Su, Guanglai Gao. "**TeAST: Temporal Knowledge Graph Embedding via Archimedean Spiral Timeline**". **ACL 2023**. [paper](https://aclanthology.org/2023.acl-long.862/)
