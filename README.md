@@ -42,17 +42,195 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### Applied Intelligence 
 
+- <a name="EmReCo"></a> **(EmReCo)** Jingbin Wang, Jing Lei, Shounan Sun, Kun Guo. "**Embeddings based on relation-specific constraints for open world knowledge graph completion**". [paper](https://link.springer.com/article/10.1007/s10489-022-04247-z)
+
 - <a name="ETF"></a> **(ETF)** Wenjie Chen, Shuang Zhao, Xin Zhang. "**Enhancing knowledge graph embedding with type-constraint features**". [paper](https://link.springer.com/article/10.1007/s10489-022-03518-z)
+
+- <a name="GL-ANet"></a> **(GL-ANet)** Jingbin Wang, Xinyu Lin, Hao Huang, Xifan Ke, Renfei Wu, Changkai You, Kun Guo. "**GLANet: temporal knowledge graph completion based on global and local information-aware network**". [paper](https://link.springer.com/article/10.1007/s10489-023-04481-z)
+
+- <a name="KRC"></a> **(KRC)** Mingda Li, Zhengya Sun, Wensheng Zhang, Wei Liu. "**Leveraging semantic property for temporal knowledge graph completion**". [paper](https://link.springer.com/article/10.1007/s10489-022-03981-8)
+
+- <a name="RMLH"></a> **(RMLH)** Yi Xia, Junyong Luo, Mingjing Lan, Gang Zhou, Zhibo Li, Shuo Liu. "**Reason more like human: Incorporating meta information into hierarchical reinforcement learning for knowledge graph reasoning**". [paper](https://link.springer.com/article/10.1007/s10489-022-04147-2)
+
+- <a name="RotatPRH"></a> **(RotatPRH)** Thanh Le, Ngoc Huynh, Bac Le. "**Knowledge graph embedding by projection and rotation on hyperplanes for link prediction**". [paper](https://link.springer.com/article/10.1007/s10489-022-03983-6)
 
 - <a name="TBDRI"></a> **(TBDRI)** Mei Yu, Jiujiang Guo, Jian Yu, Tianyi Xu, Mankun Zhao, Hongwei Liu, Xuewei Li, Ruiguo Yu. "**TBDRI: block decomposition based on relational interaction for temporal knowledge graph completion**". [paper](https://link.springer.com/article/10.1007/s10489-022-03601-5)
 
+- <a name="TNTSimplE"></a> **(TNTSimplE)** Peng He, Gang Zhou, Mengli Zhang, Jianghong Wei, Jing Chen. "**Improving temporal knowledge graph embedding using tensor factorization**". [paper](https://link.springer.com/article/10.1007/s10489-021-03149-w)
+
+##### CAAI Transactions on Intelligence Technology
+
+- <a name="ReTIN"></a> **(ReTIN)** Yan Jia, Mengqi Lin, Ye Wang, Jianming Li, Kai Chen, Joanna Siebert, Geordie Z. Zhang, Qing Liao. "**Extrapolation over temporal knowledge graph via hyperbolic embedding**". [paper](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cit2.12186)
+
+##### Cognitive Computation
+
+- <a name="MsCNN"></a> **(MsCNN)** Wei Liu, Peijie Wang, Zhihui Zhang, Qiong Liu. "**Multi‑Scale Convolutional Neural Network for Temporal Knowledge Graph Completion**". [paper](https://link.springer.com/article/10.1007/s12559-023-10134-7)
+
 ##### Data Mining and Knowledge Discovery
 
-- <a name="BDRI"></a> **(BDRI)** Mei Yu, Jiujiang Guo, Jian Yu, Tianyi Xu, Mankun Zhao, Hongwei Liu, Xuewei Li, Ruiguo Yu. "**BDRI: block decomposition based on relational interaction for knowledge graph completion**". [paper](https://link.springer.com/article/10.1007/s10618-023-00918-8)
+  - <a name="BDRI"></a> **(BDRI)** Mei Yu, Jiujiang Guo, Jian Yu, Tianyi Xu, Mankun Zhao, Hongwei Liu, Xuewei Li, Ruiguo Yu. "**BDRI: block decomposition based on relational interaction for knowledge graph completion**". [paper](https://link.springer.com/article/10.1007/s10618-023-00918-8)
 
 - <a name="ContE"></a> **(ContE)** Ting Ma, Mingming Li, Shangwen Lv, Fuqing Zhu, Longtao Huang, Songlin Hu. "**ContE: contextualized knowledge graph embedding for circular relations**". [paper](https://link.springer.com/article/10.1007/s10618-022-00851-2)
 
 - <a name="HARPA"></a> **(HARPA)** Naixin Zhang, Jinmeng Wang, Jieyue He. "**HARPA: hierarchical attention with relation paths for knowledge graph embedding adversarial learning**". [paper](https://link.springer.com/article/10.1007/s10618-022-00888-3)
+
+- <a name="OSLT"></a> **(OSLT)** Ruixin Ma, Biao Mei, Yunlong Ma, Hongyan Zhang, Meihong Liu, Liang Zhao. "**One-shot relational learning for extrapolation reasoning on temporal knowledge graphs**". [paper](https://link.springer.com/article/10.1007/s10618-023-00935-7)
+
+##### Expert Systems With Applications
+
+- <a name="ConvRot"></a> **(ConvRot)** 	Thanh Le, Nam Le, Bac Le. "**Knowledge graph embedding by relational rotation and complex convolution for link prediction**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422021406?via%3Dihub)
+
+- <a name="D-AEN"></a> **(D-AEN)** Haichuan Fang, Youwei Wang, Zhen Tian, Yangdong Ye. "**Learning knowledge graph embedding with a dual-attention embedding network**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422018243?via%3Dihub)
+
+- <a name="DRR-GAT"></a> **(DRR-GAT)** Xin Zhang, Chunxia Zhang, Jingtao Guo, Cheng Peng, Zhendong Niu, Xindong Wu. "**Graph attention network with dynamic representation of relations for knowledge graph completion**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423001173?via%3Dihub)
+
+- <a name="GS-InGAT"></a> **(GS-InGAT)** Hong Yin, Jiang Zhong, Chen Wang, Rongzhen Li, Xue Li. "**GS-InGAT: An interaction graph attention network with global semantic for knowledge graph completion**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423008825?via%3Dihub)
+
+- <a name="PANC"></a> **(PANC)** Ruixin Ma, Yunlong Ma, Hongyan Zhang, Biao Mei, Guangyue Lv, Liang Zhao. "**PANC: Prototype Augmented Neighbor Constraint instance completion in knowledge graphs**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422020310?via%3Dihub)
+
+- <a name="TPRG"></a> **(TPRG)** Luyi Bai, Mingzhuo Chen, Lin Zhu, Xiangxi Meng. "**Multi-hop temporal knowledge graph reasoning with temporal path rules guidance**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423003056?via%3Dihub)
+
+##### Future Generation Computer Systems
+
+- <a name="SubEE"></a> **(SubEE)** Guojia Wan, Zhengyun Zhou, Zhigao Zheng, Bo Du. "**Sub-Entity Embedding for inductive spatio-temporal knowledge graph completion**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X23002108?via%3Dihub)
+
+- <a name="TAL-TKGC"></a> **(TAL-TKGC)** Haojie Nie, Xiangguo Zhao, Xin Yao, Qingling Jiang, Xin Bi, Yuliang Ma, Yongjiao Sun. "**Temporal-structural importance weighted graph convolutional network for temporal knowledge graph completion**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X23000195?via%3Dihub)
+
+##### IEEE Robotics and Automation Letters
+
+- <a name="RAL_KGE-LCE"></a> **(RAL_KGE-LCE)** 	Jinfa Yang, Xianghua Ying, Taiyan Chen. "**Employing Latent Categories of Entities for Knowledge Graph Embeddings With Contrastive Learning**". [paper](https://ieeexplore.ieee.org/document/10103578)
+
+##### IEEE/ACM Transactions on Audio, Speech and Language Processing
+
+- <a name="NRRC"></a> **(NRRC)** Yu Li, Bojie Hu, Jian Liu, Yufeng Chen, Jinan Xu. "**A Neighborhood Re-Ranking Model With Relation Constraint for Knowledge Graph Completion**". [paper](https://ieeexplore.ieee.org/document/9966731)
+
+- <a name="CircularE"></a> **(CircularE)** Yan Fang, Wei Lu, Xiaodong Liu, Witold Pedrycz, Qi Lang, Jianhua Yang. "**CircularE: A Complex Space Circular Correlation Relational Model for Link Prediction in Knowledge Graph Embedding**". [paper](https://ieeexplore.ieee.org/document/10190095)
+
+- <a name="TARGAT"></a> **(TARGAT)** Zhiwen Xie, Runjie Zhu, Jin Liu, Guangyou Zhou, Jimmy Xiangji Huang. "**TARGAT: A Time-Aware Relational Graph Attention Model for Temporal Knowledge Graph Embedding**". [paper](https://ieeexplore.ieee.org/document/10141863)
+
+##### IEEE Transactions on Big Data
+
+- <a name="FedCKE"></a> **(FedCKE)** Wei Huang, Jia Liu, Tianrui Li, Shenggong Ji, Dexian Wang, Tianqiang Huang. "**FedCKE: Cross-Domain Knowledge Graph Embedding in Federated Learning**". [paper](https://ieeexplore.ieee.org/document/9887815)
+
+##### IEEE Transactions on Fuzzy Systems
+
+- <a name="FRKGE"></a> **(FRKGE)** Xiaowen Zhang, Zong-Min Ma. "**Fuzzy RDF Knowledge Graph Embeddings Through Vector Space Model**". [paper](https://ieeexplore.ieee.org/document/9829249)
+
+##### Information Fusion
+
+- <a name="DFMKE"></a> **(DFMKE)** Jia Zhu, Changqin Huang, Pasquale De Meo. "**DFMKE: A dual fusion multi-modal knowledge graph embedding framework for entity alignment**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253522001440?via%3Dihub)
+
+- <a name="FTL-LM"></a> **(FTL-LM)** Qika Lin, Rui Mao, Jun Liu, Fangzhi Xu, Erik Cambria. "**Fusing topology contexts and logical rules in language models for knowledge graph completion**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253522001592?via%3Dihub)
+
+##### International Journal of Machine Learning and Cybernetics
+
+- <a name="ConvHiA"></a> **(ConvHiA)** Dengao Li, Shuyi Miao, Bao-feng Zhao, Yu Zhou, Ding Feng, Jumin Zhao, Xupeng Niu. "**ConvHiA: convolutional network with hierarchical attention for knowledge graph multi-hop reasoning**". [paper](https://link.springer.com/article/10.1007/s13042-022-01764-8)
+
+##### Information Processing and Management
+
+- <a name="ConvHLE"></a> **(ConvHLE)** Jingxiong Wang, Qi Zhang, Fobo Shi, Duantengchuan Li, Yuefeng Cai, Jian Wang, Bing Li, Xiaoguang Wang, Zhen Zhang, Chao Zheng. "**Knowledge graph embedding model with attention-based high-low level features interaction convolutional network**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457323000870?via%3Dihub)
+
+- <a name="KRL_MLCCL"></a> **(KRL_MLCCL)** Xinhua Suo, Bing Guo, Yan Shen, Yaosen Chen, Wei Wang. "**KRL_MLCCL: Multi-label classification based on contrastive learning for knowledge representation learning under open world**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457323001486?via%3Dihub)
+
+- <a name="SHGNet"></a> **(SHGNet)** Zhifei Li, Qi Zhang, Fangfang Zhu, Duantengchuan Li, Chao Zheng, Yan Zhang. "**Knowledge graph representation learning with simplifying hierarchical feature propagation**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457323000857?via%3Dihub)
+
+##### Information Sciences
+
+- <a name="CKRL"></a> **(CKRL)** Maryam Sabet, Mohammad-Reza Pajoohan, Mohammad R. Moosavi. "**Representation learning of knowledge graphs with correlation-based methods**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552300628X?via%3Dihub)
+
+- <a name="HyGGE"></a> **(HyGGE)** Yuzhuo Wang, Hongzhi Wang, Wenbo Lu, Yu Yan. "**HyGGE: Hyperbolic graph attention network for reasoning over knowledge graphs**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523002347?via%3Dihub)
+
+- <a name="KGZSL"></a> **(KGZSL)** Xuewei Li, Jinming Ma, Jian Yu, Mankun Zhao, Mei Yu, Hongwei Liu, Weiping Ding, Ruiguo Yu. "**A structure-enhanced generative adversarial network for knowledge graph zero-shot relational learning**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523001251?via%3Dihub)
+
+- <a name="NA-KGR"></a> **(NA-KGR)** Yuejia Wu, Jiantao Zhou. "**A neighborhood-aware graph self-attention mechanism-based pre-training model for Knowledge Graph Reasoning**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523010587?via%3Dihub)
+
+- <a name="TASTER"></a> **(TASTER)** Xin Wang, Shengfei Lyu, Xiangyu Wang, Xingyu Wu, Huanhuan Chen. "**Temporal knowledge graph embedding via sparse transfer matrix**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522015122?via%3Dihub)
+
+- <a name="T-GAE"></a> **(T-GAE)** Xiangning Hou, Ruizhe Ma, Li Yan, Zongmin Ma. "**T-GAE: A Timespan-aware Graph Attention-based Embedding Model for Temporal Knowledge Graph Completion**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523008101?via%3Dihub)
+
+- <a name="TLmod"></a> **(TLmod)** Luyi Bai, Wenting Yu, Die Chai, Wenjun Zhao, Mingzhuo Chen. "**Temporal knowledge graphs reasoning with iterative guidance by temporal logical rules**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522013871?via%3Dihub)
+
+##### Journal of Big Data
+
+- <a name="Hyperparameters"></a> **(Hyperparameters)** 	Oliver Lloyd1, Yi Liu, Tom R. Gaunt. "**Assessing the efects of hyperparameters on knowledge graph embedding quality**". [paper](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00732-5)
+
+##### Journal of King Saud University – Computer and Information Sciences
+
+- <a name="Melo"></a> **(Melo)** Ling Wang, Jicang Lu, Yepeng Sun. "**Knowledge graph representation learning model based on meta-information and logical rule enhancements**". [paper](https://www.sciencedirect.com/science/article/pii/S1319157823000769?via%3Dihub)
+
+##### Knowledge-Based Systems
+
+- <a name="CorIn"></a> **(CorIn)** Mei Yu, Qianyu Zhang, Jian Yu, Mankun Zhao, Xuewei Li, Di Jin, Ming Yang, Ruiguo Yu. "**Knowledge graph completion using topological correlation and multi-perspective independence**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122011248?via%3Dihub)
+
+- <a name="LoTus"></a> **(LoTus)** Yudai Pan, Jun Liu, Lingling Zhang, Yi Huang. "**Incorporating logic rules with textual representations for interpretable knowledge graph reasoning**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123005373?via%3Dihub)
+
+- <a name="RLAT"></a> **(RLAT)** Luyi Bai, Die Chai, Lin Zhu. "**RLAT: Multi-hop temporal knowledge graph reasoning based on Reinforcement Learning and Attention Mechanism**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123002642?via%3Dihub)
+
+- <a name="Rotate4D"></a> **(Rotate4D)** Thanh Le, Huy Tran, Bac Le. "**Knowledge graph embedding with the special orthogonal group in quaternion space for link prediction**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123001508?via%3Dihub)
+
+- <a name="SAttLE"></a> **(SAttLE)** Peyman Baghershahi, Reshad Hosseini, Hadi Moradi. "**Self-attention presents low-dimensional knowledge graph embeddings for link prediction**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122012205?via%3Dihub)
+
+##### Neurocomputing
+
+- <a name="CPConvKE"></a> **(CPConvKE)**  Xiaohan Yang, Ning Wang. "**A confidence-aware and path-enhanced convolutional neural network embedding framework on noisy knowledge graph**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223003843?via%3Dihub)
+
+- <a name="GEnI"></a> **(GEnI)** Elvira Amador-Domínguez, Emilio Serrano, Daniel Manrique. "**GEnI: A framework for the generation of explanations and insights of knowledge graph embedding predictions**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222015053?via%3Dihub)
+
+- <a name="HGAT"></a> **(HGAT)** Pengpeng Shao, Jiayi He, Guanjun Li, Dawei Zhang, Jianhua Tao. "**Hierarchical graph attention network for temporal knowledge graph reasoning**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005131?via%3Dihub)
+
+- <a name="PTKE"></a> **(PTKE)** Ruinan Liu, Guisheng Yin, Zechao Liu, Liguo Zhang. "**PTKE: Translation-based temporal knowledge graph embedding in polar coordinate system**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122300111X?via%3Dihub)
+
+- <a name="TransAM"></a> **(TransAM)** Yi Liang, Shuai Zhao, Bo Cheng, Hao Yang. "**TransAM: Transformer appending matcher for few-shot knowledge graph completion**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223002965?via%3Dihub)
+
+##### Neural Computing and Applications
+
+- <a name="HADC"></a> **(HADC)**  Bin Shang, Yinliang Zhao, Jun Liu, Yifan Liu, Chenxin Wang. "**A contrastive knowledge graph embedding model with hierarchical attention and dynamic completion**". [paper](https://link.springer.com/article/10.1007/s00521-023-08514-z)
+
+- <a name="JointSE"></a> **(JointSE)** Xiao Wei, Yunong Zhang, Hao Wang. "**Joint semantic embedding with structural knowledge and entity description for knowledge representation learning**". [paper](https://link.springer.com/article/10.1007/s00521-022-07923-w)
+
+- <a name="KG-ELECTRA"></a> **(KG-ELECTRA)** Abdallah Tubaishat, Tehseen Zia, Rehana Faiz, Feras Al Obediat, Babar Shah, David Windridge. "**Discriminator-based adversarial networks for knowledge graph completion**". [paper](https://link.springer.com/article/10.1007/s00521-022-07680-w)
+
+- <a name="RIECN"></a> **(RIECN)** Wei Wang, Xiaoxuan Shen, Huanyu Zhang, Zhifei Li, Baolin Yi. "**RIECN: learning relation-based interactive embedding convolutional network for knowledge graph**". [paper](https://link.springer.com/article/10.1007/s00521-022-08109-0)
+
+- <a name="sRESCAL"></a> **(sRESCAL)** Unai Zulaika, Aitor Almeida, Diego López-de-Ipiña. "**Regularized online tensor factorization for sparse knowledge graph embeddings**". [paper](https://link.springer.com/article/10.1007/s00521-022-07796-z)
+
+##### Neural Networks
+
+- <a name="InforMix-FKGC"></a> **(InforMix-FKGC)**  Qianyu Li, Jiale Yao, Xiaoli Tang, Han Yu, Siyu Jiang, Haizhi Yang, Hengjie Song. "**Capsule neural tensor networks with multi-aspect information for Few-shot Knowledge Graph Completion**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023002277?via%3Dihub)
+
+##### Pattern Recognition Letters
+
+- <a name="LCILP"></a> **(LCILP)** Hebatallah A. Mohamed, Diego Pilutti, Stuart James, Alessio Del Bue, Marcello Pelillo, Sebastiano Vascon. "**Locality-aware subgraphs for inductive link prediction in knowledge graphs**". [paper](https://www.sciencedirect.com/science/article/pii/S0167865523000314?via%3Dihub)
+
+##### ACM Transactions on Knowledge Discovery from Data
+
+- <a name="ABIE"></a> **(ABIE)** Lijun Dong, Dongyang Zhao, Xiaoai Zhang, Xinchuan Li, Xiaojun Kang, Hong Yao. "**Anchors-Based Incremental Embedding for Growing Knowledge Graphs**". [paper](https://ieeexplore.ieee.org/document/9655500)
+
+- <a name="B-CP"></a> **(B-CP)** Katsuhiko Hayashi, Koki Kishimoto, Masashi Shimbo. "**Binarized Embeddings for Fast, Space-Efficient Knowledge Graph Completion**". [paper](https://ieeexplore.ieee.org/document/9411687)
+
+- <a name="BDRI"></a> **(BDRI)** Mei Yu, Jiujiang Guo, Jian Yu, Tianyi Xu, Mankun Zhao, Hongwei Liu, Xuewei Li, Ruiguo Yu. "**BDRI: block decomposition based on relational interaction for knowledge graph completion**". [paper](https://link.springer.com/article/10.1007/s10618-023-00918-8)
+
+- <a name="CMGNN"></a> **(CMGNN)** Quan Fang, Xiaowei Zhang, Jun Hu, Xian Wu, Changsheng Xu. "**Contrastive Multi-Modal Knowledge Graph Representation Learning**". [paper](https://ieeexplore.ieee.org/document/9942333)
+
+- <a name="CogKR"></a> **(CogKR)** Zhengxiao Du, Chang Zhou, Jiangchao Yao, Teng Tu, Letian Cheng, Hongxia Yang, Jingren Zhou, Jie Tang. "**CogKR: Cognitive Graph for Multi-Hop Knowledge Reasoning**". [paper](https://ieeexplore.ieee.org/document/9512424)
+
+- <a name="ConnectE-MRGAT"></a> **(ConnectE-MRGAT)** Yu Zhao, Han Zhou, Anxiang Zhang, Ruobing Xie, Qing Li, Fuzhen Zhuang. "**Connecting Embeddings Based on Multiplex Relational Graph Attention Networks for Knowledge Graph Entity Typing**". [paper](https://ieeexplore.ieee.org/document/9677939)
+
+- <a name="DRGI"></a> **(DRGI)** Shuang Liang, Jie Shao, Dongyang Zhang, Jiasheng Zhang, Bin Cui. "**DRGI: Deep Relational Graph Infomax for Knowledge Graph Completion**". [paper](https://ieeexplore.ieee.org/document/9531531)
+
+- <a name="GeomE"></a> **(GeomE)** Chengjin Xu, Mojtaba Nayyeri, Yung-Yu Chen, Jens Lehmann. "**Geometric Algebra Based Embeddings for Static and Temporal Knowledge Graph Completion**". [paper](https://ieeexplore.ieee.org/document/9713947)
+
+- <a name="JSSKGE"></a> **(JSSKGE)** Weidong Li, Rong Peng, Zhi Li. "**Knowledge Graph Completion by Jointly Learning Structural Features and Soft Logical Rules**". [paper](https://ieeexplore.ieee.org/document/9525301)
+
+- <a name="MTRL"></a> **(MTRL)** Zhao Zhang, Fuzhen Zhuang, Hengshu Zhu, Chao Li, Hui Xiong, Qing He, Yongjun Xu. "**Towards Robust Knowledge Graph Embedding via Multi-Task Reinforcement Learning**". [paper](https://ieeexplore.ieee.org/document/9615000)
+
+- <a name="OERL"></a> **(OERL)** Qian Li, Daling Wang, Shi Feng, Kaisong Song, Yifei Zhang, Ge Yu. "**OERL: Enhanced Representation Learning via Open Knowledge Graphs**". [paper](https://ieeexplore.ieee.org/document/9935254)
+
+- <a name="SelfLinKG"></a> **(SelfLinKG)** Xiao Liu, Li Mian, Yuxiao Dong, Fanjin Zhang, Jing Zhang, Jie Tang, Peng Zhang, Jibing Gong, Kuansan Wang. "**OAGknow: Self-Supervised Learning for Linking Knowledge Graphs**". [paper](https://ieeexplore.ieee.org/document/9462338)
+
+##### ACM Transactions on Multimedia Computing, Communications, and Applications
+
+- <a name="HRGAT"></a> **(HRGAT)**  Shuang Liang, Anjie Zhu, Jiasheng Zhang, Jie Shao. "**Hyper-node Relational Graph Attention Network for Multi-modal Knowledge Graph Completion**". [paper](https://dl.acm.org/doi/10.1145/3545573)
 
 ##### IEEE Transactions on Pattern Analysis and Machine Intelligence
 
