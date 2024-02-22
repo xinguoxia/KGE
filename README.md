@@ -6,13 +6,8 @@ Thanks for your attention and kind words! We will update KGE later.
 ## Contents
 
 * [Libraries](#Libraries)
-* [Datasets](#datasets)
 * [Methodologies](#methodologies)
 * [Papers](#papers)
-
-## Datasets
-
-- [Datasets](src/Datasets.md)
 
 ## Libraries
 
