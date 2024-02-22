@@ -36,6 +36,34 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ## Papers
 
+### 2024
+
+#### Journal
+
+##### Engineering Applications of Artificial Intelligence
+
+- <a name="InversEF"></a> **(InversEF)** Qianjin Zhang, Yandan Xu. "**Knowledge graph embedding with inverse function representation for link prediction**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623014094?via%3Dihub)
+
+##### Expert Systems With Applications
+
+- <a name="MSHE"></a> **(MSHE)** Dan Jiang, Ronggui Wang, Lixia Xue, Juan Yang. "**Multisource hierarchical neural network for knowledge graph embedding**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423019486?via%3Dihub)
+
+##### Information Sciences
+
+- <a name="WTKGE"></a> **(WTKGE)** Yuanfei Dai, Wenzhong Guo, Carsten Eickhoff. "**Wasserstein adversarial learning based temporal knowledge graph embedding**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552301647X?via%3Dihub)
+
+##### Neural Processing Letters
+
+- <a name="TCIE"></a> **(TCIE)** Tao Wang, Bo Shen, Jinglin Zhang, Yu Zhong. "**Knowledge Graph Embedding via Triplet Component Interactions**". [paper](https://link.springer.com/article/10.1007/s11063-024-11481-8)
+
+##### IEEE Transactions on Fuzzy Systems
+
+- <a name="FSTRE"></a> **(FSTRE)** Hao Ji, Li Yan, Zongmin Ma. "**FSTRE: Fuzzy Spatiotemporal RDF Knowledge Graph Embedding Using Uncertain Dynamic Vector Projection and Rotation**". [paper](https://ieeexplore.ieee.org/document/10198282)
+
+##### IEEE Transactions on Knowledge and Data Engineering
+
+- <a name="KGMixup"></a> **(KGMixup)** Tianyang Xie, Yong Ge. "**Enhance Knowledge Graph Embedding by Mixup**". [paper](https://ieeexplore.ieee.org/document/10173561)
+
 ### 2023
 
 #### Journal
