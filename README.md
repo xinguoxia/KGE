@@ -119,7 +119,11 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="EARR"></a> **(EARR)** Jin Li, Jinpeng Xiang, Jianhua Cheng. "**EARR: Using rules to enhance the embedding of knowledge graph**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423013337?via%3Dihub)
 
+- <a name="GL-GFKGC"></a> **(GL-GFKGC)** Penghui Xie, Guangyou Zhou, Jin Liu, Jimmy Xiangji Huang. "**Incorporating global–local neighbors with Gaussian mixture embedding for few-shot knowledge graph completion**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423015889?via%3Dihub)
+
 - <a name="GS-InGAT"></a> **(GS-InGAT)** Hong Yin, Jiang Zhong, Chen Wang, Rongzhen Li, Xue Li. "**GS-InGAT: An interaction graph attention network with global semantic for knowledge graph completion**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423008825?via%3Dihub)
+
+- <a name="MRAN"></a> **(MRAN)** Zengcan Xue, Zhaoli Zhang, Hai Liu, Shuoqiu Yang, Shuyun Han. "**Learning knowledge graph embedding with multi-granularity relational augmentation network**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423014550?via%3Dihub)
 
 - <a name="PANC"></a> **(PANC)** Ruixin Ma, Yunlong Ma, Hongyan Zhang, Biao Mei, Guangyue Lv, Liang Zhao. "**PANC: Prototype Augmented Neighbor Constraint instance completion in knowledge graphs**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422020310?via%3Dihub)
 
@@ -137,9 +141,9 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### IEEE/ACM Transactions on Audio, Speech and Language Processing
 
-- <a name="NRRC"></a> **(NRRC)** Yu Li, Bojie Hu, Jian Liu, Yufeng Chen, Jinan Xu. "**A Neighborhood Re-Ranking Model With Relation Constraint for Knowledge Graph Completion**". [paper](https://ieeexplore.ieee.org/document/9966731)
-
 - <a name="CircularE"></a> **(CircularE)** Yan Fang, Wei Lu, Xiaodong Liu, Witold Pedrycz, Qi Lang, Jianhua Yang. "**CircularE: A Complex Space Circular Correlation Relational Model for Link Prediction in Knowledge Graph Embedding**". [paper](https://ieeexplore.ieee.org/document/10190095)
+
+- <a name="NRRC"></a> **(NRRC)** Yu Li, Bojie Hu, Jian Liu, Yufeng Chen, Jinan Xu. "**A Neighborhood Re-Ranking Model With Relation Constraint for Knowledge Graph Completion**". [paper](https://ieeexplore.ieee.org/document/9966731)
 
 - <a name="TARGAT"></a> **(TARGAT)** Zhiwen Xie, Runjie Zhu, Jin Liu, Guangyou Zhou, Jimmy Xiangji Huang. "**TARGAT: A Time-Aware Relational Graph Attention Model for Temporal Knowledge Graph Embedding**". [paper](https://ieeexplore.ieee.org/document/10141863)
 
@@ -179,6 +183,8 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="NA-KGR"></a> **(NA-KGR)** Yuejia Wu, Jiantao Zhou. "**A neighborhood-aware graph self-attention mechanism-based pre-training model for Knowledge Graph Reasoning**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523010587?via%3Dihub)
 
+- <a name="QIQE-KGC"></a> **(QIQE-KGC)** LinYu Li, Xuan Zhang, Zhi Jin, Chen Gao, Rui Zhu, Yuqin Liang, Yubing Ma. "**Knowledge graph completion method based on quantum embedding and quaternion interaction enhancement**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523011337?via%3Dihub)
+
 - <a name="TASTER"></a> **(TASTER)** Xin Wang, Shengfei Lyu, Xiangyu Wang, Xingyu Wu, Huanhuan Chen. "**Temporal knowledge graph embedding via sparse transfer matrix**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522015122?via%3Dihub)
 
 - <a name="T-GAE"></a> **(T-GAE)** Xiangning Hou, Ruizhe Ma, Li Yan, Zongmin Ma. "**T-GAE: A Timespan-aware Graph Attention-based Embedding Model for Temporal Knowledge Graph Completion**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523008101?via%3Dihub)
@@ -196,6 +202,8 @@ Thanks for your attention and kind words! We will update KGE later.
 ##### Knowledge-Based Systems
 
 - <a name="CorIn"></a> **(CorIn)** Mei Yu, Qianyu Zhang, Jian Yu, Mankun Zhao, Xuewei Li, Di Jin, Ming Yang, Ruiguo Yu. "**Knowledge graph completion using topological correlation and multi-perspective independence**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122011248?via%3Dihub)
+
+- <a name="KE-X"></a> **(KE-X)** Dong Zhao, Guojia Wan, Yibing Zhan, Zengmao Wang, Liang Ding, Zhigao Zheng, Bo Du. "**KE-X: Towards subgraph explanations of knowledge graph embedding based on knowledge information gaine**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123005221?via%3Dihub)
 
 - <a name="LoTus"></a> **(LoTus)** Yudai Pan, Jun Liu, Lingling Zhang, Yi Huang. "**Incorporating logic rules with textual representations for interpretable knowledge graph reasoning**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123005373?via%3Dihub)
 
@@ -237,7 +245,21 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="LCILP"></a> **(LCILP)** Hebatallah A. Mohamed, Diego Pilutti, Stuart James, Alessio Del Bue, Marcello Pelillo, Sebastiano Vascon. "**Locality-aware subgraphs for inductive link prediction in knowledge graphs**". [paper](https://www.sciencedirect.com/science/article/pii/S0167865523000314?via%3Dihub)
 
+##### IEEE Robotics and Automation Letters
+
+- <a name="KGE-LCE"></a> **(KGE-LCE)** Jinfa Yang, Xianghua Ying, Taiyan Chen. "**Employing Latent Categories of Entities for Knowledge Graph Embeddings With Contrastive Learning**". [paper](https://ieeexplore.ieee.org/document/10103578)
+
+#### IEEE/ACM Transactions on Audio, Speech and Language Processing
+
+- <a name="CircularE"></a> **(CircularE)** Yan Fang, Wei Lu, Xiaodong Liu, Witold Pedrycz, Qi Lang, Jianhua Yang. "**CircularE: A Complex Space Circular Correlation Relational Model for Link Prediction in Knowledge Graph Embedding**". [paper](https://ieeexplore.ieee.org/document/10190095)
+
+- <a name="TARGAT"></a> **(TARGAT)** Zhiwen Xie, Runjie Zhu, Jin Liu, Guangyou Zhou, Jimmy Xiangji Huang. "**TARGAT: A Time-Aware Relational Graph Attention Model for Temporal Knowledge Graph Embedding**". [paper](https://ieeexplore.ieee.org/document/10141863)
+
 ##### ACM Transactions on Knowledge Discovery from Data
+
+- <a name="DRGI"></a> **(DRGI)** Shuang Liang, Jie Shao, Dongyang Zhang, Jiasheng Zhang, Bin Cui. "**DuCape: Dual Quaternion and Capsule Network–Based Temporal Knowledge Graph Embedding**". [paper](https://ieeexplore.ieee.org/document/9531531)
+
+##### TKDE
 
 - <a name="ABIE"></a> **(ABIE)** Lijun Dong, Dongyang Zhao, Xiaoai Zhang, Xinchuan Li, Xiaojun Kang, Hong Yao. "**Anchors-Based Incremental Embedding for Growing Knowledge Graphs**". [paper](https://ieeexplore.ieee.org/document/9655500)
 
