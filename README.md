@@ -171,6 +171,8 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="KRL_MLCCL"></a> **(KRL_MLCCL)** Xinhua Suo, Bing Guo, Yan Shen, Yaosen Chen, Wei Wang. "**KRL_MLCCL: Multi-label classification based on contrastive learning for knowledge representation learning under open world**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457323001486?via%3Dihub)
 
+- <a name="RelaGraph"></a> **(RelaGraph)** Bin Shi, Hao Wang, Yueyan Li, Sanhong Deng. "**RelaGraph: Improving embedding on small-scale sparse knowledge graphs by neighborhood relations**". [paper](https://www.sciencedirect.com/science/article/pii/S030645732300184X?via%3Dihub)
+
 - <a name="SHGNet"></a> **(SHGNet)** Zhifei Li, Qi Zhang, Fangfang Zhu, Duantengchuan Li, Chao Zheng, Yan Zhang. "**Knowledge graph representation learning with simplifying hierarchical feature propagation**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457323000857?via%3Dihub)
 
 ##### Information Sciences
@@ -257,9 +259,11 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### ACM Transactions on Knowledge Discovery from Data
 
-- <a name="DRGI"></a> **(DRGI)** Shuang Liang, Jie Shao, Dongyang Zhang, Jiasheng Zhang, Bin Cui. "**DuCape: Dual Quaternion and Capsule Network–Based Temporal Knowledge Graph Embedding**". [paper](https://ieeexplore.ieee.org/document/9531531)
+- <a name="DuCape"></a> **(DuCape)** Sensen Zhang, Xun Liang, Hui Tang, Xiangping Zheng, Alex X. Zhang, Yuefeng Ma. "**DuCape: Dual Quaternion and Capsule Network–Based Temporal Knowledge Graph Embedding**". [paper](https://dl.acm.org/doi/10.1145/3589644)
 
-##### TKDE
+- <a name="McRL"></a> **(McRL)** Jiapu Wang, Boyue Wang, Junbin Gao, Yongli Hu, Baocai Yin. "**Multi-Concept Representation Learning for Knowledge Graph Completion**". [paper](https://dl.acm.org/doi/10.1145/3533017)
+
+##### IEEE Transactions on Knowledge and Data Engineering
 
 - <a name="ABIE"></a> **(ABIE)** Lijun Dong, Dongyang Zhao, Xiaoai Zhang, Xinchuan Li, Xiaojun Kang, Hong Yao. "**Anchors-Based Incremental Embedding for Growing Knowledge Graphs**". [paper](https://ieeexplore.ieee.org/document/9655500)
 
@@ -291,7 +295,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### IEEE Transactions on Pattern Analysis and Machine Intelligence
 
-- <a name="AutoML"></a> **(AutoML)** Yongqi Zhang, Quanming Yao, James T. Kwok. "**Bilinear Scoring Function Search for Knowledge Graph Learning**". [paper](https://ieeexplore.ieee.org/document/9729658)
+- <a name="AutoBLM"></a> **(AutoBLM)** Yongqi Zhang, Quanming Yao, James T. Kwok. "**Bilinear Scoring Function Search for Knowledge Graph Learning**". [paper](https://ieeexplore.ieee.org/document/9729658)
 
 - <a name="DURA"></a> **(DURA)** Jie Wang, Zhanqiu Zhang, Zhihao Shi, Jianyu Cai, Shuiwang Ji, Feng Wu. "**Duality-Induced Regularizer for Semantic Matching Knowledge Graph Embeddings**". [paper](https://ieeexplore.ieee.org/document/9741534)
 
