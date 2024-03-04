@@ -117,6 +117,8 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="DRR-GAT"></a> **(DRR-GAT)** Xin Zhang, Chunxia Zhang, Jingtao Guo, Cheng Peng, Zhendong Niu, Xindong Wu. "**Graph attention network with dynamic representation of relations for knowledge graph completion**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423001173?via%3Dihub)
 
+- <a name="EARR"></a> **(EARR)** Jin Li, Jinpeng Xiang, Jianhua Cheng. "**EARR: Using rules to enhance the embedding of knowledge graph**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423013337?via%3Dihub)
+
 - <a name="GS-InGAT"></a> **(GS-InGAT)** Hong Yin, Jiang Zhong, Chen Wang, Rongzhen Li, Xue Li. "**GS-InGAT: An interaction graph attention network with global semantic for knowledge graph completion**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423008825?via%3Dihub)
 
 - <a name="PANC"></a> **(PANC)** Ruixin Ma, Yunlong Ma, Hongyan Zhang, Biao Mei, Guangyue Lv, Liang Zhao. "**PANC: Prototype Augmented Neighbor Constraint instance completion in knowledge graphs**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422020310?via%3Dihub)
