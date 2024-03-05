@@ -251,7 +251,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="KGE-LCE"></a> **(KGE-LCE)** Jinfa Yang, Xianghua Ying, Taiyan Chen. "**Employing Latent Categories of Entities for Knowledge Graph Embeddings With Contrastive Learning**". [paper](https://ieeexplore.ieee.org/document/10103578)
 
-#### IEEE/ACM Transactions on Audio, Speech and Language Processing
+##### IEEE/ACM Transactions on Audio, Speech and Language Processing
 
 - <a name="CircularE"></a> **(CircularE)** Yan Fang, Wei Lu, Xiaodong Liu, Witold Pedrycz, Qi Lang, Jianhua Yang. "**CircularE: A Complex Space Circular Correlation Relational Model for Link Prediction in Knowledge Graph Embedding**". [paper](https://ieeexplore.ieee.org/document/10190095)
 
