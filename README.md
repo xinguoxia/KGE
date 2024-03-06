@@ -295,7 +295,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### IEEE Transactions on Pattern Analysis and Machine Intelligence
 
-- <a name="AutoBLM"></a> **(AutoBLM)** Yongqi Zhang, Quanming Yao, James T. Kwok. "**Bilinear Scoring Function Search for Knowledge Graph Learning**". [paper](https://ieeexplore.ieee.org/document/9729658)
+- <a name="AutoBLM"></a> **(AutoBLM)** Yongqi Zhang, Quanming Yao, James T. Kwok. "**Bilinear Scoring Function Search for Knowledge Graph Learning**". [paper](https://ieeexplore.ieee.org/document/9729658) [code](https://github.com/LARS-research/AutoSF)
 
 - <a name="DURA"></a> **(DURA)** Jie Wang, Zhanqiu Zhang, Zhihao Shi, Jianyu Cai, Shuiwang Ji, Feng Wu. "**Duality-Induced Regularizer for Semantic Matching Knowledge Graph Embeddings**". [paper](https://ieeexplore.ieee.org/document/9741534)
 
