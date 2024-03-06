@@ -185,7 +185,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="NA-KGR"></a> **(NA-KGR)** Yuejia Wu, Jiantao Zhou. "**A neighborhood-aware graph self-attention mechanism-based pre-training model for Knowledge Graph Reasoning**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523010587?via%3Dihub)
 
-- <a name="QIQE-KGC"></a> **(QIQE-KGC)** LinYu Li, Xuan Zhang, Zhi Jin, Chen Gao, Rui Zhu, Yuqin Liang, Yubing Ma. "**Knowledge graph completion method based on quantum embedding and quaternion interaction enhancement**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523011337?via%3Dihub)
+- <a name="QIQE-KGC"></a> **(QIQE-KGC)** LinYu Li, Xuan Zhang, Zhi Jin, Chen Gao, Rui Zhu, Yuqin Liang, Yubing Ma. "**Knowledge graph completion method based on quantum embedding and quaternion interaction enhancement**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523011337?via%3Dihub) [code](https://github.com/2391134843/QIQE-KGC)
 
 - <a name="TASTER"></a> **(TASTER)** Xin Wang, Shengfei Lyu, Xiangyu Wang, Xingyu Wu, Huanhuan Chen. "**Temporal knowledge graph embedding via sparse transfer matrix**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522015122?via%3Dihub)
 
