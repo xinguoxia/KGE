@@ -73,7 +73,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="ETF"></a> **(ETF)** Wenjie Chen, Shuang Zhao, Xin Zhang. "**Enhancing knowledge graph embedding with type-constraint features**". [paper](https://link.springer.com/article/10.1007/s10489-022-03518-z)
 
-- <a name="GL-ANet"></a> **(GL-ANet)** Jingbin Wang, Xinyu Lin, Hao Huang, Xifan Ke, Renfei Wu, Changkai You, Kun Guo. "**GLANet: temporal knowledge graph completion based on global and local information-aware network**". [paper](https://link.springer.com/article/10.1007/s10489-023-04481-z)
+- <a name="GLANet"></a> **(GLANet)** Jingbin Wang, Xinyu Lin, Hao Huang, Xifan Ke, Renfei Wu, Changkai You, Kun Guo. "**GLANet: temporal knowledge graph completion based on global and local information-aware network**". [paper](https://link.springer.com/article/10.1007/s10489-023-04481-z)
 
 - <a name="KRC"></a> **(KRC)** Mingda Li, Zhengya Sun, Wensheng Zhang, Wei Liu. "**Leveraging semantic property for temporal knowledge graph completion**". [paper](https://link.springer.com/article/10.1007/s10489-022-03981-8)
 
