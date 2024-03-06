@@ -123,7 +123,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="GS-InGAT"></a> **(GS-InGAT)** Hong Yin, Jiang Zhong, Chen Wang, Rongzhen Li, Xue Li. "**GS-InGAT: An interaction graph attention network with global semantic for knowledge graph completion**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423008825?via%3Dihub)
 
-- <a name="MRAN"></a> **(MRAN)** Zengcan Xue, Zhaoli Zhang, Hai Liu, Shuoqiu Yang, Shuyun Han. "**Learning knowledge graph embedding with multi-granularity relational augmentation network**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423014550?via%3Dihub)
+- <a name="MRAN"></a> **(MRAN)** Zengcan Xue, Zhaoli Zhang, Hai Liu, Shuoqiu Yang, Shuyun Han. "**Learning knowledge graph embedding with multi-granularity relational augmentation network**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423014550?via%3Dihub) [code](https://github.com/ZengcanXUE/MRAN)
 
 - <a name="PANC"></a> **(PANC)** Ruixin Ma, Yunlong Ma, Hongyan Zhang, Biao Mei, Guangyue Lv, Liang Zhao. "**PANC: Prototype Augmented Neighbor Constraint instance completion in knowledge graphs**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422020310?via%3Dihub)
 
