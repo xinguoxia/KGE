@@ -389,25 +389,25 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### DASFAA
 
-- <a name="AIR"></a> **(AIR)** . "****". [paper]()
+- <a name="AIR"></a> **(AIR)** Zhifeng Jia, Haoyang Li, Lei Chen. "**AIR: Adaptive Incremental Embedding Updating for Dynamic Knowledge Graphs**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_41)
 
-- <a name="BDME"></a> **(BDME)** . "****". [paper]()
+- <a name="BDME"></a> **(BDME)** Lupeng Yue, Yongjian Ren, Yan Zeng, Jilin Zhang, Kaisheng Zeng, Jian Wan. "**Block Decomposition with Multi-granularity Embedding for Temporal Knowledge Graph Completion**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_47)
 
-- <a name="BiQCap"></a> **(BiQCap)** . "****". [paper]()
+- <a name="BiQCap"></a> **(BiQCap)** Sensen Zhang, Xun Liang, Zhiying Li, Junlan Feng, Xiangping Zheng, Bo Wu. "**BiQCap: A Biquaternion and Capsule Network-Based Embedding Model for Temporal Knowledge Graph Completion**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_45)
 
-- <a name="FineKGC"></a> **(FineKGC)** . "****". [paper]()
+- <a name="FineKGC"></a> **(FineKGC)** Shaofei Wang, Siying Li, Lei Zou. "**Analogy-Triple Enhanced Fine-Grained Transformer for Sparse Knowledge Graph Completion**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_50)
 
-- <a name="ResetE"></a> **(ResetE)** . "****". [paper]()
+- <a name="ResetE"></a> **(ResetE)** Zenan Xu, Zexuan Qiu, Qinliang Su. "**Learning Semantic-Rich Relation-Selective Entity Representation for Knowledge Graph Completion**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_44)
 
-- <a name="SAFE"></a> **(SAFE)** . "****". [paper]()
+- <a name="SAFE"></a> **(SAFE)** Kai Zhang, Daokun Zhang, Ning Liu, Yonghua Yang, Yonghui Xu, Zhongmin Yan, Hui Li, Lizhen Cui. "**Sample and Feature Enhanced Few-Shot Knowledge Graph Completion**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_54)
 
-- <a name="TR-Match"></a> **(TR-Match)** . "****". [paper]()
+- <a name="TR-Match"></a> **(TR-Match)** Xing Gong, Jianyang Qin, Heyan Chai, Ye Ding, Yan Jia, Qing Liao. "**Temporal-Relational Matching Network for Few-Shot Temporal Knowledge Graph Completion**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_52)
 
 ##### ECAI
 
-- <a name="ConvEICF"></a> **(ConvEICF)** . "****". [paper]()
+- <a name="ConvEICF"></a> **(ConvEICF)** Fu Zhang, Pengpeng Qiu, Tong Shen, Jingwei Cheng. "**Multi-Aspect Enhanced Convolutional Neural Networks for Knowledge Graph Completion**". [paper](https://ebooks.iospress.nl/doi/10.3233/FAIA230615)
 
-- <a name="DlnBE"></a> **(DlnBE)** . "****". [paper]()
+- <a name="DlnBE"></a> **(DlnBE)** Hong Yin, Jiang Zhong, Qizhu Dai. "**Deep Interactions-Boosted Embeddings for Link Prediction on Knowledge Graph**". [paper](https://ebooks.iospress.nl/doi/10.3233/FAIA230602)
 
 ##### ECML-PKDD
 
