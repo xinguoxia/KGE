@@ -411,19 +411,19 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### ECML-PKDD
 
-- <a name="RawNP"></a> **(RawNP)** . "****". [paper]()
+- <a name="RawNP"></a> **(RawNP)** Zicheng Zhao, Linhao Luo, Shirui Pan, Quoc Viet Hung Nguyen, Chen Gong. "**Towards Few-Shot Inductive Link Prediction on Knowledge Graphs: A Relational Anonymous Walk-Guided Neural Process Approach**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-43418-1_31)
 
-- <a name="TRE"></a> **(TRE)** . "****". [paper]()
+- <a name="TRE"></a> **(TRE)** Bowen Song, Chengjin Xu, Kossi Amouzouvi, Maocai Wang, Jens Lehmann, Sahar Vahdati. "**Distinct Geometrical Representations for Temporal and Relational Structures in Knowledge Graphs**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-43418-1_36)
 
 ##### EMNLP
 
-- <a name="NruSTIP"></a> **(NruSTIP)** . "****". [paper]()
+- <a name="NruSTIP"></a> **(NruSTIP)** Ishaan Singh, Navdeep Kaur, Garima Gaur, Mausam. "**NeuSTIP: A Neuro-Symbolic Model for Link and Time Prediction in Temporal Knowledge Graphs**". [paper](https://aclanthology.org/2023.emnlp-main.274/)
 
-- <a name="RelEns-DSC"></a> **(RelEns-DSC)** . "****". [paper]()
+- <a name="RelEns-DSC"></a> **(RelEns-DSC)** Ling Yue, Yongqi Zhang, Quanming Yao, Yong Li, Xian Wu, Ziheng Zhang, Zhenxi Lin, Yefeng Zheng. "**Relation-aware Ensemble Learning for Knowledge Graph Embedding**". [paper](https://aclanthology.org/2023.emnlp-main.1034/)
 
-- <a name="REQ"></a> **(REQ)** . "****". [paper]()
+- <a name="REQ"></a> **(REQ)** Jiaang Li, Quan Wang, Yi Liu, Licheng Zhang, Zhendong Mao. "**Random Entity Quantization for Parameter-Efficient Compositional Knowledge Graph Representation**". [paper](https://aclanthology.org/2023.emnlp-main.177/)
 
-- <a name="TAGNet"></a> **(TAGNet)** . "****". [paper]()
+- <a name="TAGNet"></a> **(TAGNet)** Harry Shomer, Yao Ma, Juanhui Li, Bo Wu, Charu C. Aggarwal, Jiliang Tang. "**Distance-Based Propagation for Efficient Knowledge Graph Reasoning**". [paper](https://aclanthology.org/2023.emnlp-main.908/)
 
 ##### ESWC
 
