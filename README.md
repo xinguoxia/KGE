@@ -339,26 +339,23 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### AAAI
 
-- <a name="AnKGE"></a> **(AnKGE)** . "****". [paper]()
+- <a name="AnKGE"></a> **(AnKGE)** Zhen Yao, Wen Zhang, Mingyang Chen, Yufeng Huang, Yi Yang, Huajun Chen. "**Analogical Inference Enhanced Knowledge Graph Embedding**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25605)
 
-- <a name="BiVE"></a> **(BiVE)** . "****". [paper]()
+- <a name="BiVE"></a> **(BiVE)** Chanyoung Chung, Joyce Jiyoung Whang. "**Learning Representations of Bi-level Knowledge Graphs for Reasoning beyond Link Prediction**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25538)
 
-- <a name="CENET"></a> **(CENET)** . "****". [paper]()
+- <a name="CENET"></a> **(CENET)** Yi Xu, Junjie Ou, Hui Xu, Luoyi Fu. "**Temporal Knowledge Graph Reasoning with Historical Contrastive Learning**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25601)
 
-- <a name="EARL"></a> **(EARL)** . "****". [paper]()
+- <a name="EARL"></a> **(EARL)** Mingyang Chen, Wen Zhang, Zhen Yao, Yushan Zhu, Yang Gao, Jeff Z. Pan, Huajun Chen. "**Entity-Agnostic Representation Learning for Parameter-Efficient Knowledge Graph Embedding**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25535)
 
-- <a name="IterDE"></a> **(IterDE)** . "****". [paper]()
+- <a name="IterDE"></a> **(IterDE)** Jiajun Liu, Peng Wang, Ziyu Shang, Chenxiao Wu. "**IterDE: An Iterative Knowledge Distillation Framework for Knowledge Graph Embeddings**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25570)
 
-- <a name="LKGE"></a> **(LKGE)** . "****". [paper]()
+- <a name="LCGE"></a> **(LCGE)** Guanglin Niu, Bo Li. "**Logic and Commonsense-Guided Temporal Knowledge Graph Completion**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25579)
 
-- <a name="LPRules"></a> **(LPRules)** . "****". [paper]()
+- <a name="LKGE"></a> **(LKGE)** Yuanning Cui, Yuxin Wang, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu. "**Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25539)
 
-- <a name="NFE"></a> **(NFE)** . "****". [paper]()
+- <a name="LPRules"></a> **(LPRules)** Sanjeeb Dash, Joao Goncalves. "**Rule Induction in Knowledge Graphs Using Linear Programming**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25541)
 
-- <a name=""></a> **()** . "****". [paper]()
-
-- <a name=""></a> **()** . "****". [paper]()
-
+- <a name="NFE"></a> **(NFE)** Changyi Xiao, Xiangnan He, Yixin Cao. "**Knowledge Graph Embedding by Normalizing Flows**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25600)
 
 ##### ACL
 
@@ -376,7 +373,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="MLP-ensemble"></a> **(MLP-ensemble)** Juanhui Li, Harry Shomer, Jiayuan Ding, Yiqi Wang, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin. "**Are Message Passing Neural Networks Really Helpful for Knowledge Graph Completion?**". [paper](https://aclanthology.org/2023.acl-long.597/)
 
-- <a name="mOKB6"></a> **(mOKB6)** . "****". [paper]()
+- <a name="mOKB6"></a> **(mOKB6)** Shubham Mittal, Keshav Kolluru, Soumen Chakrabarti, Mausam. "**mOKB6: A Multilingual Open Knowledge Base Completion Benchmark**". [paper](https://aclanthology.org/2023.acl-short.19/)
 
 - <a name="NS-KGC"></a> **(NS-KGC)** Ananjan Nandi, Navdeep Kaur, Parag Singla, Mausam. "**Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion**". [paper](https://aclanthology.org/2023.acl-short.23/)
 
@@ -384,12 +381,11 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### CIKM
 
--  . "****". [paper]()
-- <a name="KG-R3"></a> **(KG-R3)** . "****". [paper]()
+-  Narayanan Asuri Krishnan, Carlos R. Rivero. "**A Model-Agnostic Method to Interpret Link Prediction Evaluation of Knowledge Graph Embeddings**". [paper](https://dl.acm.org/doi/10.1145/3583780.3614763)
 
-- <a name="MAM"></a> **(MAM)** . "****". [paper]()
+- <a name="KG-R3"></a> **(KG-R3)** Vardaan Pahuja, Boshi Wang, Hugo Latapie, Jayanth Srinivasa, Yu Su. "**A Retrieve-and-Read Framework for Knowledge Graph Link**". [paper](https://dl.acm.org/doi/10.1145/3583780.3614769)
 
-- <a name="RCKGC"></a> **(RCKGC)** . "****". [paper]()
+- <a name="RCKGC"></a> **(RCKGC)** Simon Ott, Patrick Betz, Daria Stepanova, Mohamed H. Gad-Elrab, Christian Meilicke, Heiner Stuckenschmidt. "**Rule-based Knowledge Graph Completion with Canonical Models**". [paper](https://dl.acm.org/doi/10.1145/3583780.3615042)
 
 ##### DASFAA
 
