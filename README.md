@@ -63,6 +63,10 @@ Thanks for your attention and kind words! We will update KGE later.
 
 #### Journal
 
+##### Engineering Applications of Artificial Intelligence
+
+- <a name="RoAN"></a> **(RoAN)** Luyi Bai, Xiangnan Ma, Xiangxi Meng, Xin Ren, Yujing Ke. "**RoAN: A relation-oriented attention network for temporal knowledge graph completion**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S095219762300492X?via%3Dihub)
+
 ##### Applied Intelligence
 
 - <a name="ABNS"></a> **(ABNS)** Si Cen, Xizhao Wang, Xiaoying Zou, Chao Liu, Guoquan Dai. "**New attention strategy for negative sampling in knowledge graph embedding**". [paper](https://link.springer.com/article/10.1007/s10489-023-04901-0)
@@ -73,13 +77,19 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="ETF"></a> **(ETF)** Wenjie Chen, Shuang Zhao, Xin Zhang. "**Enhancing knowledge graph embedding with type-constraint features**". [paper](https://link.springer.com/article/10.1007/s10489-022-03518-z)
 
+- Jinglin Zhang, Bo Shen, Tao Wang, Yu Zhong. "**Converting hyperparameter gamma in distance-based loss functions to normal parameter for knowledge graph completion**". [paper](https://link.springer.com/article/10.1007/s10489-023-04790-3)
+
 - <a name="GLANet"></a> **(GLANet)** Jingbin Wang, Xinyu Lin, Hao Huang, Xifan Ke, Renfei Wu, Changkai You, Kun Guo. "**GLANet: temporal knowledge graph completion based on global and local information-aware network**". [paper](https://link.springer.com/article/10.1007/s10489-023-04481-z)
 
 - <a name="KRC"></a> **(KRC)** Mingda Li, Zhengya Sun, Wensheng Zhang, Wei Liu. "**Leveraging semantic property for temporal knowledge graph completion**". [paper](https://link.springer.com/article/10.1007/s10489-022-03981-8)
 
+- <a name="MTDM"></a> **(MTDM)** Mengnan Zhao, Lihe Zhang, Yuqiu Kong, Baocai Yin. "**Temporal knowledge graph reasoning triggered by memories**". [paper](https://link.springer.com/article/10.1007/s10489-023-05015-3)
+
 - <a name="RMLH"></a> **(RMLH)** Yi Xia, Junyong Luo, Mingjing Lan, Gang Zhou, Zhibo Li, Shuo Liu. "**Reason more like human: Incorporating meta information into hierarchical reinforcement learning for knowledge graph reasoning**". [paper](https://link.springer.com/article/10.1007/s10489-022-04147-2)
 
 - <a name="RotatPRH"></a> **(RotatPRH)** Thanh Le, Ngoc Huynh, Bac Le. "**Knowledge graph embedding by projection and rotation on hyperplanes for link prediction**". [paper](https://link.springer.com/article/10.1007/s10489-022-03983-6)
+
+- <a name="SAAN"></a> **(SAAN)** Jingchao Wang, Weimin Li, Wei Liu, Can Wang, Qun Jin. "**Enabling inductive knowledge graph completion via structure-aware attention network**". [paper](https://link.springer.com/article/10.1007/s10489-023-04768-1)
 
 - <a name="SEPAKE"></a> **(SEPAKE)** Mei Yu, Tingxu Jiang, Jian Yu, Mankun Zhao, Jiujiang Guo, Ming Yang, Ruiguo Yu, Xuewei Li. "**SEPAKE: a structure-enhanced and position-aware knowledge embedding framework for knowledge graph completion**". [paper](https://link.springer.com/article/10.1007/s10489-023-04723-0)
 
@@ -98,6 +108,10 @@ Thanks for your attention and kind words! We will update KGE later.
 ##### Cognitive Computation
 
 - <a name="MsCNN"></a> **(MsCNN)** Wei Liu, Peijie Wang, Zhihui Zhang, Qiong Liu. "**Multi‑Scale Convolutional Neural Network for Temporal Knowledge Graph Completion**". [paper](https://link.springer.com/article/10.1007/s12559-023-10134-7)
+
+##### Computers and Electrical Engineering
+
+- <a name="UKGCSR"></a> **(UKGCSR)** Guoming Lu, Hao Zhang, Ke Qin, Kai Du. "**A causal-based symbolic reasoning framework for uncertain knowledge graphs**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S004579062200756X?via%3Dihub)
 
 ##### Data Mining and Knowledge Discovery
 
@@ -161,9 +175,17 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="FTL-LM"></a> **(FTL-LM)** Qika Lin, Rui Mao, Jun Liu, Fangzhi Xu, Erik Cambria. "**Fusing topology contexts and logical rules in language models for knowledge graph completion**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253522001592?via%3Dihub)
 
+- <a name="VRNet"></a> **(VRNet)** Wenbo Dong, Shiliang Sun, Jing Zhao, Nan Zhang. "**Knowledge graph relation reasoning with variational reinforcement network**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002166?via%3Dihub)
+
+##### International Journal of Intelligent Systems
+
+- <a name="SPR_LSTM"></a> **(SPR_LSTM)** Yilin Wang, Zhen Huang, Minghao Hu, Dongsheng Li, Xicheng Lu, Wei Luo, Dong Yang. "**Structure Enhanced Path Reasoning for Knowledge Graph Completion**". [paper](https://www.hindawi.com/journals/ijis/2023/3022539/)
+
 ##### International Journal of Machine Learning and Cybernetics
 
 - <a name="ConvHiA"></a> **(ConvHiA)** Dengao Li, Shuyi Miao, Bao-feng Zhao, Yu Zhou, Ding Feng, Jumin Zhao, Xupeng Niu. "**ConvHiA: convolutional network with hierarchical attention for knowledge graph multi-hop reasoning**". [paper](https://link.springer.com/article/10.1007/s13042-022-01764-8)
+
+- <a name="RASC"></a> **(RASC)** Xiaonan Li, Bo Ning, Guanyu Li, Wang Jie. "**Relation‑attention semantic‑correlative knowledge graph embedding for inductive link prediction**". [paper](https://link.springer.com/article/10.1007/s13042-023-01865-y)
 
 ##### Information Processing and Management
 
@@ -195,7 +217,11 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### Journal of Big Data
 
-- <a name="Hyperparameters"></a> **(Hyperparameters)** 	Oliver Lloyd1, Yi Liu, Tom R. Gaunt. "**Assessing the efects of hyperparameters on knowledge graph embedding quality**". [paper](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00732-5)
+- Oliver Lloyd1, Yi Liu, Tom R. Gaunt. "**Assessing the efects of hyperparameters on knowledge graph embedding quality**". [paper](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00732-5)
+
+##### Journal of Computational Design and Engineering
+
+- <a name="MetaRT"></a> **(MetaRT)** Lin Zhu, Yizong Xing, Luyi Bai, Xiwen Chen. "**Few-shot link prediction with meta-learning for temporal knowledge graphs**". [paper](https://academic.oup.com/jcde/article/10/2/711/7069330)
 
 ##### Journal of King Saud University – Computer and Information Sciences
 
@@ -203,11 +229,15 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### Knowledge-Based Systems
 
+- <a name="CA-MKGC"></a> **(CA-MKGC)** Weihang Zhang, Ovidiu Serban, Jiahao Sun, Yike Guo. "**Conflict-aware multilingual knowledge graph completion**". [paper](https://www.sciencedirect.com/science/article/pii/S0950705123008201?via%3Dihub)
+
 - <a name="CorIn"></a> **(CorIn)** Mei Yu, Qianyu Zhang, Jian Yu, Mankun Zhao, Xuewei Li, Di Jin, Ming Yang, Ruiguo Yu. "**Knowledge graph completion using topological correlation and multi-perspective independence**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122011248?via%3Dihub)
 
 - <a name="KE-X"></a> **(KE-X)** Dong Zhao, Guojia Wan, Yibing Zhan, Zengmao Wang, Liang Ding, Zhigao Zheng, Bo Du. "**KE-X: Towards subgraph explanations of knowledge graph embedding based on knowledge information gaine**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123005221?via%3Dihub)
 
 - <a name="LoTus"></a> **(LoTus)** Yudai Pan, Jun Liu, Lingling Zhang, Yi Huang. "**Incorporating logic rules with textual representations for interpretable knowledge graph reasoning**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123005373?via%3Dihub)
+
+- <a name="NS-KRL"></a> **(NS-KRL)** Guihai Chen, Jianshe Wu, Wenyun Luo, Jingyi Ding. "**Constructing negative samples via entity prediction for multi-task knowledge representation learning**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123007815?via%3Dihub)
 
 - <a name="RLAT"></a> **(RLAT)** Luyi Bai, Die Chai, Lin Zhu. "**RLAT: Multi-hop temporal knowledge graph reasoning based on Reinforcement Learning and Attention Mechanism**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705123002642?via%3Dihub)
 
@@ -242,6 +272,8 @@ Thanks for your attention and kind words! We will update KGE later.
 ##### Neural Networks
 
 - <a name="InforMix-FKGC"></a> **(InforMix-FKGC)**  Qianyu Li, Jiale Yao, Xiaoli Tang, Han Yu, Siyu Jiang, Haizhi Yang, Hengjie Song. "**Capsule neural tensor networks with multi-aspect information for Few-shot Knowledge Graph Completion**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023002277?via%3Dihub)
+
+- <a name="TFSC"></a> **(TFSC)** Han Zhang, Luyi Bai. "**Few-shot link prediction for temporal knowledge graphs based on time-aware translation and attention mechanism**". [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023000552?via%3Dihub)
 
 ##### Pattern Recognition Letters
 
@@ -288,6 +320,8 @@ Thanks for your attention and kind words! We will update KGE later.
 - <a name="OERL"></a> **(OERL)** Qian Li, Daling Wang, Shi Feng, Kaisong Song, Yifei Zhang, Ge Yu. "**OERL: Enhanced Representation Learning via Open Knowledge Graphs**". [paper](https://ieeexplore.ieee.org/document/9935254) [code](https://github.com/feiwangyuzhou/OERL)
 
 - <a name="SelfLinKG"></a> **(SelfLinKG)** Xiao Liu, Li Mian, Yuxiao Dong, Fanjin Zhang, Jing Zhang, Jie Tang, Peng Zhang, Jibing Gong, Kuansan Wang. "**OAGknow: Self-Supervised Learning for Linking Knowledge Graphs**". [paper](https://ieeexplore.ieee.org/document/9462338)
+
+- <a name="TDN"></a> **(TDN)** Jiapu Wang, Boyue Wang, Junbin Gao, Xiaoyan Li, Yongli Hu, Baocai Yin. "**TDN: Triplet Distributor Network for Knowledge Graph Completion**". [paper](https://ieeexplore.ieee.org/document/10115028)
 
 ##### ACM Transactions on Multimedia Computing, Communications, and Applications
 
