@@ -427,27 +427,154 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### ESWC
 
-- <a name="LMKBC"></a> **(LMKBC)** . "****". [paper]()
+- <a name="LMKBC"></a> **(LMKBC)** . "**Evaluating Language Models for Knowledge Base Completion**". [paper]()
 
-- <a name="WGE"></a> **(WGE)** . "****". [paper]()
+- <a name="WGE"></a> **(WGE)** . "**Two-View Graph Neural Networks for Knowledge Graph Completion**". [paper]()
 
 ##### ICCBR
 
-- <a name="CICBR"></a> **(CICBR)** . "****". [paper]()
+- <a name="CICBR"></a> **(CICBR)** . "**A Contextual Information-Augmented Probabilistic Case-Based Reasoning Model for Knowledge Graph Reasoning**". [paper]()
 
 ##### ICDE
 
-- <a name="GNNKGE"></a> **(GNNKGE)** . "****". [paper]()
+- <a name="GNNKGE"></a> **(GNNKGE)** . "**Knowledge Graph Embedding Based on Graph Neural Network**". [paper]()
 
-- <a name="MMKGR"></a> **(MMKGR)** . "****". [paper]()
+- <a name="MMKGR"></a> **(MMKGR)** . "**MMKGR: Multi-hop Multi-modal Knowledge Graph Reasoning**". [paper]()
 
-- <a name="RMPI"></a> **(RMPI)** . "****". [paper]()
+- <a name="RMPI"></a> **(RMPI)** . "**Relational Message Passing for Fully Inductive Knowledge Graph Completion**". [paper]()
 
 ##### ICDM
 
-- <a name="FLEST"></a> **(FLEST)** . "****". [paper]()
+- <a name="FLEST"></a> **(FLEST)** . "**Federated Knowledge Graph Completion via Latent
+Embedding Sharing and Tensor Factorization**". [paper]()
 
-- <a name="HECERN"></a> **(HECERN)** . "****". [paper]()
+- <a name="HECERN"></a> **(HECERN)** . "**Homogeneous Entity Context Enhanced Representation Network for Temporal Knowledge Graph Reasoning**". [paper]()
+
+##### ICLR
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+##### ICML
+
+- <a name=""></a> **()** . "****". [paper]()
+
+##### IJCAI
+
+- <a name=""></a> **()** . "****". [paper]()
+
+- <a name=""></a> **()** . "****". [paper]()
+
+##### ISWC
+
+- <a name="ASKRL"></a> **(ASKRL)** . "****". [paper]()
+
+- <a name="CapsKG"></a> **(CapsKG)** . "****". [paper]()
+
+- <a name="CIDF"></a> **(CIDF)** . "****". [paper]()
+
+- <a name="DeMix"></a> **(DeMix)** . "****". [paper]()
+
+- <a name="ERDNS"></a> **(ERDNS)** . "****". [paper]()
+
+-  . "****". [paper]()
+
+-  . "****". [paper]()
+
+- <a name="KGE-Welding"></a> **(KGE-Welding)** . "****". [paper]()
+
+- <a name="SPA"></a> **(SPA)** . "****". [paper]()
+
+- <a name="Tetra_WSF"></a> **(Tetra_WSF)** . "****". [paper]()
+
+##### KDD
+
+- <a name="AdaProp"></a> **(AdaProp)** . "****". [paper]()
+
+- <a name="Flow-MV"></a> **(Flow-MV)** . "****". [paper]()
+
+- <a name="MuKGE"></a> **(MuKGE)** . "****". [paper]()
+
+- <a name="RAKGE"></a> **(RAKGE)** . "****". [paper]()
+
+##### KR
+
+-  . "****". [paper]()
+
+- <a name="LogInfer"></a> **(LogInfer)** . "****". [paper]()
+
+##### MM
+
+- <a name="HyIE"></a> **(HyIE)** . "****". [paper]()
+
+##### NeurIPS
+
+- <a name="ANet"></a> **(ANet)** . "****". [paper]()
+
+- <a name="DiffLogic"></a> **(DiffLogic)** . "****". [paper]()
+
+- <a name="GeKCs"></a> **(GeKCs)** . "****". [paper]()
+
+- <a name="TE-rules"></a> **(TE-rules)** . "****". [paper]()
+
+- <a name="TFLEX"></a> **(TFLEX)** . "****". [paper]()
+
+##### PAKDD
+
+- <a name="MixER"></a> **(MixER)** . "****". [paper]()
+
+- <a name="RANA"></a> **(RANA)** . "****". [paper]()
+
+##### SIGIR
+
+- <a name="ConKGC"></a> **(ConKGC)** . "****". [paper]()
+
+- <a name="DREAM"></a> **(DREAM)** . "****". [paper]()
+
+- <a name="HTENS"></a> **(HTENS)** . "****". [paper]()
+
+- <a name="NeuralKG-ind"></a> **(NeuralKG-ind)** . "****". [paper]()
+
+- <a name="NP-FKGC"></a> **(NP-FKGC)** . "****". [paper]()
+
+- <a name="ReSKGC"></a> **(ReSKGC)** . "****". [paper]()
+
+- <a name="RPC"></a> **(RPC)** . "****". [paper]()
+
+- <a name="StreamE"></a> **(StreamE)** . "****". [paper]()
+
+- <a name="WeightE"></a> **(WeightE)** . "****". [paper]()
+
+##### WWW
+
+- <a name="DP-Flames"></a> **(DP-Flames)** . "****". [paper]()
+
+- <a name="FedLU"></a> **(FedLU)** . "****". [paper]()
+
+- <a name="HGLS"></a> **(HGLS)** . "****". [paper]()
+
+- <a name="HSAE"></a> **(HSAE)** . "****". [paper]()
+
+- <a name="KGCF"></a> **(KGCF)** . "****". [paper]()
+
+- <a name="KG-Mixup"></a> **(KG-Mixup)** . "****". [paper]()
+
+- <a name="KP"></a> **(KP)** . "****". [paper]()
+
+- <a name="KRACL"></a> **(KRACL)** . "****". [paper]()
+
+- <a name="MASS"></a> **(MASS)** . "****". [paper]()
+
+- <a name="MSeaKG"></a> **(MSeaKG)** . "****". [paper]()
+
+- <a name="SEPA"></a> **(SEPA)** . "****". [paper]()
 
 ### 2022
 
