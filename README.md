@@ -652,7 +652,7 @@ Embedding Sharing and Tensor Factorization**". [paper]()
 
 - <a name="EIGAT"></a> **(EIGAT)** Yu Zhao, Huali Feng, Han Zhou, Yanruo Yang, Xingyan Chen, Ruobing Xie, Fuzhen Zhuang, Qing Li. "**EIGAT: Incorporating global information in local attention for knowledge representation learning**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010649?via%3Dihub)
 
-- <a name="EvoExplore"></a> **(EvoExplore)** Jiasheng Zhang, Shuang Liang, Yongpan Sheng, Jie Shao. "**Temporal knowledge graph representation learning with local and global evolutions**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122006141?via%3Dihub)
+- <a name="EvoExplore"></a> **(EvoExplore)** Jiasheng Zhang, Shuang Liang, Yongpan Sheng, Jie Shao. "**Temporal knowledge graph representation learning with local and global evolutions**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122006141?via%3Dihub) [code](https://github.com/zjs123/EvoExplore)
 
 - <a name="FedEC"></a> **(FedEC)** Mingyang Chen, Wen Zhang, Zonggang Yuan, Yantao Jia, Huajun Chen. "**Federated knowledge graph completion via embedding-contrastive learning**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122007316?via%3Dihub)
 
