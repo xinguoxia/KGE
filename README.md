@@ -460,7 +460,7 @@ Embedding Sharing and Tensor Factorization**". [paper]()
 
 - <a name="MarT"></a> **(MarT)** . "**Multimodal Analogical Reasoning over Knowledge Graphs**". [paper]()
 
-- <a name="NCRL"></a> **(NCRL)** . "**Neural Compositional Rule Learning for Knowledge Graph Reasoning **". [paper]()
+- <a name="NCRL"></a> **(NCRL)** . "**Neural Compositional Rule Learning for Knowledge Graph Reasoning**". [paper]()
 
 ##### ICML
 
