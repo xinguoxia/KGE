@@ -531,29 +531,35 @@ Based on Householder Transformations**". [paper]()
 
 ##### PAKDD
 
-- <a name="MixER"></a> **(MixER)** . "****". [paper]()
+- <a name="MixER"></a> **(MixER)** . "**MixER: MLP-Mixer Knowledge Graph
+Embedding for Capturing Rich
+Entity-Relation Interactions in Link
+Prediction**". [paper]()
 
-- <a name="RANA"></a> **(RANA)** . "****". [paper]()
+- <a name="RANA"></a> **(RANA)** . "**Relation-Aware Network with Attention-Based
+Loss for Few-Shot Knowledge Graph
+Completion**". [paper]()
 
 ##### SIGIR
 
-- <a name="ConKGC"></a> **(ConKGC)** . "****". [paper]()
+- <a name="ConKGC"></a> **(ConKGC)** . "**Relation-Aware Multi-Positive Contrastive Knowledge Graph Completion with Embedding Dimension Scaling**". [paper]()
 
-- <a name="DREAM"></a> **(DREAM)** . "****". [paper]()
+- <a name="DREAM"></a> **(DREAM)** . "**DREAM: Adaptive Reinforcement Learning based on Attention Mechanism for Temporal Knowledge Graph Reasoning**". [paper]()
 
-- <a name="HTENS"></a> **(HTENS)** . "****". [paper]()
+- <a name="HTENS"></a> **(HTENS)** . "**Hierarchical Type Enhanced Negative Sampling for Knowledge Graph Embedding**". [paper]()
 
-- <a name="NeuralKG-ind"></a> **(NeuralKG-ind)** . "****". [paper]()
+- <a name="NeuralKG-ind"></a> **(NeuralKG-ind)** . "**NeuralKG-ind: A Python Library for Inductive Knowledge Graph Representation Learning**". [paper]()
 
-- <a name="NP-FKGC"></a> **(NP-FKGC)** . "****". [paper]()
+- <a name="NP-FKGC"></a> **(NP-FKGC)** . "**Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion**". [paper]()
 
-- <a name="ReSKGC"></a> **(ReSKGC)** . "****". [paper]()
+- <a name="ReSKGC"></a> **(ReSKGC)** . "**Retrieval-Enhanced Generative Model for Large-Scale Knowledge Graph Completion**". [paper]()
 
-- <a name="RPC"></a> **(RPC)** . "****". [paper]()
+- <a name="RPC"></a> **(RPC)** . "**Learn from Relational Correlations and Periodic Events for
+Temporal Knowledge Graph Reasoning**". [paper]()
 
-- <a name="StreamE"></a> **(StreamE)** . "****". [paper]()
+- <a name="StreamE"></a> **(StreamE)** . "**StreamE: Lightweight Updates of Representations for Temporal Knowledge Graphs in Streaming Scenarios**". [paper]()
 
-- <a name="WeightE"></a> **(WeightE)** . "****". [paper]()
+- <a name="WeightE"></a> **(WeightE)** . "**Weighted Knowledge Graph Embedding**". [paper]()
 
 ##### WWW
 
