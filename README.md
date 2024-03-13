@@ -559,19 +559,19 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="HSAE"></a> **(HSAE)** Xin Ren, Luyi Bai, Qianwen Xiao, Xiangxi Meng. "**Hierarchical Self-Atention Embedding for Temporal Knowledge Graph Completion**". [paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583397)
 
-- <a name="KGCF"></a> **(KGCF)** . "**Knowledge Graph Completion with Counterfactual Augmentation**". [paper]()
+- <a name="KGCF"></a> **(KGCF)** Heng Chang, Jie Cai, Jia Li. "**Knowledge Graph Completion with Counterfactual Augmentation**". [paper](https://dl.acm.org/doi/10.1145/3543507.3583401)
 
-- <a name="KG-Mixup"></a> **(KG-Mixup)** . "**Toward Degree Bias in Embedding-Based Knowledge Graph Completion**". [paper]()
+- <a name="KG-Mixup"></a> **(KG-Mixup)** Harry Shomer, Wei Jin, Wentao Wang, Jiliang Tang. "**Toward Degree Bias in Embedding-Based Knowledge Graph Completion**". [paper](https://dl.acm.org/doi/10.1145/3543507.3583544)
 
-- <a name="KP"></a> **(KP)** . "**Can Persistent Homology provide an eficient alternative for Evaluation of Knowledge Graph Completion Methods**". [paper]()
+- <a name="KP"></a> **(KP)** Anson Bastos, Kuldeep Singh, Abhishek Nadgeri, Johannes Hoffart, Manish Singh, Toyotaro Suzumura. "**Can Persistent Homology provide an eficient alternative for Evaluation of Knowledge Graph Completion Methods**". [paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583308)
 
-- <a name="KRACL"></a> **(KRACL)** . "**KRACL: Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion**". [paper]()
+- <a name="KRACL"></a> **(KRACL)** Zhaoxuan Tan, Zilong Chen, Shangbin Feng, Qingyue Zhang, Qinghua Zheng, Jundong Li, Minnan Luo. "**KRACL: Contrastive Learning with Graph Context Modeling for Sparse Knowledge Graph Completion**". [paper](https://dl.acm.org/doi/10.1145/3543507.3583412)
 
-- <a name="MASS"></a> **(MASS)** . "**MaSS: Model-agnostic, Semantic and Stealthy Data Poisoning Atack on Knowledge Graph Embedding**". [paper]()
+- <a name="MASS"></a> **(MASS)** Xiaoyu You, Beina Sheng, Daizong Ding, Mi Zhang, Xudong Pan, Min Yang, Fuli Feng. "**MaSS: Model-agnostic, Semantic and Stealthy Data Poisoning Atack on Knowledge Graph Embedding**". [paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583203)
 
-- <a name="MSeaKG"></a> **(MSeaKG)** . "**Message Function Search for Knowledge Graph Embedding**". [paper]()
+- <a name="MSeaKG"></a> **(MSeaKG)** Shimin Di, Lei Chen. "**Message Function Search for Knowledge Graph Embedding**". [paper](https://dl.acm.org/doi/10.1145/3543507.3583546)
 
-- <a name="SEPA"></a> **(SEPA)** . "**Link Prediction with Atention Applied on Multiple Knowledge Graph Embedding Models**". [paper]()
+- <a name="SEPA"></a> **(SEPA)** Cosimo Gregucci, Mojtaba Nayyeri, Daniel Hernández, Steffen Staab. "**Link Prediction with Atention Applied on Multiple Knowledge Graph Embedding Models**". [paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583358)
 
 ### 2022
 
