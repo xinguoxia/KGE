@@ -452,79 +452,82 @@ Embedding Sharing and Tensor Factorization**". [paper]()
 
 ##### ICLR
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="ExpressivE"></a> **(ExpressivE)** . "**ExpressivE: A Spatio-Functional Embedding For Knowledge Graph Completion**". [paper]()
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="HiRe"></a> **(HiRe)** . "**Hierarchical Relational Learning for Few-Shot Knowledge Graph Completion**". [paper]()
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="LERP"></a> **(LERP)** . "**Logical Entity Representation in Knowledge-Graphs for Differentiable Rule Learning**". [paper]()
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="MarT"></a> **(MarT)** . "**Multimodal Analogical Reasoning over Knowledge Graphs**". [paper]()
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="NCRL"></a> **(NCRL)** . "**Neural Compositional Rule Learning for Knowledge Graph Reasoning **". [paper]()
 
 ##### ICML
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="InGram"></a> **(InGram)** . "**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**". [paper]()
 
 ##### IJCAI
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="CEKFA"></a> **(CEKFA)** . "**A Canonicalization-Enhanced Known Fact-Aware Framework For Open Knowledge Graph Link Prediction**". [paper]()
 
-- <a name=""></a> **()** . "****". [paper]()
+- <a name="DaeMon"></a> **(DaeMon)** . "**Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning**". [paper]()
 
 ##### ISWC
 
-- <a name="ASKRL"></a> **(ASKRL)** . "****". [paper]()
+- <a name="ASKRL"></a> **(ASKRL)** . "**ASKRL: An Aligned-Spatial Knowledge Representation Learning Framework for Open-World Knowledge Graph**". [paper]()
 
-- <a name="CapsKG"></a> **(CapsKG)** . "****". [paper]()
+- <a name="CapsKG"></a> **(CapsKG)** . "**CapsKG: Enabling Continual Knowledge Integration in Language Models for Automatic Knowledge Graph Completion**". [paper]()
 
-- <a name="CIDF"></a> **(CIDF)** . "****". [paper]()
+- <a name="CIDF"></a> **(CIDF)** . "**Causal Inference-Based Debiasing Framework for Knowledge Graph Completion**". [paper]()
 
-- <a name="DeMix"></a> **(DeMix)** . "****". [paper]()
+- <a name="DeMix"></a> **(DeMix)** . "**Negative Sampling with Adaptive Denoising Mixup for Knowledge Graph Embedding**". [paper]()
 
-- <a name="ERDNS"></a> **(ERDNS)** . "****". [paper]()
+- <a name="ERDNS"></a> **(ERDNS)** . "**Entity-Relation Distribution-Aware Negative Sampling for Knowledge Graph Embedding**". [paper]()
 
--  . "****". [paper]()
+-  . "**Comprehensive Analysis of Freebase and Dataset Creation for Robust Evaluation
+of Knowledge Graph Link Prediction Models**". [paper]()
 
--  . "****". [paper]()
+-  . "**Data Augmented Knowledge Graph Completion via Pre-trained Language Models**". [paper]()
 
-- <a name="KGE-Welding"></a> **(KGE-Welding)** . "****". [paper]()
+- <a name="KGE-Welding"></a> **(KGE-Welding)** . "**Literal-Aware Knowledge Graph Embedding for Welding Quality Monitoring: A Bosch Case**". [paper]()
 
-- <a name="SPA"></a> **(SPA)** . "****". [paper]()
+- <a name="SPA"></a> **(SPA)** . "**A Comprehensive Study on Knowledge Graph Embedding over Relational Patterns Based on Rule Learning**". [paper]()
 
-- <a name="Tetra_WSF"></a> **(Tetra_WSF)** . "****". [paper]()
+- <a name="Tetra_WSF"></a> **(Tetra_WSF)** . "**Integrating Knowledge Graph Embeddings and Pre-trained Language Models in Hypercomplex Spaces**". [paper]()
 
 ##### KDD
 
-- <a name="AdaProp"></a> **(AdaProp)** . "****". [paper]()
+- <a name="AdaProp"></a> **(AdaProp)** . "**AdaProp: Learning Adaptive Propagation for Graph Neural Network based Knowledge Graph Reasoning**". [paper]()
 
-- <a name="Flow-MV"></a> **(Flow-MV)** . "****". [paper]()
+- <a name="Flow-MV"></a> **(Flow-MV)** . "**Few-shot Low-resource Knowledge Graph Completion with Multi-view Task Representation Generation**". [paper]()
 
-- <a name="MuKGE"></a> **(MuKGE)** . "****". [paper]()
+- <a name="MuKGE"></a> **(MuKGE)** . "**Joint Pre-training and Local Re-training: Transferable
+Representation Learning on Multi-source Knowledge Graphs**". [paper]()
 
-- <a name="RAKGE"></a> **(RAKGE)** . "****". [paper]()
+- <a name="RAKGE"></a> **(RAKGE)** . "**Exploiting Relation-aware Attribute Representation Learning in Knowledge Graph Embedding for Numerical Reasoning**". [paper]()
 
 ##### KR
 
--  . "****". [paper]()
+-  . "**Revisiting Inferential Benchmarks for Knowledge Graph Completion**". [paper]()
 
-- <a name="LogInfer"></a> **(LogInfer)** . "****". [paper]()
+- <a name="LogInfer"></a> **(LogInfer)** . "**Revisiting Inferential Benchmarks for Knowledge Graph Completion**". [paper]()
 
 ##### MM
 
-- <a name="HyIE"></a> **(HyIE)** . "****". [paper]()
+- <a name="HyIE"></a> **(HyIE)** . "**Hybrid Interaction Temporal Knowledge Graph Embedding
+Based on Householder Transformations**". [paper]()
 
 ##### NeurIPS
 
-- <a name="ANet"></a> **(ANet)** . "****". [paper]()
+- <a name="ANet"></a> **(ANet)** . "**A*Net: A Scalable Path-based Reasoning Approach for Knowledge Graphs**". [paper]()
 
-- <a name="DiffLogic"></a> **(DiffLogic)** . "****". [paper]()
+- <a name="DiffLogic"></a> **(DiffLogic)** . "**Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs**". [paper]()
 
-- <a name="GeKCs"></a> **(GeKCs)** . "****". [paper]()
+- <a name="GeKCs"></a> **(GeKCs)** . "**How to Turn Your Knowledge Graph Embeddings into Generative Models**". [paper]()
 
-- <a name="TE-rules"></a> **(TE-rules)** . "****". [paper]()
+- <a name="TE-rules"></a> **(TE-rules)** . "**Learning from Both Structural and Textual Knowledge for Inductive Knowledge Graph Completion**". [paper]()
 
-- <a name="TFLEX"></a> **(TFLEX)** . "****". [paper]()
+- <a name="TFLEX"></a> **(TFLEX)** . "**TFLEX: Temporal Feature-Logic Embedding Framework for Complex Reasoning over Temporal Knowledge Graph**". [paper]()
 
 ##### PAKDD
 
