@@ -333,35 +333,35 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### AAAI
 
-- <a name="AnKGE"></a> **(AnKGE)** Zhen Yao, Wen Zhang, Mingyang Chen, Yufeng Huang, Yi Yang, Huajun Chen. "**Analogical Inference Enhanced Knowledge Graph Embedding**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25605) :star:
+- <a name="AnKGE"></a> **(AnKGE)** Zhen Yao, Wen Zhang, Mingyang Chen, Yufeng Huang, Yi Yang, Huajun Chen. "**Analogical Inference Enhanced Knowledge Graph Embedding**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25605) [code](https://github.com/zjukg/AnKGE) :star:
 
-- <a name="BiVE"></a> **(BiVE)** Chanyoung Chung, Joyce Jiyoung Whang. "**Learning Representations of Bi-level Knowledge Graphs for Reasoning beyond Link Prediction**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25538)
+- <a name="BiVE"></a> **(BiVE)** Chanyoung Chung, Joyce Jiyoung Whang. "**Learning Representations of Bi-level Knowledge Graphs for Reasoning beyond Link Prediction**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25538) [code](https://github.com/bdi-lab/BiVE)
 
-- <a name="CENET"></a> **(CENET)** Yi Xu, Junjie Ou, Hui Xu, Luoyi Fu. "**Temporal Knowledge Graph Reasoning with Historical Contrastive Learning**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25601) :fire:
+- <a name="CENET"></a> **(CENET)** Yi Xu, Junjie Ou, Hui Xu, Luoyi Fu. "**Temporal Knowledge Graph Reasoning with Historical Contrastive Learning**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25601) [code](https://github.com/xyjigsaw/CENET) :fire:
 
-- <a name="EARL"></a> **(EARL)** Mingyang Chen, Wen Zhang, Zhen Yao, Yushan Zhu, Yang Gao, Jeff Z. Pan, Huajun Chen. "**Entity-Agnostic Representation Learning for Parameter-Efficient Knowledge Graph Embedding**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25535)
+- <a name="EARL"></a> **(EARL)** Mingyang Chen, Wen Zhang, Zhen Yao, Yushan Zhu, Yang Gao, Jeff Z. Pan, Huajun Chen. "**Entity-Agnostic Representation Learning for Parameter-Efficient Knowledge Graph Embedding**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25535) [code](https://github.com/zjukg/EARL)
 
-- <a name="IterDE"></a> **(IterDE)** Jiajun Liu, Peng Wang, Ziyu Shang, Chenxiao Wu. "**IterDE: An Iterative Knowledge Distillation Framework for Knowledge Graph Embeddings**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25570)
+- <a name="IterDE"></a> **(IterDE)** Jiajun Liu, Peng Wang, Ziyu Shang, Chenxiao Wu. "**IterDE: An Iterative Knowledge Distillation Framework for Knowledge Graph Embeddings**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25570) [code](https://github.com/seukgcode/IterDE)
 
-- <a name="LCGE"></a> **(LCGE)** Guanglin Niu, Bo Li. "**Logic and Commonsense-Guided Temporal Knowledge Graph Completion**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25579) :star:
+- <a name="LCGE"></a> **(LCGE)** Guanglin Niu, Bo Li. "**Logic and Commonsense-Guided Temporal Knowledge Graph Completion**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25579) [code](https://github.com/ngl567/LCGE) :star:
 
-- <a name="LKGE"></a> **(LKGE)** Yuanning Cui, Yuxin Wang, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu. "**Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25539) :star::star:
+- <a name="LKGE"></a> **(LKGE)** Yuanning Cui, Yuxin Wang, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu. "**Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25539) [code](https://github.com/nju-websoft/LKGE) :star::star:
 
-- <a name="LPRules"></a> **(LPRules)** Sanjeeb Dash, Joao Goncalves. "**Rule Induction in Knowledge Graphs Using Linear Programming**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25541)
+- <a name="LPRules"></a> **(LPRules)** Sanjeeb Dash, Joao Goncalves. "**Rule Induction in Knowledge Graphs Using Linear Programming**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25541) [code](https://github.com/IBM/LPRules)
 
-- <a name="NFE"></a> **(NFE)** Changyi Xiao, Xiangnan He, Yixin Cao. "**Knowledge Graph Embedding by Normalizing Flows**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25600)
+- <a name="NFE"></a> **(NFE)** Changyi Xiao, Xiangnan He, Yixin Cao. "**Knowledge Graph Embedding by Normalizing Flows**". [paper](https://ojs.aaai.org/index.php/AAAI/article/view/25600) [code](https://github.com/changyi7231/NFE) 
 
 ##### ACL
 
-- <a name="ACTC"></a> **(ACTC)** Anastasiia Sedova, Benjamin Roth. "**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**". [paper](https://aclanthology.org/2023.acl-short.158/)
+- <a name="ACTC"></a> **(ACTC)** Anastasiia Sedova, Benjamin Roth. "**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**". [paper](https://aclanthology.org/2023.acl-short.158/) [code](https://github.com/anasedova/ACTC)
 
-- <a name="CompoundE"></a> **(CompoundE)** Xiou Ge, Yun-Cheng Wang, Bin Wang, C.-C. Jay Kuo. "**Compounding Geometric Operations for Knowledge Graph Completion**". [paper](https://aclanthology.org/2023.acl-long.384/)
+- <a name="CompoundE"></a> **(CompoundE)** Xiou Ge, Yun-Cheng Wang, Bin Wang, C.-C. Jay Kuo. "**Compounding Geometric Operations for Knowledge Graph Completion**". [paper](https://aclanthology.org/2023.acl-long.384/) [code](https://github.com/hughxiouge/CompoundE)
 
-- <a name="GreenKGC"></a> **(GreenKGC)** Yuncheng Wang, Xiou Ge, Bin Wang, C.-C. Jay Kuo. "**GreenKGC: A Lightweight Knowledge Graph Completion Method**". [paper](https://aclanthology.org/2023.acl-long.591/) :star:
+- <a name="GreenKGC"></a> **(GreenKGC)** Yuncheng Wang, Xiou Ge, Bin Wang, C.-C. Jay Kuo. "**GreenKGC: A Lightweight Knowledge Graph Completion Method**". [paper](https://aclanthology.org/2023.acl-long.591/) [code](https://github.com/yunchengwang/GreenKGC) :star:
 
 - <a name="L2TKG"></a> **(L2TKG)** Mengqi Zhang, Yuwei Xia, Qiang Liu, Shu Wu, Liang Wang. "**Learning Latent Relations for Temporal Knowledge Graph Reasoning**". [paper](https://aclanthology.org/2023.acl-long.705/) :star::star:
 
-- <a name="LSMGA"></a> **(LSMGA)** Rongchuan Tang, Yang Zhao, Chengqing Zong, Yu Zhou. "**Multilingual Knowledge Graph Completion with Language-Sensitive Multi-Graph Attention**". [paper](https://aclanthology.org/2023.acl-long.586/)
+- <a name="LSMGA"></a> **(LSMGA)** Rongchuan Tang, Yang Zhao, Chengqing Zong, Yu Zhou. "**Multilingual Knowledge Graph Completion with Language-Sensitive Multi-Graph Attention**". [paper](https://aclanthology.org/2023.acl-long.586/) [code](https://github.com/RongchuanTang/LSMGA-MKGC)
 
 - <a name="MA-GNN"></a> **(MA-GNN)** Hongcai Xu, Junpeng Bao, Wenbo Liu. "**Double-Branch Multi-Attention based Graph Neural Network for Knowledge Graph Completion**". [paper](https://aclanthology.org/2023.acl-long.850/)
 
@@ -369,9 +369,9 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="mOKB6"></a> **(mOKB6)** Shubham Mittal, Keshav Kolluru, Soumen Chakrabarti, Mausam. "**mOKB6: A Multilingual Open Knowledge Base Completion Benchmark**". [paper](https://aclanthology.org/2023.acl-short.19/)
 
-- <a name="NS-KGC"></a> **(NS-KGC)** Ananjan Nandi, Navdeep Kaur, Parag Singla, Mausam. "**Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion**". [paper](https://aclanthology.org/2023.acl-short.23/)
+- <a name="NS-KGC"></a> **(NS-KGC)** Ananjan Nandi, Navdeep Kaur, Parag Singla, Mausam. "**Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion**". [paper](https://aclanthology.org/2023.acl-short.23/) [code](https://github.com/dair-iitd/NS-KGC-AUG)
 
-- <a name="TeAST"></a> **(TeAST)** Jiang Li, Xiangdong Su, Guanglai Gao. "**TeAST: Temporal Knowledge Graph Embedding via Archimedean Spiral Timeline**". [paper](https://aclanthology.org/2023.acl-long.862/)
+- <a name="TeAST"></a> **(TeAST)** Jiang Li, Xiangdong Su, Guanglai Gao. "**TeAST: Temporal Knowledge Graph Embedding via Archimedean Spiral Timeline**". [paper](https://aclanthology.org/2023.acl-long.862/) [code](https://github.com/dellixx/TeAST)
 
 ##### CIKM
 
