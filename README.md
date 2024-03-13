@@ -153,14 +153,6 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="RAL_KGE-LCE"></a> **(RAL_KGE-LCE)** 	Jinfa Yang, Xianghua Ying, Taiyan Chen. "**Employing Latent Categories of Entities for Knowledge Graph Embeddings With Contrastive Learning**". [paper](https://ieeexplore.ieee.org/document/10103578)
 
-##### IEEE/ACM Transactions on Audio, Speech and Language Processing
-
-- <a name="CircularE"></a> **(CircularE)** Yan Fang, Wei Lu, Xiaodong Liu, Witold Pedrycz, Qi Lang, Jianhua Yang. "**CircularE: A Complex Space Circular Correlation Relational Model for Link Prediction in Knowledge Graph Embedding**". [paper](https://ieeexplore.ieee.org/document/10190095)
-
-- <a name="NRRC"></a> **(NRRC)** Yu Li, Bojie Hu, Jian Liu, Yufeng Chen, Jinan Xu. "**A Neighborhood Re-Ranking Model With Relation Constraint for Knowledge Graph Completion**". [paper](https://ieeexplore.ieee.org/document/9966731)
-
-- <a name="TARGAT"></a> **(TARGAT)** Zhiwen Xie, Runjie Zhu, Jin Liu, Guangyou Zhou, Jimmy Xiangji Huang. "**TARGAT: A Time-Aware Relational Graph Attention Model for Temporal Knowledge Graph Embedding**". [paper](https://ieeexplore.ieee.org/document/10141863)
-
 ##### IEEE Transactions on Big Data
 
 - <a name="FedCKE"></a> **(FedCKE)** Wei Huang, Jia Liu, Tianrui Li, Shenggong Ji, Dexian Wang, Tianqiang Huang. "**FedCKE: Cross-Domain Knowledge Graph Embedding in Federated Learning**". [paper](https://ieeexplore.ieee.org/document/9887815) :star:
@@ -286,6 +278,8 @@ Thanks for your attention and kind words! We will update KGE later.
 ##### IEEE/ACM Transactions on Audio, Speech and Language Processing
 
 - <a name="CircularE"></a> **(CircularE)** Yan Fang, Wei Lu, Xiaodong Liu, Witold Pedrycz, Qi Lang, Jianhua Yang. "**CircularE: A Complex Space Circular Correlation Relational Model for Link Prediction in Knowledge Graph Embedding**". [paper](https://ieeexplore.ieee.org/document/10190095)
+
+- <a name="NRRC"></a> **(NRRC)** Yu Li, Bojie Hu, Jian Liu, Yufeng Chen, Jinan Xu. "**A Neighborhood Re-Ranking Model With Relation Constraint for Knowledge Graph Completion**". [paper](https://ieeexplore.ieee.org/document/9966731)
 
 - <a name="TARGAT"></a> **(TARGAT)** Zhiwen Xie, Runjie Zhu, Jin Liu, Guangyou Zhou, Jimmy Xiangji Huang. "**TARGAT: A Time-Aware Relational Graph Attention Model for Temporal Knowledge Graph Embedding**". [paper](https://ieeexplore.ieee.org/document/10141863)
 
