@@ -505,61 +505,59 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### KR
 
--  . "**Revisiting Inferential Benchmarks for Knowledge Graph Completion**". [paper]()
-
-- <a name="LogInfer"></a> **(LogInfer)** . "**Revisiting Inferential Benchmarks for Knowledge Graph Completion**". [paper]()
+-  <a name="LogInfer"></a> **(LogInfer)** Shuwen Liu, Bernardo Cuenca Grau, Ian Horrocks, Egor V. Kostylev. "**Revisiting Inferential Benchmarks for Knowledge Graph Completion**". [paper](https://proceedings.kr.org/2023/45/)
 
 ##### MM
 
-- <a name="HyIE"></a> **(HyIE)** . "**Hybrid Interaction Temporal Knowledge Graph Embedding Based on Householder Transformations**". [paper]()
+- <a name="HyIE"></a> **(HyIE)** Sensen Zhang, Xun Liang, Hui Tang, Zhenyu Guan. "**Hybrid Interaction Temporal Knowledge Graph Embedding Based on Householder Transformations**". [paper](https://dl.acm.org/doi/10.1145/3581783.3613446)
 
 ##### NeurIPS
 
-- <a name="ANet"></a> **(ANet)** . "**A*Net: A Scalable Path-based Reasoning Approach for Knowledge Graphs**". [paper]()
+- <a name="ANet"></a> **(ANet)** Zhaocheng Zhu, Xinyu Yuan, Michael Galkin, Louis-Pascal A. C. Xhonneux, Ming Zhang, Maxime Gazeau, Jian Tang. "**A*Net: A Scalable Path-based Reasoning Approach for Knowledge Graphs**". [paper](https://papers.nips.cc/paper_files/paper/2023/hash/b9e98316cb72fee82cc1160da5810abc-Abstract-Conference.html)
 
-- <a name="DiffLogic"></a> **(DiffLogic)** . "**Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs**". [paper]()
+- <a name="DiffLogic"></a> **(DiffLogic)** Shengyuan Chen, Yunfeng Cai, Huang Fang, Xiao Huang, Mingming Sun. "**Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs**". [paper](https://papers.nips.cc/paper_files/paper/2023/hash/5965f3a748a8d41415db2bfa44635cc3-Abstract-Conference.html)
 
-- <a name="GeKCs"></a> **(GeKCs)** . "**How to Turn Your Knowledge Graph Embeddings into Generative Models**". [paper]()
+- <a name="GeKCs"></a> **(GeKCs)** Lorenzo Loconte, Nicola Di Mauro, Robert Peharz, Antonio Vergari. "**How to Turn Your Knowledge Graph Embeddings into Generative Models**". [paper](https://papers.nips.cc/paper_files/paper/2023/hash/f4b768188be63b8d2680a46934fd295a-Abstract-Conference.html)
 
-- <a name="TE-rules"></a> **(TE-rules)** . "**Learning from Both Structural and Textual Knowledge for Inductive Knowledge Graph Completion**". [paper]()
+- <a name="TE-rules"></a> **(TE-rules)** Kunxun Qi, Jianfeng Du, Hai Wan. "**Learning from Both Structural and Textual Knowledge for Inductive Knowledge Graph Completion**". [paper](https://papers.nips.cc/paper_files/paper/2023/hash/544242770e8333875325d013328b2079-Abstract-Conference.html)
 
-- <a name="TFLEX"></a> **(TFLEX)** . "**TFLEX: Temporal Feature-Logic Embedding Framework for Complex Reasoning over Temporal Knowledge Graph**". [paper]()
+- <a name="TFLEX"></a> **(TFLEX)** Xueyuan Lin, Haihong E, Chengjin Xu, Gengxian Zhou, Haoran Luo, Tianyi Hu, Fenglong Su, Ningyuan Li, Mingzhi Sun. "**TFLEX: Temporal Feature-Logic Embedding Framework for Complex Reasoning over Temporal Knowledge Graph**". [paper](https://papers.nips.cc/paper_files/paper/2023/hash/e71a42c64851834013e2658b69d7fe93-Abstract-Conference.html)
 
 ##### PAKDD
 
-- <a name="MixER"></a> **(MixER)** . "**MixER: MLP-Mixer Knowledge Graph Embedding for Capturing Rich Entity-Relation Interactions in Link Prediction**". [paper]()
+- <a name="MixER"></a> **(MixER)** Thanh Le, An Pham, Tho Chung, Truong Nguyen, Tuan Nguyen, Bac Le. "**MixER: MLP-Mixer Knowledge Graph Embedding for Capturing Rich Entity-Relation Interactions in Link Prediction**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-33377-4_2)
 
-- <a name="RANA"></a> **(RANA)** . "**Relation-Aware Network with Attention-Based Loss for Few-Shot Knowledge Graph Completion**". [paper]()
+- <a name="RANA"></a> **(RANA)** Qiao Qiao, Yuepei Li, Kang Zhou, Qi Li. "**Relation-Aware Network with Attention-Based Loss for Few-Shot Knowledge Graph Completion**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-33380-4_8)
 
 ##### SIGIR
 
-- <a name="ConKGC"></a> **(ConKGC)** . "**Relation-Aware Multi-Positive Contrastive Knowledge Graph Completion with Embedding Dimension Scaling**". [paper]()
+- <a name="ConKGC"></a> **(ConKGC)** Bin Shang, Yinliang Zhao, Di Wang, Jun Liu. "**Relation-Aware Multi-Positive Contrastive Knowledge Graph Completion with Embedding Dimension Scaling**". [paper](https://dl.acm.org/doi/10.1145/3539618.3591756)
 
-- <a name="DREAM"></a> **(DREAM)** . "**DREAM: Adaptive Reinforcement Learning based on Attention Mechanism for Temporal Knowledge Graph Reasoning**". [paper]()
+- <a name="DREAM"></a> **(DREAM)** Shangfei Zheng, Hongzhi Yin, Tong Chen, Quoc Viet Hung Nguyen, Wei Chen, Lei Zhao. "**DREAM: Adaptive Reinforcement Learning based on Attention Mechanism for Temporal Knowledge Graph Reasoning**". [paper](https://dl.acm.org/doi/10.1145/3539618.3591671)
 
-- <a name="HTENS"></a> **(HTENS)** . "**Hierarchical Type Enhanced Negative Sampling for Knowledge Graph Embedding**". [paper]()
+- <a name="HTENS"></a> **(HTENS)** Zhenzhou Lin, Zishuo Zhao, Jingyou Xie, Ying Shen. "**Hierarchical Type Enhanced Negative Sampling for Knowledge Graph Embedding**". [paper](https://dl.acm.org/doi/10.1145/3539618.3591996)
 
-- <a name="NeuralKG-ind"></a> **(NeuralKG-ind)** . "**NeuralKG-ind: A Python Library for Inductive Knowledge Graph Representation Learning**". [paper]()
+- <a name="NeuralKG-ind"></a> **(NeuralKG-ind)** Wen Zhang, Zhen Yao, Mingyang Chen, Zhiwei Huang, Huajun Chen. "**NeuralKG-ind: A Python Library for Inductive Knowledge Graph Representation Learning**". [paper](https://dl.acm.org/doi/10.1145/3539618.3591809)
 
-- <a name="NP-FKGC"></a> **(NP-FKGC)** . "**Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion**". [paper]()
+- <a name="NP-FKGC"></a> **(NP-FKGC)** Linhao Luo, Yuan-Fang Li, Gholamreza Haffari, Shirui Pan:. "**Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion**". [paper](https://dl.acm.org/doi/10.1145/3539618.3591743)
 
-- <a name="ReSKGC"></a> **(ReSKGC)** . "**Retrieval-Enhanced Generative Model for Large-Scale Knowledge Graph Completion**". [paper]()
+- <a name="ReSKGC"></a> **(ReSKGC)** Donghan Yu, Yiming Yang. "**Retrieval-Enhanced Generative Model for Large-Scale Knowledge Graph Completion**". [paper](https://dl.acm.org/doi/10.1145/3539618.3592052)
 
-- <a name="RPC"></a> **(RPC)** . "**Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning**". [paper]()
+- <a name="RPC"></a> **(RPC)** 	Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, Wenxuan Tu, Siwei Wang, Sihang Zhou, Xinwang Liu. "**Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning**". [paper](https://dl.acm.org/doi/10.1145/3539618.3591711)
 
-- <a name="StreamE"></a> **(StreamE)** . "**StreamE: Lightweight Updates of Representations for Temporal Knowledge Graphs in Streaming Scenarios**". [paper]()
+- <a name="StreamE"></a> **(StreamE)** Jiasheng Zhang, Jie Shao, Bin Cui. "**StreamE: Lightweight Updates of Representations for Temporal Knowledge Graphs in Streaming Scenarios**". [paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591772)
 
-- <a name="WeightE"></a> **(WeightE)** . "**Weighted Knowledge Graph Embedding**". [paper]()
+- <a name="WeightE"></a> **(WeightE)** Zhao Zhang, Zhanpeng Guan, Fuwei Zhang, Fuzhen Zhuang, Zhulin An, Fei Wang, Yongjun Xu. "**Weighted Knowledge Graph Embedding**". [paper](https://dl.acm.org/doi/10.1145/3539618.3591784)
 
 ##### WWW
 
-- <a name="DP-Flames"></a> **(DP-Flames)** . "**Qantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding**". [paper]()
+- <a name="DP-Flames"></a> **(DP-Flames)** Yuke Hu, Wei Liang, Ruofan Wu, Kai Xiao, Weiqiang Wang, Xiaochen Li, Jinfei Liu, Zhan Qin. "**Qantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding**". [paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583450)
 
-- <a name="FedLU"></a> **(FedLU)** . "**Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning**". [paper]()
+- <a name="FedLU"></a> **(FedLU)** Xiangrong Zhu, Guangyao Li, Wei Hu. "**Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning**". [paper](https://dl.acm.org/doi/10.1145/3543507.3583305)
 
-- <a name="HGLS"></a> **(HGLS)** . "**Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning**". [paper]()
+- <a name="HGLS"></a> **(HGLS)** Mengqi Zhang, Yuwei Xia, Qiang Liu, Shu Wu, Liang Wang. "**Learning Long- and Short-term Representations for Temporal Knowledge Graph Reasoning**". [paper](https://dl.acm.org/doi/10.1145/3543507.3583242)
 
-- <a name="HSAE"></a> **(HSAE)** . "**Hierarchical Self-Atention Embedding for Temporal Knowledge Graph Completion**". [paper]()
+- <a name="HSAE"></a> **(HSAE)** Xin Ren, Luyi Bai, Qianwen Xiao, Xiangxi Meng. "**Hierarchical Self-Atention Embedding for Temporal Knowledge Graph Completion**". [paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583397)
 
 - <a name="KGCF"></a> **(KGCF)** . "**Knowledge Graph Completion with Counterfactual Augmentation**". [paper]()
 
