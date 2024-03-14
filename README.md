@@ -395,17 +395,17 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="SAFE"></a> **(SAFE)** Kai Zhang, Daokun Zhang, Ning Liu, Yonghua Yang, Yonghui Xu, Zhongmin Yan, Hui Li, Lizhen Cui. "**Sample and Feature Enhanced Few-Shot Knowledge Graph Completion**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_54)
 
-- <a name="TR-Match"></a> **(TR-Match)** Xing Gong, Jianyang Qin, Heyan Chai, Ye Ding, Yan Jia, Qing Liao. "**Temporal-Relational Matching Network for Few-Shot Temporal Knowledge Graph Completion**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_52)
+- <a name="TR-Match"></a> **(TR-Match)** Xing Gong, Jianyang Qin, Heyan Chai, Ye Ding, Yan Jia, Qing Liao. "**Temporal-Relational Matching Network for Few-Shot Temporal Knowledge Graph Completion**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_52) [code](https://github.com/HITSZ-GongXing/TR-Match)
 
 ##### ECAI
 
-- <a name="ConvEICF"></a> **(ConvEICF)** Fu Zhang, Pengpeng Qiu, Tong Shen, Jingwei Cheng. "**Multi-Aspect Enhanced Convolutional Neural Networks for Knowledge Graph Completion**". [paper](https://ebooks.iospress.nl/doi/10.3233/FAIA230615)
+- <a name="ConvEICF"></a> **(ConvEICF)** Fu Zhang, Pengpeng Qiu, Tong Shen, Jingwei Cheng. "**Multi-Aspect Enhanced Convolutional Neural Networks for Knowledge Graph Completion**". [paper](https://ebooks.iospress.nl/doi/10.3233/FAIA230615) [code](https://github.com/NEU-IDKE/ConvEICF)
 
 - <a name="DlnBE"></a> **(DlnBE)** Hong Yin, Jiang Zhong, Qizhu Dai. "**Deep Interactions-Boosted Embeddings for Link Prediction on Knowledge Graph**". [paper](https://ebooks.iospress.nl/doi/10.3233/FAIA230602)
 
 ##### ECML-PKDD
 
-- <a name="RawNP"></a> **(RawNP)** Zicheng Zhao, Linhao Luo, Shirui Pan, Quoc Viet Hung Nguyen, Chen Gong. "**Towards Few-Shot Inductive Link Prediction on Knowledge Graphs: A Relational Anonymous Walk-Guided Neural Process Approach**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-43418-1_31)
+- <a name="RawNP"></a> **(RawNP)** Zicheng Zhao, Linhao Luo, Shirui Pan, Quoc Viet Hung Nguyen, Chen Gong. "**Towards Few-Shot Inductive Link Prediction on Knowledge Graphs: A Relational Anonymous Walk-Guided Neural Process Approach**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-43418-1_31) [code](https://github.com/leapxcheng/RawNP)
 
 - <a name="TRE"></a> **(TRE)** Bowen Song, Chengjin Xu, Kossi Amouzouvi, Maocai Wang, Jens Lehmann, Sahar Vahdati. "**Distinct Geometrical Representations for Temporal and Relational Structures in Knowledge Graphs**". [paper](https://link.springer.com/chapter/10.1007/978-3-031-43418-1_36)
 
@@ -413,11 +413,11 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="NruSTIP"></a> **(NruSTIP)** Ishaan Singh, Navdeep Kaur, Garima Gaur, Mausam. "**NeuSTIP: A Neuro-Symbolic Model for Link and Time Prediction in Temporal Knowledge Graphs**". [paper](https://aclanthology.org/2023.emnlp-main.274/)
 
-- <a name="RelEns-DSC"></a> **(RelEns-DSC)** Ling Yue, Yongqi Zhang, Quanming Yao, Yong Li, Xian Wu, Ziheng Zhang, Zhenxi Lin, Yefeng Zheng. "**Relation-aware Ensemble Learning for Knowledge Graph Embedding**". [paper](https://aclanthology.org/2023.emnlp-main.1034/)
+- <a name="RelEns-DSC"></a> **(RelEns-DSC)** Ling Yue, Yongqi Zhang, Quanming Yao, Yong Li, Xian Wu, Ziheng Zhang, Zhenxi Lin, Yefeng Zheng. "**Relation-aware Ensemble Learning for Knowledge Graph Embedding**". [paper](https://aclanthology.org/2023.emnlp-main.1034/) [code](https://github.com/LARS-research/RelEns)
 
-- <a name="REQ"></a> **(REQ)** Jiaang Li, Quan Wang, Yi Liu, Licheng Zhang, Zhendong Mao. "**Random Entity Quantization for Parameter-Efficient Compositional Knowledge Graph Representation**". [paper](https://aclanthology.org/2023.emnlp-main.177/)
+- <a name="REQ"></a> **(REQ)** Jiaang Li, Quan Wang, Yi Liu, Licheng Zhang, Zhendong Mao. "**Random Entity Quantization for Parameter-Efficient Compositional Knowledge Graph Representation**". [paper](https://aclanthology.org/2023.emnlp-main.177/) [code](https://github.com/JiaangL/RandomQuantization)
 
-- <a name="TAGNet"></a> **(TAGNet)** Harry Shomer, Yao Ma, Juanhui Li, Bo Wu, Charu C. Aggarwal, Jiliang Tang. "**Distance-Based Propagation for Efficient Knowledge Graph Reasoning**". [paper](https://aclanthology.org/2023.emnlp-main.908/)
+- <a name="TAGNet"></a> **(TAGNet)** Harry Shomer, Yao Ma, Juanhui Li, Bo Wu, Charu C. Aggarwal, Jiliang Tang. "**Distance-Based Propagation for Efficient Knowledge Graph Reasoning**". [paper](https://aclanthology.org/2023.emnlp-main.908/) [code](https://github.com/HarryShomer/TAGNet)
 
 ##### ESWC
 
@@ -435,7 +435,7 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="MMKGR"></a> **(MMKGR)** Shangfei Zheng, Weiqing Wang, Jianfeng Qu, Hongzhi Yin, Wei Chen, Lei Zhao. "**MMKGR: Multi-hop Multi-modal Knowledge Graph Reasoning**". [paper](https://ieeexplore.ieee.org/document/10184753) :star::star:
 
-- <a name="RMPI"></a> **(RMPI)** Yuxia Geng, Jiaoyan Chen, Jeff Z. Pan, Mingyang Chen, Song Jiang, Wen Zhang, Huajun Chen. "**Relational Message Passing for Fully Inductive Knowledge Graph Completion**". [paper](https://ieeexplore.ieee.org/document/10184697) :star::star::star:
+- <a name="RMPI"></a> **(RMPI)** Yuxia Geng, Jiaoyan Chen, Jeff Z. Pan, Mingyang Chen, Song Jiang, Wen Zhang, Huajun Chen. "**Relational Message Passing for Fully Inductive Knowledge Graph Completion**". [paper](https://ieeexplore.ieee.org/document/10184697) [code](https://github.com/zjukg/RMPI) :star::star::star:
 
 ##### ICDM
 
