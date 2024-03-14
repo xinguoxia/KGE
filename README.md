@@ -375,9 +375,9 @@ Thanks for your attention and kind words! We will update KGE later.
 
 ##### CIKM
 
--  Narayanan Asuri Krishnan, Carlos R. Rivero. "**A Model-Agnostic Method to Interpret Link Prediction Evaluation of Knowledge Graph Embeddings**". [paper](https://dl.acm.org/doi/10.1145/3583780.3614763)
+-  Narayanan Asuri Krishnan, Carlos R. Rivero. "**A Model-Agnostic Method to Interpret Link Prediction Evaluation of Knowledge Graph Embeddings**". [paper](https://dl.acm.org/doi/10.1145/3583780.3614763) [code](https://github.com/nari97/CIKM2023_agnostic)
 
-- <a name="KG-R3"></a> **(KG-R3)** Vardaan Pahuja, Boshi Wang, Hugo Latapie, Jayanth Srinivasa, Yu Su. "**A Retrieve-and-Read Framework for Knowledge Graph Link Prediction**". [paper](https://dl.acm.org/doi/10.1145/3583780.3614769)
+- <a name="KG-R3"></a> **(KG-R3)** Vardaan Pahuja, Boshi Wang, Hugo Latapie, Jayanth Srinivasa, Yu Su. "**A Retrieve-and-Read Framework for Knowledge Graph Link Prediction**". [paper](https://dl.acm.org/doi/10.1145/3583780.3614769) [code](https://github.com/OSU-NLP-Group/KG-R3)
 
 - <a name="RCKGC"></a> **(RCKGC)** Simon Ott, Patrick Betz, Daria Stepanova, Mohamed H. Gad-Elrab, Christian Meilicke, Heiner Stuckenschmidt. "**Rule-based Knowledge Graph Completion with Canonical Models**". [paper](https://dl.acm.org/doi/10.1145/3583780.3615042)
 
