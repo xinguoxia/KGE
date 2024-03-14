@@ -449,21 +449,21 @@ Thanks for your attention and kind words! We will update KGE later.
 
 - <a name="HiRe"></a> **(HiRe)** Han Wu, Jie Yin, Bala Rajaratnam, Jianyuan Guo. "**Hierarchical Relational Learning for Few-Shot Knowledge Graph Completion**". [paper](https://openreview.net/forum?id=zlwBI2gQL3K) :star::star:
 
-- <a name="LERP"></a> **(LERP)** Chi Han, Qizheng He, Charles Yu, Xinya Du, Hanghang Tong, Heng Ji. "**Logical Entity Representation in Knowledge-Graphs for Differentiable Rule Learning**". [paper](https://openreview.net/forum?id=JdgO-ht1uTN)
+- <a name="LERP"></a> **(LERP)** Chi Han, Qizheng He, Charles Yu, Xinya Du, Hanghang Tong, Heng Ji. "**Logical Entity Representation in Knowledge-Graphs for Differentiable Rule Learning**". [paper](https://openreview.net/forum?id=JdgO-ht1uTN) [code](https://github.com/Glaciohound/LERP)
 
-- <a name="MarT"></a> **(MarT)** Ningyu Zhang, Lei Li, Xiang Chen, Xiaozhuan Liang, Shumin Deng, Huajun Chen. "**Multimodal Analogical Reasoning over Knowledge Graphs**". [paper](https://openreview.net/forum?id=NRHajbzg8y0P) :star::star:
+- <a name="MarT"></a> **(MarT)** Ningyu Zhang, Lei Li, Xiang Chen, Xiaozhuan Liang, Shumin Deng, Huajun Chen. "**Multimodal Analogical Reasoning over Knowledge Graphs**". [paper](https://openreview.net/forum?id=NRHajbzg8y0P) [code](https://github.com/zjunlp/MKG_Analogy) :star::star:
 
-- <a name="NCRL"></a> **(NCRL)** Kewei Cheng, Nesreen K. Ahmed, Yizhou Sun. "**Neural Compositional Rule Learning for Knowledge Graph Reasoning**". [paper](https://openreview.net/forum?id=F8VKQyDgRVj) :star::star:
+- <a name="NCRL"></a> **(NCRL)** Kewei Cheng, Nesreen K. Ahmed, Yizhou Sun. "**Neural Compositional Rule Learning for Knowledge Graph Reasoning**". [paper](https://openreview.net/forum?id=F8VKQyDgRVj) [code](https://github.com/vivian1993/NCRL) :star::star:
 
 ##### ICML
 
-- <a name="InGram"></a> **(InGram)** Jaejun Lee, Chanyoung Chung, Joyce Jiyoung Whang. "**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**". [paper](https://proceedings.mlr.press/v202/lee23c.html) :star:
+- <a name="InGram"></a> **(InGram)** Jaejun Lee, Chanyoung Chung, Joyce Jiyoung Whang. "**InGram: Inductive Knowledge Graph Embedding via Relation Graphs**". [paper](https://proceedings.mlr.press/v202/lee23c.html) [code](https://github.com/bdi-lab/InGram) :star:
 
 ##### IJCAI
 
-- <a name="CEKFA"></a> **(CEKFA)** Yilin Wang, Minghao Hu, Zhen Huang, Dongsheng Li, Wei Luo, Dong Yang, Xicheng Lu. "**A Canonicalization-Enhanced Known Fact-Aware Framework For Open Knowledge Graph Link Prediction**". [paper](https://www.ijcai.org/proceedings/2023/259)
+- <a name="CEKFA"></a> **(CEKFA)** Yilin Wang, Minghao Hu, Zhen Huang, Dongsheng Li, Wei Luo, Dong Yang, Xicheng Lu. "**A Canonicalization-Enhanced Known Fact-Aware Framework For Open Knowledge Graph Link Prediction**". [paper](https://www.ijcai.org/proceedings/2023/259) [code](https://github.com/wylResearch/CEKFA)
 
-- <a name="DaeMon"></a> **(DaeMon)** Hao Dong, Zhiyuan Ning, Pengyang Wang, Ziyue Qiao, Pengfei Wang, Yuanchun Zhou, Yanjie Fu. "**Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning**". [paper](https://www.ijcai.org/proceedings/2023/232)
+- <a name="DaeMon"></a> **(DaeMon)** Hao Dong, Zhiyuan Ning, Pengyang Wang, Ziyue Qiao, Pengfei Wang, Yuanchun Zhou, Yanjie Fu. "**Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning**". [paper](https://www.ijcai.org/proceedings/2023/232) [code](https://github.com/hhdo/DaeMon)
 
 ##### ISWC
 
